@@ -11,7 +11,7 @@ A curated list of open resources created or used with archaeological practices i
 + Lists
 
 ## Software
-+ [recexcavAAR](https://github.com/ISAAKiel/recexcavAAR)
++ [recexcavAAR](https://github.com/ISAAKiel/recexcavAAR) / [ISAAKiel](https://github.com/ISAAKiel) - R Package for 3D Reconstruction of Archaeological Excavations.
 + [https://github.com/tsdye/harris-matrix](https://github.com/tsdye/harris-matrix)
 + https://github.com/davidcorton/archSeries
 + https://github.com/davidcorton/osteoGIS
