@@ -1,5 +1,5 @@
 # Open Archaeology Resources
-A curated list of open resources created or used with archaeological practices in mind.
+A curated list of open resources created with archaeological practices in mind.
 
 **Contents:**
 + Software
@@ -7,37 +7,39 @@ A curated list of open resources created or used with archaeological practices i
 + Educational Tools
 + Datasets
 + Complete Analyses
-+ Conference Repos
++ Conference & Workshop Repos
 + Lists
 
 ## Software
-+ [recexcavAAR](https://github.com/ISAAKiel/recexcavAAR) / [ISAAKiel](https://github.com/ISAAKiel) - R Package for 3D Reconstruction of Archaeological Excavations.
-+ [https://github.com/tsdye/harris-matrix](https://github.com/tsdye/harris-matrix)
-+ https://github.com/davidcorton/archSeries
-+ https://github.com/davidcorton/osteoGIS
-+ https://github.com/archiedb/archie
-+ https://github.com/Big-Ancient-Mediterranean/BAM
-+ https://github.com/anatolian/field-photographs
-+ https://github.com/anatolian/archaeology-object-data-collector-app
-+ https://github.com/anatolian/archaeological-survey-location-collector
-+ https://github.com/anatolian/ceramic-computation
-+ https://github.com/ISAAKiel/ArchJobCAD
-+ https://github.com/ISAAKiel/profileAAR
-+ https://github.com/ISAAKiel/pathAAR
-+ https://github.com/ISAAKiel/shapAAR
-+ https://github.com/ISAAKiel/aoristAAR
-+ https://github.com/ISAAKiel/quantAAR
-+ https://github.com/ISAAKiel/magAAR
-+ https://github.com/ISAAKiel/mortAAR
-+ https://github.com/andredebuisne/AIS
+
++ [harris-matrix](https://github.com/tsdye/harris-matrix/) / [tsdye](https://github.com/tsdye/) 
++ [archSeries](https://github.com/davidcorton/archSeries) / [davidcorton](https://github.com/davidcorton/)
++ [osteoGIS](https://github.com/davidcorton/osteoGIS) / [davidcorton](https://github.com/davidcorton/)
++ [archie](https://github.com/archiedb/archie) / [archiedb](https://github.com/archiedb/)
++ [BAM](https://github.com/Big-Ancient-Mediterranean/BAM) / [Big-Ancient-Mediterranean](https://github.com/Big-Ancient-Mediterranean/)
++ [field-photographs](https://github.com/anatolian/field-photographs) / [anatolian](https://github.com/anatolian/)
++ [archaeology-object-data-collector-app](https://github.com/anatolian/archaeology-object-data-collector-app) / [anatolian](https://github.com/anatolian/)
++ [archaeological-survey-location-collector](https://github.com/anatolian/archaeological-survey-location-collector) / [anatolian](https://github.com/anatolian/)
++ [ceramic-computation](https://github.com/anatolian/ceramic-computation) / [anatolian](https://github.com/anatolian/)
++ [recexcavAAR](https://github.com/ISAAKiel/recexcavAAR/) / [ISAAKiel](https://github.com/ISAAKiel/) - R package for 3D reconstruction of archaeological excavations
++ [https://github.com/ISAAKiel/ArchJobCAD](https://github.com/ISAAKiel/ArchJobCAD) / [ISAAKiel](https://github.com/ISAAKiel/)
++ [https://github.com/ISAAKiel/profileAAR](https://github.com/ISAAKiel/profileAAR) / [ISAAKiel](https://github.com/ISAAKiel/)
++ [https://github.com/ISAAKiel/pathAAR](https://github.com/ISAAKiel/pathAAR) / [ISAAKiel](https://github.com/ISAAKiel/)
++ [https://github.com/ISAAKiel/shapAAR](https://github.com/ISAAKiel/shapAAR) / [ISAAKiel](https://github.com/ISAAKiel/)
++ [https://github.com/ISAAKiel/aoristAAR](https://github.com/ISAAKiel/aoristAAR) / [ISAAKiel](https://github.com/ISAAKiel/)
++ [https://github.com/ISAAKiel/quantAAR](https://github.com/ISAAKiel/quantAAR) / [ISAAKiel](https://github.com/ISAAKiel/)
++ [https://github.com/ISAAKiel/magAAR](https://github.com/ISAAKiel/magAAR) / [ISAAKiel](https://github.com/ISAAKiel/)
++ [https://github.com/ISAAKiel/mortAAR](https://github.com/ISAAKiel/mortAAR) / [ISAAKiel](https://github.com/ISAAKiel/)
++ [https://github.com/andredebuisne/AIS](https://github.com/andredebuisne/AIS) / [ISAAKiel](https://github.com/ISAAKiel/)
 + https://bitbucket.org/iosa/tipom
 + https://cran.r-project.org/web/packages/zooaRch/
 + https://cran.r-project.org/web/packages/munsell/index.html
 
 ## Platforms & Initiatives
-+ [rekrei](https://github.com/rekrei/rekrei)
++ [rekrei](https://github.com/rekrei/rekrei) / [rekrei](https://github.com/rekrei)
 + https://github.com/benmarwick/ctv-archaeology
 + https://github.com/anatolian/archaeological-object-sharing
++ Open Context
 
 ## Educational Tools
 + [AtlantGIS](https://github.com/kacebe/AtlantGIS)
@@ -55,7 +57,7 @@ A curated list of open resources created or used with archaeological practices i
 ## Complete Analyses
 + https://github.com/benmarwick/dayofarchaeology
 
-## Conference Repos
+## Conference & Workshop Repos
 + https://github.com/FOSS4Arch/SAA2016
 + https://github.com/benmarwick/SAA2015-Open-Methods
 + https://github.com/ISAAKiel/LAC2018_Session_44C
