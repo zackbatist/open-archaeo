@@ -2,7 +2,9 @@
 A curated list of open resources created with archaeological practices in mind.
 
 **Contents:**
-+ Software
++ Standalone Software
++ R Packages
++ Plugins & Extensions
 + Platforms & Initiatives
 + Educational Tools
 + Datasets
@@ -11,32 +13,34 @@ A curated list of open resources created with archaeological practices in mind.
 + Lists
 + Gists & Snippets
 
-## Software
-
+## Standalone Software
 + [harris-matrix](https://github.com/tsdye/harris-matrix/) / [tsdye](https://github.com/tsdye/) - Write Graphviz dot files for archaeological sequence diagrams and Bayesian chronological models
-+ [archSeries](https://github.com/davidcorton/archSeries) / [davidcorton](https://github.com/davidcorton/) - Frequency time-series tools for archaeology
-+ [osteoGIS](https://github.com/davidcorton/osteoGIS) / [davidcorton](https://github.com/davidcorton/) - Plot data on skeletal templates quickly {R}
 + [archie](https://github.com/archiedb/archie) / [archiedb](https://github.com/archiedb/) - a light-weight database application designed to standardize and simplify data entry of archaeological or historical artifacts
 + [BAM](https://github.com/Big-Ancient-Mediterranean/BAM) / [Big-Ancient-Mediterranean](https://github.com/Big-Ancient-Mediterranean/) - A tool for the geospatial analysis, literary network visualization, and plot mapping of ancient texts
 + [field-photographs](https://github.com/anatolian/field-photographs) / [anatolian](https://github.com/anatolian/) - Android apps for archaeology that enable photography during field work
 + [archaeology-object-data-collector-app](https://github.com/anatolian/archaeology-object-data-collector-app) / [anatolian](https://github.com/anatolian/) - Android App for remotely controlling camera, weight scale and connecting to database for recording data on archaeology objects
 + [archaeological-survey-location-collector](https://github.com/anatolian/archaeological-survey-location-collector) / [anatolian](https://github.com/anatolian/) - An app for use in archaeological field survey to collect high-accurate point locations, photographs, and other data
-+ [ceramic-computation](https://github.com/anatolian/ceramic-computation) / [anatolian](https://github.com/anatolian/) - R scripts for digitizing, processing, analyzing, and comparing archaeological ceramic 2d profile drawings, photographs, and other data {R}
 + [recexcavAAR](https://github.com/ISAAKiel/recexcavAAR/) / [ISAAKiel](https://github.com/ISAAKiel/) - R package for 3D reconstruction of archaeological excavations
-+ [ArchJobCAD](https://github.com/ISAAKiel/ArchJobCAD) / [ISAAKiel](https://github.com/ISAAKiel/) - Tasks for Excavations in AutoCAD {AutoCAD} {LISP}
-+ [profileAAR](https://github.com/ISAAKiel/profileAAR) / [ISAAKiel](https://github.com/ISAAKiel/) - python qgis plugin of recexcavAAR's archprofile {QGIS}
++ [AIS](https://github.com/andredebuisne/AIS) / [andredebuisne](https://github.com/andredebuisne/) - Archaeological Information System {C++}
+
+## R Packages
++ [archSeries](https://github.com/davidcorton/archSeries) / [davidcorton](https://github.com/davidcorton/) - Frequency time-series tools for archaeology {R}
++ [osteoGIS](https://github.com/davidcorton/osteoGIS) / [davidcorton](https://github.com/davidcorton/) - Plot data on skeletal templates quickly {R}
++ [ceramic-computation](https://github.com/anatolian/ceramic-computation) / [anatolian](https://github.com/anatolian/) - R scripts for digitizing, processing, analyzing, and comparing archaeological ceramic 2d profile drawings, photographs, and other data {R}
 + [pathAAR](https://github.com/ISAAKiel/pathAAR) / [ISAAKiel](https://github.com/ISAAKiel/) - R Package to reconstruct paths using archaeological monuments, model parameters of infrastructure and evaluate those parameters {R}
 + [shapAAR](https://github.com/ISAAKiel/shapAAR) / [ISAAKiel](https://github.com/ISAAKiel/) - An R package for the extraction, analysis and classification of (not only) archaeological objects from scanned images {R}
 + [aoristAAR](https://github.com/ISAAKiel/aoristAAR) / [ISAAKiel](https://github.com/ISAAKiel/) - A R package for the aoristic analysis of archaeological data {R}
 + [quantAAR](https://github.com/ISAAKiel/quantAAR) / [ISAAKiel](https://github.com/ISAAKiel/) - R Library for Quantitative Analysis in Archaeology {R}
 + [magAAR](https://github.com/ISAAKiel/magAAR) / [ISAAKiel](https://github.com/ISAAKiel/) - Analyse geomagnetic data from archaeological context {R}
 + [mortAAR](https://github.com/ISAAKiel/mortAAR) / [ISAAKiel](https://github.com/ISAAKiel/) - Analysis of Archaeological Mortality Data {R}
-+ [AIS](https://github.com/andredebuisne/AIS) / [andredebuisne](https://github.com/andredebuisne/) - Archaeological Information System {C++}
 + [tipom](https://bitbucket.org/iosa/tipom) / [iosa](https://bitbucket.org/iosa/) - A program for the typometry of the lithic industries {R}
 + [fieldwalkr](https://github.com/joeroe/fieldwalkr) / [joeroe](https://github.com/joeroe/) - Spatial Sampling and Survey Simulation Tools {R}
 + [zooaRch](https://cran.r-project.org/web/packages/zooaRch/) - The zooaRch package provides analytical tools to make inferences on zooarchaeological data {R}
 + [munsell](https://cran.r-project.org/web/packages/munsell/index.html) - Provides easy access to, and manipulation of, the Munsell colours {R}
 
+## Plugins & Extensions
++ [profileAAR](https://github.com/ISAAKiel/profileAAR) / [ISAAKiel](https://github.com/ISAAKiel/) - python qgis plugin of recexcavAAR's archprofile {QGIS}
++ [ArchJobCAD](https://github.com/ISAAKiel/ArchJobCAD) / [ISAAKiel](https://github.com/ISAAKiel/) - Tasks for Excavations in AutoCAD {AutoCAD}
 
 ## Platforms & Initiatives
 + [rekrei](https://github.com/rekrei/rekrei) - Platform for crowdsourcing the digital recreation of lost heritage
@@ -46,6 +50,7 @@ A curated list of open resources created with archaeological practices in mind.
 ## Educational Tools
 + [AtlantGIS](https://github.com/kacebe/AtlantGIS) - Faked GIS-Datasets, simulating an island in the Atlantic for educational purposes in using GIS in archaeology
 + ODATE
++ [Digital Encyclopedia of Archaeologists](https://github.com/msu-anthropology/deoa) / [msu-anthropology](https://github.com/msu-anthropology/)
 
 ## Datasets
 + [binford](https://github.com/benmarwick/binford) / [benmarwick](https://github.com/benmarwick/) - Datasets used in Binford's 2001 book "Constructing Frames of Reference: An Analytical Method for Archaeological Theory Building Using Ethnographic and Environmental Data Sets
@@ -55,6 +60,7 @@ A curated list of open resources created with archaeological practices in mind.
 + [1989-excavation-report-Madjedbebe](https://github.com/benmarwick/1989-excavation-report-Madjedbebe) / [benmarwick](https://github.com/benmarwick/) - Text, data and code to accompany the analysis of the 1989 excavation data
 + [DObsiSS](https://github.com/zackbatist/DObsiSS) / [zackbatist](https://github.com/zackbatist/) - The Database of Obsidian Sourcing Studies
 + [archdata](https://cran.rstudio.com/web/packages/archdata/index.html) - The archdata package provides several types of data that are typically used in archaeological research
++ [roman-empire](https://github.com/klokantech/roman-empire) - Map of the Roman Empire made with vector tiles
 
 ## Complete Analyses
 + [benwarwick/dayofarchaeology](https://github.com/benmarwick/dayofarchaeology) / [benmarwick](https://github.com/benmarwick/) - A Distant Reading of the Day of Archaeology
