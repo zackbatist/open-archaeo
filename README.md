@@ -1,4 +1,7 @@
 # Open Archaeology Resources
+
+[![Join the chat at https://gitter.im/open-archaeo/Lobby](https://badges.gitter.im/open-archaeo/Lobby.svg)](https://gitter.im/open-archaeo/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A curated list of open resources created with archaeological practices in mind.
 
 **Contents:**
