@@ -4,6 +4,8 @@
 
 A curated list of open resources created with archaeological practices in mind.
 
+See [ToDo.md]() for a list of tools or resources that are in demand, but which currently do not exist or need to be significantly improved.
+
 **Contents:**
 + Standalone Software
 + R Packages
