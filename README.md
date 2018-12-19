@@ -104,6 +104,7 @@ A curated list of open resources created with archaeological practices in mind.
 + [archaeology](https://github.com/steko/archaeology) / [steko](https://github.com/steko/) - A directory of GitHub projects by OR for archaeologists
 + [benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology) / [benmarwick](https://github.com/benmarwick/) - This CRAN Task View contains a list of packages useful for scientific work in Archaeology, grouped by topic
 + [openaccessarchaeology.org](http://www.openaccessarchaeology.org) / [@OpenAccessArch](https://twitter.com/OpenAccessArch)
++ [Tools for Quantitative Archaeology](http://tfqa.com/) / Keith Kintigh - Tools for Quantitative Archaeology (TFQA) is a package of more than 45 PC programs developed to satisfy several unusual analytical needs of archaeologists _<<not open source_
 
 ## Gists & Snippets
 + [DroneSurveyPlanner](https://github.com/isaacullah/DroneSurveyPlanner) / [isaacullah](https://github.com/isaacullah/) - This is a LibreOffice Calc spreadsheet designed to help you plan an aerial drone mapping survey mission
