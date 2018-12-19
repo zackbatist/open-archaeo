@@ -40,6 +40,15 @@ A curated list of open resources created with archaeological practices in mind.
 + [fieldwalkr](https://github.com/joeroe/fieldwalkr) / [joeroe](https://github.com/joeroe/) - Spatial Sampling and Survey Simulation Tools {R}
 + [zooaRch](https://cran.r-project.org/web/packages/zooaRch/) - The zooaRch package provides analytical tools to make inferences on zooarchaeological data {R}
 + [munsell](https://cran.r-project.org/web/packages/munsell/index.html) - Provides easy access to, and manipulation of, the Munsell colours {R}
++ [http://www.mattpeeples.net/caboot.html](http://www.mattpeeples.net/caboot.html) - Additional instructions for running bootstrapped correspondence analysis R
++ [https://github.com/mpeeples2008/Bootstrap-Correspondence-Analysis](https://github.com/mpeeples2008/Bootstrap-Correspondence-Analysis) - R-script for conducting and evaluating bootstrapped correspondence analyses following methods published by Peeples and Schachner (2012) in the Journal of Archaeological Science
++ [http://www.mattpeeples.net/mcd.html](http://www.mattpeeples.net/mcd.html) - R Script for Calculating Mean Ceramic Dates and Estimating Error
++ [https://github.com/mpeeples2008/Mean-Ceramic-Date-and-Error-Estimation](https://github.com/mpeeples2008/Mean-Ceramic-Date-and-Error-Estimation) - Script for calculating mean ceramic dates based on tabular data. This script also estimates sampling error using a bootstrapping procedure
++ [http://www.mattpeeples.net/BR.html](http://www.mattpeeples.net/BR.html) - R Script for Calculating the Brainerd-Robinson Coefficient of Similarity and Assessing Sampling Error
++ [https://github.com/mpeeples2008/Brainerd-Robinson-Similarity-Coefficient-and-Sampling-Error-Assessment](https://github.com/mpeeples2008/Brainerd-Robinson-Similarity-Coefficient-and-Sampling-Error-Assessment) - Script for calculating Brainerd-Robinson coefficients based on tabular count or percent data. This script also estimates the probability that a given difference between two samples is the product of sampling error
++ [http://www.mattpeeples.net/ca.html](http://www.mattpeeples.net/ca.html) - R Script for Seriation Using Correspondence Analysis
++ [http://www.mattpeeples.net/kmeans.html](http://www.mattpeeples.net/kmeans.html) - R Script for K-Means Cluster Analysis
++ [https://github.com/mpeeples2008/Kmeans](https://github.com/mpeeples2008/Kmeans) - Script for conducting K-means cluster analysis using R. This script provides output designed to help the user select an appropriate cluster solution
 
 ## Plugins & Extensions
 + [profileAAR](https://github.com/ISAAKiel/profileAAR) / [ISAAKiel](https://github.com/ISAAKiel/) - python qgis plugin of recexcavAAR's archprofile {QGIS}
@@ -54,6 +63,8 @@ A curated list of open resources created with archaeological practices in mind.
 + [AtlantGIS](https://github.com/kacebe/AtlantGIS) - Faked GIS-Datasets, simulating an island in the Atlantic for educational purposes in using GIS in archaeology
 + ODATE
 + [Digital Encyclopedia of Archaeologists](https://github.com/msu-anthropology/deoa) / [msu-anthropology](https://github.com/msu-anthropology/)
++ [https://github.com/isaacullah/GIS-Projects](https://github.com/isaacullah/GIS-Projects) / [isaacullah](https://github.com/isaacullah/) - GIS Projects for teaching and learning about Computational Archaeology
++ 
 
 ## Datasets
 + [binford](https://github.com/benmarwick/binford) / [benmarwick](https://github.com/benmarwick/) - Datasets used in Binford's 2001 book "Constructing Frames of Reference: An Analytical Method for Archaeological Theory Building Using Ethnographic and Environmental Data Sets
@@ -64,9 +75,20 @@ A curated list of open resources created with archaeological practices in mind.
 + [DObsiSS](https://github.com/zackbatist/DObsiSS) / [zackbatist](https://github.com/zackbatist/) - The Database of Obsidian Sourcing Studies
 + [archdata](https://cran.rstudio.com/web/packages/archdata/index.html) - The archdata package provides several types of data that are typically used in archaeological research
 + [roman-empire](https://github.com/klokantech/roman-empire) - Map of the Roman Empire made with vector tiles
++ [photogrammetry_datasets](https://github.com/natowi/photogrammetry_datasets) / [natowi](https://github.com/natowi/) - This is a collection of datasets for photogrammetry
++ [R-Scripts](https://github.com/isaacullah/R-Scripts) / [isaacullah](https://github.com/isaacullah/) This contains a set of data about human mobility, subsistance, population, and environmental productivity derived from the Standard Cross Cultural Sample
 
 ## Complete Analyses
 + [benwarwick/dayofarchaeology](https://github.com/benmarwick/dayofarchaeology) / [benmarwick](https://github.com/benmarwick/) - A Distant Reading of the Day of Archaeology
++ [http://www.mattpeeples.net/modules/LISA.html](http://www.mattpeeples.net/modules/LISA.html) - Moran’s I and Getis-Ord G* Analysis
++ [http://www.mattpeeples.net/modules/PLC.html](http://www.mattpeeples.net/modules/PLC.html) - Cluster Analysis - Pure Locational Clustering
++ [Measuring-Archaeological-Diversity-by-Comparing-to-Simulated-Assemblages](https://github.com/mpeeples2008/Measuring-Archaeological-Diversity-by-Comparing-to-Simulated-Assemblages) / [mpeeples2008](https://github.com/mpeeples2008/) - This is an R script that replicates the analyses presented in : Kintigh, K. 1984. Measuring Archaeological Diversity by Comparison with Simulated Assemblages. American Antiquity 49: 44-54
++ [https://github.com/mpeeples2008/Ford-Diagram](https://github.com/mpeeples2008/Ford-Diagram) / [mpeeples2008](https://github.com/mpeeples2008/) - This R Function creates a simple Ford diagram for archaeological seriation with error bars determined based on sample size were count data are given
++ [http://www.mattpeeples.net/modules/UnconstrainedClustering.html](http://www.mattpeeples.net/modules/UnconstrainedClustering.html) - Unconstrained Clustering
++ [https://github.com/mpeeples2008/Ceramic-Frequency-Date-Plot](https://github.com/mpeeples2008/Ceramic-Frequency-Date-Plot) / [mpeeples2008](https://github.com/mpeeples2008/) - This R script produces a exploratory visual for assessing site date ranges originally suggested to me by Wesley Bernardini (Redlands University)
++ [https://github.com/mpeeples2008/Binomial-Co-occurrence-Assessment](https://github.com/mpeeples2008/Binomial-Co-occurrence-Assessment) - The R-script implements a means for statistically assessing the degree of co-occurrence between classes within a dataset based on an idea origially suggested by James Allison at BYU and published by Keith Kintigh in 2006
++ [http://www.mattpeeples.net/modules/BasicMapping.html](http://www.mattpeeples.net/modules/BasicMapping.html) - Working with map data in R
++ [http://www.mattpeeples.net/modules/PointPattern.html](http://www.mattpeeples.net/modules/PointPattern.html) - Point Pattern Analysis
 
 ## Conference & Workshop Repos
 + https://github.com/FOSS4Arch/SAA2016
@@ -76,6 +98,7 @@ A curated list of open resources created with archaeological practices in mind.
 + https://github.com/ISAAKiel/r_tutorial_caa_2018
 + https://github.com/ISAAKiel/R-Tutorial_CAA2016
 + https://github.com/ISAAKiel/Mosaic
++ [https://github.com/mpeeples2008/Archaeological-Network-Uncertainty](https://github.com/mpeeples2008/Archaeological-Network-Uncertainty) - R Markdown document associated with the workshop at the Computer Applications and Quantitative Methods in Archaeology Meeting in Atlanta, GA (2017) hosted by Matt Peeples and Tom Brughmans. Network Science and Statistical Techniques for Dealing with Uncertainties in Archaeological Datasets. 
 
 ## Lists
 + [archaeology](https://github.com/steko/archaeology) / [steko](https://github.com/steko/) - A directory of GitHub projects by OR for archaeologists
@@ -83,4 +106,4 @@ A curated list of open resources created with archaeological practices in mind.
 + [openaccessarchaeology.org](http://www.openaccessarchaeology.org) / [@OpenAccessArch](https://twitter.com/OpenAccessArch)
 
 ## Gists & Snippets
-
++ [DroneSurveyPlanner](https://github.com/isaacullah/DroneSurveyPlanner) / [isaacullah](https://github.com/isaacullah/) - This is a LibreOffice Calc spreadsheet designed to help you plan an aerial drone mapping survey mission
