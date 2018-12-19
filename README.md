@@ -64,7 +64,7 @@ A curated list of open resources created with archaeological practices in mind.
 + ODATE
 + [Digital Encyclopedia of Archaeologists](https://github.com/msu-anthropology/deoa) / [msu-anthropology](https://github.com/msu-anthropology/)
 + [https://github.com/isaacullah/GIS-Projects](https://github.com/isaacullah/GIS-Projects) / [isaacullah](https://github.com/isaacullah/) - GIS Projects for teaching and learning about Computational Archaeology
-+ 
++ [A Mobile Data-Collection Workflow for Archaeologists](http://isaacullah.github.io/A-mobile-field-data-collection-workflow/)
 
 ## Datasets
 + [binford](https://github.com/benmarwick/binford) / [benmarwick](https://github.com/benmarwick/) - Datasets used in Binford's 2001 book "Constructing Frames of Reference: An Analytical Method for Archaeological Theory Building Using Ethnographic and Environmental Data Sets
@@ -108,3 +108,4 @@ A curated list of open resources created with archaeological practices in mind.
 
 ## Gists & Snippets
 + [DroneSurveyPlanner](https://github.com/isaacullah/DroneSurveyPlanner) / [isaacullah](https://github.com/isaacullah/) - This is a LibreOffice Calc spreadsheet designed to help you plan an aerial drone mapping survey mission
+  + [More info at the author's blog](http://isaacullah.github.io/DroneSurveyPlanner/)
