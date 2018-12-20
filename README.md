@@ -13,7 +13,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + Platforms & Initiatives
 + Educational Tools
 + Datasets
-+ Complete Analyses
++ Complete Analyses / Demonstrations
 + Conference & Workshop Repos
 + Lists
 + Gists & Snippets
@@ -80,7 +80,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + [photogrammetry_datasets](https://github.com/natowi/photogrammetry_datasets) / [natowi](https://github.com/natowi/) - This is a collection of datasets for photogrammetry
 + [R-Scripts](https://github.com/isaacullah/R-Scripts) / [isaacullah](https://github.com/isaacullah/) This contains a set of data about human mobility, subsistance, population, and environmental productivity derived from the Standard Cross Cultural Sample
 
-## Complete Analyses
+## Complete Analyses / Demonstrations
 + [benwarwick/dayofarchaeology](https://github.com/benmarwick/dayofarchaeology) / [benmarwick](https://github.com/benmarwick/) - A Distant Reading of the Day of Archaeology
 + [http://www.mattpeeples.net/modules/LISA.html](http://www.mattpeeples.net/modules/LISA.html) - Moran’s I and Getis-Ord G* Analysis
 + [http://www.mattpeeples.net/modules/PLC.html](http://www.mattpeeples.net/modules/PLC.html) - Cluster Analysis - Pure Locational Clustering
