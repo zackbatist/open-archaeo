@@ -166,3 +166,23 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + [Tools for Quantitative Archaeology](http://tfqa.com/) / Keith Kintigh - Tools for Quantitative Archaeology (TFQA) is a package of more than 45 PC programs developed to satisfy several unusual analytical needs of archaeologists _<<not open source_
 + [Isaac's List of FOSS tools for academics... and what to use them for!](http://isaacullah.github.io/List-of-FOSS-tools-for-academics/)
 
+##Unsorted
+https://github.com/cornelmpop/Lithics3D - An R package for processing and analyzing 3D scans of archaeological lithics
+https://github.com/ArchaeoStat/ArchaeoChron - Bayesian Modeling of Archaeological Chronologies
+https://github.com/ArchaeoStat/ArchaeoPhases - Tools for the post-processing of the Markov Chain simulated by any software used for the construction of archeological chronologies
+
+### Luminescence stuff
+https://github.com/senaite/senaite.lims - Modern, mobile first LIMS UI
+https://github.com/stas-g/findPeaks - A simple algorithm to find local maxima/minima in sequential data
+https://github.com/RLumSK/Al2O3_AnalysisApp - https://github.com/RLumSK/Al2O3_AnalysisApp
+https://github.com/wojdyr/xylib -  library for reading files with x-y data from powder diffraction, spectroscopy, or other experimental methods. xylib is a portable library for reading files that contain x-y data from powder diffraction, spectroscopy and other experimental methods.
+https://github.com/R-Lum/rxylib - R package: wrapper for the C++ library `xylib`
+https://github.com/R-Lum/Luminescence - Development version of the R package 'Luminescence'. The R package 'Luminescence' by the R-Luminescence Group provides a collection of various R functions for luminescence dating data analysis. http://www.r-luminescence.org/
+https://github.com/dstreble/LumReader - R package to simulate a Luminescence Reader
+https://github.com/dstreble/TLdating - R package for TL dating
+https://github.com/dstreble/shiny_TLdating - Shiny app for TL dating
+https://github.com/dstreble/shiny_DRAC - graphical interface for DRAC
+https://github.com/R-Lum/BayLum - An R package for chronological Bayesian models integrated for Optically Stimulated (OSL) Luminescence Dating
+https://github.com/R-Lum/RCarb - The R package ‘RCarb’ provides a collection of various R functions to model dose rates in carbonate-rich samples. The package is a translation of the ‘MATLAB’ program Carb by Roger P. Nathan
+
+### Radiocarbon stuff
