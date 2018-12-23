@@ -28,6 +28,19 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + Conference & Workshop Repos
 + Lists
 
+**Tags:**
+
++ Fieldwork
++ Data Entry
++ Photogrammetry
++ 3D Modelling
++ Photography
++ Radiocarbon Dating
++ Luminescence (OSL & TL)
++ Palaeoecology / Palaeobotany / Palaeoenvironment
++ Geospatial Analysis
++ Chronological / Stratigraphic Sequencing
++ Quantitative & Statistical Tools
 
 ## Tools for General Use
 ### Compiled Software
@@ -135,6 +148,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + [Matt Peeples - BasicMapping](http://www.mattpeeples.net/modules/BasicMapping.html) - Working with map data in R
 + [Matt Peeples - PointPattern](http://www.mattpeeples.net/modules/PointPattern.html) - Point Pattern Analysis
 + [benmarwick] / [archaeology-grand-challenges.r](https://gist.github.com/benmarwick/d3eb3167ccb2116197ca) - Sketch of a look at the 'grand challenges' of Kintigh et al. 2014 (http://www.pnas.org/content/111/3/879.full) in five archaeology journals
++ [gavinsimpson] / [frontiers-palaeo-additive-modelling](https://github.com/gavinsimpson/frontiers-palaeo-additive-modelling) - Modelling and feature detection in palaeoenvironmental time series using additive models
 
 ## Platforms & Initiatives
 + [rekrei](https://github.com/rekrei/rekrei) - Platform for crowdsourcing the digital recreation of lost heritage
@@ -186,3 +200,13 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + https://github.com/R-Lum/RCarb - The R package ‘RCarb’ provides a collection of various R functions to model dose rates in carbonate-rich samples. The package is a translation of the ‘MATLAB’ program Carb by Roger P. Nathan
 
 ### Radiocarbon stuff
+
+
+### Palaeoclimate / archaeobotany stuff
++ https://github.com/gavinsimpson/analogue - Analogue and weighted averaging methods for palaeoecology
++ https://github.com/gavinsimpson/coenocliner - An R package to simulate species occurences and abundances (counts) along gradients
++ https://github.com/vegandevs/vegan - R package for community ecologists: popular ordination methods, ecological null models & diversity analysis
++ https://github.com/vegandevs/vegan3d - Dynamic and static 3D plotting for vegan
++ https://github.com/gavinsimpson/ggvegan - ggplot-based plots for vegan
++ https://github.com/ropensci/neotoma - Programmatic R interface to the Neotoma Paleoecological Database
+

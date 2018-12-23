@@ -1,0 +1,15 @@
+openarchaeo <- read.csv("openarchaeo.csv", header = TRUE, sep = ",", quote = "\"", dec = ".", fill = TRUE, stringsAsFactors = FALSE)
+openarchaeo[is.na(openarchaeo)] <- ""
+openarchaeo$render <- paste0(openarchaeo$Maintainer, " / ", openarchaeo$Name, " / ", "[", openarchaeo$PrimaryRepoType, "](", openarchaeo$PrimaryRepoURL, ")", " / ", "[", openarchaeo$SecondaryRepoType, "](", openarchaeo$SecondaryRepoURL, ")", " / ", "[", openarchaeo$TertiaryRepoType, "](", openarchaeo$TertiaryRepoURL, ")", " - ", openarchaeo$Description)
+openarchaeo$render <- gsub("\\s\\/\\s\\s\\/\\s\\[\\]\\(\\)\\s\\/\\s\\[\\]\\(\\)", "", openarchaeo$render)
+openarchaeo$render <- gsub("\\s\\/\\s\\[\\]\\(\\)", "", openarchaeo$render)
+openarchaeo$render <- paste0("+ ", openarchaeo$render)
+openarchaeo$render <- gsub("\\+\\s\\s-\\s", "", openarchaeo$render)
+openarchaeo$render <- gsub("\\+\\s\\#", "#", openarchaeo$render)
+openarchaeo$render <- ifelse(substr(openarchaeo$render, 1, 1) == "#", gsub("\\s-\\s", "", openarchaeo$render), openarchaeo$render)
+write(openarchaeo$render, file = "openarchaeo.md")
+description <- read.csv("description.md", header = FALSE, sep = "\n", stringsAsFactors = FALSE, blank.lines.skip = FALSE)
+content <- as.data.frame(openarchaeo$render, stringsAsFactors = FALSE)
+colnames(content)[colnames(content) == "openarchaeo$render"] <- "V1"
+combined <- rbind(description, content)
+write(combined$V1, file = "READMEx.md")
