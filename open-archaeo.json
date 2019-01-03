@@ -1,7 +1,7 @@
 {
     "Tools for General Use": {
         "Compiled Software": {
-            "1": {
+            "One": {
                 "Name": "archie",
                 "Maintainer": "archiedb",
                 "MaintainerURL": "https://github.com/archiedb/",
@@ -1786,6 +1786,91 @@
             "Tag3": "",
             "Tag4": "",
             "Tag5": ""
+        },
+        "125": {
+            "Name": "Alphabetical List of Open Access Monograph Series in Ancient Studies",
+            "Maintainer": "Charles E. Jones",
+            "MaintainerURL": "http://ancientworldonline.blogspot.com",
+            "PrimaryRepoType": "Blog Post",
+            "PrimaryRepoURL": "http://ancientworldonline.blogspot.com/2014/06/alphabetical-list-of-open-access.html",
+            "SecondaryRepoType": "Twitter",
+            "SecondaryRepoURL": "https://twitter.com/AWOL_tweets",
+            "TertiaryRepoType": "",
+            "TertiaryRepoURL": "",
+            "Description": "This page includes links to digitized or born-digital open access monograph series",
+            "Tag1": "",
+            "Tag2": "",
+            "Tag3": "",
+            "Tag4": "",
+            "Tag5": ""
+        },
+        "126": {
+            "Name": "Alphabetical List of Open Access Journals in Ancient Studies",
+            "Maintainer": "Charles E. Jones",
+            "MaintainerURL": "http://ancientworldonline.blogspot.com",
+            "PrimaryRepoType": "Blog Post",
+            "PrimaryRepoURL": "http://ancientworldonline.blogspot.com/2015/12/alphabetical-list-of-open-access.html",
+            "SecondaryRepoType": "Twitter",
+            "SecondaryRepoURL": "https://twitter.com/AWOL_tweets",
+            "TertiaryRepoType": "",
+            "TertiaryRepoURL": "",
+            "Description": "",
+            "Tag1": "",
+            "Tag2": "",
+            "Tag3": "",
+            "Tag4": "",
+            "Tag5": ""
+        },
+        "127": {
+            "Name": "Open Access Ancient Language Textbooks, OERs, and Primers",
+            "Maintainer": "Charles E. Jones",
+            "MaintainerURL": "http://ancientworldonline.blogspot.com",
+            "PrimaryRepoType": "Blog Post",
+            "PrimaryRepoURL": "http://ancientworldonline.blogspot.com/2009/09/open-access-textbooks.html",
+            "SecondaryRepoType": "Twitter",
+            "SecondaryRepoURL": "https://twitter.com/AWOL_tweets",
+            "TertiaryRepoType": "",
+            "TertiaryRepoURL": "",
+            "Description": "Open Access Textbooks, OERs, and Language Primers relating to the ancient world",
+            "Tag1": "",
+            "Tag2": "",
+            "Tag3": "",
+            "Tag4": "",
+            "Tag5": ""
+        },
+        "128": {
+            "Name": "Roundup of Resources on Ancient Geography",
+            "Maintainer": "Charles E. Jones",
+            "MaintainerURL": "http://ancientworldonline.blogspot.com",
+            "PrimaryRepoType": "Blog Post",
+            "PrimaryRepoURL": "http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html",
+            "SecondaryRepoType": "Twitter",
+            "SecondaryRepoURL": "https://twitter.com/AWOL_tweets",
+            "TertiaryRepoType": "",
+            "TertiaryRepoURL": "",
+            "Description": "Included in the following list are links to digital project dealing with geography and the ancient world",
+            "Tag1": "",
+            "Tag2": "",
+            "Tag3": "",
+            "Tag4": "",
+            "Tag5": ""
+        },
+        "129": {
+            "Name": "The AWOL Index",
+            "Maintainer": "Charles E. Jones & Tom Elliott",
+            "MaintainerURL": "",
+            "PrimaryRepoType": "Website",
+            "PrimaryRepoURL": "http://isaw.nyu.edu/publications/awol-index/",
+            "SecondaryRepoType": "",
+            "SecondaryRepoURL": "",
+            "TertiaryRepoType": "",
+            "TertiaryRepoURL": "",
+            "Description": "This publication systematically describes ancient-world information resources on the world-wide web. The bibliographic data presented herein has been programmatically extracted from the content of AWOL - The Ancient World Online (ISSN 2156-2253) and formatted in accordance with a structured data model.",
+            "Tag1": "",
+            "Tag2": "",
+            "Tag3": "",
+            "Tag4": "",
+            "Tag5": ""
         }
     },
     "Unsorted": {
@@ -2153,7 +2238,7 @@
         }
     },
     "Template": {
-        "125": {
+        "130": {
             "Name": "",
             "Maintainer": "",
             "MaintainerURL": "",
