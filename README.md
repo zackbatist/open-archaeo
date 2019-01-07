@@ -8,25 +8,25 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 **Contents:**
 
-+ Tools for General Use
-  + Compiled Software
-  + R Packages
-  + R Scripts
-  + Other Scripts
-  + Plugins & Extensions
-    + QGIS
-    + ArcGIS
-    + AudoCAD
-  + R Shiny
-  + Unsorted
-+ Datasets
-  + Packeged for R
-+ Snippets, Templates & Example Code
-+ Complete Analyses / Demonstrations
-+ Platforms & Initiatives
-+ Educational Tools
-+ Conference & Workshop Repos
-+ Lists
++ [Tools for General Use](#tools-for-general-use)
+  + [Compiled Software](#compiled-software)
+  + [R Packages](#r-packages)
+  + [R Scripts](#r-scripts)
+  + [Other Scripts](#other-scripts)
+  + [Plugins & Extensions](#plugins-and-extensions)
+    + [QGIS](#qgis)
+    + [ArcGIS](#arcgis)
+    + [AudoCAD](#autocad)
+  + [R Shiny](#r-shiny)
+  + [Unsorted](#unsorted)
++ [Datasets](#datasets)
+  + [Packaged for R](#packaged-for-r)
++ [Snippets, Templates and Example Code](#snippets-templates-and-example-code)
++ [Complete Analyses and Demonstrations](#complete-analyses-and-demonstrations)
++ [Platforms and Initiatives](#platforms-and-initiatives)
++ [Educational Tools](#educational-tools)
++ [Conference and Workshop Repos](#conference-and-workshop-repos)
++ [Lists](#lists)
 
 ## Tools for General Use
 
@@ -80,7 +80,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + tsdye / harris-matrix / [GitHub](https://github.com/tsdye/harris-matrix/) / [Website](http://tsdye.online/harris-matrix/homepage/) - Write Graphviz dot files for archaeological sequence diagrams and Bayesian chronological models
 + L-P Archaeology / harris2graph / [GitHub](https://github.com/lparchaeology/harris2graph/) / [GitHub](https://github.com/jlayt/harris2gv) - harris2graph is a script to help migrate data from the LST file format used by the BASP Harris, Stratify and ArchEd packages into modern graph file formats
 
-### Plugins & Extension
+### Plugins and Extensions
 
 #### QGIS
 
@@ -135,13 +135,13 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + ISAAKiel / shkrdata / [GitHub](https://github.com/ISAAKiel/shkrdata) - Package for downloading and preparing shkr data for archaeological analysis
 + David L. Carlson & Georg Roth / archdata / [CRAN](https://cran.rstudio.com/web/packages/archdata/index.html) - The archdata package provides several types of data that are typically used in archaeological research
 
-## Snippets, Templates & Example Code
+## Snippets, Templates and Example Code
 
 + isaacullah / DroneSurveyPlanner / [GitHub](https://github.com/isaacullah/DroneSurveyPlanner) / [Website](http://isaacullah.github.io/DroneSurveyPlanner/) - This is a LibreOffice Calc spreadsheet designed to help you plan an aerial drone mapping survey mission
 + benmarwick / benmarwickopencontext.r / [Gist](https://gist.github.com/benmarwick/50aa4c39b7d955d0ec40) - Experimenting with the opencontext.org API using R
 + benmarwick / benmarwickDY-XYZ-data-on-an-irregular-grid-to-an-interpolated-raster.r / [Gist](https://gist.github.com/benmarwick/7331879) - Plotting remote sensing data, especially how to go from XYZ data on an irregular grid to an interpolated raster
 
-## Complete Analyses & Demonstration
+## Complete Analyses and Demonstrations
 
 + benmarwick / dayofarchaeology / [GitHub](https://github.com/benmarwick/dayofarchaeology) - A Distant Reading of the Day of Archaeology
 + Matt Peeples / LISA / [Website](http://www.mattpeeples.net/modules/LISA.html) - Moran's I and Getis-Ord G* Analysis
@@ -155,7 +155,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + benmarwick / mjbtramp / [GitHub](https://github.com/benmarwick/mjbtramp) - 
 + nevrome / IfriElBaroud / [GitHub](https://github.com/nevrome/IfriElBaroud) - Research compendium for a contribution to ‘Human Occupation and Environmental Change in the Western Maghreb during the Last Glacial Maximum (LGM) and the Late Glacial. New Evidence from the Iberomaurusian Site Ifri El Baroud (North-east Morocco)’
 
-## Platforms & Initiatives
+## Platforms and Initiatives
 
 + rekrei / rekrei / [GitHub](https://github.com/rekrei/rekrei) - Platform for crowdsourcing the digital recreation of lost heritage
 + anatolian / archaeological-object-sharing / [GitHub](https://github.com/anatolian/archaeological-object-sharing) - An online space for sharing data, 3d models, etc about archaeological objects to enable the comparison of these objects
@@ -170,7 +170,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + isaacullah / [Website](http://isaacullah.github.io/A-mobile-field-data-collection-workflow/) - A Mobile Data-Collection Workflow for Archaeologists
 + benmarwick / benmarwicka-scientific-computing-environment-for-archaeology.txt / [Gist](https://gist.github.com/benmarwick/11204658) - Scientific Computing Environment for archaeology: Installing R, Rstudio and other things on a lightweight Linux in a VirtualBox virtual machine
 
-## Conferences & Workshops
+## Conferences and Workshops
 
 + FOSS4Arch / SAA2016 / [GitHub](https://github.com/FOSS4Arch/SAA2016) - 
 + benmarwick / SAA2015-Open-Methods / [GitHub](https://github.com/benmarwick/SAA2015-Open-Methods) - 
@@ -218,7 +218,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 ## Radiocarbon Stuff
 
-## Palaeoclimate / Archaeobotany Stuff
+## Palaeoclimate and Archaeobotany Stuff
 
 + gavinsimpson / analogue / [GitHub](https://github.com/gavinsimpson/analogue) - Analogue and weighted averaging methods for palaeoecology
 + gavinsimpson / coenocliner / [GitHub](https://github.com/gavinsimpson/coenocliner) - An R package to simulate species occurences and abundances counts, along gradients
