@@ -154,6 +154,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + gavinsimpson / frontiers-palaeo-additive-modelling / [GitHub](https://github.com/gavinsimpson/frontiers-palaeo-additive-modelling) - Modelling and feature detection in palaeoenvironmental time series using additive models
 + benmarwick / mjbtramp / [GitHub](https://github.com/benmarwick/mjbtramp) - 
 + nevrome / IfriElBaroud / [GitHub](https://github.com/nevrome/IfriElBaroud) - Research compendium for a contribution to ‘Human Occupation and Environmental Change in the Western Maghreb during the Last Glacial Maximum (LGM) and the Late Glacial. New Evidence from the Iberomaurusian Site Ifri El Baroud (North-east Morocco)’
++ adreinhard / cca / [GitHub](https://github.com/adreinhard/cca) - Colossal Cave Adventure digital palaeography and epigraphy project
 
 ## Platforms & Initiatives
 
