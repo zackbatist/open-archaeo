@@ -42,6 +42,10 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - L-P Archaeology / ArkScan / [GitHub](https://github.com/lparchaeology/ArkScan) - A simple gui app to simplify scanning single context plans
 - L-P Archaeology / ARK1 / [GitHub](https://github.com/lparchaeology/ARK1) - The ARK v1.1.2 Stable Release. ARK (The Archaeological Recording Kit) is a web-based ‘toolkit’ for the collection, storage and dissemination of archaeological data. It includes data-editing, data-creation, data-viewing and data-sharing tools, all of which are delivered using a web-based front-end.
 - L-P Archaeology / Ark2 / [GitHub](https://github.com/lparchaeology/ARK1) - ARK (The Archaeological Recording Kit) 2.0 Development Repository. ARK (The Archaeological Recording Kit) is a web-based ‘toolkit’ for the collection, storage and dissemination of archaeological data. It includes data-editing, data-creation, data-viewing and data-sharing tools, all of which are delivered using a web-based front-end.
+- fradeve / ark-addons / [GitHub](https://github.com/fradeve/ark-addons) - This is a Django project to obtain statistical information from
+  an [ARK](http://ark.lparchaeology.com) (Archaeological Recording Kit) project. It is aimed to mine data from archaeological databases and create customizable visualizations, querying both text and geographical data.
+- emeeks / orbis_stanford / [GitHub](https://github.com/emeeks/orbis_stanford) - The code that is used in ORBIS: The Stanford Geospatial Network Model of the Roman World
+- emeeks / orbis_v2 / [GitHub](https://github.com/emeeks/orbis_v2) - This is a pure D3.js version of ORBIS ( <http://orbis.stanford.edu> ) that introduces several new features.
 
 ### R Packages
 
@@ -128,12 +132,18 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + klokantech / roman-empire / [GitHub](https://github.com/klokantech/roman-empire) - Map of the Roman Empire made with vector tiles
 + natowi / photogrammetry_datasets / [GitHub](https://github.com/natowi/photogrammetry_datasets) - This is a collection of datasets for photogrammetry
 + isaacullah / R-Scripts / [GitHub](https://github.com/isaacullah/R-Scripts) - This contains a set of data about human mobility, subsistance, population, and environmental productivity derived from the Standard Cross Cultural Sample
++ sfsheath / roman-amphitheaters / [GitHub](https://github.com/sfsheath/roman-amphitheaters) - A dataset and discussion relating to Roman amphitheaters
++ sfsheath / roman-maps / [GitHub](https://github.com/sfsheath/roman-maps) - These are geojson files relevant to Roman history. Initially they are all derived from the Ancient World Mapping Center's set of CC-BY-NC licensed shapefiles.
++ Ancient World Mapping Center / Map Files / [Website](http://awmc.unc.edu/wordpress/map-files/) / [Open Directory](http://awmc.unc.edu/awmc/map_data/) - This page presents an ever growing collection of resources for digital mapping.
++ sfsheath / gorbit / [GitHub](https://github.com/sfsheath/gorbit) - Making the freely available and excellent Orbis data just a little bit more easy to use.
++ sfsheath / rorbium / [GitHub](https://github.com/sfsheath/rorbium) - <http://orbis.stanford.edu> data as an R package.
 
 ### Packaged for R
 
 + sfsheath / cawd / [GitHub](https://github.com/sfsheath/cawd) - An R package that collects together data for the ancient world
 + ISAAKiel / shkrdata / [GitHub](https://github.com/ISAAKiel/shkrdata) - Package for downloading and preparing shkr data for archaeological analysis
 + David L. Carlson & Georg Roth / archdata / [CRAN](https://cran.rstudio.com/web/packages/archdata/index.html) - The archdata package provides several types of data that are typically used in archaeological research
++ sfsheath / ramphs / [GitHub](https://github.com/sfsheath/ramphs) - Roman amphitheater data as R package
 
 ## Snippets, Templates and Example Code
 
@@ -155,6 +165,10 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + benmarwick / mjbtramp / [GitHub](https://github.com/benmarwick/mjbtramp) - 
 + nevrome / IfriElBaroud / [GitHub](https://github.com/nevrome/IfriElBaroud) - Research compendium for a contribution to ‘Human Occupation and Environmental Change in the Western Maghreb during the Last Glacial Maximum (LGM) and the Late Glacial. New Evidence from the Iberomaurusian Site Ifri El Baroud (North-east Morocco)’
 + adreinhard / cca / [GitHub](https://github.com/adreinhard/cca) - Colossal Cave Adventure digital palaeography and epigraphy project
++ fradeve / sipontomedievale / [GitHub](https://github.com/fradeve/sipontomedievale) - This repo contains the code running under [www.sipontomedievale.it](http://www.sipontomedievale.it),
+  an interactive website based on solid open source software created to illustrate historical background, 
+  findings and data of the Siponto excavation site (Manfredonia, FG -- 
+  Italy).
 
 ## Platforms and Initiatives
 
@@ -170,6 +184,8 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + isaacullah / GIS-Projects / [GitHub](https://github.com/isaacullah/GIS-Projects) - GIS Projects for teaching and learning about Computational Archaeology
 + isaacullah / [Website](http://isaacullah.github.io/A-mobile-field-data-collection-workflow/) - A Mobile Data-Collection Workflow for Archaeologists
 + benmarwick / benmarwicka-scientific-computing-environment-for-archaeology.txt / [Gist](https://gist.github.com/benmarwick/11204658) - Scientific Computing Environment for archaeology: Installing R, Rstudio and other things on a lightweight Linux in a VirtualBox virtual machine
++ fradeve / grass-arch / [GitHub](https://github.com/fradeve/grass-arch) - A LaTeX textbook devoted to explain how archaeologists can work with GRASS GIS
++ sfsheath / teaching-rome / [GitHub](https://github.com/sfsheath/teaching-rome) - A collection of texts, 3d models, and maybe other resources useful for teaching about the Roman Empire.
 
 ## Conferences and Workshops
 
@@ -201,6 +217,8 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + cornelmpop / Lithics3D / [GitHub](https://github.com/cornelmpop/Lithics3D) - An R package for processing and analyzing 3D scans of archaeological lithics
 + ArchaeoStat / ArchaeoChron / [GitHub](https://github.com/ArchaeoStat/ArchaeoChron) - Bayesian Modeling of Archaeological Chronologies
 + ArchaeoStat / ArchaeoPhases / [GitHub](https://github.com/ArchaeoStat/ArchaeoPhases) - Tools for the post-processing of the Markov Chain simulated by any software used for the construction of archeological chronologies
++ sfsheath / 3d-ceramics / [GitHub](https://github.com/sfsheath/3d-ceramics) - 3d models of archaeological ceramics.
++ sfsheath / italy-3d-amphitheaters / [GitHub](https://github.com/sfsheath/italy-3d-amphitheaters) - 
 
 ## Luminescence Stuff
 
@@ -228,5 +246,6 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + gavinsimpson / ggvegan / [GitHub](https://github.com/gavinsimpson/ggvegan) - ggplot-based plots for vegan
 + ropensci / neotoma / [GitHub](https://github.com/ropensci/neotoma) - Programmatic R interface to the Neotoma Paleoecological Database
 
+## Games
 
-
++ Camology / ArchaeologyAdventure / [GitHub](https://github.com/Camology/ArchaeologyAdventure) - A simple adventure game in Unity2D. Revolves around being an archaeologist exploring some ruin and digging up treasure/fossils.
