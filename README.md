@@ -121,7 +121,8 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + nfrerebeau / khroma / [GitHub](https://github.com/nfrerebeau/khroma) - Colour Schemes for Archaeological Data Visualization
 + joeroe / stratigraphr / [GitHub](https://github.com/joeroe/stratigraphr) - R package for archaeological stratigraphy and chronological sequences
 + gianmarcoalberti / CAinterprTools / [GitHub](https://github.com/gianmarcoalberti/CAinterprTools) - R package to help interpreting Correspondence Analysis' results
-+ gianmarcoalberti / CAseriation / [GitHub](https://github.com/gianmarcoalberti/CAseriation) - R Package for contingency tables seriation via Correspondence Analysis 
++ gianmarcoalberti / CAseriation / [GitHub](https://github.com/gianmarcoalberti/CAseriation) - R Package for contingency tables seriation via Correspondence Analysis
++ MartinHinz / pollen_data_processing / [GitHub](https://github.com/MartinHinz/pollen_data_processing) - some tools in respect to pollen data processing.
 
 ## Datasets
 
@@ -186,6 +187,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + benmarwick / benmarwicka-scientific-computing-environment-for-archaeology.txt / [Gist](https://gist.github.com/benmarwick/11204658) - Scientific Computing Environment for archaeology: Installing R, Rstudio and other things on a lightweight Linux in a VirtualBox virtual machine
 + fradeve / grass-arch / [GitHub](https://github.com/fradeve/grass-arch) - A LaTeX textbook devoted to explain how archaeologists can work with GRASS GIS
 + sfsheath / teaching-rome / [GitHub](https://github.com/sfsheath/teaching-rome) - A collection of texts, 3d models, and maybe other resources useful for teaching about the Roman Empire.
++ MartinHinz / vitutr / [GitHub](https://github.com/MartinHinz/vitutr) - A page for video tutorials on R, specifically for archaeology
 
 ## Conferences and Workshops
 
