@@ -138,6 +138,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + Ancient World Mapping Center / Map Files / [Website](http://awmc.unc.edu/wordpress/map-files/) / [Open Directory](http://awmc.unc.edu/awmc/map_data/) - This page presents an ever growing collection of resources for digital mapping.
 + sfsheath / gorbit / [GitHub](https://github.com/sfsheath/gorbit) - Making the freely available and excellent Orbis data just a little bit more easy to use.
 + sfsheath / rorbium / [GitHub](https://github.com/sfsheath/rorbium) - <http://orbis.stanford.edu> data as an R package.
++ martenya / aca_data_collection / [GitHub](https://github.com/martenya/aca_data_collection) - collection of archaeological data for training purposes.
 
 ### Packaged for R
 
