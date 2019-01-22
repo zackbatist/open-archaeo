@@ -46,6 +46,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
   an [ARK](http://ark.lparchaeology.com) (Archaeological Recording Kit) project. It is aimed to mine data from archaeological databases and create customizable visualizations, querying both text and geographical data.
 - emeeks / orbis_stanford / [GitHub](https://github.com/emeeks/orbis_stanford) - The code that is used in ORBIS: The Stanford Geospatial Network Model of the Roman World
 - emeeks / orbis_v2 / [GitHub](https://github.com/emeeks/orbis_v2) - This is a pure D3.js version of ORBIS ( <http://orbis.stanford.edu> ) that introduces several new features.
+- Chronomodel / chronomodel / [GitHub](https://github.com/Chronomodel/chronomodel) / [Website](https://chronomodel.com/) - Chronological Modelling of Archaeological Data using Bayesian Statistics
 
 ### R Packages
 
