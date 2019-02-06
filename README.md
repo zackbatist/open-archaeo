@@ -172,6 +172,8 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
   an interactive website based on solid open source software created to illustrate historical background, 
   findings and data of the Siponto excavation site (Manfredonia, FG -- 
   Italy).
++ aejolene / maacgis / [GitHub](https://github.com/aejolene/maacgis) / [Website](https://aejolene.github.io/maacgis/) - Climate Response and Virginia Archaeology: Maps from Different Points of View
++ aejolene / disastermap / [GitHub](https://github.com/aejolene/disastermap) / [Website](https://aejolene.github.io/disastermap/) - Proof of concept map for disaster response and archaeology.
 
 ## Platforms and Initiatives
 
@@ -253,3 +255,9 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 ## Games
 
 + Camology / ArchaeologyAdventure / [GitHub](https://github.com/Camology/ArchaeologyAdventure) - A simple adventure game in Unity2D. Revolves around being an archaeologist exploring some ruin and digging up treasure/fossils.
+
+## Schema
+
+aejolene / NRHP_Metadata_Scheme / [GitHub](https://github.com/aejolene/NRHP_Metadata_Scheme) / [Website](https://www.nps.gov/nr/publications/bulletins/nrb16a/index.htm) - Metadata scheme for National Register of Historic Places, transcribed from the National Park Service NPS Bulletin 16.
+
+matrix-msu / ARCSCore / [GitHub](https://github.com/matrix-msu/ARCSCore) - ARCSCore is a metadata standard for organizing and sharing digital versions of non-digital documents created during the course of an archaeological investigation.
