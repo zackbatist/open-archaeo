@@ -106,6 +106,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 ### R Shiny
 
 + mpeeples2008 / NAA analytical dashboard / [GitHub](https://github.com/mpeeples2008/NAA_analytical_dashboard) - Analytical Dashboard for conducting various analysis to group and assess groupings for Neutron Activation Analytical chemical compositional data
++ ISAAKiel / tosca / [GitHub](https://github.com/ISAAKiel/tosca) / [Website](http://tosca.archaeological.science) - Tool for Online Seriation and Correspondence Analysis
 
 ### Unsorted
 
