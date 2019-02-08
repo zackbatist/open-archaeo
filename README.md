@@ -192,6 +192,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + fradeve / grass-arch / [GitHub](https://github.com/fradeve/grass-arch) - A LaTeX textbook devoted to explain how archaeologists can work with GRASS GIS
 + sfsheath / teaching-rome / [GitHub](https://github.com/sfsheath/teaching-rome) - A collection of texts, 3d models, and maybe other resources useful for teaching about the Roman Empire.
 + MartinHinz / vitutr / [GitHub](https://github.com/MartinHinz/vitutr) - A page for video tutorials on R, specifically for archaeology
++ archca / pred_map_tut / [GitHub](https://github.com/archca/pred_map_tut) / [Website](https://archca.github.io/pred_map_tut/index.html) - A tutorial for (archaeological) predictive mapping using r
 
 ## Conferences and Workshops
 
