@@ -12,11 +12,12 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
   + [Compiled Software](#compiled-software)
   + [R Packages](#r-packages)
   + [R Scripts](#r-scripts)
+  + [Python Scripts](#python-scripts)
   + [Other Scripts](#other-scripts)
   + [Plugins & Extensions](#plugins-and-extensions)
     + [QGIS](#qgis)
     + [ArcGIS](#arcgis)
-    + [AudoCAD](#autocad)
+    + [AutoCAD](#autocad)
   + [R Shiny](#r-shiny)
   + [Unsorted](#unsorted)
 + [Datasets](#datasets)
@@ -47,6 +48,9 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - emeeks / orbis_stanford / [GitHub](https://github.com/emeeks/orbis_stanford) - The code that is used in ORBIS: The Stanford Geospatial Network Model of the Roman World
 - emeeks / orbis_v2 / [GitHub](https://github.com/emeeks/orbis_v2) - This is a pure D3.js version of ORBIS ( <http://orbis.stanford.edu> ) that introduces several new features.
 - Chronomodel / chronomodel / [GitHub](https://github.com/Chronomodel/chronomodel) / [Website](https://chronomodel.com/) - Chronological Modelling of Archaeological Data using Bayesian Statistics
+- steko / totalopenstation / [GitHub](https://github.com/steko/totalopenstation) / [Website](https://tops.iosa.it/) - Total Open Station downloads and exports survey data from your total station
+- steko / nervia / [GitHub](https://github.com/steko/nervia) - Management system for physical storage of archaeological finds
+
 
 ### R Packages
 
@@ -79,6 +83,10 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + Matt Peeples / BR / [Website](http://www.mattpeeples.net/BR.html) - R Script for Calculating the Brainerd-Robinson Coefficient of Similarity and Assessing Sampling Error
 + Matt Peeples / ca / [Website](http://www.mattpeeples.net/ca.html) - R Script for Seriation Using Correspondence Analysis
 + Matt Peeples / kmeans / [Website](http://www.mattpeeples.net/kmeans.html) - R Script for K-Means Cluster Analysis
+
+### Python Scripts
++ steko / missing / [GitHub](https://github.com/steko/missing) - You have a sequence of numbered items and want to check if any are missing
+
 
 ### Other Scripts
 
@@ -141,6 +149,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + sfsheath / gorbit / [GitHub](https://github.com/sfsheath/gorbit) - Making the freely available and excellent Orbis data just a little bit more easy to use.
 + sfsheath / rorbium / [GitHub](https://github.com/sfsheath/rorbium) - <http://orbis.stanford.edu> data as an R package.
 + archca / aca_data_collection / [GitHub](https://github.com/archca/aca_data_collection) - collection of archaeological data for training purposes.
++ steko / ancient-ceramic-kilns / [GitHub](https://github.com/steko/ancient-ceramic-kilns) - GeoJSON files for ceramic kilns of the ancient world, no chronological/spatial boundaries
 
 ### Packaged for R
 
@@ -219,6 +228,8 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - Charles E. Jones / Open Access Ancient Language Textbooks, OERs, and Primers / [Blog Post](http://ancientworldonline.blogspot.com/2009/09/open-access-textbooks.html) / [Twitter](https://twitter.com/AWOL_tweets) - Open Access Textbooks, OERs, and Language Primers relating to the ancient world
 - Charles E. Jones / Roundup of Resources on Ancient Geography / [Blog Post](http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html) / [Twitter](https://twitter.com/AWOL_tweets) - Included in the following list are links to digital project dealing with geography and the ancient world
 - Charles E. Jones & Tom Elliott / The AWOL Index / [Website](http://isaw.nyu.edu/publications/awol-index/) - This publication systematically describes ancient-world information resources on the world-wide web. The bibliographic data presented herein has been programmatically extracted from the content of AWOL - The Ancient World Online (ISSN 2156-2253) and formatted in accordance with a structured data model.
+- steko / total-station-manuals / [GitHub](https://github.com/steko/total-station-manuals) - Manuals for total stations
+
 
 ## Unsorted
 
@@ -244,6 +255,8 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + R-Lum / Rcarb / [GitHub](https://github.com/R-Lum/Rcarb) - The R package ‘RCarb’ provides a collection of various R functions to model dose rates in carbonate-rich samples. The package is a translation of the ‘MATLAB’ program Carb by Roger P. Nathan
 
 ## Radiocarbon Stuff
++ steko / radiocarbon-scrapers / [GitHub](https://github.com/steko/radiocarbon-scrapers) - Scrapers for public radiocarbon databases
+
 
 ## Palaeoclimate and Archaeobotany Stuff
 
@@ -260,6 +273,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 ## Schema
 
-aejolene / NRHP_Metadata_Scheme / [GitHub](https://github.com/aejolene/NRHP_Metadata_Scheme) / [Website](https://www.nps.gov/nr/publications/bulletins/nrb16a/index.htm) - Metadata scheme for National Register of Historic Places, transcribed from the National Park Service NPS Bulletin 16.
-
-matrix-msu / ARCSCore / [GitHub](https://github.com/matrix-msu/ARCSCore) - ARCSCore is a metadata standard for organizing and sharing digital versions of non-digital documents created during the course of an archaeological investigation.
++ aejolene / NRHP_Metadata_Scheme / [GitHub](https://github.com/aejolene/NRHP_Metadata_Scheme) / [Website](https://www.nps.gov/nr/publications/bulletins/nrb16a/index.htm) - Metadata scheme for National Register of Historic Places, transcribed from the National Park Service NPS Bulletin 16.
++ matrix-msu / ARCSCore / [GitHub](https://github.com/matrix-msu/ARCSCore) - ARCSCore is a metadata standard for organizing and sharing digital versions of non-digital documents created during the course of an archaeological investigation.
++ steko / archvocab / [GitHub](https://github.com/steko/archvocab) / [Internet Archive](https://web.archive.org/web/20101229001934/http://archvocab.net/) - The ArchVocab ontologies by Leif Isaksen
++ steko / inclusions / [GitHub](https://github.com/steko/inclusions) / [Website](https://steko.github.io/inclusions/) - Shortcodes to describe inclusions in ceramic bodies
