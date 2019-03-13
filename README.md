@@ -63,6 +63,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + Erik Otarola-Castillo, Jesse Wolfhagen, Max D. Price / zooaRch / [CRAN](https://cran.r-project.org/web/packages/zooaRch/) - The zooaRch package provides analytical tools to make inferences on zooarchaeological data
 + zooaRchGUI / zooaRchGUI / [GitHub](https://github.com/zooaRchGUI/zooaRchGUI) / [Project Page](http://www.zooarchgui.org/) - The zooaRchGUI package provides a Graphical User Interface (GUI) to analytical tools for zooarchaeological data in the R package
 + ahb108 / rcarbon / [GitHub](https://github.com/ahb108/rcarbon) / [CRAN]() - Methods for calibrating and analysing radiocarbon dates
++ paleocore / paleocoreR / [GitHub](https://github.com/paleocore/paleocoreR) / [Website](http://paleocore.github.io/paleocoreR/) - R package for interacting with the Paleocore API
 
 ### R Scripts
 
@@ -190,6 +191,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + rekrei / rekrei / [GitHub](https://github.com/rekrei/rekrei) - Platform for crowdsourcing the digital recreation of lost heritage
 + anatolian / archaeological-object-sharing / [GitHub](https://github.com/anatolian/archaeological-object-sharing) - An online space for sharing data, 3d models, etc about archaeological objects to enable the comparison of these objects
 + Open Context / Open Context Python Code Repository / [GitHub](https://github.com/ekansa/open-context-py) - 
++ Paleo Core / Paleo Core / [GitHub](https://github.com/paleocore/paleocore) / [Website](https://paleocore.org/) - Towards a data standard for paleoanthropology
 
 ## Educational Tools
 
