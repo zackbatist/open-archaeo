@@ -87,7 +87,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 ### Python Scripts
 + steko / missing / [GitHub](https://github.com/steko/missing) - You have a sequence of numbered items and want to check if any are missing
-
++ scollinselliott / synthkat / [GitHub](https://github.com/scollinselliott/synthkat) -  Synthetic Categories for Archaeological Vessel Comparison
 
 ### Other Scripts
 
@@ -279,3 +279,4 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + matrix-msu / ARCSCore / [GitHub](https://github.com/matrix-msu/ARCSCore) - ARCSCore is a metadata standard for organizing and sharing digital versions of non-digital documents created during the course of an archaeological investigation.
 + steko / archvocab / [GitHub](https://github.com/steko/archvocab) / [Internet Archive](https://web.archive.org/web/20101229001934/http://archvocab.net/) - The ArchVocab ontologies by Leif Isaksen
 + steko / inclusions / [GitHub](https://github.com/steko/inclusions) / [Website](https://steko.github.io/inclusions/) - Shortcodes to describe inclusions in ceramic bodies
++ scollinselliott / rppsfs / [GitHub](https://github.com/scollinselliott/rppsfs) / [Website](https://steko.github.io/inclusions/) - Roman Peasant Project Small Finds Ontology
