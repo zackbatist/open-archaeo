@@ -116,7 +116,6 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 ## Drones & Satellite Imagery
 
 - isaacullah / DroneSurveyPlanner / [GitHub](https://github.com/isaacullah/DroneSurveyPlanner) / [Website](http://isaacullah.github.io/DroneSurveyPlanner/) - This is a LibreOffice Calc spreadsheet designed to help you plan an aerial drone mapping survey mission
-
 - benmarwick / benmarwickDY-XYZ-data-on-an-irregular-grid-to-an-interpolated-raster.r / [Gist](https://gist.github.com/benmarwick/7331879) - Plotting remote sensing data, especially how to go from XYZ data on an irregular grid to an interpolated raster
 
 ## Instrumental Analysis
@@ -178,7 +177,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - sfsheath / roman-maps / [GitHub](https://github.com/sfsheath/roman-maps) - These are geojson files relevant to Roman history. Initially they are all derived from the Ancient World Mapping Center's set of CC-BY-NC licensed shapefiles.
 - Ancient World Mapping Center / Map Files / [Website](http://awmc.unc.edu/wordpress/map-files/) / [Open Directory](http://awmc.unc.edu/awmc/map_data/) - This page presents an ever growing collection of resources for digital mapping.
 - sfsheath / gorbit / [GitHub](https://github.com/sfsheath/gorbit) - Making the freely available and excellent Orbis data just a little bit more easy to use.
-- sfsheath / rorbium / [GitHub](https://github.com/sfsheath/rorbium) - <http://orbis.stanford.edu> data as an R package.
+- sfsheath / rorbium / [GitHub](https://github.com/sfsheath/rorbium) - <http://orbis.stanford.edu> data as an R package
 - archca / aca_data_collection / [GitHub](https://github.com/archca/aca_data_collection) - collection of archaeological data for training purposes.
 - steko / ancient-ceramic-kilns / [GitHub](https://github.com/steko/ancient-ceramic-kilns) - GeoJSON files for ceramic kilns of the ancient world, no chronological/spatial boundaries
 - ropensci / neotoma / [GitHub](https://github.com/ropensci/neotoma) - Programmatic R interface to the Neotoma Paleoecological Database
@@ -188,10 +187,11 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 ## Diagrams & Visualizations
 
 + benmarwick / munsell-plot.R / [Gist](https://gist.github.com/benmarwick/f32cbc2fe7297ec9f276b52c118a249a) - Make a stratigraphic-style plot-schematic of sediment colour using munsell values
-
 - mpeeples2008 / Ceramic-Frequency-Date-Plot / [GitHub](https://github.com/mpeeples2008/Ceramic-Frequency-Date-Plot) - This R script produces a exploratory visual for assessing site date ranges originally suggested to me by Wesley Bernardini Redlands University
 - mpeeples2008 / Ford-Diagram / [GitHub](https://github.com/mpeeples2008/Ford-Diagram) - This R Function creates a simple Ford diagram for archaeological seriation with error bars determined based on sample size were count data are given
 - davidcorton / osteoGIS / [GitHub](https://github.com/davidcorton/osteoGIS) - Plot data on skeletal templates quickly
++ cwickham / munsell / [GitHub](https://github.com/cwickham/munsell/) / [CRAN](https://cran.r-project.org/web/packages/munsell/index.html) - Provides easy access to, and manipulation of, the Munsell colours
++ nfrerebeau / khroma / [GitHub](https://github.com/nfrerebeau/khroma) - Colour Schemes for Archaeological Data Visualization
 
 ## Platforms & Publications
 
@@ -211,7 +211,6 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 ## Drivers & IO
 
 - steko / totalopenstation / [GitHub](https://github.com/steko/totalopenstation) / [Website](https://tops.iosa.it/) - Total Open Station downloads and exports survey data from your total station
-
 - steko / total-station-manuals / [GitHub](https://github.com/steko/total-station-manuals) - Manuals for total stations
 - totalopenstation_2012 / lucab / [BitBucket](https://bitbucket.org/lucab/totalopenstation_2012) - Total Open Station (TOPS for friends) is a free software program for downloading and processing data from total station devices
 - totalopenstation-qgis-plugin / iosa / [BitBucket](https://bitbucket.org/iosa/totalopenstation-qgis-plugin)
@@ -267,11 +266,9 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 ## Other
 
 - adreinhard / cca / [GitHub](https://github.com/adreinhard/cca) - Colossal Cave Adventure digital palaeography and epigraphy project
-- benmarwick / archaeology-grand-challenges.r / [Gist](https://gist.github.com/benmarwick/d3eb3167ccb2116197ca) - Sketch of a look at the 'grand challenges' of Kintigh et al. 2014 http://www.pnas.org/content/111/3/879.full
+- benmarwick / archaeology-grand-challenges.r / [Gist](https://gist.github.com/benmarwick/d3eb3167ccb2116197ca) - Sketch of a look at the 'grand challenges' of Kintigh et al. 2014
 
 ## Bits & Bobs
 
 + steko / missing / [GitHub](https://github.com/steko/missing) - You have a sequence of numbered items and want to check if any are missing
-+ cwickham / munsell / [GitHub](https://github.com/cwickham/munsell/) / [CRAN](https://cran.r-project.org/web/packages/munsell/index.html) - Provides easy access to, and manipulation of, the Munsell colours
-+ nfrerebeau / khroma / [GitHub](https://github.com/nfrerebeau/khroma) - Colour Schemes for Archaeological Data Visualization
 + stas-g / findPeaks / [GitHub](https://github.com/stas-g/findPeaks) - A simple algorithm to find local maxima/minima in sequential data
