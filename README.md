@@ -52,7 +52,8 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 - arklab / ArkMatrix / [GitLab](https://gitlab.com/arklab/ArkMatrix) - A tool for creating and manipulating Harris Matrices, part of the Archaeological Recording Kit ARK
 - L-P Archaeology / harris2graph / [GitHub](https://github.com/lparchaeology/harris2graph/) / [GitHub](https://github.com/jlayt/harris2gv) - harris2graph is a script to help migrate data from the LST file format used by the BASP Harris, Stratify and ArchEd packages into modern graph file formats
-- harris-matrix / iosa / [GitLab](https://gitlab.com/iosa/harris-matrix) - Create a Harris Matrix from archaeological stratigraphy data using Python and Graphviz
+- iosa / harris-matrix / [GitLab](https://gitlab.com/iosa/harris-matrix) - Create a Harris Matrix from archaeological stratigraphy data using Python and Graphviz
+- tsdye / harris-matrix / [GitHub](https://github.com/tsdye/harris-matrix/) / [Website](http://tsdye.online/harris-matrix/homepage/) - Write Graphviz dot files for archaeological sequence diagrams and Bayesian chronological models
 
 ## Chronological Modelling
 
@@ -62,7 +63,6 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - joeroe / stratigraphr / [GitHub](https://github.com/joeroe/stratigraphr) - R package for archaeological stratigraphy and chronological sequences
 - ArchaeoStat / ArchaeoChron / [GitHub](https://github.com/ArchaeoStat/ArchaeoChron) - Bayesian Modeling of Archaeological Chronologies
 - ArchaeoStat / ArchaeoPhases / [GitHub](https://github.com/ArchaeoStat/ArchaeoPhases) - Tools for the post-processing of the Markov Chain simulated by any software used for the construction of archeological chronologies
-- tsdye / harris-matrix / [GitHub](https://github.com/tsdye/harris-matrix/) / [Website](http://tsdye.online/harris-matrix/homepage/) - Write Graphviz dot files for archaeological sequence diagrams and Bayesian chronological models
 
 ## Zooarchaeology
 
@@ -82,8 +82,8 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 ## Artefact Morphology
 
-- tipom / iosa / [BitBucket](https://bitbucket.org/iosa/tipom) / [CRAN](https://cran.r-project.org/web/packages/tipom/index.html) - TIPOM is based on a methodology that was developed in the 1960s by Bernardino Bagolini. The basic idea is to use the three simple dimensions of length, width and thickness of each lithic artefact to classify them in discrete groups and infer their function
-- kotyle / iosa / [BitBucket](https://bitbucket.org/iosa/kotyle) - Kotyle (from the ancient greek κοτύλη, “measure of capacity”, “drinking cup”) is a software program for calculating the capacity of a ceramic vessel
+- iosa / tipom / [BitBucket](https://bitbucket.org/iosa/tipom) / [CRAN](https://cran.r-project.org/web/packages/tipom/index.html) - TIPOM is based on a methodology that was developed in the 1960s by Bernardino Bagolini. The basic idea is to use the three simple dimensions of length, width and thickness of each lithic artefact to classify them in discrete groups and infer their function
+- iosa/ kotyle / [BitBucket](https://bitbucket.org/iosa/kotyle) - Kotyle (from the ancient greek κοτύλη, “measure of capacity”, “drinking cup”) is a software program for calculating the capacity of a ceramic vessel
 
 ## Literary Analysis & Epigraphy
 
@@ -97,8 +97,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - benmarwick / artefact-morpho.R / [Gist](https://gist.github.com/benmarwick/6260541) - R code for converting B&W jpgs of artefact silhouettes to matrices and computing basic Elliptical Fourier statistics, including PCA and MANOVA
 - anatolian / ceramic-computation / [GitHub](https://github.com/anatolian/ceramic-computation) - R scripts for digitizing, processing, analyzing, and comparing archaeological ceramic 2d profile drawings, photographs, and other data
 - scollinselliott / synthkat / [GitHub](https://github.com/scollinselliott/synthkat) -  Synthetic Categories for Archaeological Vessel Comparison
-- murature / iosa / [GitLab](https://gitlab.com/iosa/murature) - This Python library was written as an help for the study of stone walls, mainly
-  through the quantitative analysis of spatial dimensions of stones
+- iosa / murature / [GitLab](https://gitlab.com/iosa/murature) - This Python library was written as an help for the study of stone walls, mainly through the quantitative analysis of spatial dimensions of stones
 
 ## 3D Modelling
 
@@ -140,7 +139,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - marieannevibet / ArchaeoPhases / [GitHub](https://github.com/marieannevibet/ArchaeoPhases) / [CRAN](https://cran.r-project.org/web/packages/ArchaeoPhases/index.html) - Post-Processing of the Markov Chain Simulated by 'ChronoModel', 'Oxcal' or 'BCal'
 - ahb108 / rcarbon / [GitHub](https://github.com/ahb108/rcarbon) / [CRAN]() - Methods for calibrating and analysing radiocarbon dates
 - benmarwick / osl_calibration.r / [Gist](https://gist.github.com/benmarwick/5f996a0f52ba1d92f76968119f941bd8) - 
-- IOSACal / iosa / [GitLab](https://gitlab.com/iosa/iosacal) / [BitBucket](https://bitbucket.org/iosa/iosacal) / [Website](http://c14.iosa.it/en/latest/) - IOSACal is an open source tool for radiocarbon calibration
+- iosa/ IOSACal / [GitLab](https://gitlab.com/iosa/iosacal) / [BitBucket](https://bitbucket.org/iosa/iosacal) / [Website](http://c14.iosa.it/en/latest/) - IOSACal is an open source tool for radiocarbon calibration
 
 ## Data Collection & Management
 
@@ -209,7 +208,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 - steko / totalopenstation / [GitHub](https://github.com/steko/totalopenstation) / [Website](https://tops.iosa.it/) - Total Open Station downloads and exports survey data from your total station
 - steko / total-station-manuals / [GitHub](https://github.com/steko/total-station-manuals) - Manuals for total stations
-- totalopenstation-qgis-plugin / iosa / [BitBucket](https://bitbucket.org/iosa/totalopenstation-qgis-plugin)
+- iosa / totalopenstation-qgis-plugin / [BitBucket](https://bitbucket.org/iosa/totalopenstation-qgis-plugin)
 
 ## Educational Resources & Practical Guides
 
@@ -223,6 +222,8 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - sfsheath / teaching-rome / [GitHub](https://github.com/sfsheath/teaching-rome) - A collection of texts, 3d models, and maybe other resources useful for teaching about the Roman Empire.
 - MartinHinz / vitutr / [GitHub](https://github.com/MartinHinz/vitutr) - A page for video tutorials on R, specifically for archaeology
 - archca / pred_map_tut / [GitHub](https://github.com/archca/pred_map_tut) / [Website](https://archca.github.io/pred_map_tut/index.html) - A tutorial for (archaeological) predictive mapping using r
+- zackbatist / DIYFieldworkDatabase / [GitHub](https://github.com/zackbatist/DIYFieldworkDatabase) - Documenting and sharing my ad-hoc fieldwork database setup
+- zackbatist / archaeo-db-workshop / [GitHub](https://github.com/zackbatist/archaeo-db-workshop) - Information and guidelines for a workshop about managing archaeological databases
 
 ## Public Archaeology
 
