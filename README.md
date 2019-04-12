@@ -133,9 +133,6 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - dstreble / shiny_DRAC / [GitHub](https://github.com/dstreble/shiny_DRAC) - graphical interface for DRAC
 - R-Lum / BayLum / [GitHub](https://github.com/R-Lum/BayLum) - An R package for chronological Bayesian models integrated for Optically Stimulated OSL, Luminescence Dating
 - R-Lum / Rcarb / [GitHub](https://github.com/R-Lum/Rcarb) - The R package ‘RCarb’ provides a collection of various R functions to model dose rates in carbonate-rich samples. The package is a translation of the ‘MATLAB’ program Carb by Roger P. Nathan
-- dstreble / shiny_DRAC / [GitHub](https://github.com/dstreble/shiny_DRAC) - graphical interface for DRAC
-- R-Lum / BayLum / [GitHub](https://github.com/R-Lum/BayLum) - An R package for chronological Bayesian models integrated for Optically Stimulated OSL, Luminescence Dating
-- R-Lum / Rcarb / [GitHub](https://github.com/R-Lum/Rcarb) - The R package ‘RCarb’ provides a collection of various R functions to model dose rates in carbonate-rich samples. The package is a translation of the ‘MATLAB’ program Carb by Roger P. Natha
 
 ### Calibration
 
@@ -212,7 +209,6 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 - steko / totalopenstation / [GitHub](https://github.com/steko/totalopenstation) / [Website](https://tops.iosa.it/) - Total Open Station downloads and exports survey data from your total station
 - steko / total-station-manuals / [GitHub](https://github.com/steko/total-station-manuals) - Manuals for total stations
-- totalopenstation_2012 / lucab / [BitBucket](https://bitbucket.org/lucab/totalopenstation_2012) - Total Open Station (TOPS for friends) is a free software program for downloading and processing data from total station devices
 - totalopenstation-qgis-plugin / iosa / [BitBucket](https://bitbucket.org/iosa/totalopenstation-qgis-plugin)
 
 ## Educational Resources & Practical Guides
