@@ -63,6 +63,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - joeroe / stratigraphr / [GitHub](https://github.com/joeroe/stratigraphr) - R package for archaeological stratigraphy and chronological sequences
 - ArchaeoStat / ArchaeoChron / [GitHub](https://github.com/ArchaeoStat/ArchaeoChron) - Bayesian Modeling of Archaeological Chronologies
 - ArchaeoStat / ArchaeoPhases / [GitHub](https://github.com/ArchaeoStat/ArchaeoPhases) - Tools for the post-processing of the Markov Chain simulated by any software used for the construction of archeological chronologies
+- marieannevibet / ArchaeoPhases / [GitHub](https://github.com/marieannevibet/ArchaeoPhases) / [CRAN](https://cran.r-project.org/web/packages/ArchaeoPhases/index.html) - Post-Processing of the Markov Chain Simulated by 'ChronoModel', 'Oxcal' or 'BCal'
 
 ## Zooarchaeology
 
@@ -119,27 +120,42 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 ## Instrumental Analysis
 
-- mpeeples2008 / NAA analytical dashboard / [GitHub](https://github.com/mpeeples2008/NAA_analytical_dashboard) - Analytical Dashboard for conducting various analysis to group and assess groupings for Neutron Activation Analytical chemical compositional data
-- ISAAKiel / magAAR / [GitHub](https://github.com/ISAAKiel/magAAR) - Analyse geomagnetic data from archaeological context
-- senaite / senaite.lims / [GitHub](https://github.com/senaite/senaite.lims) - Modern, mobile first LIMS UI
+### Luminescence
+
 - RLumSK / Al2O3_AnalysisApp / [GitHub](https://github.com/RLumSK/Al2O3_AnalysisApp) - Shiny app to analyse Al2O3:C measurements
-- wojdyr / xylib / [GitHub](https://github.com/wojdyr/xylib) - xylib is a portable library for reading files with x-y data from powder diffraction, spectroscopy, or other experimental methods
-- R-Lum / rxylib / [GitHub](https://github.com/R-Lum/rxylib) - R package: wrapper for the C+library xylib
 - R-Lum / Luminescence / [GitHub](https://github.com/R-Lum/Luminescence) - Development version of the R package 'Luminescence'. The R package 'Luminescence' by the R-Luminescence Group provides a collection of various R functions for luminescence dating data analysis. http://www.r-luminescence.org/
+- R-Lum / BayLum / [GitHub](https://github.com/R-Lum/BayLum) - An R package for chronological Bayesian models integrated for Optically Stimulated OSL, Luminescence Dating
+- R-Lum / RLumModel / [GitHub](https://github.com/R-Lum/RLumModel) - Solving Ordinary Differential Equations to Understand Luminescence
+- R-Lum / Rcarb / [GitHub](https://github.com/R-Lum/Rcarb) - The R package ‘RCarb’ provides a collection of various R functions to model dose rates in carbonate-rich samples. The package is a translation of the ‘MATLAB’ program Carb by Roger P. Nathan
 - dstreble / LumReader / [GitHub](https://github.com/dstreble/LumReader) - R package to simulate a Luminescence Reader
 - dstreble / Tldating / [GitHub](https://github.com/dstreble/Tldating) - R package for TL dating
 - dstreble / shiny_Tldating / [GitHub](https://github.com/dstreble/shiny_Tldating) - Shiny app for TL dating
+- DRAC-calculator / DRAC-calculator / [GitHub](https://github.com/DRAC-calculator/DRAC-calculator) - DRAC is a Dose Rate and Age Calculator which has been designed to calculate environmental dose rates (Ḋ) and ages for trapped charge dating applications
 - dstreble / shiny_DRAC / [GitHub](https://github.com/dstreble/shiny_DRAC) - graphical interface for DRAC
-- R-Lum / BayLum / [GitHub](https://github.com/R-Lum/BayLum) - An R package for chronological Bayesian models integrated for Optically Stimulated OSL, Luminescence Dating
-- R-Lum / Rcarb / [GitHub](https://github.com/R-Lum/Rcarb) - The R package ‘RCarb’ provides a collection of various R functions to model dose rates in carbonate-rich samples. The package is a translation of the ‘MATLAB’ program Carb by Roger P. Nathan
 
-### Calibration
+- wojdyr / xylib / [GitHub](https://github.com/wojdyr/xylib) - xylib is a portable library for reading files with x-y data from powder diffraction, spectroscopy, or other experimental methods
+- R-Lum / rxylib / [GitHub](https://github.com/R-Lum/rxylib) - R package: wrapper for the C+library xylib
+- benmarwick / osl_calibration.r / [Gist](https://gist.github.com/benmarwick/5f996a0f52ba1d92f76968119f941bd8) - 
+
+### X-Ray Fluorescence
+
++ paleolimbot / paleoxrf / [GitHub](https://github.com/paleolimbot/paleoxrf) - The goal of paleoxrf is to simplify reading data from Acadia's paleoenvironmental X-Ray Fluorescence laboratory
++ paleolimbot / xrf / [GitHub](https://github.com/paleolimbot/xrf) - The goal of xrf is to provide tools to read, plot, and interpret X-Ray fluorescence spectra
+
+### Neutron Activation Analysis
+
+- mpeeples2008 / NAA analytical dashboard / [GitHub](https://github.com/mpeeples2008/NAA_analytical_dashboard) - Analytical Dashboard for conducting various analysis to group and assess groupings for Neutron Activation Analytical chemical compositional data
+
+### Radiocarbon
 
 - andrewcparnell / Bchron / [GitHub](https://github.com/andrewcparnell/Bchron) / [CRAN](https://cran.rstudio.com/web/packages/Bchron/index.html) - Radiocarbon Dating, Age-Depth Modelling, Relative Sea Level Rate Estimation, and Non-Parametric Phase Modelling
-- marieannevibet / ArchaeoPhases / [GitHub](https://github.com/marieannevibet/ArchaeoPhases) / [CRAN](https://cran.r-project.org/web/packages/ArchaeoPhases/index.html) - Post-Processing of the Markov Chain Simulated by 'ChronoModel', 'Oxcal' or 'BCal'
 - ahb108 / rcarbon / [GitHub](https://github.com/ahb108/rcarbon) / [CRAN]() - Methods for calibrating and analysing radiocarbon dates
-- benmarwick / osl_calibration.r / [Gist](https://gist.github.com/benmarwick/5f996a0f52ba1d92f76968119f941bd8) - 
 - iosa/ IOSACal / [GitLab](https://gitlab.com/iosa/iosacal) / [BitBucket](https://bitbucket.org/iosa/iosacal) / [Website](http://c14.iosa.it/en/latest/) - IOSACal is an open source tool for radiocarbon calibration
+- paleolimbot / carbon14 / [GitHub](https://github.com/paleolimbot/carbon14) - The goal of carbon14 is to provide a tidy interface to radiocarbon dating, to promote its inclusion in reproducible manuscripts
+
+### Geophysics
+
+- ISAAKiel / magAAR / [GitHub](https://github.com/ISAAKiel/magAAR) - Analyse geomagnetic data from archaeological context
 
 ## Data Collection & Management
 
@@ -153,6 +169,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - ISAAKiel / ArchJobCAD / [GitHub](https://github.com/ISAAKiel/ArchJobCAD) - Tasks for Excavations in AutoCAD
 - steko / nervia / [GitHub](https://github.com/steko/nervia) - Management system for physical storage of archaeological finds
 - pyArchInit / [Website](https://sites.google.com/site/pyarchinit/) - A python plugin for QGIS aimed at managing data from archaeological contexts on the GIS platform
+- paleolimbot / tidypaleo / [GitHub](https://github.com/paleolimbot/tidypaleo) - This package simplifies a few workflows when working with multi-proxy paleo-archive data
 
 ## APIs, Scrapers & Datasets
 
@@ -269,3 +286,4 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 + steko / missing / [GitHub](https://github.com/steko/missing) - You have a sequence of numbered items and want to check if any are missing
 + stas-g / findPeaks / [GitHub](https://github.com/stas-g/findPeaks) - A simple algorithm to find local maxima/minima in sequential data
++ paleolimbot / mudata / [GitHub](https://github.com/paleolimbot/mudata) The mudata2 package provides tools to read, write, and document multi-parameter spatiotemporal data
