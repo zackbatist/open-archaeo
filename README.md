@@ -1,6 +1,6 @@
 # Open Archaeology Software & Resources
 
-[![Join the chat at https://gitter.im/open-archaeo/Lobby](https://badges.gitter.im/open-archaeo/Lobby.svg)](https://gitter.im/open-archaeo/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [GitHub](https://github.com/zackbatist/open-archaeo) [[Prettier Version]](https://zackbatist.github.io/open-archaeo/)
+[![Join the chat at https://gitter.im/open-archaeo/Lobby](https://badges.gitter.im/open-archaeo/Lobby.svg)](https://gitter.im/open-archaeo/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) | [[GitHub]](https://github.com/zackbatist/open-archaeo) | [[Prettier Version]](https://zackbatist.github.io/open-archaeo/)
 
 A list of open source archaeological software and resources
 
