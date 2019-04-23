@@ -1,12 +1,12 @@
 # Open Archaeology Software & Resources
 
-[![Join the chat at https://gitter.im/open-archaeo/Lobby](https://badges.gitter.im/open-archaeo/Lobby.svg)](https://gitter.im/open-archaeo/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/open-archaeo/Lobby](https://badges.gitter.im/open-archaeo/Lobby.svg)](https://gitter.im/open-archaeo/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [GitHub](https://github.com/zackbatist/open-archaeo) [[Prettier Version]](https://zackbatist.github.io/open-archaeo/)
 
-A curated list of open source software and resources created with archaeological practices in mind.
+A list of open source archaeological software and resources
 
 See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) for a list of tools or resources that are in demand, but which currently do not exist or need to be significantly improved.
 
-## Quantitative Analysis
+## Quantitative & Statistical Analysis
 
 - ISAAKiel / quantAAR / [GitHub](https://github.com/ISAAKiel/quantAAR) - R Library for Quantitative Analysis in Archaeology
 - nfrerebeau / tabula / [GitHub](https://github.com/nfrerebeau/tabula) - Analysis, Seriation and Visualization of Archaeological Count Data
@@ -40,7 +40,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - ISAAKiel / pathAAR / [GitHub](https://github.com/ISAAKiel/pathAAR) / [CRAN]() - R Package to reconstruct paths using archaeological monuments, model parameters of infrastructure and evaluate those parameters, model parameters of infrastructure and evaluate those parameters
 - gianmarcoalberti / TRANSIT / [GitHub](https://github.com/gianmarcoalberti/TRANSIT) - GIS toolbox for estimating the duration of ancient sail-powered navigation
 
-## Fieldwork
+## Site Mapping
 
 - anatolian / field-photographs / [GitHub](https://github.com/anatolian/field-photographs) - Android apps for archaeology that enable photography during field work
 - anatolian / archaeological-survey-location-collector / [GitHub](https://github.com/anatolian/archaeological-survey-location-collector) - An app for use in archaeological field survey to collect high-accurate point locations, photographs, and other data
@@ -161,6 +161,10 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 - ISAAKiel / magAAR / [GitHub](https://github.com/ISAAKiel/magAAR) - Analyse geomagnetic data from archaeological context
 
+### Stable Isotopes
+
+### Ancient DNA
+
 ## Data Collection & Management
 
 - archiedb / archie / [GitHub](https://github.com/archiedb/archie) - A light-weight database application designed to standardize and simplify data entry of archaeological or historical artifacts
@@ -175,7 +179,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - pyArchInit / [Website](https://sites.google.com/site/pyarchinit/) - A python plugin for QGIS aimed at managing data from archaeological contexts on the GIS platform
 - paleolimbot / tidypaleo / [GitHub](https://github.com/paleolimbot/tidypaleo) - This package simplifies a few workflows when working with multi-proxy paleo-archive data
 
-## APIs, Scrapers & Datasets
+## API Interfaces, Scrapers & Datasets
 
 - paleocore / paleocoreR / [GitHub](https://github.com/paleocore/paleocoreR) / [Website](http://paleocore.github.io/paleocoreR/) - R package for interacting with the Paleocore API
 - benmarwick / binford / [GitHub](https://github.com/benmarwick/binford) - Datasets used in Binford's 2001 book "Constructing Frames of Reference: An Analytical Method for Archaeological Theory Building Using Ethnographic and Environmental Data Sets
@@ -215,7 +219,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - rekrei / rekrei / [GitHub](https://github.com/rekrei/rekrei) - Platform for crowdsourcing the digital recreation of lost heritage
 - anatolian / archaeological-object-sharing / [GitHub](https://github.com/anatolian/archaeological-object-sharing) - An online space for sharing data, 3d models, etc about archaeological objects to enable the comparison of these objects
 - Open Context / Open Context Python Code Repository / [GitHub](https://github.com/ekansa/open-context-py) - 
-- Paleo Core / Paleo Core / [GitHub](https://github.com/paleocore/paleocore) / [Website](https://paleocore.org/) - Towards a data standard for paleoanthropology
+- paleocore / paleocore / [GitHub](https://github.com/paleocore/paleocore) / [Website](https://paleocore.org/) - Towards a data standard for paleoanthropology
 
 ## Schema, Ontologies & Templates
 
@@ -229,7 +233,6 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 - steko / totalopenstation / [GitHub](https://github.com/steko/totalopenstation) / [Website](https://tops.iosa.it/) - Total Open Station downloads and exports survey data from your total station
 - steko / total-station-manuals / [GitHub](https://github.com/steko/total-station-manuals) - Manuals for total stations
-- iosa / totalopenstation-qgis-plugin / [BitBucket](https://bitbucket.org/iosa/totalopenstation-qgis-plugin)
 
 ## Educational Resources & Practical Guides
 
@@ -259,7 +262,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 ## Communication & Outreach
 
-- fradeve / sipontomedievale / [GitHub](https://github.com/fradeve/sipontomedievale) - This repo contains the code running under [www.sipontomedievale.it](http://www.sipontomedievale.it), an interactive website based on solid open source software created to illustrate historical background, findings and data of the Siponto excavation site (Manfredonia, Italy)
+- fradeve / sipontomedievale / [GitHub](https://github.com/fradeve/sipontomedievale) - This repo contains the code for an interactive website created to illustrate historical background, findings and data of the Siponto excavation site (Manfredonia, Italy)
 
 ## Games
 
@@ -269,6 +272,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 ## Lists
 
+- zackbatist / open-archaeo / [GitHub](https://github.com/zackbatist/open-archaeo) / [Website](https://zackbatist.github.io/open-archaeo/) - A list of open source archaeological software and resources
 - steko / archaeology / [GitHub](https://github.com/steko/archaeology) - A directory of GitHub projects by OR for archaeologists
 - benmarwick / ctv-archaeology / [GitHub](https://github.com/benmarwick/ctv-archaeology) / [grouped by topic]() - This CRAN Task View contains a list of packages useful for scientific work in Archaeology
 - Doug Rocks-Macqueen, Lorna Richardson, Emma O'Riordan, Katrina Urban / Open Access Archaeology / [Blog](http://www.openaccessarchaeology.org) / [Twitter](https://twitter.com/OpenAccessArch) - OpenAccessArchaeology.org is dedicated to helping people discover and use Open Access resources in the field of Archaeology
