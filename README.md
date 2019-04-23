@@ -29,6 +29,8 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 ### Locational Analysis
 
++ taphocoenose / Artifact_Class_Diversity / [GitHub](https://github.com/taphocoenose/Artifact_Class_Diversity)
+
 ### Viewshed Analysis
 
 - gianmarcoalberti / FuzzyViewshed / [GitHub](https://github.com/gianmarcoalberti/FuzzyViewshed) - ArcGIS toolbox for fuzzy viewshed calculation
@@ -47,6 +49,8 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - joeroe / fieldwalkr / [GitHub](https://github.com/joeroe/fieldwalkr) - Spatial Sampling and Survey Simulation Tools
 - L-P Archaeology / ArkScan / [GitHub](https://github.com/lparchaeology/ArkScan) - A simple gui app to simplify scanning single context plans
 - L-P Archaeology / ArkSpatial / [GitHub](https://github.com/lparchaeology/ArkSpatial) - A QGIS plugin to simplfy digitization of archaeological plans drawn using the Museum of London Single Context Recording methodology
+- SCSchmidt / sitedefinition / [GitHub](https://github.com/SCSchmidt/sitedefinition) - The goal of sitedefinition is to see how feature densities might be
+  used for site definition
 
 ## Harris Matrices
 
@@ -281,9 +285,9 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 - adreinhard / cca / [GitHub](https://github.com/adreinhard/cca) - Colossal Cave Adventure digital palaeography and epigraphy project
 - benmarwick / archaeology-grand-challenges.r / [Gist](https://gist.github.com/benmarwick/d3eb3167ccb2116197ca) - Sketch of a look at the 'grand challenges' of Kintigh et al. 2014
-
 ## Bits & Bobs
 
 + steko / missing / [GitHub](https://github.com/steko/missing) - You have a sequence of numbered items and want to check if any are missing
 + stas-g / findPeaks / [GitHub](https://github.com/stas-g/findPeaks) - A simple algorithm to find local maxima/minima in sequential data
 + paleolimbot / mudata / [GitHub](https://github.com/paleolimbot/mudata) The mudata2 package provides tools to read, write, and document multi-parameter spatiotemporal data
++ julienmoeys / soiltexture / [GitHub](https://github.com/julienmoeys/soiltexture) / [CRAN](https://cran.r-project.org/web/packages/soiltexture/index.html) - The Soil Texture Wizard is a set of R functions designed to produce texture triangles (also called texture plots, texture diagrams, texture ternary plots), classify and transform soil textures data
