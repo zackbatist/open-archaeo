@@ -51,6 +51,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - L-P Archaeology / ArkSpatial / [GitHub](https://github.com/lparchaeology/ArkSpatial) - A QGIS plugin to simplfy digitization of archaeological plans drawn using the Museum of London Single Context Recording methodology
 - SCSchmidt / sitedefinition / [GitHub](https://github.com/SCSchmidt/sitedefinition) - The goal of sitedefinition is to see how feature densities might be
   used for site definition
+- adammertel / simple-browser-gis-collector / [GitHub](https://github.com/adammertel/simple-browser-gis-collector) - Mobile-oriented browser based application that could be used for data collection
 
 ## Harris Matrices
 
@@ -89,6 +90,8 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 - iosa / tipom / [BitBucket](https://bitbucket.org/iosa/tipom) / [CRAN](https://cran.r-project.org/web/packages/tipom/index.html) - TIPOM is based on a methodology that was developed in the 1960s by Bernardino Bagolini. The basic idea is to use the three simple dimensions of length, width and thickness of each lithic artefact to classify them in discrete groups and infer their function
 - iosa/ kotyle / [BitBucket](https://bitbucket.org/iosa/kotyle) - Kotyle (from the ancient greek κοτύλη, “measure of capacity”, “drinking cup”) is a software program for calculating the capacity of a ceramic vessel
+- Johanna-Mestorf-Academy / sdsbrowser / [GitHub](https://github.com/Johanna-Mestorf-Academy/sdsbrowser) / [Website](http://sds.ufg.uni-kiel.de/) - sdsbrowser is an R Shiny WebApp developed to make the available SDS datasets (following the Systematic and Digital Documentation of Stone Artefacts recording system) more accessible. It is designed to give you a quick overview on the spatial and temporal scope of sites previously analysed with SDS and the distribution of artefacts within these sites.
+- Johanna-Mestorf-Academy / sdsanalysis / [GitHub](https://github.com/Johanna-Mestorf-Academy/sdsanalysis) - sdsanalysis is the backbone of the [sdsbrowser](https://github.com/Johanna-Mestorf-Academy/sdsbrowser) webapp, and can be employed to analyse SDS stone artefact data in R
 
 ## Literary Analysis & Epigraphy
 
@@ -160,6 +163,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 ### Geophysics
 
 - ISAAKiel / magAAR / [GitHub](https://github.com/ISAAKiel/magAAR) - Analyse geomagnetic data from archaeological context
+- emanuelhuber / RGPR / [GitHub](https://github.com/emanuelhuber/RGPR) / [Website](http://emanuelhuber.github.io/RGPR/) - RGPR is a free and open-source software package to read, export, analyse, process and visualise ground-penetrating radar (GPR) data
 
 ### Stable Isotopes
 
@@ -178,6 +182,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - steko / nervia / [GitHub](https://github.com/steko/nervia) - Management system for physical storage of archaeological finds
 - pyArchInit / [Website](https://sites.google.com/site/pyarchinit/) - A python plugin for QGIS aimed at managing data from archaeological contexts on the GIS platform
 - paleolimbot / tidypaleo / [GitHub](https://github.com/paleolimbot/tidypaleo) - This package simplifies a few workflows when working with multi-proxy paleo-archive data
+- adammertel / historical-geocoding-assistant / [GitHub](https://github.com/adammertel/historical-geocoding-assistant) - Tool for assisted geocoding of historical datasets (something between a manual table editing and automated geocoding script)
 
 ## API Interfaces, Scrapers & Datasets
 
@@ -267,6 +272,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 ## Games
 
 - Camology / ArchaeologyAdventure / [GitHub](https://github.com/Camology/ArchaeologyAdventure) - A simple adventure game in Unity2D. Revolves around being an archaeologist exploring some ruin and digging up treasure/fossils
+- adammertel / gods_on_the_barge / [GitHub](https://github.com/adammertel/gods_on_the_barge) / [Website](http://www.coffeegnome.net/godsonthebarge/) - Inspired by the research project of historiography of ancient Graeco-Roman religions (<http://gehir.phil.muni.cz>), the main goal is to spread a selected cult successfully across the ancient Mediterranean
 
 ## Writing
 
@@ -289,6 +295,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 - adreinhard / cca / [GitHub](https://github.com/adreinhard/cca) - Colossal Cave Adventure digital palaeography and epigraphy project
 - benmarwick / archaeology-grand-challenges.r / [Gist](https://gist.github.com/benmarwick/d3eb3167ccb2116197ca) - Sketch of a look at the 'grand challenges' of Kintigh et al. 2014
+- joeroe / caa2019_halfway_house / [GitHub](https://github.com/joeroe/caa2019_halfway_house) - This poster presents an approach that helps archaeological projects maintain an authoritative database, while retaining the flexibility and accessibility needed for ongoing research with multiple collaborators, by implementing a server–client architecture to maintain a single, consistent research database
 ## Bits & Bobs
 
 + steko / missing / [GitHub](https://github.com/steko/missing) - You have a sequence of numbered items and want to check if any are missing
