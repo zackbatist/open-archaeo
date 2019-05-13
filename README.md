@@ -30,6 +30,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 ### Locational Analysis
 
 + taphocoenose / Artifact_Class_Diversity / [GitHub](https://github.com/taphocoenose/Artifact_Class_Diversity)
++ demjanp / ede_interpolation / [GitHub](https://github.com/demjanp/ede_interpolation) / [Website](https://plugins.qgis.org/plugins/ede_interpolation/) - A QGIS 3 plugin for spatio-temporal interpolation of archaeological settlement evidence
 
 ### Viewshed Analysis
 
@@ -39,6 +40,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 - ISAAKiel / pathAAR / [GitHub](https://github.com/ISAAKiel/pathAAR) / [CRAN]() - R Package to reconstruct paths using archaeological monuments, model parameters of infrastructure and evaluate those parameters, model parameters of infrastructure and evaluate those parameters
 - gianmarcoalberti / TRANSIT / [GitHub](https://github.com/gianmarcoalberti/TRANSIT) - GIS toolbox for estimating the duration of ancient sail-powered navigation
++ demjanp / chrono_spatial_modelling / [GitHub](https://github.com/demjanp/chrono_spatial_modelling) - This is an example implementation of chrono-spatial modelling of settlement activities
 
 ## Site Mapping
 
@@ -92,6 +94,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - iosa/ kotyle / [BitBucket](https://bitbucket.org/iosa/kotyle) - Kotyle (from the ancient greek κοτύλη, “measure of capacity”, “drinking cup”) is a software program for calculating the capacity of a ceramic vessel
 - Johanna-Mestorf-Academy / sdsbrowser / [GitHub](https://github.com/Johanna-Mestorf-Academy/sdsbrowser) / [Website](http://sds.ufg.uni-kiel.de/) - sdsbrowser is an R Shiny WebApp developed to make the available SDS datasets (following the Systematic and Digital Documentation of Stone Artefacts recording system) more accessible. It is designed to give you a quick overview on the spatial and temporal scope of sites previously analysed with SDS and the distribution of artefacts within these sites.
 - Johanna-Mestorf-Academy / sdsanalysis / [GitHub](https://github.com/Johanna-Mestorf-Academy/sdsanalysis) - sdsanalysis is the backbone of the [sdsbrowser](https://github.com/Johanna-Mestorf-Academy/sdsbrowser) webapp, and can be employed to analyse SDS stone artefact data in R
++ ahb108 / rtefact / [GitHub](https://github.com/ahb108/rtefact) - Brings together a range of methods for analysing the time series, shapes and other properties of archaeological artefacts
 
 ## Literary Analysis & Epigraphy
 
@@ -106,6 +109,8 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - anatolian / ceramic-computation / [GitHub](https://github.com/anatolian/ceramic-computation) - R scripts for digitizing, processing, analyzing, and comparing archaeological ceramic 2d profile drawings, photographs, and other data
 - scollinselliott / synthkat / [GitHub](https://github.com/scollinselliott/synthkat) -  Synthetic Categories for Archaeological Vessel Comparison
 - iosa / murature / [GitLab](https://gitlab.com/iosa/murature) - This Python library was written as an help for the study of stone walls, mainly through the quantitative analysis of spatial dimensions of stones
+- demjanp / CeraMatch / [GitHub](https://github.com/demjanp/CeraMatch) - Visual shape-matching of ceramics profiles
++ kevind992 / Artificial-Intelligent-based-Museum-System / [GitHub](https://github.com/kevind992/Artificial-Intelligent-based-Museum-System) - Museum Based System for detecting a set of artifacts and returning the related information to the user
 
 ## 3D Modelling
 
@@ -259,6 +264,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - benmarwick / archaeology_on_wikipedia.R / [Gist](https://gist.github.com/benmarwick/0d5e6526604e755b556f) - How does wikipedia see archaeology?
 - benmarwick / tweet-edits-to-archaeology-articles.R / [Gist](https://gist.github.com/benmarwick/ac394fd61f481393b0ae) - Using R with wikipedia for various things
 - benmarwick / dayofarchaeology / [GitHub](https://github.com/benmarwick/dayofarchaeology) - A Distant Reading of the Day of Archaeology
++ drmattlaw / dayofarchaeology / [GitHub](https://github.com/drmattlaw/dayofarchaeology) - export of posts from dayofarchaeology.com
 
 ## Public Policy & Civic Action
 
@@ -290,15 +296,18 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - Charles E. Jones / Open Access Ancient Language Textbooks, OERs, and Primers / [Blog Post](http://ancientworldonline.blogspot.com/2009/09/open-access-textbooks.html) / [Twitter](https://twitter.com/AWOL_tweets) - Open Access Textbooks, OERs, and Language Primers relating to the ancient world
 - Charles E. Jones / Roundup of Resources on Ancient Geography / [Blog Post](http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html) / [Twitter](https://twitter.com/AWOL_tweets) - Included in the following list are links to digital project dealing with geography and the ancient world
 - Charles E. Jones & Tom Elliott / The AWOL Index / [Website](http://isaw.nyu.edu/publications/awol-index/) - This publication systematically describes ancient-world information resources on the world-wide web. The bibliographic data presented herein has been programmatically extracted from the content of AWOL - The Ancient World Online (ISSN 2156-2253) and formatted in accordance with a structured data model
++ BritishMuseum / gitMuseum / [GitHub](https://github.com/BritishMuseum/gitMuseum) - A repository listing Museums active on GitHub, written in Rstats
 
 ## Other
 
 - adreinhard / cca / [GitHub](https://github.com/adreinhard/cca) - Colossal Cave Adventure digital palaeography and epigraphy project
 - benmarwick / archaeology-grand-challenges.r / [Gist](https://gist.github.com/benmarwick/d3eb3167ccb2116197ca) - Sketch of a look at the 'grand challenges' of Kintigh et al. 2014
 - joeroe / caa2019_halfway_house / [GitHub](https://github.com/joeroe/caa2019_halfway_house) - This poster presents an approach that helps archaeological projects maintain an authoritative database, while retaining the flexibility and accessibility needed for ongoing research with multiple collaborators, by implementing a server–client architecture to maintain a single, consistent research database
+
 ## Bits & Bobs
 
 + steko / missing / [GitHub](https://github.com/steko/missing) - You have a sequence of numbered items and want to check if any are missing
 + stas-g / findPeaks / [GitHub](https://github.com/stas-g/findPeaks) - A simple algorithm to find local maxima/minima in sequential data
 + paleolimbot / mudata / [GitHub](https://github.com/paleolimbot/mudata) The mudata2 package provides tools to read, write, and document multi-parameter spatiotemporal data
 + julienmoeys / soiltexture / [GitHub](https://github.com/julienmoeys/soiltexture) / [CRAN](https://cran.r-project.org/web/packages/soiltexture/index.html) - The Soil Texture Wizard is a set of R functions designed to produce texture triangles (also called texture plots, texture diagrams, texture ternary plots), classify and transform soil textures data
++ ahb108 / sparch / [GitHub](https://github.com/ahb108/sparch) - A set of extra utilities that extend the functionlaity provided by core packages for spatial data management and analysis in R
