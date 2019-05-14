@@ -111,6 +111,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - iosa / murature / [GitLab](https://gitlab.com/iosa/murature) - This Python library was written as an help for the study of stone walls, mainly through the quantitative analysis of spatial dimensions of stones
 - demjanp / CeraMatch / [GitHub](https://github.com/demjanp/CeraMatch) - Visual shape-matching of ceramics profiles
 + kevind992 / Artificial-Intelligent-based-Museum-System / [GitHub](https://github.com/kevind992/Artificial-Intelligent-based-Museum-System) - Museum Based System for detecting a set of artifacts and returning the related information to the user
++ situx / CuneiPainter / [GitHub](https://github.com/situx/CuneiPainter) / [Website](https://situx.github.io/CuneiPainter/) - An App to recognize cuneiform characters on your Android phone
 
 ## 3D Modelling
 
@@ -153,10 +154,14 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 + paleolimbot / paleoxrf / [GitHub](https://github.com/paleolimbot/paleoxrf) - The goal of paleoxrf is to simplify reading data from Acadia's paleoenvironmental X-Ray Fluorescence laboratory
 + paleolimbot / xrf / [GitHub](https://github.com/paleolimbot/xrf) - The goal of xrf is to provide tools to read, plot, and interpret X-Ray fluorescence spectra
++ NSLS-II / PyXRF / [GitHub](https://github.com/NSLS-II/PyXRF) - PyXRF is a python-based sophisticated fluorescence analysis package for fitting and visualizing X-ray fluorescence data
++ tschoonj / xraylib / [GitHub](https://github.com/tschoonj/xraylib - xraylib is a library containing over 40 functions to be used to retrieve data from some of the most respected databases of physical data in the field of X-ray
++ scikit-beam / scikit-beam / [GitHub](https://github.com/scikit-beam/scikit-beam) - Data analysis tools for X-Ray, Neutron and Electron sciences
+
 
 ### Neutron Activation Analysis
 
-- mpeeples2008 / NAA analytical dashboard / [GitHub](https://github.com/mpeeples2008/NAA_analytical_dashboard) - Analytical Dashboard for conducting various analysis to group and assess groupings for Neutron Activation Analytical chemical compositional data
+- mpeeples2008 / NAA analytical dashboard / [GitHub](https://github.com/mpeeples2008/NAA_analytical_dashboard) / [Website](http://nsls-ii.github.io/PyXRF/)- Analytical Dashboard for conducting various analysis to group and assess groupings for Neutron Activation Analytical chemical compositional data
 
 ### Radiocarbon
 
