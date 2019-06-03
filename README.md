@@ -137,7 +137,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 - RLumSK / Al2O3_AnalysisApp / [GitHub](https://github.com/RLumSK/Al2O3_AnalysisApp) - Shiny app to analyse Al2O3:C measurements
 - R-Lum / Luminescence / [GitHub](https://github.com/R-Lum/Luminescence) - Development version of the R package 'Luminescence'. The R package 'Luminescence' by the R-Luminescence Group provides a collection of various R functions for luminescence dating data analysis. http://www.r-luminescence.org/
-- R-Lum / BayLum / [GitHub](https://github.com/R-Lum/BayLum) - An R package for chronological Bayesian models integrated for Optically Stimulated OSL, Luminescence Dating
+- R-Lum / BayLum / [GitHub](https://github.com/R-Lum/BayLum) / [Website](https://baylum.archaeo.science/) - An R package for chronological Bayesian models integrated for Optically Stimulated OSL, Luminescence Dating
 - R-Lum / RLumModel / [GitHub](https://github.com/R-Lum/RLumModel) - Solving Ordinary Differential Equations to Understand Luminescence
 - R-Lum / Rcarb / [GitHub](https://github.com/R-Lum/Rcarb) - The R package ‘RCarb’ provides a collection of various R functions to model dose rates in carbonate-rich samples. The package is a translation of the ‘MATLAB’ program Carb by Roger P. Nathan
 - dstreble / LumReader / [GitHub](https://github.com/dstreble/LumReader) - R package to simulate a Luminescence Reader
@@ -145,10 +145,10 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - dstreble / shiny_Tldating / [GitHub](https://github.com/dstreble/shiny_Tldating) - Shiny app for TL dating
 - DRAC-calculator / DRAC-calculator / [GitHub](https://github.com/DRAC-calculator/DRAC-calculator) - DRAC is a Dose Rate and Age Calculator which has been designed to calculate environmental dose rates (Ḋ) and ages for trapped charge dating applications
 - dstreble / shiny_DRAC / [GitHub](https://github.com/dstreble/shiny_DRAC) - graphical interface for DRAC
-
 - wojdyr / xylib / [GitHub](https://github.com/wojdyr/xylib) - xylib is a portable library for reading files with x-y data from powder diffraction, spectroscopy, or other experimental methods
 - R-Lum / rxylib / [GitHub](https://github.com/R-Lum/rxylib) - R package: wrapper for the C+library xylib
 - benmarwick / osl_calibration.r / [Gist](https://gist.github.com/benmarwick/5f996a0f52ba1d92f76968119f941bd8) - 
++ crp2a / gamma / [GitHub](https://github.com/crp2a/gamma) / [Website](https://gamma.archaeo.science/) - Dose Rate Estimation from In-Situ Gamma-Ray Spectrometry Measurements for Luminescence Dating
 
 ### X-Ray Fluorescence
 
@@ -195,7 +195,6 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - adammertel / historical-geocoding-assistant / [GitHub](https://github.com/adammertel/historical-geocoding-assistant) - Tool for assisted geocoding of historical datasets (something between a manual table editing and automated geocoding script)
 
 ## API Interfaces, Scrapers & Datasets
-
 - paleocore / paleocoreR / [GitHub](https://github.com/paleocore/paleocoreR) / [Website](http://paleocore.github.io/paleocoreR/) - R package for interacting with the Paleocore API
 - benmarwick / binford / [GitHub](https://github.com/benmarwick/binford) - Datasets used in Binford's 2001 book "Constructing Frames of Reference: An Analytical Method for Archaeological Theory Building Using Ethnographic and Environmental Data Sets
 - benmarwick / 1989-excavation-report-Madjedbebe / [GitHub](https://github.com/benmarwick/1989-excavation-report-Madjedbebe) - Text, data and code to accompany the analysis of the 1989 excavation data
@@ -217,6 +216,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - archca / aca_data_collection / [GitHub](https://github.com/archca/aca_data_collection) - collection of archaeological data for training purposes.
 - steko / ancient-ceramic-kilns / [GitHub](https://github.com/steko/ancient-ceramic-kilns) - GeoJSON files for ceramic kilns of the ancient world, no chronological/spatial boundaries
 - ropensci / neotoma / [GitHub](https://github.com/ropensci/neotoma) - Programmatic R interface to the Neotoma Paleoecological Database
++ c14bazAAR / ISAAKiel / [GitHub](https://github.com/ISAAKiel/c14bazAAR) - R package to query different openly accessible radiocarbon date databases, allowing for basic data cleaning, calibration and merging
 
 ## Linked Open Data
 
