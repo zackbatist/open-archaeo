@@ -217,6 +217,8 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - steko / ancient-ceramic-kilns / [GitHub](https://github.com/steko/ancient-ceramic-kilns) - GeoJSON files for ceramic kilns of the ancient world, no chronological/spatial boundaries
 - ropensci / neotoma / [GitHub](https://github.com/ropensci/neotoma) - Programmatic R interface to the Neotoma Paleoecological Database
 + c14bazAAR / ISAAKiel / [GitHub](https://github.com/ISAAKiel/c14bazAAR) - R package to query different openly accessible radiocarbon date databases, allowing for basic data cleaning, calibration and merging
++ oblarquez / paleofire / [GitHub](https://github.com/oblarquez/paleofire) / [Website](https://www.gpwg.paleofire.org/) - An R package to analyse sedimentary charcoal records from the Global Charcoal Database to reconstruct past biomass burning
++ oblarquez / GCD / [GitHub](https://github.com/oblarquez/GCD) - Global Charcoal Database
 
 ## Linked Open Data
 
@@ -316,3 +318,4 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + paleolimbot / mudata / [GitHub](https://github.com/paleolimbot/mudata) The mudata2 package provides tools to read, write, and document multi-parameter spatiotemporal data
 + julienmoeys / soiltexture / [GitHub](https://github.com/julienmoeys/soiltexture) / [CRAN](https://cran.r-project.org/web/packages/soiltexture/index.html) - The Soil Texture Wizard is a set of R functions designed to produce texture triangles (also called texture plots, texture diagrams, texture ternary plots), classify and transform soil textures data
 + ahb108 / sparch / [GitHub](https://github.com/ahb108/sparch) - A set of extra utilities that extend the functionlaity provided by core packages for spatial data management and analysis in R
++ ropensci / MtreeRing / [GitHub](https://github.com/ropensci/MtreeRing) / [Website](https://ropensci.github.io/MtreeRing/) - A tool for automatically measuring tree-ring width using image processing techniques
