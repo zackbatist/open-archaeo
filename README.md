@@ -24,6 +24,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - Matt Peeples / UnconstrainedClustering / [Website](http://www.mattpeeples.net/modules/UnconstrainedClustering.html) - Unconstrained Clustering
 - Matt Peeples / BasicMapping / [Website](http://www.mattpeeples.net/modules/BasicMapping.html) - Working with map data in R
 - Matt Peeples / PointPattern / [Website](http://www.mattpeeples.net/modules/PointPattern.html) - Point Pattern Analysis
+- Steko / sindwem / [BitBucket](https://bitbucket.org/steko/mpi.r/src/default/) - This R package contains exactly one function, that calculates the "sum of individual weighted means" according to a methodology that is quite common among archaeologists and was first published in 1988 by Elisabeth Fentress and Philip Perkins
 
 ## Geospatial Analysis
 
@@ -59,7 +60,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 - arklab / ArkMatrix / [GitLab](https://gitlab.com/arklab/ArkMatrix) - A tool for creating and manipulating Harris Matrices, part of the Archaeological Recording Kit ARK
 - L-P Archaeology / harris2graph / [GitHub](https://github.com/lparchaeology/harris2graph/) / [GitHub](https://github.com/jlayt/harris2gv) - harris2graph is a script to help migrate data from the LST file format used by the BASP Harris, Stratify and ArchEd packages into modern graph file formats
-- iosa / harris-matrix / [GitLab](https://gitlab.com/iosa/harris-matrix) - Create a Harris Matrix from archaeological stratigraphy data using Python and Graphviz
+- Stefano Costa & iosa / harris-matrix / [GitLab](https://gitlab.com/iosa/harris-matrix) / [BitBucket](https://bitbucket.org/steko/harris/src/default/) - Create a Harris Matrix from archaeological stratigraphy data using Python and Graphviz
 - tsdye / harris-matrix / [GitHub](https://github.com/tsdye/harris-matrix/) / [Website](http://tsdye.online/harris-matrix/homepage/) - Write Graphviz dot files for archaeological sequence diagrams and Bayesian chronological models
 
 ## Chronological Modelling
@@ -77,6 +78,9 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - Erik Otarola-Castillo, Jesse Wolfhagen, Max D. Price / zooaRch / [CRAN](https://cran.r-project.org/web/packages/zooaRch/) - The zooaRch package provides analytical tools to make inferences on zooarchaeological data
 - zooaRchGUI / zooaRchGUI / [GitHub](https://github.com/zooaRchGUI/zooaRchGUI) / [Project Page](http://www.zooarchgui.org/) - The zooaRchGUI package provides a Graphical User Interface (GUI) to analytical tools for zooarchaeological data in the R package
 - ISAAKiel / mortAAR / [GitHub](https://github.com/ISAAKiel/mortAAR) - Analysis of Archaeological Mortality Data
+- Chris Puttick / zooOS / [Launchpad](https://launchpad.net/zooos) - zooOS (pronounced Zeus) is an open source system for recording and analysing animal bones found during archaeological excavations
+- Leif Isaksen / Crossbones / [Website](http://oadigital.net/software/xbones.html) - Crossbones autogenerates 3D schematic skeletons, making rapid surveying and visualisation of dense skeletal assemblages a snap
+
 
 ## Palaeoenvironment & Palaeobotany
 
@@ -108,7 +112,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - benmarwick / artefact-morpho.R / [Gist](https://gist.github.com/benmarwick/6260541) - R code for converting B&W jpgs of artefact silhouettes to matrices and computing basic Elliptical Fourier statistics, including PCA and MANOVA
 - anatolian / ceramic-computation / [GitHub](https://github.com/anatolian/ceramic-computation) - R scripts for digitizing, processing, analyzing, and comparing archaeological ceramic 2d profile drawings, photographs, and other data
 - scollinselliott / synthkat / [GitHub](https://github.com/scollinselliott/synthkat) -  Synthetic Categories for Archaeological Vessel Comparison
-- iosa / murature / [GitLab](https://gitlab.com/iosa/murature) - This Python library was written as an help for the study of stone walls, mainly through the quantitative analysis of spatial dimensions of stones
+- Stefano Costa & iosa / murature / [GitLab](https://gitlab.com/iosa/murature) / [BitBucket](https://bitbucket.org/steko/murature/src/default/) - This Python library was written as an help for the study of stone walls, mainly through the quantitative analysis of spatial dimensions of stones
 - demjanp / CeraMatch / [GitHub](https://github.com/demjanp/CeraMatch) - Visual shape-matching of ceramics profiles
 + kevind992 / Artificial-Intelligent-based-Museum-System / [GitHub](https://github.com/kevind992/Artificial-Intelligent-based-Museum-System) - Museum Based System for detecting a set of artifacts and returning the related information to the user
 + situx / CuneiPainter / [GitHub](https://github.com/situx/CuneiPainter) / [Website](https://situx.github.io/CuneiPainter/) - An App to recognize cuneiform characters on your Android phone
@@ -193,6 +197,11 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - pyArchInit / [Website](https://sites.google.com/site/pyarchinit/) - A python plugin for QGIS aimed at managing data from archaeological contexts on the GIS platform
 - paleolimbot / tidypaleo / [GitHub](https://github.com/paleolimbot/tidypaleo) - This package simplifies a few workflows when working with multi-proxy paleo-archive data
 - adammertel / historical-geocoding-assistant / [GitHub](https://github.com/adammertel/historical-geocoding-assistant) - Tool for assisted geocoding of historical datasets (something between a manual table editing and automated geocoding script)
+- UNMOCA / ODKArchForms / [GitHub](https://github.com/UNMOCA/ODKArchForms) - Open Data Kit forms and conversion scripts used in archaeology. Including New Mexico LA Forms, photologs, etc
+- Yann Hamon / Digisite / [Launchpad](https://launchpad.net/digisite) - Digisite is a database system and graphical user interface designed for context recording on archaeological sites using mobile devices
+- Chris Puttick / OLPA / [Launchpad](https://launchpad.net/olpa) - To develop software for use in archaeological recording in the field (or town!) with a focus on iterative approaches and collaboration. Utilises hardware frightening similar to that developed by the One Laptop Per Child project
+- Lucian Pricop / Wittenhams Pottery System / [Launchpad](https://launchpad.net/wittenhamspottery) - This application provides a database and an interface for adding, modifying and searching for pottery shards. Adding a shard is done via a tree-like interface for providing the system with all the exact particularities of the ornaments found on the shard, so that an expert could make an idea of what that shard looks like just by looking at the data and not the image. The interface provides a way to search for shards with the same description (pot zone, pattern type, method, inlay, design, etc)
+
 
 ## API Interfaces, Scrapers & Datasets
 - paleocore / paleocoreR / [GitHub](https://github.com/paleocore/paleocoreR) / [Website](http://paleocore.github.io/paleocoreR/) - R package for interacting with the Paleocore API
@@ -237,6 +246,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - anatolian / archaeological-object-sharing / [GitHub](https://github.com/anatolian/archaeological-object-sharing) - An online space for sharing data, 3d models, etc about archaeological objects to enable the comparison of these objects
 - Open Context / Open Context Python Code Repository / [GitHub](https://github.com/ekansa/open-context-py) - 
 - paleocore / paleocore / [GitHub](https://github.com/paleocore/paleocore) / [Website](https://paleocore.org/) - Towards a data standard for paleoanthropology
+- Steko / svg-pottery-catalogo / [BitBucket](https://bitbucket.org/steko/svg-pottery-catalogo/src/default/) - A simple program that generates a catalogue of your pottery drawings ready for the Web
 
 ## Schema, Ontologies & Templates
 
@@ -245,6 +255,9 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - steko / archvocab / [GitHub](https://github.com/steko/archvocab) / [Internet Archive](https://web.archive.org/web/20101229001934/http://archvocab.net/) - The ArchVocab ontologies by Leif Isaksen
 - scollinselliott / rppsfs / [GitHub](https://github.com/scollinselliott/rppsfs) / [Website](https://steko.github.io/inclusions/) - Roman Peasant Project Small Finds Ontology
 - steko / inclusions / [GitHub](https://github.com/steko/inclusions) / [Website](https://steko.github.io/inclusions/) - Shortcodes to describe inclusions in ceramic bodies
+- David Sturtevant / Archaeological Context Recording System / [Launchpad](https://launchpad.net/archaeologicalcontextrecording) - A database + web frontend system to allow the recording and analyzing of archaeological context data
+- David Sturtevant / Archaeological Environmental Recording System / [Launchpad](https://launchpad.net/archaeologicalenvironmentalrecording) - A database + web frontend system to allow the recording and analyzing of archaeological environmental data
+- David Sturtevant / Archaeological Find Recording System / [Launchpad](https://launchpad.net/archaeologicalfindrecording) - A database + web frontend system to allow the recording and analyzing of archaeological finds data
 
 ## Drivers & IO
 
@@ -265,6 +278,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - archca / pred_map_tut / [GitHub](https://github.com/archca/pred_map_tut) / [Website](https://archca.github.io/pred_map_tut/index.html) - A tutorial for (archaeological) predictive mapping using r
 - zackbatist / DIYFieldworkDatabase / [GitHub](https://github.com/zackbatist/DIYFieldworkDatabase) - Documenting and sharing my ad-hoc fieldwork database setup
 - zackbatist / archaeo-db-workshop / [GitHub](https://github.com/zackbatist/archaeo-db-workshop) - Information and guidelines for a workshop about managing archaeological databases
+- Stefano Costa / svg-pottery / [BitBucket](https://bitbucket.org/steko/svg-pottery/src/default/) - A set of best practices, how-tos and implementations for publishing pottery drawings on the Web
 
 ## Public Archaeology
 
@@ -289,6 +303,10 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 ## Writing
 
+## Logistics
++ Lucian Pricop / projectmanagersdb / [Launchpad](https://launchpad.net/projectmanagersdb) - Web based system to replace paper, spreadsheet and Access databases. It enables members of the Administration Department to communicate project related financial information to the project managers and makes it easy to view and organise financial, time and staff data from a project manager's point of view
++ Lucian Pricop / Time Recording System / [Launchpad](https://launchpad.net/timesheets) / [Sourceforge](https://sourceforge.net/projects/timerecsystem/) - Web based system to replace paper and spreadsheet timesheets. Although developed within archaeology it is probably of use beyond - it is not a time management system or a project management system, just a simple and effective way to record and store the time spent by people on projects and tasks.
+
 ## Lists
 
 - zackbatist / open-archaeo / [GitHub](https://github.com/zackbatist/open-archaeo) / [Website](https://zackbatist.github.io/open-archaeo/) - A list of open source archaeological software and resources
@@ -304,6 +322,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - Charles E. Jones / Roundup of Resources on Ancient Geography / [Blog Post](http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html) / [Twitter](https://twitter.com/AWOL_tweets) - Included in the following list are links to digital project dealing with geography and the ancient world
 - Charles E. Jones & Tom Elliott / The AWOL Index / [Website](http://isaw.nyu.edu/publications/awol-index/) - This publication systematically describes ancient-world information resources on the world-wide web. The bibliographic data presented herein has been programmatically extracted from the content of AWOL - The Ancient World Online (ISSN 2156-2253) and formatted in accordance with a structured data model
 + BritishMuseum / gitMuseum / [GitHub](https://github.com/BritishMuseum/gitMuseum) - A repository listing Museums active on GitHub, written in Rstats
++ openarchaeology / OpenArchaeology.net / [Launchpad](https://launchpad.net/openarchaeology) - Open Archaeology hosts a number of sub-projects that while functional at a component level are intended to interoperate creating a complete AIS (Archaeological Information System), including the components necessary to manage the organisation carrying out the archaeology
 
 ## Other
 
@@ -319,3 +338,4 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + julienmoeys / soiltexture / [GitHub](https://github.com/julienmoeys/soiltexture) / [CRAN](https://cran.r-project.org/web/packages/soiltexture/index.html) - The Soil Texture Wizard is a set of R functions designed to produce texture triangles (also called texture plots, texture diagrams, texture ternary plots), classify and transform soil textures data
 + ahb108 / sparch / [GitHub](https://github.com/ahb108/sparch) - A set of extra utilities that extend the functionlaity provided by core packages for spatial data management and analysis in R
 + ropensci / MtreeRing / [GitHub](https://github.com/ropensci/MtreeRing) / [Website](https://ropensci.github.io/MtreeRing/) - A tool for automatically measuring tree-ring width using image processing techniques
++ steko / qrcode-storage / [BitBucket](https://bitbucket.org/steko/qrcode-storage/src/default/) - Scripts to create QR-Code images for storage boxes. Each box has an associated web page describing its content, and the QR-Code serves as a short-link from the physical object to the web page.	
