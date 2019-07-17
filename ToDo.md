@@ -12,15 +12,59 @@ This is a list of tools or resources that are in demand, but which currently do 
 ## Improvements to open-archaeo
 - [ ] Implement a tag-based system rather than categories, so that multiple standard descriptors can be used for each item.
     - [ ] Also tags for programming language/platform.
-    - @zackbatist working on it.
+    - Using tabletop.js à-la https://github.com/nafergo/archaeoware/ [???]
+    - Alternatively, see the 'MySQLicious' solution, as documented at http://howto.philippkeller.com/2005/04/24/Tags-Database-schemas/ (but this is probably overly complicated)
+        - A controlled vocabulary needs to be devised to ensure that the tags visible to the user correspond with what's in the table
+        - Selected tags would be parsed and used slotted into the appropriate SQL statements:
+                          ```SQL
+            SELECT *
+            FROM `Items`
+            WHERE Tags LIKE "%Lists%"
+            AND Tags LIKE "%Writing%"
+            AND Tags LIKE "%Web scrapers%"
+
+            SELECT *
+            FROM `Items`
+            WHERE Tags LIKE "%Lists%"
+            OR Tags LIKE "%Writing%"
+            OR Tags LIKE "%Web scrapers%"
+
+            SELECT *
+            FROM `Items`
+            WHERE Tags LIKE "%Lists%"
+            AND Tags LIKE "%Writing%"
+            AND Tags NOT LIKE "%Web scrapers%"
+            ```
+            
 - [ ] Track the maintenance status of each item, including tags such as 'active' or 'unmaintained', or even version numbers of the latest release (but version numbers are not really that commonly used in this domain).
     - Time since most recent commit can be automatically checked, but noting whether things are broken must involve active engagement with the software.
-- [ ] Highlight authorship information.
-    - [ ] Create separate table for people, which allows us to associate real names with user names on various platforms.
+    
+    1. Identify CSS elements/modules where this info is kept:
+    
+    |Service   |Element|
+|----------|-------|
+|GitHub:   |       |
+|GitLab:   |       |
+|BitBucket:|       |
+|CRAN:     |       |
+|PyPy:     |       |
+|WordPress:|       |
+|LaunchPad:|       |
+    
+    2. Extract this info and append it to the dataset
+    3. Automate this process of checking in with the linked pages
+    4. Calculate time since last update
+    5. Keep tabs on CSS changes that would break this process
+    
+- [ ] Create separate table for people, which allows us to associate real names with user names on various platforms.
         - Inclusion of online identifying info should be opt-in to respect people's privacy, and to ensure that people share only what they want to share.
-    - [ ] Create separate table for organizations, which allows us to distinguish authorship from institutional support.
-        - What about software published by organisations or collectives rather than under people's own names? Will have to hunt for those names.
-    - @zackbatist working on it.
-- [ ] Translate into multiple languages.
-- [ ] Web interface. Bought a domain and made a static page (https://open-archaeo.info/) but could be improved quite a bit (see https://github.com/nafergo/archaeoware/issues/1).
-    - @zackbatist working on it.
+        - A simple `GROUPBY` function can be used to tabulate all the items contributed by an individual
+        - The GitHub/GitLab/BitBucket/etc APIs can be tapped to obtain institutional info, profile pictures, etc
+        
+- [ ] Distinguish individuals authors from institutions or organizations
+    - [ ] Hunt down authors' names for software published under organizational accounts
+    - [ ] Identify whether there is institutional support, and if there is then add another visual element pertaining to each item's entry
+
+- [ ] Translate into more languages.
+
+- [ ] Figure out how to deploy this thing.
