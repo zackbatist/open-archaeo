@@ -99,6 +99,8 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - Johanna-Mestorf-Academy / sdsbrowser / [GitHub](https://github.com/Johanna-Mestorf-Academy/sdsbrowser) / [Website](http://sds.ufg.uni-kiel.de/) - sdsbrowser is an R Shiny WebApp developed to make the available SDS datasets (following the Systematic and Digital Documentation of Stone Artefacts recording system) more accessible. It is designed to give you a quick overview on the spatial and temporal scope of sites previously analysed with SDS and the distribution of artefacts within these sites.
 - Johanna-Mestorf-Academy / sdsanalysis / [GitHub](https://github.com/Johanna-Mestorf-Academy/sdsanalysis) - sdsanalysis is the backbone of the [sdsbrowser](https://github.com/Johanna-Mestorf-Academy/sdsbrowser) webapp, and can be employed to analyse SDS stone artefact data in R
 - ahb108 / rtefact / [GitHub](https://github.com/ahb108/rtefact) - Brings together a range of methods for analysing the time series, shapes and other properties of archaeological artefacts
+- kotdijian / lithic3dslicer / [GitHub](https://github.com/kotdijian/lithic3dslicer) - .obj slicing for lithic 3d morphometrics
+
 
 ## Literary Analysis & Epigraphy
 
