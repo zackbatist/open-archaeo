@@ -116,6 +116,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - demjanp / CeraMatch / [GitHub](https://github.com/demjanp/CeraMatch) - Visual shape-matching of ceramics profiles
 + kevind992 / Artificial-Intelligent-based-Museum-System / [GitHub](https://github.com/kevind992/Artificial-Intelligent-based-Museum-System) - Museum Based System for detecting a set of artifacts and returning the related information to the user
 + situx / CuneiPainter / [GitHub](https://github.com/situx/CuneiPainter) / [Website](https://situx.github.io/CuneiPainter/) - An App to recognize cuneiform characters on your Android phone
++ dtavern / grainsizeR / [GitHub](https://github.com/dtavern/grainsizeR) - This package contains all the tools necessary to extract grain sizes from images, digitally sieve grain size measurements, and gather descriptive statistics on sieved data
 
 ## 3D Modelling
 
@@ -173,6 +174,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - ahb108 / rcarbon / [GitHub](https://github.com/ahb108/rcarbon) / [CRAN]() - Methods for calibrating and analysing radiocarbon dates
 - iosa/ IOSACal / [GitLab](https://gitlab.com/iosa/iosacal) / [BitBucket](https://bitbucket.org/iosa/iosacal) / [Website](http://c14.iosa.it/en/latest/) - IOSACal is an open source tool for radiocarbon calibration
 - paleolimbot / carbon14 / [GitHub](https://github.com/paleolimbot/carbon14) - The goal of carbon14 is to provide a tidy interface to radiocarbon dating, to promote its inclusion in reproducible manuscripts
+- demjanp / clustering_14C / [GitHub](https://github.com/demjanp/clustering_14C) - A python implementation of the method of clustering radiocarbon dates in order to determine whether they represent separate events, or phases in time
 
 ### Geophysics
 
@@ -201,7 +203,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - Yann Hamon / Digisite / [Launchpad](https://launchpad.net/digisite) - Digisite is a database system and graphical user interface designed for context recording on archaeological sites using mobile devices
 - Chris Puttick / OLPA / [Launchpad](https://launchpad.net/olpa) - To develop software for use in archaeological recording in the field (or town!) with a focus on iterative approaches and collaboration. Utilises hardware frightening similar to that developed by the One Laptop Per Child project
 - Lucian Pricop / Wittenhams Pottery System / [Launchpad](https://launchpad.net/wittenhamspottery) - This application provides a database and an interface for adding, modifying and searching for pottery shards. Adding a shard is done via a tree-like interface for providing the system with all the exact particularities of the ornaments found on the shard, so that an expert could make an idea of what that shard looks like just by looking at the data and not the image. The interface provides a way to search for shards with the same description (pot zone, pattern type, method, inlay, design, etc)
-
+- surf3s / E5 / [GitHub](https://github.com/surf3s/E5) - E5 is a generalized data entry program intended for archaeologists that works with a configuration file where the data entry fields are defined
 
 ## API Interfaces, Scrapers & Datasets
 - paleocore / paleocoreR / [GitHub](https://github.com/paleocore/paleocoreR) / [Website](http://paleocore.github.io/paleocoreR/) - R package for interacting with the Paleocore API
