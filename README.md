@@ -98,7 +98,9 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - iosa/ kotyle / [BitBucket](https://bitbucket.org/iosa/kotyle) - Kotyle (from the ancient greek κοτύλη, “measure of capacity”, “drinking cup”) is a software program for calculating the capacity of a ceramic vessel
 - Johanna-Mestorf-Academy / sdsbrowser / [GitHub](https://github.com/Johanna-Mestorf-Academy/sdsbrowser) / [Website](http://sds.ufg.uni-kiel.de/) - sdsbrowser is an R Shiny WebApp developed to make the available SDS datasets (following the Systematic and Digital Documentation of Stone Artefacts recording system) more accessible. It is designed to give you a quick overview on the spatial and temporal scope of sites previously analysed with SDS and the distribution of artefacts within these sites.
 - Johanna-Mestorf-Academy / sdsanalysis / [GitHub](https://github.com/Johanna-Mestorf-Academy/sdsanalysis) - sdsanalysis is the backbone of the [sdsbrowser](https://github.com/Johanna-Mestorf-Academy/sdsbrowser) webapp, and can be employed to analyse SDS stone artefact data in R
-+ ahb108 / rtefact / [GitHub](https://github.com/ahb108/rtefact) - Brings together a range of methods for analysing the time series, shapes and other properties of archaeological artefacts
+- ahb108 / rtefact / [GitHub](https://github.com/ahb108/rtefact) - Brings together a range of methods for analysing the time series, shapes and other properties of archaeological artefacts
+- kotdijian / lithic3dslicer / [GitHub](https://github.com/kotdijian/lithic3dslicer) - .obj slicing for lithic 3d morphometrics
+
 
 ## Literary Analysis & Epigraphy
 
@@ -162,6 +164,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + NSLS-II / PyXRF / [GitHub](https://github.com/NSLS-II/PyXRF) - PyXRF is a python-based sophisticated fluorescence analysis package for fitting and visualizing X-ray fluorescence data
 + tschoonj / xraylib / [GitHub](https://github.com/tschoonj/xraylib - xraylib is a library containing over 40 functions to be used to retrieve data from some of the most respected databases of physical data in the field of X-ray
 + scikit-beam / scikit-beam / [GitHub](https://github.com/scikit-beam/scikit-beam) - Data analysis tools for X-Ray, Neutron and Electron sciences
++ CloudCal / leedrake5 / [GitHub](https://github.com/leedrake5/CloudCal) - This app will allow you to build & apply calibrations for the Tracer & Artax series of XRF devices
 
 
 ### Neutron Activation Analysis
@@ -265,6 +268,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 - steko / totalopenstation / [GitHub](https://github.com/steko/totalopenstation) / [Website](https://tops.iosa.it/) - Total Open Station downloads and exports survey data from your total station
 - steko / total-station-manuals / [GitHub](https://github.com/steko/total-station-manuals) - Manuals for total stations
+- WiseLabCMU / totalstation-tools / [GitHub](https://github.com/WiseLabCMU/totalstation-tools) - Tools to use and manipulate total station data
 
 ## Educational Resources & Practical Guides
 
