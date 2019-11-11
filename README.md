@@ -335,6 +335,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - adreinhard / cca / [GitHub](https://github.com/adreinhard/cca) - Colossal Cave Adventure digital palaeography and epigraphy project
 - benmarwick / archaeology-grand-challenges.r / [Gist](https://gist.github.com/benmarwick/d3eb3167ccb2116197ca) - Sketch of a look at the 'grand challenges' of Kintigh et al. 2014
 - joeroe / caa2019_halfway_house / [GitHub](https://github.com/joeroe/caa2019_halfway_house) - This poster presents an approach that helps archaeological projects maintain an authoritative database, while retaining the flexibility and accessibility needed for ongoing research with multiple collaborators, by implementing a server–client architecture to maintain a single, consistent research database
+- mrecos / signboardr / [GitHub](https://github.com/mrecos/signboardr) - Extract text from archaeological photos containing a sign board and tag as metadata
 
 ## Bits & Bobs
 
