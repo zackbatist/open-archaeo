@@ -91,6 +91,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - vegandevs / vegan / [GitHub](https://github.com/vegandevs/vegan) - R package for community ecologists: popular ordination methods, ecological null models & diversity analysis
 - vegandevs / vegan3d / [GitHub](https://github.com/vegandevs/vegan3d) - Dynamic and static 3D plotting for vegan
 - gavinsimpson / ggvegan / [GitHub](https://github.com/gavinsimpson/ggvegan) - ggplot-based plots for vegan
++ CWWhitney / ethnobotanyR / [GitHub(https://github.com/CWWhitney/ethnobotanyR) / [Website](http://htmlpreview.github.io/?https://github.com/CWWhitney/ethnobotanyR/blob/master/vignettes/ethnobotanyr_vignette.html) - R package for calculating quantitative ethnobotany indices
 
 ## Artefact Morphology
 
@@ -126,16 +127,17 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + cornelmpop / Lithics3D / [GitHub](https://github.com/cornelmpop/Lithics3D) - An R package for processing and analyzing 3D scans of archaeological lithics
 + sfsheath / 3d-ceramics / [GitHub](https://github.com/sfsheath/3d-ceramics) - 3d models of archaeological ceramics
 + sfsheath / italy-3d-amphitheaters / [GitHub](https://github.com/sfsheath/italy-3d-amphitheaters) - 
-* vicrucann / cherish / [GitHub](https://github.com/vicrucann/cherish) - Cherish is a tool that aids archaeologists and designers to represent historical, urban and archaeological structures and sites in 3D by means of image manipulation and sketching. Combine disparate data types such as photographs, illustrations, diagrams, text annotations, point cloud representation, etc,  into a comprehensive 3D space, to make 3D sense of the data.
-* vicrucann / cherish-installer / [GitHub](https://github.com/vicrucann/cherish-installer) - Installer files for Cherish software
++ vicrucann / cherish / [GitHub](https://github.com/vicrucann/cherish) - Cherish is a tool that aids archaeologists and designers to represent historical, urban and archaeological structures and sites in 3D by means of image manipulation and sketching. Combine disparate data types such as photographs, illustrations, diagrams, text annotations, point cloud representation, etc,  into a comprehensive 3D space, to make 3D sense of the data.
++ vicrucann / cherish-installer / [GitHub](https://github.com/vicrucann/cherish-installer) - Installer files for Cherish software
++ KevinCain / meshlab / [GitHub](https://github.com/KevinCain/meshlab) - These tools are meant to help you render orthographic views of 3D models for archaeological publication by simplifying, segmenting, cleaning and rendering 3D meshes
 
 ## Photogrammetry
 
 - natowi / photogrammetry_datasets / [GitHub](https://github.com/natowi/photogrammetry_datasets) - This is a collection of datasets for photogrammetry
 
 ## Virtual & Augmented Reality
-* carlsun98 / ARFloorPlanApp / [GitHub](https://github.com/carlsun98/ARFloorPlanApp) - Floor plan app using augmented reality.
-* zacharyliu / arshm-release / [GitHub](https://github.com/zacharyliu/arshm-release) - Experimental mobile app demoing cultural heritage documentation tools in augmented reality. Supports capturing and annotating photos in 3D space. Proof-of-concept features in the app include image anchoring and surface drawing tools.
++ carlsun98 / ARFloorPlanApp / [GitHub](https://github.com/carlsun98/ARFloorPlanApp) - Floor plan app using augmented reality.
++ zacharyliu / arshm-release / [GitHub](https://github.com/zacharyliu/arshm-release) - Experimental mobile app demoing cultural heritage documentation tools in augmented reality. Supports capturing and annotating photos in 3D space. Proof-of-concept features in the app include image anchoring and surface drawing tools.
 
 
 ## Drones & Satellite Imagery
@@ -212,7 +214,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 - Chris Puttick / OLPA / [Launchpad](https://launchpad.net/olpa) - To develop software for use in archaeological recording in the field (or town!) with a focus on iterative approaches and collaboration. Utilises hardware frightening similar to that developed by the One Laptop Per Child project
 - Lucian Pricop / Wittenhams Pottery System / [Launchpad](https://launchpad.net/wittenhamspottery) - This application provides a database and an interface for adding, modifying and searching for pottery shards. Adding a shard is done via a tree-like interface for providing the system with all the exact particularities of the ornaments found on the shard, so that an expert could make an idea of what that shard looks like just by looking at the data and not the image. The interface provides a way to search for shards with the same description (pot zone, pattern type, method, inlay, design, etc)
 - surf3s / E5 / [GitHub](https://github.com/surf3s/E5) - E5 is a generalized data entry program intended for archaeologists that works with a configuration file where the data entry fields are defined
-* renderpci / dedalo / [GitHub](https://github.com/renderpci/dedalo) - Dédalo is a knowledge management system for Cultural Heritage (tangible and intangible), Natural Heritage and Oral History/Memory.
++ renderpci / dedalo / [GitHub](https://github.com/renderpci/dedalo) - Dédalo is a knowledge management system for Cultural Heritage (tangible and intangible), Natural Heritage and Oral History/Memory.
 
 ## API Interfaces, Scrapers & Datasets
 - paleocore / paleocoreR / [GitHub](https://github.com/paleocore/paleocoreR) / [Website](http://paleocore.github.io/paleocoreR/) - R package for interacting with the Paleocore API
@@ -239,7 +241,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + c14bazAAR / ISAAKiel / [GitHub](https://github.com/ISAAKiel/c14bazAAR) - R package to query different openly accessible radiocarbon date databases, allowing for basic data cleaning, calibration and merging
 + oblarquez / paleofire / [GitHub](https://github.com/oblarquez/paleofire) / [Website](https://www.gpwg.paleofire.org/) - An R package to analyse sedimentary charcoal records from the Global Charcoal Database to reconstruct past biomass burning
 + oblarquez / GCD / [GitHub](https://github.com/oblarquez/GCD) - Global Charcoal Database
-* rkn2 / Roman-material-database-info / [GitHub](https://github.com/rkn2/Roman-material-database-info) - An interactive database of construction materials used in antiquity meant to enable creation of 3D and virtual reality (VR) models of historic structures.
++ rkn2 / Roman-material-database-info / [GitHub](https://github.com/rkn2/Roman-material-database-info) - An interactive database of construction materials used in antiquity meant to enable creation of 3D and virtual reality (VR) models of historic structures.
 
 ## Linked Open Data
 
