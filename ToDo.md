@@ -10,6 +10,7 @@ This is a list of tools or resources that are in demand, but which currently do 
 - [ ] R package to download data from open dendro data archives. Something like [c14bazAAR](https://github.com/ISAAKiel/c14bazAAR) but for dendro dates.
 
 ## Improvements to open-archaeo
+- [ ] Protocols for how I create/edit summaries, a style guide / template.
 - [ ] Implement a tag-based system rather than categories, so that multiple standard descriptors can be used for each item.
 <<<<<<< HEAD
     - [ ] Also tags for programming language/platform.

@@ -36,6 +36,8 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 ### Viewshed Analysis
 
 + gianmarcoalberti / FuzzyViewshed / [GitHub](https://github.com/gianmarcoalberti/FuzzyViewshed) - ArcGIS toolbox for fuzzy viewshed calculation
++ zoran-cuckovic / QGIS-visibility-analysis / [GitHub](https://github.com/zoran-cuckovic/QGIS-visibility-analysis) / [Website](http://www.zoran-cuckovic.from.hr/QGIS-visibility-analysis/) - Calculates visible surface from a given observer point over a digital elevation model. The plugin is intended for more complex modelling, such as the depth below the visible horizon or generation of intervisibilty networks between groups of points. It is particularly performant for multiple viewshed calculations form a set of fixed points.
++ zoran-cuckovic / senscape / [GitHub](https://github.com/zoran-cuckovic/senscape) - A toolbox for modelling human perception of topography for QGIS, based on QGIS viewshed module.
 
 ### Modelling & Inference
 
@@ -43,6 +45,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + gianmarcoalberti / TRANSIT / [GitHub](https://github.com/gianmarcoalberti/TRANSIT) - GIS toolbox for estimating the duration of ancient sail-powered navigation
 + gianmarcoalberti / mpvecost / [CRAN](https://cran.r-project.org/web/packages/movecost/index.html) - Provides the facility to calculate non-isotropic accumulated cost surface and least-cost paths using a number of human-movement-related cost functions that can be selected by the user. It just requires a Digital Terrain Model, a start location and (optionally) destination locations.
 + demjanp / chrono_spatial_modelling / [GitHub](https://github.com/demjanp/chrono_spatial_modelling) - This is an example implementation of chrono-spatial modelling of settlement activities
++ zoran-cuckovic / QGIS-topographic-networks / [GitHub](https://github.com/zoran-cuckovic/QGIS-topographic-networks) - Models relationships between elements in a terrain model, connecting pixels according to their height difference.
 
 ## Site Mapping
 
@@ -359,3 +362,4 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + ropensci / MtreeRing / [GitHub](https://github.com/ropensci/MtreeRing) / [Website](https://ropensci.github.io/MtreeRing/) - A tool for automatically measuring tree-ring width using image processing techniques
 + steko / qrcode-storage / [BitBucket](https://bitbucket.org/steko/qrcode-storage/src/default/) - Scripts to create QR-Code images for storage boxes. Each box has an associated web page describing its content, and the QR-Code serves as a short-link from the physical object to the web page.	
 + gianmarcoalberti / GmAMisc [GitHub](https://github.com/gianmarcoalberti/GmAMisc) - A collection of functions that built in different points in time. The functions' aim spans from univariate outlier detection, to permutation t test, permutation chi-square test, calculation of Brainerd-Robinson similarity coefficient, validation of logistic regression models, point pattern analysis, and more.
++ zoran-cuckovic / QGIS-scripts / [GitHub](https://github.com/zoran-cuckovic/QGIS-scripts) - Some scripts that could be useful for QGIS users.
