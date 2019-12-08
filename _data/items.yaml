@@ -1,0 +1,25 @@
+- name: open-archaeo
+  author: zack
+  github: https://github.com/zackbatist/open-archaeo
+  website: https://open-archaeo.info/
+  description: 'A list of open source archaeological software and resources'
+  author-url: https://github.com/zackbatist
+  tags: [list, markdown]
+
+- name: example1
+  author: examplex
+  github: https://example.info/
+  description: 'example example example example example example example example example example example example example '
+  tags: [example1, example2]
+
+- name: example2
+  author: exampley
+  website: https://example.info/
+  description: 'example example example example example example example example example'
+  tags: [example2, example3]
+
+- name: example3
+  author: examplez
+  github: https://example.info/
+  description: 'example example example example example example example example example example example example example example example example example example'
+  tags: [example1, example3]
