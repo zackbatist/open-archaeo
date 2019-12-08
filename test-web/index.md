@@ -6,7 +6,7 @@ A list of open source archaeological software and resources.
 
 ## Items
 
-{% for item in site.data.items %}
+{% for item in site.test-web.data.items %}
   <article>
     <p>{{ item.name }}</p>
     <p>by {% if item.author-url %}<a href="{{ item.author-url }}">{% endif %}{{ item.author }}{% if item.author-url %}</a> {% endif %}</p>
