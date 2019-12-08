@@ -1,0 +1,12 @@
+
+.sidebar {
+  width:25%;
+  margin:10px;
+}
+
+header {
+  width:270px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
