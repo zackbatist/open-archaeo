@@ -66,6 +66,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + L-P Archaeology / harris2graph / [GitHub](https://github.com/lparchaeology/harris2graph/) / [GitHub](https://github.com/jlayt/harris2gv) - harris2graph is a script to help migrate data from the LST file format used by the BASP Harris, Stratify and ArchEd packages into modern graph file formats
 + Stefano Costa & iosa / harris-matrix / [GitLab](https://gitlab.com/iosa/harris-matrix) / [BitBucket](https://bitbucket.org/steko/harris/src/default/) - Create a Harris Matrix from archaeological stratigraphy data using Python and Graphviz
 + tsdye / harris-matrix / [GitHub](https://github.com/tsdye/harris-matrix/) / [Website](http://tsdye.online/harris-matrix/homepage/) - Write Graphviz dot files for archaeological sequence diagrams and Bayesian chronological models
++ semerj / harris-matrix / [GitHub](https://github.com/semerj/harris-matrix) - Harris Matrix Visualization for the web using D3 + KLayJS-D3
 
 ## Chronological Modelling
 
@@ -96,6 +97,8 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + vegandevs / vegan3d / [GitHub](https://github.com/vegandevs/vegan3d) - Dynamic and static 3D plotting for vegan
 + gavinsimpson / ggvegan / [GitHub](https://github.com/gavinsimpson/ggvegan) - ggplot-based plots for vegan
 + CWWhitney / ethnobotanyR / [GitHub(https://github.com/CWWhitney/ethnobotanyR) / [Website](http://htmlpreview.github.io/?https://github.com/CWWhitney/ethnobotanyR/blob/master/vignettes/ethnobotanyr_vignette.html) - R package for calculating quantitative ethnobotany indices
++ gsnitker / CharTool / [GitHub](https://github.com/gsnitker/CharTool) - CharTool is a macro tool for quantifying charcoal particles for paleoecological research applications.
+
 
 ## Artefact Morphology
 
@@ -299,6 +302,8 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + zackbatist / DIYFieldworkDatabase / [GitHub](https://github.com/zackbatist/DIYFieldworkDatabase) - Documenting and sharing my ad-hoc fieldwork database setup
 + zackbatist / archaeo-db-workshop / [GitHub](https://github.com/zackbatist/archaeo-db-workshop) - Information and guidelines for a workshop about managing archaeological databases
 + Stefano Costa / svg-pottery / [BitBucket](https://bitbucket.org/steko/svg-pottery/src/default/) - A set of best practices, how-tos and implementations for publishing pottery drawings on the Web
++ ajupton / LA_ICP_MS-Routines_FMNH / [GitHub](https://github.com/ajupton/LA_ICP_MS-Routines_FMNH) - Routines to read and analyze LA-ICP-MS data from the Field Museum's Elemental Analysis Facility
+
 
 ## Public Archaeology
 
@@ -351,6 +356,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + benmarwick / archaeology-grand-challenges.r / [Gist](https://gist.github.com/benmarwick/d3eb3167ccb2116197ca) - Sketch of a look at the 'grand challenges' of Kintigh et al. 2014
 + joeroe / caa2019_halfway_house / [GitHub](https://github.com/joeroe/caa2019_halfway_house) - This poster presents an approach that helps archaeological projects maintain an authoritative database, while retaining the flexibility and accessibility needed for ongoing research with multiple collaborators, by implementing a server–client architecture to maintain a single, consistent research database
 + mrecos / signboardr / [GitHub](https://github.com/mrecos/signboardr) - Extract text from archaeological photos containing a sign board and tag as metadata
++ ajupton / Ceramic_Dashboard / [GitHub](https://github.com/ajupton/Ceramic_Dashboard) / [Website](https://aupton.shinyapps.io/CeramicDashboard/) - Dashboard showing ceramic EDA and interaction network construction in the Late Prehistoric Central Illinois River Valley.
 
 ## Bits & Bobs
 
