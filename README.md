@@ -108,6 +108,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + Johanna-Mestorf-Academy / sdsanalysis / [GitHub](https://github.com/Johanna-Mestorf-Academy/sdsanalysis) - sdsanalysis is the backbone of the [sdsbrowser](https://github.com/Johanna-Mestorf-Academy/sdsbrowser) webapp, and can be employed to analyse SDS stone artefact data in R
 + ahb108 / rtefact / [GitHub](https://github.com/ahb108/rtefact) - Brings together a range of methods for analysing the time series, shapes and other properties of archaeological artefacts
 + kotdijian / lithic3dslicer / [GitHub](https://github.com/kotdijian/lithic3dslicer) - .obj slicing for lithic 3d morphometrics
++ alessandrobattisti / Vessel-Measuring-Tool / [GitHub](https://github.com/alessandrobattisti/Vessel-Measuring-Tool) / [Website](https://alessandrobattisti.github.io/Vessel-Measuring-Tool/#/) - Digitize archeological drawings of vessels in order to calculate their capacity and weight
 
 
 ## Literary Analysis & Epigraphy
@@ -369,3 +370,4 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + steko / qrcode-storage / [BitBucket](https://bitbucket.org/steko/qrcode-storage/src/default/) - Scripts to create QR-Code images for storage boxes. Each box has an associated web page describing its content, and the QR-Code serves as a short-link from the physical object to the web page.	
 + gianmarcoalberti / GmAMisc [GitHub](https://github.com/gianmarcoalberti/GmAMisc) - A collection of functions that built in different points in time. The functions' aim spans from univariate outlier detection, to permutation t test, permutation chi-square test, calculation of Brainerd-Robinson similarity coefficient, validation of logistic regression models, point pattern analysis, and more.
 + zoran-cuckovic / QGIS-scripts / [GitHub](https://github.com/zoran-cuckovic/QGIS-scripts) - Some scripts that could be useful for QGIS users.
++ alessandrobattisti / measure3d / [GitHub](https://github.com/alessandrobattisti/measure3d) - A simple qgis plugin that measures the 3d distance between two selected points.
