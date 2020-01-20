@@ -25,6 +25,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + Matt Peeples / BasicMapping / [Website](http://www.mattpeeples.net/modules/BasicMapping.html) - Working with map data in R
 + Matt Peeples / PointPattern / [Website](http://www.mattpeeples.net/modules/PointPattern.html) - Point Pattern Analysis
 + Steko / sindwem / [BitBucket](https://bitbucket.org/steko/mpi.r/src/default/) - This R package contains exactly one function, that calculates the "sum of individual weighted means" according to a methodology that is quite common among archaeologists and was first published in 1988 by Elisabeth Fentress and Philip Perkins
++ Bruno Desachy / Explographe / [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/outils-danalyse-graphique-des-donnees) - Application (in LibreOffice Calc) for serializing a graphic matrix from counting tables. The application makes it possible to obtain either a serograph or a graph of the PVI matrograph type (visualization of the differences in independence from the percentages of independence values) which does not favor the vision of the variables over that of the lines and more suitable for non-chronological treatments.
 
 ## Geospatial Analysis
 
@@ -32,6 +33,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 + taphocoenose / Artifact_Class_Diversity / [GitHub](https://github.com/taphocoenose/Artifact_Class_Diversity)
 + demjanp / ede_interpolation / [GitHub](https://github.com/demjanp/ede_interpolation) / [Website](https://plugins.qgis.org/plugins/ede_interpolation/) - A QGIS 3 plugin for spatio-temporal interpolation of archaeological settlement evidence
++ Bruno Desachy / Référentiel et Cartographie de l’Archéologie Parisienne / [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/fsn) - The ambition of this project is to establish a cartographic corpus of Parisian archeology. For this, it aims to provide researchers with an application that is both a consultation platform and a sort of daily and collaborative notepad.
 
 ### Viewshed Analysis
 
@@ -67,6 +69,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + Stefano Costa & iosa / harris-matrix / [GitLab](https://gitlab.com/iosa/harris-matrix) / [BitBucket](https://bitbucket.org/steko/harris/src/default/) - Create a Harris Matrix from archaeological stratigraphy data using Python and Graphviz
 + tsdye / harris-matrix / [GitHub](https://github.com/tsdye/harris-matrix/) / [Website](http://tsdye.online/harris-matrix/homepage/) - Write Graphviz dot files for archaeological sequence diagrams and Bayesian chronological models
 + semerj / harris-matrix / [GitHub](https://github.com/semerj/harris-matrix) - Harris Matrix Visualization for the web using D3 + KLayJS-D3
++ Bruno Desachy / Le Stratifiant / [Website](https://abp.hypotheses.org/3965) - Application for creating stratigraphic diagrams and checking the consistency of the chronostratigraphic recording.
 
 ## Chronological Modelling
 
@@ -77,6 +80,8 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + ArchaeoStat / ArchaeoChron / [GitHub](https://github.com/ArchaeoStat/ArchaeoChron) - Bayesian Modeling of Archaeological Chronologies
 + ArchaeoStat / ArchaeoPhases / [GitHub](https://github.com/ArchaeoStat/ArchaeoPhases) - Tools for the post-processing of the Markov Chain simulated by any software used for the construction of archeological chronologies
 + marieannevibet / ArchaeoPhases / [GitHub](https://github.com/marieannevibet/ArchaeoPhases) / [CRAN](https://cran.r-project.org/web/packages/ArchaeoPhases/index.html) - Post-Processing of the Markov Chain Simulated by 'ChronoModel', 'Oxcal' or 'BCal'
++ Bruno Desachy / Chronophage / [Website](https://abp.hypotheses.org/4284) - Applications for obtaining chronograms (quantified chronology diagrams) and time distribution curves of archaeological or historical units from quantified dating indicators treated as inaccuracy intervals.
++ Bruno Desachy / Seriographe EPPM / [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/outils-danalyse-graphique-des-donnees) - The EPPM serograph is a graphical tool for chronological serialization of archaeological furniture counting tables.
 
 ## Zooarchaeology
 
@@ -134,7 +139,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + ISAAKiel / recexcavAAR / [GitHub](https://github.com/ISAAKiel/recexcavAAR/) / [CRAN]() - R package for 3D reconstruction of archaeological excavations
 + cornelmpop / Lithics3D / [GitHub](https://github.com/cornelmpop/Lithics3D) - An R package for processing and analyzing 3D scans of archaeological lithics
 + sfsheath / 3d-ceramics / [GitHub](https://github.com/sfsheath/3d-ceramics) - 3d models of archaeological ceramics
-+ sfsheath / italy-3d-amphitheaters / [GitHub](https://github.com/sfsheath/italy-3d-amphitheaters) - 
++ sfsheath / italy-3d-amphitheaters / [GitHub](https://github.com/sfsheath/italy-3d-amphitheaters) -
 + vicrucann / cherish / [GitHub](https://github.com/vicrucann/cherish) - Cherish is a tool that aids archaeologists and designers to represent historical, urban and archaeological structures and sites in 3D by means of image manipulation and sketching. Combine disparate data types such as photographs, illustrations, diagrams, text annotations, point cloud representation, etc,  into a comprehensive 3D space, to make 3D sense of the data.
 + vicrucann / cherish-installer / [GitHub](https://github.com/vicrucann/cherish-installer) - Installer files for Cherish software
 + KevinCain / meshlab / [GitHub](https://github.com/KevinCain/meshlab) - These tools are meant to help you render orthographic views of 3D models for archaeological publication by simplifying, segmenting, cleaning and rendering 3D meshes
@@ -169,7 +174,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + dstreble / shiny_DRAC / [GitHub](https://github.com/dstreble/shiny_DRAC) - graphical interface for DRAC
 + wojdyr / xylib / [GitHub](https://github.com/wojdyr/xylib) - xylib is a portable library for reading files with x-y data from powder diffraction, spectroscopy, or other experimental methods
 + R-Lum / rxylib / [GitHub](https://github.com/R-Lum/rxylib) - R package: wrapper for the C+library xylib
-+ benmarwick / osl_calibration.r / [Gist](https://gist.github.com/benmarwick/5f996a0f52ba1d92f76968119f941bd8) - 
++ benmarwick / osl_calibration.r / [Gist](https://gist.github.com/benmarwick/5f996a0f52ba1d92f76968119f941bd8) -
 + crp2a / gamma / [GitHub](https://github.com/crp2a/gamma) / [Website](https://gamma.archaeo.science/) - Dose Rate Estimation from In-Situ Gamma-Ray Spectrometry Measurements for Luminescence Dating
 
 ### X-Ray Fluorescence
@@ -223,6 +228,9 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + Lucian Pricop / Wittenhams Pottery System / [Launchpad](https://launchpad.net/wittenhamspottery) - This application provides a database and an interface for adding, modifying and searching for pottery shards. Adding a shard is done via a tree-like interface for providing the system with all the exact particularities of the ornaments found on the shard, so that an expert could make an idea of what that shard looks like just by looking at the data and not the image. The interface provides a way to search for shards with the same description (pot zone, pattern type, method, inlay, design, etc)
 + surf3s / E5 / [GitHub](https://github.com/surf3s/E5) - E5 is a generalized data entry program intended for archaeologists that works with a configuration file where the data entry fields are defined
 + renderpci / dedalo / [GitHub](https://github.com/renderpci/dedalo) - Dédalo is a knowledge management system for Cultural Heritage (tangible and intangible), Natural Heritage and Oral History/Memory.
++ iggdrasil / ishtar / [GitLab](https://gitlab.com/iggdrasil/ishtar) / [Website](https://ishtar-archeo.net/en/) / [Documentation](https://ishtar.readthedocs.io/fr/wip-python3/) / [Vimeo](https://vimeo.com/ishtardb) - Ishtar is a database project for managing archaeological data and documentation from archaeological operations, that prioritizes maximum traceability of the information. Designed to enable inter-database communication, the Ishtar project aims rather to a distributed information model than a centralized one: communication between the databases is favored.
++ Bruno Desachy / Stratibase / [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/fsn) - Stratibase is a minimal field recording database application (currently in FileMaker FP7 format software), aimed at the simplest structure possible to perform the basic functions of a stratigraphic recording.
++ Bruno Desachy / Fiche Stratigraphique Numérique (FSN) / [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/fsn) - Fiche Stratigraphique Numérique (FSN) is an application project for field recording and management of archaeological operations data.
 
 ## API Interfaces, Scrapers & Datasets
 
@@ -267,7 +275,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 
 + rekrei / rekrei / [GitHub](https://github.com/rekrei/rekrei) - Platform for crowdsourcing the digital recreation of lost heritage
 + anatolian / archaeological-object-sharing / [GitHub](https://github.com/anatolian/archaeological-object-sharing) - An online space for sharing data, 3d models, etc about archaeological objects to enable the comparison of these objects
-+ Open Context / Open Context Python Code Repository / [GitHub](https://github.com/ekansa/open-context-py) - 
++ Open Context / Open Context Python Code Repository / [GitHub](https://github.com/ekansa/open-context-py) -
 + paleocore / paleocore / [GitHub](https://github.com/paleocore/paleocore) / [Website](https://paleocore.org/) - Towards a data standard for paleoanthropology
 + Steko / svg-pottery-catalogo / [BitBucket](https://bitbucket.org/steko/svg-pottery-catalogo/src/default/) - A simple program that generates a catalogue of your pottery drawings ready for the Web
 
@@ -293,7 +301,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + kacebe / AtlantGIS / [GitHub](https://github.com/kacebe/AtlantGIS) - Faked GIS-Datasets, simulating an island in the Atlantic for educational purposes in using GIS in archaeology
 + isaacullah / GIS-Projects / [GitHub](https://github.com/isaacullah/GIS-Projects) - GIS Projects for teaching and learning about Computational Archaeology
 + o-date / ODATE / [GitHub](https://github.com/o-date/draft) / [Website](https://o-date.github.io/) - An introduction to the issues, methods, and techniques of digital archaeology, integrated with working code and virtual computing environments or 'notebooks' written in Python or R.
-+ msu-anthropology / Digital Encyclopedia of Archaeologists / [GitHub](https://github.com/msu-anthropology/deoa) - 
++ msu-anthropology / Digital Encyclopedia of Archaeologists / [GitHub](https://github.com/msu-anthropology/deoa) -
 + isaacullah / [Website](http://isaacullah.github.io/A-mobile-field-data-collection-workflow/) - A Mobile Data-Collection Workflow for Archaeologists
 + benmarwick / benmarwicka-scientific-computing-environment-for-archaeology.txt / [Gist](https://gist.github.com/benmarwick/11204658) - Scientific Computing Environment for archaeology: Installing R, Rstudio and other things on a lightweight Linux in a VirtualBox virtual machine
 + fradeve / grass-arch / [GitHub](https://github.com/fradeve/grass-arch) - A LaTeX textbook devoted to explain how archaeologists can work with GRASS GIS
@@ -344,7 +352,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + isaacullah /  / [Blog](http://isaacullah.github.io/List-of-FOSS-tools-for-academics/) - Isaac's List of FOSS tools for academics... and what to use them for!
 + sarahkansa / levant-zooarch / [GitHub](https://github.com/sarahkansa/levant-zooarch) - Table of faunal analyses from archaeological sites in the Levant
 + Charles E. Jones / Alphabetical List of Open Access Monograph Series in Ancient Studies / [Blog Post](http://ancientworldonline.blogspot.com/2014/06/alphabetical-list-of-open-access.html) / [Twitter](https://twitter.com/AWOL_tweets) - This page includes links to digitized or born-digital open access monograph series
-+ Charles E. Jones / Alphabetical List of Open Access Journals in Ancient Studies / [Blog Post](http://ancientworldonline.blogspot.com/2015/12/alphabetical-list-of-open-access.html) / [Twitter](https://twitter.com/AWOL_tweets) - 
++ Charles E. Jones / Alphabetical List of Open Access Journals in Ancient Studies / [Blog Post](http://ancientworldonline.blogspot.com/2015/12/alphabetical-list-of-open-access.html) / [Twitter](https://twitter.com/AWOL_tweets) -
 + Charles E. Jones / Open Access Ancient Language Textbooks, OERs, and Primers / [Blog Post](http://ancientworldonline.blogspot.com/2009/09/open-access-textbooks.html) / [Twitter](https://twitter.com/AWOL_tweets) - Open Access Textbooks, OERs, and Language Primers relating to the ancient world
 + Charles E. Jones / Roundup of Resources on Ancient Geography / [Blog Post](http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html) / [Twitter](https://twitter.com/AWOL_tweets) - Included in the following list are links to digital project dealing with geography and the ancient world
 + Charles E. Jones & Tom Elliott / The AWOL Index / [Website](http://isaw.nyu.edu/publications/awol-index/) - This publication systematically describes ancient-world information resources on the world-wide web. The bibliographic data presented herein has been programmatically extracted from the content of AWOL - The Ancient World Online (ISSN 2156-2253) and formatted in accordance with a structured data model
@@ -367,7 +375,8 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + julienmoeys / soiltexture / [GitHub](https://github.com/julienmoeys/soiltexture) / [CRAN](https://cran.r-project.org/web/packages/soiltexture/index.html) - The Soil Texture Wizard is a set of R functions designed to produce texture triangles (also called texture plots, texture diagrams, texture ternary plots), classify and transform soil textures data
 + ahb108 / sparch / [GitHub](https://github.com/ahb108/sparch) - A set of extra utilities that extend the functionlaity provided by core packages for spatial data management and analysis in R
 + ropensci / MtreeRing / [GitHub](https://github.com/ropensci/MtreeRing) / [Website](https://ropensci.github.io/MtreeRing/) - A tool for automatically measuring tree-ring width using image processing techniques
-+ steko / qrcode-storage / [BitBucket](https://bitbucket.org/steko/qrcode-storage/src/default/) - Scripts to create QR-Code images for storage boxes. Each box has an associated web page describing its content, and the QR-Code serves as a short-link from the physical object to the web page.	
++ steko / qrcode-storage / [BitBucket](https://bitbucket.org/steko/qrcode-storage/src/default/) - Scripts to create QR-Code images for storage boxes. Each box has an associated web page describing its content, and the QR-Code serves as a short-link from the physical object to the web page.
 + gianmarcoalberti / GmAMisc [GitHub](https://github.com/gianmarcoalberti/GmAMisc) - A collection of functions that built in different points in time. The functions' aim spans from univariate outlier detection, to permutation t test, permutation chi-square test, calculation of Brainerd-Robinson similarity coefficient, validation of logistic regression models, point pattern analysis, and more.
 + zoran-cuckovic / QGIS-scripts / [GitHub](https://github.com/zoran-cuckovic/QGIS-scripts) - Some scripts that could be useful for QGIS users.
 + alessandrobattisti / measure3d / [GitHub](https://github.com/alessandrobattisti/measure3d) - A simple qgis plugin that measures the 3d distance between two selected points.
++ Bruno Desachy / Sériation de matrice en présence/absence / [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/outils-danalyse-graphique-des-donnees) - Excel file containing macro commands making it possible to transform a 1/0 table (presence / absence) into a graphic matrix treated by matrix permutations; it is possible to take into account the uncertain presence of a character. The instructions for use are contained in the file.
