@@ -26,6 +26,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + Matt Peeples / PointPattern / [Website](http://www.mattpeeples.net/modules/PointPattern.html) - Point Pattern Analysis
 + Steko / sindwem / [BitBucket](https://bitbucket.org/steko/mpi.r/src/default/) - This R package contains exactly one function, that calculates the "sum of individual weighted means" according to a methodology that is quite common among archaeologists and was first published in 1988 by Elisabeth Fentress and Philip Perkins
 + Bruno Desachy / Explographe / [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/outils-danalyse-graphique-des-donnees) - Application (in LibreOffice Calc) for serializing a graphic matrix from counting tables. The application makes it possible to obtain either a serograph or a graph of the PVI matrograph type (visualization of the differences in independence from the percentages of independence values) which does not favor the vision of the variables over that of the lines and more suitable for non-chronological treatments.
++ benmarwick / predictSource / [GitHub](https://github.com/benmarwick/predictSource) A package to analyze data used to determine whether samples from multiple sources can be separated, to predict the sources of samples from unknown sources, and to evaluation the validity of those predictions. Sample data can include both quantitative and qualitative data. The package includes functions for creating an analysis file from multiple files and exploratory data analysis, as well as multivariate statistical methods to determine source separation, predict sources of unknown samples, and evaluate the validity of the predictions (principal components, classification trees, and random forests).
 
 ## Geospatial Analysis
 
@@ -40,6 +41,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + gianmarcoalberti / FuzzyViewshed / [GitHub](https://github.com/gianmarcoalberti/FuzzyViewshed) - ArcGIS toolbox for fuzzy viewshed calculation
 + zoran-cuckovic / QGIS-visibility-analysis / [GitHub](https://github.com/zoran-cuckovic/QGIS-visibility-analysis) / [Website](http://www.zoran-cuckovic.from.hr/QGIS-visibility-analysis/) - Calculates visible surface from a given observer point over a digital elevation model. The plugin is intended for more complex modelling, such as the depth below the visible horizon or generation of intervisibilty networks between groups of points. It is particularly performant for multiple viewshed calculations form a set of fixed points.
 + zoran-cuckovic / senscape / [GitHub](https://github.com/zoran-cuckovic/senscape) - A toolbox for modelling human perception of topography for QGIS, based on QGIS viewshed module.
++ stellarium / ArchaeoLines / [GitHub](https://github.com/Stellarium/stellarium/tree/master/plugins/ArchaeoLines) / [Website](http://stellarium.sourceforge.net/wiki/index.php/ArchaeoLines_plugin) / - The ArchaeoLines plugin displays any combination of declination arcs most relevant to archaeo- or ethnoastronomical studies.
 
 ### Modelling & Inference
 
@@ -144,9 +146,15 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + vicrucann / cherish-installer / [GitHub](https://github.com/vicrucann/cherish-installer) - Installer files for Cherish software
 + KevinCain / meshlab / [GitHub](https://github.com/KevinCain/meshlab) - These tools are meant to help you render orthographic views of 3D models for archaeological publication by simplifying, segmenting, cleaning and rendering 3D meshes
 
+## Imaging
++ kmartinez / rti / [GitHub](https://github.com/kmartinez/rti) / [Website](https://custom-imaging.co.uk/software/) - Series of common tols used by most Reflectance Transformation Imaging (RTI) projects, plus some custom programs to help with the workflow from the camera to the output.
++ culturalheritageimaging / RTIBuilder / [Website](http://culturalheritageimaging.org/What_We_Offer/Downloads/Process/index.html) -  A software interface to a set of tools that process your captured image set to produce the final RTI files. The RTIBuilder download includes the Hemispherical Harmonics (HSH) fitter to create .rti files.
++ culturalheritageimaging / RTIViewer / [Website](http://culturalheritageimaging.org/What_We_Offer/Downloads/View/index.html) -  Enables you to view and explore Reflectance Transformation Imaging (RTI) files at very high resolution (Polynomial Texture Maps, Hemispherical Harmonics Map, and Multiview RTI). You can view image files stored on your local file system, and remote files through HTTP.
+
 ## Photogrammetry
 
 + natowi / photogrammetry_datasets / [GitHub](https://github.com/natowi/photogrammetry_datasets) - This is a collection of datasets for photogrammetry
++ anatolian / photogrammetry-object-scannner / [GitHub)[https://github.com/anatolian/photogrammetry-object-scannner] - Created for the very-specific purpose of communicating via android with a raspberry pi running a scanner.
 
 ## Virtual & Augmented Reality
 + carlsun98 / ARFloorPlanApp / [GitHub](https://github.com/carlsun98/ARFloorPlanApp) - Floor plan app using augmented reality.
@@ -185,7 +193,6 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + tschoonj / xraylib / [GitHub](https://github.com/tschoonj/xraylib - xraylib is a library containing over 40 functions to be used to retrieve data from some of the most respected databases of physical data in the field of X-ray
 + scikit-beam / scikit-beam / [GitHub](https://github.com/scikit-beam/scikit-beam) - Data analysis tools for X-Ray, Neutron and Electron sciences
 + CloudCal / leedrake5 / [GitHub](https://github.com/leedrake5/CloudCal) - This app will allow you to build & apply calibrations for the Tracer & Artax series of XRF devices
-
 
 ### Neutron Activation Analysis
 
@@ -231,6 +238,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + iggdrasil / ishtar / [GitLab](https://gitlab.com/iggdrasil/ishtar) / [Website](https://ishtar-archeo.net/en/) / [Documentation](https://ishtar.readthedocs.io/fr/wip-python3/) / [Vimeo](https://vimeo.com/ishtardb) - Ishtar is a database project for managing archaeological data and documentation from archaeological operations, that prioritizes maximum traceability of the information. Designed to enable inter-database communication, the Ishtar project aims rather to a distributed information model than a centralized one: communication between the databases is favored.
 + Bruno Desachy / Stratibase / [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/fsn) - Stratibase is a minimal field recording database application (currently in FileMaker FP7 format software), aimed at the simplest structure possible to perform the basic functions of a stratigraphic recording.
 + Bruno Desachy / Fiche Stratigraphique Numérique (FSN) / [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/fsn) - Fiche Stratigraphique Numérique (FSN) is an application project for field recording and management of archaeological operations data.
++ openGIS / QField / [GitHub](https://github.com/opengisch/QField) / [Website](https://qfield.org/) - A simplified touch optimized interface for QGIS.
 
 ## API Interfaces, Scrapers & Datasets
 
@@ -259,6 +267,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + oblarquez / paleofire / [GitHub](https://github.com/oblarquez/paleofire) / [Website](https://www.gpwg.paleofire.org/) - An R package to analyse sedimentary charcoal records from the Global Charcoal Database to reconstruct past biomass burning
 + oblarquez / GCD / [GitHub](https://github.com/oblarquez/GCD) - Global Charcoal Database
 + rkn2 / Roman-material-database-info / [GitHub](https://github.com/rkn2/Roman-material-database-info) - An interactive database of construction materials used in antiquity meant to enable creation of 3D and virtual reality (VR) models of historic structures.
++ anatolian / archaeology-data-service / [GitHub[(https://github.com/anatolian/archaeology-data-service) - an app to collect data on archaeological objects.
 
 ## Linked Open Data
 
@@ -336,6 +345,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + adammertel / gods_on_the_barge / [GitHub](https://github.com/adammertel/gods_on_the_barge) / [Website](http://www.coffeegnome.net/godsonthebarge/) - Inspired by the research project of historiography of ancient Graeco-Roman religions (<http://gehir.phil.muni.cz>), the main goal is to spread a selected cult successfully across the ancient Mediterranean
 
 ## Writing
++ anatolian / anatolia-bibliography-map [GitHub](https://github.com/anatolian/anatolia-bibliography-map) - The goal of this project is to spatially locate bibliographic resources regarding the archaeology of Anatolia (modern Turkey). This takes the bibliography of archaeology to the next level by showing not only the topics and authors, but where the archaeological research is being done.
 
 ## Logistics
 
