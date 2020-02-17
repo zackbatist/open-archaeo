@@ -50,6 +50,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + gianmarcoalberti / mpvecost / [CRAN](https://cran.r-project.org/web/packages/movecost/index.html) - Provides the facility to calculate non-isotropic accumulated cost surface and least-cost paths using a number of human-movement-related cost functions that can be selected by the user. It just requires a Digital Terrain Model, a start location and (optionally) destination locations.
 + demjanp / chrono_spatial_modelling / [GitHub](https://github.com/demjanp/chrono_spatial_modelling) - This is an example implementation of chrono-spatial modelling of settlement activities
 + zoran-cuckovic / QGIS-topographic-networks / [GitHub](https://github.com/zoran-cuckovic/QGIS-topographic-networks) - Models relationships between elements in a terrain model, connecting pixels according to their height difference.
++ josephlewis / leastcostpath / [GitHub](https://github.com/josephlewis/leastcostpath) - Provides the functionality to calculate Least Cost Paths (LCPs) which are often, but not exclusively, used in archaeological research. This package can be used to apply multiple cost functions when approximating the difficulty of moving across a landscape, as well as taking into account traversing across slope and other costs such as landscape features. This package also provides functionality to validate the accuracy of the computed LCP relative to another path.
 
 ## Site Mapping
 
@@ -298,6 +299,7 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
 + David Sturtevant / Archaeological Context Recording System / [Launchpad](https://launchpad.net/archaeologicalcontextrecording) - A database + web frontend system to allow the recording and analyzing of archaeological context data
 + David Sturtevant / Archaeological Environmental Recording System / [Launchpad](https://launchpad.net/archaeologicalenvironmentalrecording) - A database + web frontend system to allow the recording and analyzing of archaeological environmental data
 + David Sturtevant / Archaeological Find Recording System / [Launchpad](https://launchpad.net/archaeologicalfindrecording) - A database + web frontend system to allow the recording and analyzing of archaeological finds data
++ poseidon-framework / [GitHub](https://github.com/poseidon-framework) / [Website](https://poseidon-framework.github.io/) - Poseidon is a framework that seeks to provide standardized ways to store and share archaeogenetic, and perhaps more broadly, molecular archaeological datasets.
 
 ## Drivers & IO
 
