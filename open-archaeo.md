@@ -5,7 +5,7 @@
 [[GitHub]](github) · [[Gist]](gist) · [[GitLab]](gitlab) · [[BitBucket]](bitbucket) · [[Launchpad]](launchpad) · [[Twitter]](twitter) · [[Blog Post]](blogpost) · [[CRAN]](cran) · [[PyPi]](pypi) · [[Website]](website)</br>
 **Authors:** 
 author1_name · author2_name · author3_name · author4_name · author5_name · </br>
-* **xopen-archaeo:** A list of open source archaeological software and resources.</br>
+* **open-archaeo:** A list of open source archaeological software and resources.</br>
 **Tags:** 
 [List] · [Meta] · </br>
 **Links:** 
