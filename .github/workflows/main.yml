@@ -28,7 +28,7 @@ jobs:
 
       - name: script
         run: |
-          while IFS=";" read item_name description github gist gitlab bitbucket launchpad twitter blogpost cran pypi website author1_name author2_name author3_name author4_name author5_name tag1 tag2 tag3 tag4 tag5 Notes;
+          while IFS=";" read item_name description github gist gitlab bitbucket launchpad twitter blogpost cran pypi website author1_name author2_name author3_name author4_name author5_name tag1 tag2 tag3 tag4 tag5 notes;
           do
             echo -e "* **$item_name:** $description</br>";
             echo "**Tags:** " && if ! [ -z "$tag1" ]; then printf "[$tag1] · "; fi && if ! [ -z "$tag2" ]; then printf "[$tag2] · "; fi && if ! [ -z "$tag3" ]; then printf "[$tag3] · "; fi && if ! [ -z "$tag4" ]; then printf "[$tag4] · "; fi && if ! [ -z "$tag5" ]; then printf "[$tag5] · "; fi && echo -e "</br>"
