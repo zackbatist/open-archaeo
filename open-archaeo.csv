@@ -1,5 +1,5 @@
 item_name;description;github;gist;gitlab;bitbucket;launchpad;twitter;blogpost;cran;pypi;website;author1_name;author2_name;author3_name;author4_name;author5_name;tag1;tag2;tag3;tag4;tag5
-zopen-archaeo;A list of open source archaeological software and resources.;https://github.com/zackbatist/open-archaeo;;;;;;;;;https://zackbatist.github.io/open-archaeo/;Zack Batist;;;;;List;Meta;;;
+open-archaeo;A list of open source archaeological software and resources.;https://github.com/zackbatist/open-archaeo;;;;;;;;;https://zackbatist.github.io/open-archaeo/;Zack Batist;;;;;List;Meta;;;
 FLiRT;A database interface designed to facilitate the irregular, iterative, and non-linear workflows that are commonly employed in lithic analysis.;https://github.com/zackbatist/FLIRT;;;;;;;;;;Zack Batist;Dan Contreras;Ciara Zogheib;;;Data entry;Data wrangling;Lithic analysis;R Shiny;
 quantAAR;R Library for Quantitative Analysis in Archaeology.;https://github.com/ISAAKiel/quantAAR;;;;;;;;;;;ISAAKiel;;;;;X;;;
 tabula;Analysis, Seriation and Visualization of Archaeological Count Data.;https://github.com/nfrerebeau/tabula;;;;;;;;;;;nfrerebeau;;;;;X;;;
