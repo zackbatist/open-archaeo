@@ -23,7 +23,7 @@ jobs:
         run: |
         git clone https://github.com/zackbatist/open-archaeo.git
         cd open-archaeo
-        exec < open-archaeo.csv || exit 1
+        INPUT=open-archaeo.csv || exit 1
         read header
         while IFS=";" read item_name description github gist gitlab bitbucket launchpad twitter blogpost cran pypi website author1_name author2_name author3_name author4_name author5_name tag1 tag2 tag3 tag4 tag5;
         do
