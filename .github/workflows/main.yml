@@ -22,6 +22,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
+      - name: reset the file
+        run: |
+          rm open-archaeo.md
+
       - name: script
         run: |
           while IFS=";" read item_name description github gist gitlab bitbucket launchpad twitter blogpost cran pypi website author1_name author2_name author3_name author4_name author5_name tag1 tag2 tag3 tag4 tag5;
