@@ -21,7 +21,6 @@ jobs:
     steps:
       - name: everything
         run: |
-        git clone https://github.com/zackbatist/open-archaeo.git
         cd open-archaeo
         INPUT=open-archaeo.csv || exit 1
         read header
