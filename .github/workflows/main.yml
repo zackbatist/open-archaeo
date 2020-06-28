@@ -34,15 +34,12 @@ jobs:
           echo "**Authors:** " && if ! [ -z "$author1_name" ]; then printf "$author1_name · "; fi && if ! [ -z "$author2_name" ]; then printf "$author2_name · "; fi && if ! [ -z "$author3_name" ]; then printf "$author3_name · "; fi && if ! [ -z "$author4_name" ]; then printf "$author4_name · "; fi && if ! [ -z "$author5_name" ]; then printf "$author5_name · "; fi && echo -e "</br>"
         done >> open-archaeo.md
         
-    - name: commit files
-      - uses: mikeal/publish-to-github-action@master
-      env: GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-#      run: |
-#        git config --local user.name "zackbatist"
-#        git add open-archaeo.md
-#        git commit -m "Updating the formatted list."
-#        git remote set-url --push origin https://zackbatist:$GITHUB_TOKEN@github.com/zackbatist/open-archaeo
+    - name: commit files     
+      run: |
+        git config --local user.name "zackbatist"
+        git add open-archaeo.md
+        git commit -m "Updating the formatted list."
+        git remote set-url --push origin https://zackbatist:$GITHUB_TOKEN@github.com/zackbatist/open-archaeo
         
         
 
