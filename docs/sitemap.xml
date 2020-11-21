@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zackbatist.github.io/open-archaeo/</loc>
+    <loc>https://open-archaeo.info/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://zackbatist.github.io/open-archaeo/categories/</loc>
+    <loc>https://open-archaeo.info/categories/</loc>
   </url>
   
   <url>
-    <loc>https://zackbatist.github.io/open-archaeo/tags/</loc>
+    <loc>https://open-archaeo.info/tags/</loc>
   </url>
   
 </urlset>

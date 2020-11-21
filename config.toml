@@ -1,6 +1,6 @@
 ## Basic Configuration
 publishDir = "docs"
-baseurl = "https://zackbatist.github.io/open-archaeo/"
+baseurl = "https://open-archaeo.info/"
 languageCode = "en"
 
 title = "open-archaeo"
