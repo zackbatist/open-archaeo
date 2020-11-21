@@ -1,0 +1,66 @@
+<section class="social">
+	{{ with .Site.Params.social.twitter }}
+	<a href="https://twitter.com/{{.}}" rel="me"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a>
+	{{ end }}
+	{{ with .Site.Params.social.microblog }}
+	<a href="https://micro.blog/{{.}}" rel="me"><i class="fab fa-microblog fa-lg" aria-hidden="true"></i></a>
+	{{ end }}
+	{{ with .Site.Params.social.facebook }}
+	<a href="https://facebook.com/{{.}}" rel="me"><i class="fab fa-facebook-f"></i></a>
+	{{ end }}
+	{{ with .Site.Params.social.github }}
+	<a href="https://github.com/{{.}}" rel="me"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a>
+	{{ end }}
+	{{ with .Site.Params.social.bitbucket }}
+	<a href="https://bitbucket.org/{{.}}" rel="me"><i class="fab fa-bitbucket fa-lg" aria-hidden="true"></i></a>
+	{{ end }}
+	{{ $gitlab_domain := "gitlab.com" }}
+	{{ with .Site.Params.social.custom_gitlab_domain }}
+		{{ $gitlab_domain = . }}
+	{{ end }}
+	{{ with .Site.Params.social.gitlab }}
+	<a href="https://{{ $gitlab_domain }}/{{.}}" rel="me"><i class="fab fa-gitlab fa-lg" aria-hidden="true"></i></a>
+	{{ end }}
+	{{ with .Site.Params.social.instagram }}
+	<a href="https://instagram.com/{{.}}" rel="me"><i class="fab fa-instagram fa-lg" aria-hidden="true"></i></a>
+	{{ end }}
+	{{ with .Site.Params.social.linkedin }}
+	<a href="https://linkedin.com/in/{{.}}" rel="me"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a>
+	{{ end }}
+	{{ with .Site.Params.social.googlescholar}}
+	<a href="https://scholar.google.com/citations?user={{.}}" rel="me"><i class="fas fa-graduation-cap fa-lg" aria-hidden="true"></i></a>
+	{{ end }}
+	{{ with .Site.Params.social.stackoverflow }}
+	<a href="https://stackoverflow.com/users/{{.}}" rel="me"><i class="fab fa-stack-overflow fa-lg" aria-hidden="true"></i></a>
+	{{ end }}
+	{{ with .Site.Params.social.medium}}
+	<a href="https://medium.com/@{{.}}" rel="me"><i class="fab fa-medium fa-lg" aria-hidden="true"></i></a>
+	{{ end }}
+	{{ with .Site.Params.social.xing }}
+	<a href="https://www.xing.com/profile/{{.}}" rel="me"><i class="fab fa-xing fa-lg" aria-hidden="true"></i></a>
+	{{ end }}
+	{{ with .Site.Params.social.keybase }}
+	<a href="https://keybase.io/{{.}}" rel="me"><i class="fab fa-keybase fa-lg" aria-hidden="true"></i></a>
+	{{ end }}
+	{{ with .Site.Params.social.telegram }}
+	<a href="https://t.me/{{.}}" rel="me"><i class="fab fa-telegram fa-lg" aria-hidden="true"></i></a>
+	{{ end }}
+	{{ with .Site.Params.social.aboutme }}
+	&nbsp;<a href="https://about.me/{{.}}"><i class="fas fa-address-card fa-lg" aria-hidden="true"></i></a>
+	{{ end }}
+	{{ with .Site.Params.social.orcid }}
+	<a href="https://orcid.org/{{.}}" rel="me"><i class="fab fa-orcid fa-lg" aria-hidden="true"></i></a>
+	{{end}}
+	{{ with .Site.Params.social.email }}
+	<a href="mailto:{{.}}" rel="me"><i class="fas fa-at fa-lg" aria-hidden="true"></i></a>
+	{{ end }}
+	{{ with .Site.Params.social.pgpkey }}
+	<a href="{{.}}" rel="pgpkey"><i class="fa fa-key fa-lg" aria-hidden="true"></i></a>
+	{{ end }}
+	{{ with .Site.Params.social.reddit }}
+	<a href="https://www.reddit.com/user/{{.}}" rel="me"><i class="fab fa-reddit-alien fa-lg" aria-hidden="true"></i></a>
+	{{ end }}
+	{{ with .Site.Params.social.rss }}
+	<a href="{{.}}" rel="me"><i class="fas fa-rss fa-lg" aria-hidden="true"></i></a>
+	{{ end }}
+</section>

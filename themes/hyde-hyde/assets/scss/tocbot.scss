@@ -1,0 +1,31 @@
+@import 'hugo-toc';
+
+.toc {
+  font-size: $toc-font-size;
+  overflow-y: auto;
+  background: $toc-background-color;
+  padding-left: 0rem;
+  padding-top: 1em;
+  > .toc-list {
+    overflow: hidden;
+    position: relative;
+    li {
+      list-style: none;
+    }
+  }
+}
+.toc-list {
+  margin: 0;
+  padding-left: 1rem;
+}
+.is-collapsible {
+  max-height: 1000px;
+  overflow: hidden;
+}
+.is-collapsed {
+  max-height: 0;
+}
+.is-position-fixed {
+  position: fixed;
+  top: 0;
+}

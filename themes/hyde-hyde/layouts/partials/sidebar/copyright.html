@@ -1,0 +1,16 @@
+{{ with .Site.Params.copyright }}
+<div class="copyright">
+
+  Maintained by Zack Batist </br>
+  [<a href="https://github.com/zackbatist">GitHub</a>] [<a href="https://twitter.com/mtl_zack">Twitter</a>] </br>
+  </br>
+  {{ with $.Site.Params.license }}
+    <a href="{{$.Site.Params.licenseURL | safeHTML}}">{{ . | safeHTML }}</a>
+  {{end}}
+</div>
+{{ end }}
+{{ with .Site.Params.showBuiltWith }}
+<div class="builtwith">
+Built with <a href="https://gohugo.io">Hugo</a> ❤️ <a href="https://github.com/htr3n/hyde-hyde">hyde-hyde</a>.
+</div>
+{{ end }}

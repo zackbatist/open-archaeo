@@ -1,0 +1,43 @@
+// Hugo {{ .TableOfContents }}
+$toc-background-color: #eee;
+$toc-font-size: .9rem;
+
+.toc-wrapper {
+  font-size: $toc-font-size;
+  padding: 0.5em 0.5em 0.5em 0em;
+  background: $toc-background-color;
+  label {
+    background: url(/img/menu-close-dark.svg) no-repeat right center;
+    display: block;
+    cursor: pointer;
+    padding-left: 1em;
+  }
+}
+#TableOfContents {
+  overflow: hidden;
+  margin-top: 0;
+  max-height: 100%;
+  > ul {
+    list-style-type: none;
+    padding-left: 0;
+    > li ul {
+      list-style-type: none;
+      padding-left: 1em;
+    }
+  }
+}
+
+input#tocToggle {
+  display: none;
+  + label {
+    font-weight: bold;
+  }
+  &:checked {
+    + label {
+      background-image: url(/img/menu-open-dark.svg);
+    }
+    ~ #TableOfContents {
+      max-height: 0;
+    }
+  }
+}

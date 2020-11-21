@@ -1,0 +1,6 @@
+<span class="section__title">{{ .Title }}</span>
+<ul class="posts">
+    {{ with .Data.Pages }}
+        {{ partial "posts-list.html" . }}
+    {{ end }}
+</ul>

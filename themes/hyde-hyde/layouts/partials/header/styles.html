@@ -1,0 +1,19 @@
+{{ partial "header/styles-highlight.html" . }}
+
+{{ $options := (dict "outputStyle" "compressed" "enableSourceMap" true) }}
+
+{{ $style := resources.Get "scss/hyde-hyde.scss" | toCSS $options | fingerprint }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+
+{{ $printStyle := resources.Get "scss/print.scss" | toCSS $options | fingerprint }}
+<link rel="stylesheet" href="{{ $printStyle.RelPermalink }}" integrity="{{ $printStyle.Data.Integrity }}" media="print">
+
+{{ with .Site.Params.toc }}
+{{ if eq . "hugo" }}
+{{ $hugoToc := resources.Get "scss/hugo-toc.scss" | toCSS $options | fingerprint }}
+<link rel="stylesheet" href="{{ $hugoToc.RelPermalink }}" integrity="{{ $hugoToc.Data.Integrity }}">
+{{ else if eq . "tocbot"}}
+{{ $tocbot := resources.Get "scss/tocbot.scss" | toCSS $options | fingerprint }}
+<link rel="stylesheet" href="{{ $tocbot.RelPermalink }}" integrity="{{ $tocbot.Data.Integrity }}">
+{{ end }}
+{{ end }}

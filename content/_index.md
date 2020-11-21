@@ -1,8 +1,3 @@
-# Open Archaeology Software & Resources
-A list of open source archaeological software and resources
-
-See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) for a list of tools or resources that are in demand, but which currently do not exist or need to be significantly improved.
-
 * **3d-ceramics**: 3d models of archaeological ceramics.
   * by: sfsheath
   * links: [[GitHub](https://github.com/sfsheath/3d-ceramics)]         
@@ -1622,5 +1617,4 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
   * links:     [[LaunchPad](https://launchpad.net/zooos)]     
   * tags: [Zooarchaeology]
 ----
-
 

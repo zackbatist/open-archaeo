@@ -1,0 +1,12 @@
+{{ if .Site.Params.relatedPosts }}
+{{ $related := .Site.RegularPages.Related . | first 5 }}
+{{ with $related }}
+<div class="post__related">
+    <!-- related content -->
+    <h2>Related Articles</h2>
+    <ul class="related-posts">
+        {{ partial "posts-list.html" . }}
+    </ul>
+</div>
+{{ end }}
+{{ end }}
