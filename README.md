@@ -189,6 +189,12 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
   * tags: [Chronological modelling] and [Harrix matrix]
 ----
 
+* **arches**: Arches is a web platform for creating, managing, & visualizing geospatial data. Arches was inspired by the needs of the Cultural Heritage community, particularly the widespread need of organizations to build & manage cultural heritage inventories.
+  * by: archesproject
+  * links: [[GitHub](https://github.com/archesproject/arches)]         [[Website](https://www.archesproject.org/)]
+  * tags: [Data collection and management]
+----
+
 * **archiedb**: A light-weight database application designed to standardize and simplify data entry of archaeological or historical artifacts
   * by: archie
   * links: [[GitHub](https://github.com/archiedb/archie)]         
