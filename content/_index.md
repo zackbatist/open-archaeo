@@ -1114,6 +1114,12 @@
   * tags: [Schema, ontologies and templates]
 ----
 
+* **Potential datasets for PhD projects**: A Google Doc with different archaeological and anthropological datasets and resources for students who need to make changes to their project due to COVID-19
+  * by: Taryn Bell
+  * links:          [[Website](https://docs.google.com/document/d/1BuIJ0ZXzzh838qvMOu59dLCCEz9xE3JnC76oHN-kMTU/edit)]
+  * tags: [Lists]
+----
+
 * **pred_map_tut**: A tutorial for (archaeological) predictive mapping using r
   * by: archca
   * links: [[GitHub](https://github.com/archca/pred_map_tut)]         [[Website](https://archca.github.io/pred_map_tut/index.html)]
