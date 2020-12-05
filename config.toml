@@ -44,6 +44,10 @@ theme = "hyde-hyde"
     # Table of contents
     #toc = none, "hugo", or "tocbot"
 
+    # allow html links
+    [markup.goldmark.renderer]
+    unsafe = true
+
 ## Social Accounts
 [params.social]
      github = "zackbatist/open-archaeo"
