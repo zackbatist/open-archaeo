@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Educational resources and practical guides on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/educational-resources-and-practical-guides/</link>
+    <description>Recent content in Educational resources and practical guides on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/educational-resources-and-practical-guides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Mobile Data-Collection Workflow for Archaeologists</title>
+      <link>https://open-archaeo.info/post/a-mobile-data-collection-workflow-for-archaeologists/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/a-mobile-data-collection-workflow-for-archaeologists/</guid>
+      <description>A list of tools and resource for data collection and processing in the field.</description>
+    </item>
+    
+    <item>
+      <title>a-scientific-computing-environment-for-archaeology.txt</title>
+      <link>https://open-archaeo.info/post/a-scientific-computing-environment-for-archaeology.txt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/a-scientific-computing-environment-for-archaeology.txt/</guid>
+      <description>Scientific Computing Environment for archaeology: Installing R, Rstudio and other things on a lightweight Linux in a VirtualBox virtual machine</description>
+    </item>
+    
+    <item>
+      <title>Analysing-Archaeological-Radiocabon-Ages-Using-R</title>
+      <link>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using-r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using-r/</guid>
+      <description>Practice some techniques for analysing archaeological radiocabon ages using R</description>
+    </item>
+    
+    <item>
+      <title>archaeo-db-workshop</title>
+      <link>https://open-archaeo.info/post/archaeo-db-workshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeo-db-workshop/</guid>
+      <description>Information and guidelines for a workshop about managing archaeological databases</description>
+    </item>
+    
+  </channel>
+</rss>

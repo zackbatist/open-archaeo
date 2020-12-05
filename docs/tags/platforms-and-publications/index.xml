@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Platforms and publications on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/platforms-and-publications/</link>
+    <description>Recent content in Platforms and publications on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/platforms-and-publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>archaeological-object-sharing</title>
+      <link>https://open-archaeo.info/post/archaeological-object-sharing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeological-object-sharing/</guid>
+      <description>An online space for sharing data, 3d models, etc about archaeological objects to enable the comparison of these objects</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -34,6 +34,9 @@
     <div class="collapsible-menu">
       <input type="checkbox" id="menuToggle">
       <label for="menuToggle">{{ .Site.Title }}</label>
+      <div class="tags-header">
+        <h3>Tags:</h3>
+        </div>
       <div class="menu-content">
         {{ partial "sidebar/menu.html" . }}
         {{ partial "sidebar/social.html" . }}

@@ -8,7 +8,214 @@
   </url>
   
   <url>
+    <loc>https://open-archaeo.info/post/3d-ceramics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/a-mobile-data-collection-workflow-for-archaeologists/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/a-scientific-computing-environment-for-archaeology.txt/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/aca_data_collection/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/admur/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/ais/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/al2o3_analysisapp/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/allen.archaeology/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/analogue/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using-r/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/anatolia-bibliography-map/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/ancient-ceramic-kilns/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/ancientmetagenomedir/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/aoristaar/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archaeo-db-workshop/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archaeochron/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archaeolines/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archaeological-context-recording-system/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archaeological-environmental-recording-system/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archaeological-find-recording-system/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archaeological-object-sharing/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archaeological-survey-location-collector/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archaeology-data-service/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archaeology/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archaeology_on_wikipedia.r/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archvocab/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/tags/api-interfaces-scrapers-and-datasets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archaeology-grand-challenges.r/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archaeology-object-data-collector-app/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archaeologyadventure/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archaeophases/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archdata/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archeofrag/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/arches/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archiedb/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archjobcad/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archseries/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/archstopmo/</loc>
+  </url>
+  
+  <url>
     <loc>https://open-archaeo.info/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/tags/chronological-modelling/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/tags/communication-and-outreach/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/tags/data-collection-and-management/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/tags/games/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/tags/harrix-matrix/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/tags/other/</loc>
   </url>
   
   <url>

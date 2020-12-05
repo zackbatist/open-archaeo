@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chronological modelling on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/chronological-modelling/</link>
+    <description>Recent content in Chronological modelling on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/chronological-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ArchaeoPhases</title>
+      <link>https://open-archaeo.info/post/archaeophases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeophases/</guid>
+      <description>Post-Processing of the Markov Chain Simulated by &amp;lsquo;ChronoModel&amp;rsquo;, &amp;lsquo;Oxcal&amp;rsquo; or &amp;lsquo;BCal&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>archeofrag</title>
+      <link>https://open-archaeo.info/post/archeofrag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archeofrag/</guid>
+      <description>R package for the analysis of the fragmentation of archeological objects</description>
+    </item>
+    
+    <item>
+      <title>archSeries</title>
+      <link>https://open-archaeo.info/post/archseries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archseries/</guid>
+      <description>Frequency time-series tools for archaeology.</description>
+    </item>
+    
+  </channel>
+</rss>

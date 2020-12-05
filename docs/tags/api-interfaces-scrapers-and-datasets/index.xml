@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>API interfaces, scrapers and datasets on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/api-interfaces-scrapers-and-datasets/</link>
+    <description>Recent content in API interfaces, scrapers and datasets on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/api-interfaces-scrapers-and-datasets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>archdata</title>
+      <link>https://open-archaeo.info/post/archdata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archdata/</guid>
+      <description>The archdata package provides several types of data that are typically used in archaeological research</description>
+    </item>
+    
+  </channel>
+</rss>

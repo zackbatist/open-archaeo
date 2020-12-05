@@ -1,0 +1,199 @@
+
+
+{{ define "header" }}
+{{ partial "header.html" . }}
+{{ end }}
+{{ define "content" }}
+<main aria-role="main">
+   <header class="homepage-header">
+      <h1>{{.Title}}</h1>
+      {{ with .Params.subtitle }}
+      <span class="subtitle">{{.}}</span>
+      {{ end }}
+   </header>
+   
+   <div class="homepage-content">
+      <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+      {{.Content}}
+   </div>
+</main>
+
+<div class="post-list">
+
+{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" site.Params.mainSections) }}
+{{ range $paginator.Pages }}
+
+<div class="post-list__item">
+   <h1>{{ .Title }}</h1>
+   
+   <div class="post__meta">
+      <!-- authors -->
+      {{ with .Params.authors }}
+        {{ $total := len . }}
+        {{ if gt $total 0 }}
+          by:
+        {{ $subtotal := sub $total 1 }}
+        {{ range $i, $aut := . }}
+          <a class="badge badge-category" href="{{ "/authors/" | relURL }}{{ $aut | urlize }}">{{ $aut | }}</a>
+        {{ if lt $i $subtotal }} {{ end }}
+        {{ end }}
+        {{ end }}
+        {{ end }}
+        
+      &nbsp;
+      
+    {{ with .Params.tags }}
+      {{ $total := len . }}
+      {{ if gt $total 0 }}
+      {{ $subtotal := sub $total 1 }} <i class="fas fa-tags"></i>
+      {{ range $i, $tag := . }}
+        <a class="badge badge-tag" href="{{ "/tags/" | relURL }}{{ $tag | urlize }}">{{ $tag | lower }}</a>
+      {{ if lt $i $subtotal }} {{ end }}
+      {{ end }}
+      {{ end }}
+      {{ end }}
+      
+      &nbsp;
+      links:
+      
+    {{ with .Params.github }}
+      {{ $total := len . }}
+      {{ if gt $total 0 }}
+      {{ $subtotal := sub $total 1 }}
+      {{ range $i, $gh := . }}
+        <a class="badge badge-category" href="{{ $gh | relURL }}">GitHub</a>
+      {{ if lt $i $subtotal }} {{ end }}
+      {{ end }}
+      {{ end }}
+      {{ end }}
+      
+    {{ with .Params.gist }}
+      {{ $total := len . }}
+      {{ if gt $total 0 }}
+      {{ $subtotal := sub $total 1 }}
+      {{ range $i, $gist := . }}
+        <a class="badge badge-category" href="{{ $gist | relURL }}">Gist</a>
+      {{ if lt $i $subtotal }} {{ end }}
+      {{ end }}
+      {{ end }}
+      {{ end }}
+      
+      {{ with .Params.gitlab }}
+      {{ $total := len . }}
+      {{ if gt $total 0 }}
+      {{ $subtotal := sub $total 1 }}
+      {{ range $i, $gl := . }}
+        <a class="badge badge-category" href="{{ $gl | relURL }}">GitLab</a>
+      {{ if lt $i $subtotal }} {{ end }}
+      {{ end }}
+      {{ end }}
+      {{ end }}
+      
+    {{ with .Params.bitbucket }}
+      {{ $total := len . }}
+      {{ if gt $total 0 }}
+      {{ $subtotal := sub $total 1 }}
+      {{ range $i, $bitbucket := . }}
+        <a class="badge badge-category" href="{{ $bitbucket | relURL }}">BitBucket</a>
+      {{ if lt $i $subtotal }} {{ end }}
+      {{ end }}
+      {{ end }}
+      {{ end }}
+      
+    {{ with .Params.launchpad }}
+      {{ $total := len . }}
+      {{ if gt $total 0 }}
+      {{ $subtotal := sub $total 1 }}
+      {{ range $i, $launchpad := . }}
+        <a class="badge badge-category" href="{{ $launchpad | relURL }}">LaunchPad</a>
+      {{ if lt $i $subtotal }} {{ end }}
+      {{ end }}
+      {{ end }}
+      {{ end }}
+      
+    {{ with .Params.twitter }}
+      {{ $total := len . }}
+      {{ if gt $total 0 }}
+      {{ $subtotal := sub $total 1 }}
+      {{ range $i, $twitter := . }}
+        <a class="badge badge-category" href="{{ $twitter | relURL }}">Twitter</a>
+      {{ if lt $i $subtotal }} {{ end }}
+      {{ end }}
+      {{ end }}
+      {{ end }}
+      
+    {{ with .Params.blogpost }}
+      {{ $total := len . }}
+      {{ if gt $total 0 }}
+      {{ $subtotal := sub $total 1 }}
+      {{ range $i, $blogpost := . }}
+        <a class="badge badge-category" href="{{ $blogpost | relURL }}">Blog Post</a>
+      {{ if lt $i $subtotal }} {{ end }}
+      {{ end }}
+      {{ end }}
+      {{ end }}
+      
+    {{ with .Params.cran }}
+      {{ $total := len . }}
+      {{ if gt $total 0 }}
+      {{ $subtotal := sub $total 1 }}
+      {{ range $i, $cran := . }}
+        <a class="badge badge-category" href="{{ $cran | relURL }}">CRAN</a>
+      {{ if lt $i $subtotal }} {{ end }}
+      {{ end }}
+      {{ end }}
+      {{ end }}
+      
+    {{ with .Params.pypi }}
+      {{ $total := len . }}
+      {{ if gt $total 0 }}
+      {{ $subtotal := sub $total 1 }}
+      {{ range $i, $pypi := . }}
+        <a class="badge badge-category" href="{{ $pypi | relURL }}">PyPi</a>
+      {{ if lt $i $subtotal }} {{ end }}
+      {{ end }}
+      {{ end }}
+      {{ end }}
+      
+    {{ with .Params.website }}
+      {{ $total := len . }}
+      {{ if gt $total 0 }}
+      {{ $subtotal := sub $total 1 }}
+      {{ range $i, $website := . }}
+        <a class="badge badge-category" href="{{ $website | relURL }}">Website</a>
+      {{ if lt $i $subtotal }} {{ end }}
+      {{ end }}
+      {{ end }}
+      {{ end }}
+      
+    {{ with .Params.publication }}
+      {{ $total := len . }}
+      {{ if gt $total 0 }}
+      {{ $subtotal := sub $total 1 }}
+      {{ range $i, $publication := . }}
+        <a class="badge badge-category" href="{{ $publication | relURL }}">Publication</a>
+      {{ if lt $i $subtotal }} {{ end }}
+      {{ end }}
+      {{ end }}
+      {{ end }}
+      
+    {{ with .Params.doi }}
+      {{ $total := len . }}
+      {{ if gt $total 0 }}
+      {{ $subtotal := sub $total 1 }}
+      {{ range $i, $doi := . }}
+        <a class="badge badge-category" href="{{ $doi | relURL }}">DOI</a>
+      {{ if lt $i $subtotal }} {{ end }}
+      {{ end }}
+      {{ end }}
+      {{ end }}
+      
+   </div>
+    <hr>
+   </div>
+
+   
+   {{ end }}
+
+{{ end }}
+

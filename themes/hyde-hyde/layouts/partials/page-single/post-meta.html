@@ -1,11 +1,27 @@
 {{ if ne .Params.showpagemeta false }}
 <div class="post__meta">
     <!-- published date -->
-    {{ if not .Date.IsZero }}
+    <!-- {{ if not .Date.IsZero }}
       <i class="fas fa-calendar-alt"></i> {{ .Date.Format (.Site.Params.dateformat | default "Jan 02, 2006") }}
+    {{ end }} -->
+    
+    <!-- authors -->
+    {{ with .Params.authors }}
+      {{ $total := len . }}
+      {{ if gt $total 0 }}
+          <!-- <br/> -->
+          by:
+          {{ $subtotal := sub $total 1 }}
+          {{ range $i, $aut := . }}
+          <a class="badge badge-category" href="{{ "/authors/" | relURL }}{{ $aut | urlize }}">{{ $aut | }}</a>
+          {{ if lt $i $subtotal }} {{ end }}
+      {{ end }}
     {{ end }}
+    {{ end }}
+    <br/>
+    
     <!-- categories -->
-    {{ with .Params.categories }}
+    <!-- {{ with .Params.categories }}
       {{ $total := len . }}
       {{ if gt $total 0 }}
           in
@@ -15,12 +31,13 @@
               {{ if lt $i $total }}•{{ end }}
           {{ end }}
       {{ end }}
-    {{ end }}
+    {{ end }} -->
+    
     <!-- tags -->
     {{ with .Params.tags }}
       {{ $total := len . }}
       {{ if gt $total 0 }}
-          <br/>
+          <!-- <br/> -->
           {{ $subtotal := sub $total 1 }} <i class="fas fa-tags"></i>
           {{ range $i, $tag := . }}
           <a class="badge badge-tag" href="{{ "/tags/" | relURL }}{{ $tag | urlize }}">{{ $tag | lower }}</a>
@@ -28,7 +45,11 @@
       {{ end }}
     {{ end }}
     {{ end }}
+    <!-- <br/>
+    
+
     <br/>
-    <i class="fas fa-clock"></i> {{ .ReadingTime }} min read
+    
+    <i class="fas fa-clock"></i> {{ .ReadingTime }} min read -->
 </div>
 {{ end }}
