@@ -72,7 +72,7 @@ for(i in 1:nrow(x)){
     
     if(!is.na(url)){
       
-      link <- paste0("<a href='",url,"' target='_blank'>",scr.lst[[j]],"</a>")
+      link <- paste0("[<a href='",url,"' target='_blank'>",scr.lst[[j]],"</a>]")
       x[i,names(scr.lst)[j]] <- link
       
     }
