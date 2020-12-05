@@ -27,6 +27,12 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
   * tags: 
 ----
 
+* **ADMUR**: Tools to directly model underlying population dynamics using chronological datasets (radiocarbon and other) with a variety of models, including Continuous Piecewise Linear (CPL) model framework, and model comparison framework using BIC. Package also calibrates 14C samples, and generates Summed Probability Distributions (SPD). CPL modelling directly estimates the most likely population trajectory given a dataset, using SPD simulation analysis to generate a Goodness-of-fit test for the best selected model.
+  * by: Adrian Timpson, Ramiro Barberena, Mark G. Thomas, César Méndez and Katie Manning
+  * links: [[GitHub](https://github.com/UCL/ADMUR)]         
+  * tags: [Chronological modelling]
+----
+
 * **AIS**: Archaeological Information System
   * by: andredebuisne
   * links: [[GitHub](https://github.com/andredebuisne/AIS)]         
@@ -493,6 +499,12 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
   * by: Bruno Desachy
   * links:          [[Website](https://abp.hypotheses.org/4284)]
   * tags: [Chronological modelling]
+----
+
+* **Classical and ancient Linked Open Data**: A list of linked open data repositories relating to classics and ancient history.
+  * by: Gabriel Bodard, Paula Granados García, Sarah Middle and Elton Barker
+  * links:          [[Website](https://docs.google.com/spreadsheets/d/1aAssGGswX2WNMllV4kMYexBGS8miCywbW5XdcIeE22c/edit#gid=1033348216)]
+  * tags: 
 ----
 
 * **CloudCal**: This app will allow you to build & apply calibrations for the Tracer & Artax series of XRF devices
