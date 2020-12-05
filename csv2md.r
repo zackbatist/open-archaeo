@@ -49,31 +49,39 @@ x$author_list5 <- ifelse(!is.na(x$author1_name) &
 x$author_list <- coalesce(x$author_list1, x$author_list2, x$author_list3, x$author_list4, x$author_list5)
 
 # concatenate links
-x$github <- paste("[[GitHub](",x$github,")]", sep = "")
-x$gist <- paste("[[Gist](",x$gist,")]", sep = "")
-x$gitlab <- paste("[[GitLab](",x$gitlab,")]", sep = "")
-x$bitbucket <- paste("[[BitBucket](",x$bitbucket,")]", sep = "")
-x$launchpad <- paste("[[LaunchPad](",x$launchpad,")]", sep = "")
-x$twitter <- paste("[[Twitter](",x$twitter,")]", sep = "")
-x$blogpost <- paste("[[Blog Post](",x$blogpost,")]", sep = "")
-x$cran <- paste("[[CRAN](",x$cran,")]", sep = "")
-x$pypi <- paste("[[PyPi](",x$pypi,")]", sep = "")
-x$website <- paste("[[Website](",x$website,")]", sep = "")
+# generate links with target = _blank
+# <a href="http://example.com/" target="_blank">Hello, world!</a>
 
-x$github <- gsub("[[GitHub](NA)]",NA,x$github, fixed = TRUE)
-x$gist <- gsub("[[Gist](NA)]",NA,x$gist, fixed = TRUE)
-x$gitlab <- gsub("[[GitLab](NA)]",NA,x$gitlab, fixed = TRUE)
-x$bitbucket <- gsub("[[BitBucket](NA)]",NA,x$bitbucket, fixed = TRUE)
-x$launchpad <- gsub("[[LaunchPad](NA)]",NA,x$launchpad, fixed = TRUE)
-x$twitter <- gsub("[[Twitter](NA)]",NA,x$twitter, fixed = TRUE)
-x$blogpost <- gsub("[[Blog Post](NA)]",NA,x$blogpost, fixed = TRUE)
-x$cran <- gsub("[[CRAN](NA)]",NA,x$cran, fixed = TRUE)
-x$pypi <- gsub("[[PyPi](NA)]",NA,x$pypi, fixed = TRUE)
-x$website <- gsub("[[Website](NA)]",NA,x$website, fixed = TRUE)
+scr.lst <- list(github = "GitHub", 
+                gist = "Gist", 
+                gitlab = "GitLab", 
+                bitbucket = "BitBucket", 
+                launchpad = "LaunchPad", 
+                twitter = "Twitter", 
+                blogpost = "Blog Post", 
+                cran = "CRAN", 
+                pypi = "PyPi", 
+                website = "Website")
 
-x$link_list <- paste(x$github, x$gist, x$gitlab, x$bitbucket, x$launchpad, x$twitter, x$blogpost, x$cran, x$pypi, x$website)
+
+for(i in 1:nrow(x)){
+  
+  for(j in 1:length(scr.lst)) {
+    
+    url <- x[i,names(scr.lst)[j]]
+    
+    if(!is.na(url)){
+      
+      link <- paste0("<a href='",url,"' target='_blank'>",scr.lst[[j]],"</a>")
+      x[i,names(scr.lst)[j]] <- link
+      
+    }
+  }
+}
+
+x$link_list <- apply( x[,names(scr.lst)] , 1 , paste , collapse = " " )
 x$link_list <- gsub("NA","",x$link_list,fixed = TRUE)
-x$link_list <- gsub(")][[",")] | [[",x$link_list,fixed = TRUE)
+x$link_list <- gsub("(?<=[\\s])\\s*|^\\s+|\\s+$", "", x$link_list, perl=TRUE) # remove surplus spaces
 
 # concatenate tags
 x$tag1 <- paste("[",x$tag1,"]", sep = "")
