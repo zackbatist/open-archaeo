@@ -1,0 +1,25 @@
+<div id="commento"></div>
+<script type="text/javascript">
+    /* 
+      Check and don't inject Commento on localhost/127.0.0.1, however, it does not
+      work for customised local domains, e.g. example.test, example.dev
+    */
+    (function () {
+    if (location.hostname === "localhost" ||
+      location.hostname === "127.0.0.1" ||
+      location.hostname === "") {
+      return;
+    }
+    var cmt = document.createElement('script');
+    cmt.type = 'text/javascript';
+    cmt.async = true;
+    var commento_host = '{{ with .Site.Params.CommentoHost }}{{ . }}{{else}}https://cdn.commento.io{{ end }}';
+    cmt.src = commento_host + '/js/commento.js';
+    (document.getElementsByTagName('head')[0] || 
+      document.getElementsByTagName('body')[0]).appendChild(cmt);
+  })();
+</script>
+
+<noscript>
+  Please enable JavaScript to load the comments.
+</noscript>

@@ -1,0 +1,25 @@
+// some misc styles
+.element--center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.menu {
+	background-color: #f3f3f3;
+	color: #333;
+	border-radius: 2px;
+	padding: 1px 5px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.pull-right {
+	float: right;
+}
+
+.draft {
+    color: #999 !important;
+}

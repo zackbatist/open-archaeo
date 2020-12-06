@@ -1,0 +1,37 @@
+.badge-category,
+a.badge-category {
+  color: #fff !important;
+  background-color: #0088cc;
+  &:hover, &:focus {
+    color: #0088cc !important;
+    background: transparent;
+    background-color: transparent;
+    text-decoration: none;
+    border-bottom: none;
+  }
+}
+
+.badge-tag,
+a.badge-tag {
+  color: #fff !important;
+  background-color: #7766cc;
+  &:hover, &:focus {
+    color: #7766cc !important;
+    background: transparent;
+    background-color: transparent;
+    text-decoration: none;
+    border-bottom: none;
+  }
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.25em 0.4em;
+  font-size: 0.75rem;
+  font-weight: bold;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 0.25rem;
+}

@@ -1,0 +1,82 @@
+## Basic Configuration
+publishDir = "docs"
+baseurl = "https://open-archaeo.info/"
+languageCode = "en"
+
+title = "open-archaeo"
+theme = "hyde-hyde"
+
+## Hugo Built-in Features
+# disqusShortname = "your-disqus-shortname"
+# googleAnalytics = "your-google-analytics-id"
+# enableRobotsTXT = true
+
+# summarylength = 30
+
+#paginate = 5
+
+## Site Settings
+[params]
+    author = "Author"
+    title = "Title"
+    description = "A list of open source archaeological software and resources"
+    #authorimage = "/img/hugo.png"
+    dateformat = "Jan 2, 2006"
+
+    # sidebar, copyright & license
+    #logoimage = "/img/hugo.png"
+    copyright = "zackbatist"
+    since = 2018
+    license = "CC0 1.0"
+    licenseURL = "https://creativecommons.org/publicdomain/zero/1.0/"
+    showBuiltWith = true
+
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+    
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "..." # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
+
+    # Table of contents
+    #toc = none, "hugo", or "tocbot"
+
+    # allow html links
+    [markup.goldmark.renderer]
+    unsafe = true
+
+## Social Accounts
+[params.social]
+     github = "zackbatist/open-archaeo"
+#    instagram = "<username>"
+#    xing = "<username>"
+#    linkedin = "<username>"
+#    twitter = "<username>"
+#    facebook = "<username>"
+#    microblog = "<username>"
+#    stackoverflow = "<username>"
+#    telegram = "<username>"
+#    orcid = "<xxxx-xxxx-xxxx-xxxx>"
+#    email = "your-email@example.com"
+#    gravatar = "your-email@example.com"
+#    pgpkey = "<path-to-your-key-in-/static>"
+
+## Main Menu
+#[[menu.main]]
+#    name = "Posts"
+#    weight = 100
+#    identifier = "posts"
+#    url = "/posts/"
+#[[menu.main]]
+#    name = "Portfolio"
+#    identifier = "portfolio"
+#    weight = 200
+#    url = "/portfolio/"
+#[[menu.main]]
+#    name = "About"
+#    identifier = "about"
+#    weight = 300
+#    url = "/about/"

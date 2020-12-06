@@ -1,0 +1,58 @@
+.toc-wrapper {
+  font-size: 0.9rem;
+  padding: 0.5em 0.5em 0.5em 0em;
+  background: #eee; }
+  .toc-wrapper label {
+    background: url(/img/menu-close-dark.svg) no-repeat right center;
+    display: block;
+    cursor: pointer;
+    padding-left: 1em; }
+
+#TableOfContents {
+  overflow: hidden;
+  margin-top: 0;
+  max-height: 100%; }
+  #TableOfContents > ul {
+    list-style-type: none;
+    padding-left: 0; }
+    #TableOfContents > ul > li ul {
+      list-style-type: none;
+      padding-left: 1em; }
+
+input#tocToggle {
+  display: none; }
+  input#tocToggle + label {
+    font-weight: bold; }
+  input#tocToggle:checked + label {
+    background-image: url(/img/menu-open-dark.svg); }
+  input#tocToggle:checked ~ #TableOfContents {
+    max-height: 0; }
+
+.toc {
+  font-size: 0.9rem;
+  overflow-y: auto;
+  background: #eee;
+  padding-left: 0rem;
+  padding-top: 1em; }
+  .toc > .toc-list {
+    overflow: hidden;
+    position: relative; }
+    .toc > .toc-list li {
+      list-style: none; }
+
+.toc-list {
+  margin: 0;
+  padding-left: 1rem; }
+
+.is-collapsible {
+  max-height: 1000px;
+  overflow: hidden; }
+
+.is-collapsed {
+  max-height: 0; }
+
+.is-position-fixed {
+  position: fixed;
+  top: 0; }
+
+/*# sourceMappingURL=tocbot.css.map */

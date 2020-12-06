@@ -1,0 +1,26 @@
+@mixin transform($string){
+	-webkit-transform: $string;
+	-moz-transform: 	 $string;
+	-ms-transform: 		 $string;
+	-o-transform: 		 $string;
+}
+@mixin rotate($deg){
+	-webkit-transform: rotate($deg);
+	-moz-transform: 	 rotate($deg);
+	-ms-transform: 		 rotate($deg);
+	-o-transform: 		 rotate($deg);
+}
+
+@mixin link-no-decoration() {
+	border-style: none;
+	text-decoration: none;
+}
+
+@mixin link-hover() {
+	color: $link-hover-color;
+	border-bottom: 1px dotted $gray-4;
+	text-decoration: none;
+	background: transparent;
+	background-color: transparent;
+	word-wrap: break-word;
+}

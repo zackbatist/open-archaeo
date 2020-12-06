@@ -1,0 +1,17 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+{{ "<!-- Enable responsiveness on mobile devices -->" | safeHTML }}
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+{{ hugo.Generator }}
+{{ if .IsHome }}
+    {{ $.Scratch.Set "theTitle" .Site.Title }}
+{{else}}
+    {{ $.Scratch.Set "theTitle" .Title}}
+    {{ $.Scratch.Add "theTitle" " • "}}
+    {{ $.Scratch.Add "theTitle" .Site.Title}}
+{{ end }}
+<title>{{ $.Scratch.Get "theTitle" }}</title>
+{{ with .Site.Params.meta.description }}<meta name="description" content="{{ . }}">{{ end }}
+{{ with .Site.Params.meta.keywords }}<meta name="keywords" content="{{.}}">{{ end }}
+{{ template "_internal/twitter_cards.html" . }}
+{{ template "_internal/opengraph.html" . }}

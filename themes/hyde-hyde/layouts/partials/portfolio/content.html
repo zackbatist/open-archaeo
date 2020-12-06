@@ -1,0 +1,54 @@
+<span class="section__title">{{ .Title | default "Projects" }}</span>
+<div class="portfolio__content">
+    {{ range first 1 (where .Data.Pages "Params.featured" "==" true) }}
+        <section class="portfolio__featured-project">
+            <div class="section-inner">
+                <div class="portfolio_content">
+                    <div class="item featured text-center">
+                        <span class="project__title">
+                            <a href="{{ .Params.Link }}" target="_blank" rel="noopener noreferrer">{{ .Title }}</a>
+                        </span>
+                        <p class="project__subtitle-big">
+                            <sup><i class="fa fa-quote-left" aria-hidden="true"></i></sup>
+                            {{ .Params.description }}
+                            <sup><i class="fa fa-quote-right" aria-hidden="true"></i></sup>
+                        </p>
+                        <div class="project__featured-image">
+                            <img src="{{ .Params.screenshot }}"  alt="{{ .Title }}">
+                        </div>
+                        <div class="project__summary">
+                                {{ .Content }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    {{ end }}
+    <section>
+        <div class="portfolio_content">
+            <hr class="divider">
+            {{ range (where .Data.Pages "Params.featured" "!=" true).ByDate.Reverse }}
+            <div class="row">
+                <div class="col-md-4 col-sm-4 col-xs-12" href="{{ .Params.link }}"
+                    target="_blank" rel="noopener noreferrer">
+                    <img class="project__image img-responsive" src="{{ .Params.screenshot }}" alt="{{ .Title }}">
+                </div>
+                <div class="col-md-8 col-sm-8 col-xs-12">
+                    <span class="project__title">
+                        <a href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer">{{ .Title }}</a>
+                    </span>
+                    <span class="project__subtitle-small">
+                        <sup><i class="fa fa-quote-left" aria-hidden="true"></i></sup>
+                        {{ .Params.description }}
+                        <sup><i class="fa fa-quote-right" aria-hidden="true"></i></sup>
+                    </span>
+                    <span class="project__summary">
+                        {{ .Content }}
+                    </span>
+                </div>
+            </div>
+            <div class="row-space">&nbsp;</div>
+            {{ end }}
+        </div>
+    </section>
+</div>

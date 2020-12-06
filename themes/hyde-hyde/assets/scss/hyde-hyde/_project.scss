@@ -1,0 +1,93 @@
+.portfolio__content {
+  section {
+    margin-bottom: 1.765rem;
+  }
+}
+
+.portfolio__featured-project {
+  margin: 0 0 1.765rem;
+  img {
+    margin: 0 0 1rem;
+    box-shadow: 1px 1px $gray-2;
+  }
+}
+
+.project__image {
+  border: 1px solid $gray-2;
+  box-shadow: 1px 1px $gray-2;
+}
+
+.project__title {
+  margin-top: 1.765rem;
+  letter-spacing: 1px;
+  font-size: $project__title-font-size;
+}
+
+%subtitle {
+  font-style: $project__subtitle-font-style;
+  color: $project__subtitle-color;
+  display: block;
+  margin-top: 0.5rem;
+  margin: 0 0 1rem;
+}
+
+.project__subtitle-big {
+  @extend %subtitle;
+  font-size: $project__subtitle-font-size-big;
+}
+
+.project__subtitle-small {
+  @extend %subtitle;
+  font-size: $project__subtitle-font-size-small;
+}
+
+.project__featured-image {
+  position: relative;
+}
+
+.project__summary {
+  margin-bottom: 1.765rem;
+  text-align: left;
+}
+
+.divider {
+  margin-bottom: 3.5rem;
+}
+.row-space {
+  margin-bottom: 1rem;
+}
+
+// only needs some pieces from Bootstrap
+%col_extend {
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+  position: relative;
+}
+
+.row {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.col-xs-12 {
+  width: 100%;
+  @extend %col_extend;
+}
+.col-sm-4 {
+  @extend %col_extend;
+}
+.col-md-4 {
+  @extend %col_extend;
+}
+.col-sm-8 {
+  @extend %col_extend;
+}
+.col-md-8 {
+  @extend %col_extend;
+}
+
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
