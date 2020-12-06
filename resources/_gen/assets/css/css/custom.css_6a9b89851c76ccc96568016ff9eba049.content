@@ -1,0 +1,3 @@
+.openarchaeo-item{margin:2em 0}.openarchaeo-item-name,.openarchaeo-item-description,.openarchaeo-item-description p{display:inline}.openarchaeo-item-name{font-weight:bold}.openarchaeo-item-name:after{content:":"}
+
+/*# sourceMappingURL=custom.css.map */
