@@ -52,8 +52,8 @@ $code-fence-font-size: .8rem;
 $code-line-height: 1.4;
 
 // links
-$link-color: $blue;
-$link-hover-color: $body-color;
+$link-color: #357d00;
+$link-hover-color: #004bb0;
 
 // section
 $section__title-font-size: 2.15rem;
@@ -89,13 +89,13 @@ $h5-font-size:1rem;
 
 
 // sidebar
-$sidebar-color: #300030;
-$sidebar-width: 16rem;
+$sidebar-color: #003004;
+$sidebar-width: 28rem;
 $site__title-font-size: 2.5rem;
 $copyright-font-size: $font-scale-dot7;
 
 // content
-$content-max-width: 38rem; // @ ~70 CPL
+$content-max-width: 100rem; // @ ~70 CPL
 $content-margin-left: $sidebar-width + 2rem;
 $content-margin-right: 2rem;
 
