@@ -1,0 +1,3 @@
+{"title":["Ceramic_Dashboard"],"description":["Dashboard showing ceramic EDA and interaction network construction in the Late Prehistoric Central Illinois River Valley."],"github":["https://github.com/ajupton/Ceramic_Dashboard"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://aupton.shinyapps.io/CeramicDashboard/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Other"],"authors":["ajupton"]}
+
+Dashboard showing ceramic EDA and interaction network construction in the Late Prehistoric Central Illinois River Valley.

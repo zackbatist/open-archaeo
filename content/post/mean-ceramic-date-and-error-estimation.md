@@ -1,0 +1,3 @@
+{"title":["Mean-Ceramic-Date-and-Error-Estimation"],"description":["Script for calculating mean ceramic dates based on tabular data. This script also estimates sampling error using a bootstrapping procedure."],"github":["https://github.com/mpeeples2008/Mean-Ceramic-Date-and-Error-Estimation"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["http://www.mattpeeples.net/mcd.html"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Quantitative and statistical analysis"],"authors":["mpeeples2008"]}
+
+Script for calculating mean ceramic dates based on tabular data. This script also estimates sampling error using a bootstrapping procedure.

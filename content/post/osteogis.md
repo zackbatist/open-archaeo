@@ -1,0 +1,3 @@
+{"title":["osteoGIS"],"description":["Plot data on skeletal templates quickly"],"github":["https://github.com/davidcorton/osteoGIS"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Diagrams and visualizations"],"authors":["davidcorton"]}
+
+Plot data on skeletal templates quickly

@@ -1,0 +1,3 @@
+{"title":["inclusions"],"description":["Shortcodes to describe inclusions in ceramic bodies"],"github":["https://github.com/steko/inclusions"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://steko.github.io/inclusions/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Schema, ontologies and templates"],"authors":["steko"]}
+
+Shortcodes to describe inclusions in ceramic bodies

@@ -1,0 +1,3 @@
+{"title":["QGIS-scripts"],"description":["Some scripts that could be useful for QGIS users."],"github":["https://github.com/zoran-cuckovic/QGIS-scripts"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Bits and bobs"],"authors":["zoran-cuckovic"]}
+
+Some scripts that could be useful for QGIS users.

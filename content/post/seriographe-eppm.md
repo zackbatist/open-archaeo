@@ -1,0 +1,3 @@
+{"title":["Seriographe EPPM"],"description":["The EPPM serograph is a graphical tool for chronological serialization of archaeological furniture counting tables."],"github":[null],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/outils-danalyse-graphique-des-donnees"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Chronological modelling"],"authors":["Bruno Desachy"]}
+
+The EPPM serograph is a graphical tool for chronological serialization of archaeological furniture counting tables.

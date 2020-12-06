@@ -1,0 +1,3 @@
+{"title":["tabula"],"description":["Analysis, Seriation and Visualization of Archaeological Count Data."],"github":["https://github.com/nfrerebeau/tabula"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Quantitative and statistical analysis"],"authors":["nfrerebeau"]}
+
+Analysis, Seriation and Visualization of Archaeological Count Data.

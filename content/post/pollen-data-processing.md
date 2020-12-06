@@ -1,0 +1,3 @@
+{"title":["pollen_data_processing"],"description":["some tools in respect to pollen data processing."],"github":["https://github.com/MartinHinz/pollen_data_processing"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Palaeoenvironment and palaeobotany"],"authors":["MartinHinz"]}
+
+some tools in respect to pollen data processing.

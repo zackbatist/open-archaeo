@@ -1,0 +1,3 @@
+{"title":["ctv-archaeology"],"description":["This CRAN Task View contains a list of packages useful for scientific work in Archaeology"],"github":["https://github.com/benmarwick/ctv-archaeology"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Lists"],"authors":["benmarwick"]}
+
+This CRAN Task View contains a list of packages useful for scientific work in Archaeology

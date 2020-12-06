@@ -1,0 +1,3 @@
+{"title":["xraylib"],"description":["xraylib is a library containing over 40 functions to be used to retrieve data from some of the most respected databases of physical data in the field of X-ray"],"github":["https://github.com/tschoonj/xraylib"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","XRF"],"authors":["tschoonj"]}
+
+xraylib is a library containing over 40 functions to be used to retrieve data from some of the most respected databases of physical data in the field of X-ray

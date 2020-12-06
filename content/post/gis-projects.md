@@ -1,0 +1,3 @@
+{"title":["GIS-Projects"],"description":["GIS Projects for teaching and learning about Computational Archaeology"],"github":["https://github.com/isaacullah/GIS-Projects"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Educational resources and practical guides"],"authors":["isaacullah"]}
+
+GIS Projects for teaching and learning about Computational Archaeology

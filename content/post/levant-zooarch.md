@@ -1,0 +1,3 @@
+{"title":["levant-zooarch"],"description":["Table of faunal analyses from archaeological sites in the Levant"],"github":["https://github.com/sarahkansa/levant-zooarch"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Lists"],"authors":["sarahkansa"]}
+
+Table of faunal analyses from archaeological sites in the Levant

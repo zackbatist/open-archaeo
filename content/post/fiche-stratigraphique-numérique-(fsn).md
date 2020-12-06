@@ -1,0 +1,3 @@
+{"title":["Fiche Stratigraphique Numérique (FSN)"],"description":["Fiche Stratigraphique Numérique (FSN) is an application project for field recording and management of archaeological operations data."],"github":[null],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/fsn"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Data collection and management"],"authors":["Bruno Desachy"]}
+
+Fiche Stratigraphique Numérique (FSN) is an application project for field recording and management of archaeological operations data.

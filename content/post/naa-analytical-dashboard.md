@@ -1,0 +1,3 @@
+{"title":["NAA analytical dashboard"],"description":["Analytical Dashboard for conducting various analysis to group and assess groupings for Neutron Activation Analytical chemical compositional data"],"github":["https://github.com/mpeeples2008/NAA_analytical_dashboard"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["http://nsls-ii.github.io/PyXRF/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","Neutron activation analysis"],"authors":["mpeeples2008"]}
+
+Analytical Dashboard for conducting various analysis to group and assess groupings for Neutron Activation Analytical chemical compositional data

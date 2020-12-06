@@ -1,0 +1,3 @@
+{"title":["ArchJobCAD"],"description":["Tasks for Excavations in AutoCAD"],"github":["https://github.com/ISAAKiel/ArchJobCAD"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Data collection and management"],"authors":["ISAAKiel"]}
+
+Tasks for Excavations in AutoCAD

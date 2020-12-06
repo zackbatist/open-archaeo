@@ -1,0 +1,3 @@
+{"title":["photogrammetry_datasets"],"description":["This is a collection of datasets for photogrammetry."],"github":["https://github.com/natowi/photogrammetry_datasets"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Photogrammetry"],"authors":["culturalheritageimaging"]}
+
+This is a collection of datasets for photogrammetry.

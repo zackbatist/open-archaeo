@@ -1,0 +1,3 @@
+{"title":["rintchron"],"description":["rintchron provides an R interface to IntChron, an indexing service and exchange format for chronological data such as radiocarbon dates"],"github":["https://github.com/joeroe/rintchron"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Radiocarbon","API interfaces, scrapers and datasets"],"authors":["joeroe"]}
+
+rintchron provides an R interface to IntChron, an indexing service and exchange format for chronological data such as radiocarbon dates

@@ -1,0 +1,3 @@
+{"title":["ODKArchForms"],"description":["Open Data Kit forms and conversion scripts used in archaeology. Including New Mexico LA Forms, photologs, etc"],"github":["https://github.com/UNMOCA/ODKArchForms"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Data collection and management"],"authors":["UNMOCA"]}
+
+Open Data Kit forms and conversion scripts used in archaeology. Including New Mexico LA Forms, photologs, etc

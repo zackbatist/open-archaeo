@@ -1,0 +1,3 @@
+{"title":["ceramic-computation"],"description":["R scripts for digitizing, processing, analyzing, and comparing archaeological ceramic 2d profile drawings, photographs, and other data."],"github":["https://github.com/anatolian/ceramic-computation"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Shape recognition"],"authors":["anatolian"]}
+
+R scripts for digitizing, processing, analyzing, and comparing archaeological ceramic 2d profile drawings, photographs, and other data.

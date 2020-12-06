@@ -1,0 +1,3 @@
+{"title":["carbon14"],"description":["The goal of carbon14 is to provide a tidy interface to radiocarbon dating, to promote its inclusion in reproducible manuscripts"],"github":["https://github.com/paleolimbot/carbon14"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","Radiocarbon"],"authors":["paleolimbot"]}
+
+The goal of carbon14 is to provide a tidy interface to radiocarbon dating, to promote its inclusion in reproducible manuscripts

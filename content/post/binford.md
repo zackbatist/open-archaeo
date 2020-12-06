@@ -1,0 +1,3 @@
+{"title":["binford"],"description":["Datasets used in Binford's 2001 book \"Constructing Frames of Reference: An Analytical Method for Archaeological Theory Building Using Ethnographic and Environmental Data Sets"],"github":["https://github.com/benmarwick/binford"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["API interfaces, scrapers and datasets"],"authors":["benmarwick"]}
+
+Datasets used in Binford's 2001 book "Constructing Frames of Reference: An Analytical Method for Archaeological Theory Building Using Ethnographic and Environmental Data Sets

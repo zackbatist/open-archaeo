@@ -1,0 +1,3 @@
+{"title":["roman-amphitheaters"],"description":["A dataset and discussion relating to Roman amphitheaters"],"github":["https://github.com/sfsheath/roman-amphitheaters"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["API interfaces, scrapers and datasets"],"authors":["sfsheath"]}
+
+A dataset and discussion relating to Roman amphitheaters

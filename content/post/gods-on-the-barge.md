@@ -1,0 +1,3 @@
+{"title":["gods_on_the_barge"],"description":["Inspired by the research project of historiography of ancient Graeco-Roman religions, the main goal is to spread a selected cult successfully across the ancient Mediterranean"],"github":["https://github.com/adammertel/gods_on_the_barge"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["http://www.coffeegnome.net/godsonthebarge/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Games"],"authors":["adammertel"]}
+
+Inspired by the research project of historiography of ancient Graeco-Roman religions, the main goal is to spread a selected cult successfully across the ancient Mediterranean

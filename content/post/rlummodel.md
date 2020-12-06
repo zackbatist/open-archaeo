@@ -1,0 +1,3 @@
+{"title":["RLumModel"],"description":["Solving Ordinary Differential Equations to Understand Luminescence"],"github":["https://github.com/R-Lum/RLumModel"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","Luminescence"],"authors":["R-Lum"]}
+
+Solving Ordinary Differential Equations to Understand Luminescence

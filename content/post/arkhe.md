@@ -1,0 +1,3 @@
+{"title":["arkhe"],"description":["A Collection of R S4 Classes that Represent Archaeological Data"],"github":["https://github.com/nfrerebeau/arkhe"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Schema, ontologies and templates"],"authors":["nfrerebeau"]}
+
+A Collection of R S4 Classes that Represent Archaeological Data

@@ -1,0 +1,3 @@
+{"title":["CharTool"],"description":["CharTool is a macro tool for quantifying charcoal particles for paleoecological research applications."],"github":["https://github.com/gsnitker/CharTool"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Palaeoenvironment and palaeobotany"],"authors":["gsnitker"]}
+
+CharTool is a macro tool for quantifying charcoal particles for paleoecological research applications.

@@ -1,0 +1,3 @@
+{"title":["teaching-rome"],"description":["A collection of texts, 3d models, and maybe other resources useful for teaching about the Roman Empire."],"github":["https://github.com/sfsheath/teaching-rome"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Educational resources and practical guides"],"authors":["sfsheath"]}
+
+A collection of texts, 3d models, and maybe other resources useful for teaching about the Roman Empire.

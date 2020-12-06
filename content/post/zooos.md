@@ -1,0 +1,3 @@
+{"title":["zooOS"],"description":["zooOS (pronounced Zeus) is an open source system for recording and analysing animal bones found during archaeological excavations."],"github":[null],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":["https://launchpad.net/zooos"],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Zooarchaeology"],"authors":["Chris Puttick"]}
+
+zooOS (pronounced Zeus) is an open source system for recording and analysing animal bones found during archaeological excavations.

@@ -1,0 +1,3 @@
+{"title":["artefact-morpho.R"],"description":["R code for converting B&W jpgs of artefact silhouettes to matrices and computing basic Elliptical Fourier statistics, including PCA and MANOVA."],"github":[null],"gist":["https://gist.github.com/benmarwick/6260541"],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Shape recognition"],"authors":["benmarwick"]}
+
+R code for converting B&W jpgs of artefact silhouettes to matrices and computing basic Elliptical Fourier statistics, including PCA and MANOVA.

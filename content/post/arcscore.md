@@ -1,0 +1,3 @@
+{"title":["ARCSCore"],"description":["ARCSCore is a metadata standard for organizing and sharing digital versions of non-digital documents created during the course of an archaeological investigation"],"github":["https://github.com/matrix-msu/ARCSCore"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Schema, ontologies and templates"],"authors":["matrix-msu"]}
+
+ARCSCore is a metadata standard for organizing and sharing digital versions of non-digital documents created during the course of an archaeological investigation

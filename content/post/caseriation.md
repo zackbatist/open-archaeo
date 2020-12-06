@@ -1,0 +1,3 @@
+{"title":["CAseriation"],"description":["R Package for contingency tables seriation via Correspondence Analysis."],"github":["https://github.com/gianmarcoalberti/CAseriation"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Quantitative and statistical analysis"],"authors":["gianmarcoalberti"]}
+
+R Package for contingency tables seriation via Correspondence Analysis.

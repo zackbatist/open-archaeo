@@ -1,0 +1,3 @@
+{"title":["RGPR"],"description":["RGPR is a free and open-source software package to read, export, analyse, process and visualise ground-penetrating radar (GPR) data"],"github":["https://github.com/emanuelhuber/RGPR"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["http://emanuelhuber.github.io/RGPR/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","Geophysics"],"authors":["emanuelhuber"]}
+
+RGPR is a free and open-source software package to read, export, analyse, process and visualise ground-penetrating radar (GPR) data

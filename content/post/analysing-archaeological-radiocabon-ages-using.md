@@ -1,0 +1,3 @@
+{"title":["Analysing-Archaeological-Radiocabon-Ages-Using-R"],"description":["Practice some techniques for analysing archaeological radiocabon ages using R"],"github":["https://github.com/benmarwick/Analysing-Archaeological-Radiocabon-Ages-Using-R"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","Radiocarbon","Educational resources and practical guides"],"authors":["benmarwick"]}
+
+Practice some techniques for analysing archaeological radiocabon ages using R

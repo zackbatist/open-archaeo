@@ -1,0 +1,3 @@
+{"title":["DroneSurveyPlanner"],"description":["This is a LibreOffice Calc spreadsheet designed to help you plan an aerial drone mapping survey mission."],"github":["https://github.com/isaacullah/DroneSurveyPlanner"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["http://isaacullah.github.io/DroneSurveyPlanner/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Drones and satellite imagery"],"authors":["isaacullah"]}
+
+This is a LibreOffice Calc spreadsheet designed to help you plan an aerial drone mapping survey mission.

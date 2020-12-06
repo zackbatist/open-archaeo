@@ -1,0 +1,3 @@
+{"title":["DObsiSS"],"description":["The Database of Obsidian Sourcing Studies"],"github":["https://github.com/zackbatist/DObsiSS"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["API interfaces, scrapers and datasets"],"authors":["zackbatist"]}
+
+The Database of Obsidian Sourcing Studies

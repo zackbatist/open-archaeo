@@ -1,0 +1,3 @@
+{"title":["svg-pottery-catalogo"],"description":["A simple program that generates a catalogue of your pottery drawings ready for the Web"],"github":[null],"gist":[null],"gitlab":[null],"bitbucket":["https://bitbucket.org/steko/svg-pottery-catalogo/src/default/"],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Platforms and publications"],"authors":["steko"]}
+
+A simple program that generates a catalogue of your pottery drawings ready for the Web

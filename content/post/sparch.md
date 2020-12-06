@@ -1,0 +1,3 @@
+{"title":["sparch"],"description":["A set of extra utilities that extend the functionlaity provided by core packages for spatial data management and analysis in R"],"github":["https://github.com/ahb108/sparch"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Bits and bobs"],"authors":["ahb108"]}
+
+A set of extra utilities that extend the functionlaity provided by core packages for spatial data management and analysis in R

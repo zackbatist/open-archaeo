@@ -1,0 +1,3 @@
+{"title":["cherish-installer"],"description":["Installer files for Cherish software."],"github":["https://github.com/vicrucann/cherish-installer"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["3D modelling"],"authors":["vicrucann"]}
+
+Installer files for Cherish software.

@@ -1,0 +1,3 @@
+{"title":["shiny_Tldating"],"description":["Shiny app for TL dating"],"github":["https://github.com/dstreble/shiny_Tldating"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","Luminescence"],"authors":["dstreble"]}
+
+Shiny app for TL dating

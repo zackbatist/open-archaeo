@@ -1,0 +1,3 @@
+{"title":["a-scientific-computing-environment-for-archaeology.txt"],"description":["Scientific Computing Environment for archaeology: Installing R, Rstudio and other things on a lightweight Linux in a VirtualBox virtual machine"],"github":[null],"gist":["https://gist.github.com/benmarwick/11204658"],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Educational resources and practical guides"],"authors":["benmarwick"]}
+
+Scientific Computing Environment for archaeology: Installing R, Rstudio and other things on a lightweight Linux in a VirtualBox virtual machine

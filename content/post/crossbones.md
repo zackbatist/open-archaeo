@@ -1,0 +1,3 @@
+{"title":["Crossbones"],"description":["Crossbones autogenerates 3D schematic skeletons, making rapid surveying and visualisation of dense skeletal assemblages a snap."],"github":[null],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["http://oadigital.net/software/xbones.html"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Zooarchaeology"],"authors":["Leif Isaksen"]}
+
+Crossbones autogenerates 3D schematic skeletons, making rapid surveying and visualisation of dense skeletal assemblages a snap.

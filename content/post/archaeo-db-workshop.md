@@ -1,0 +1,3 @@
+{"title":["archaeo-db-workshop"],"description":["Information and guidelines for a workshop about managing archaeological databases"],"github":["https://github.com/zackbatist/archaeo-db-workshop"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Educational resources and practical guides"],"authors":["zackbatist"]}
+
+Information and guidelines for a workshop about managing archaeological databases

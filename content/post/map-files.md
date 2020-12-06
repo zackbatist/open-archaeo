@@ -1,0 +1,3 @@
+{"title":["Map Files"],"description":["This page presents an ever growing collection of resources for digital mapping."],"github":[null],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["http://awmc.unc.edu/wordpress/map-files/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["API interfaces, scrapers and datasets"],"authors":["Ancient World Mapping Center"]}
+
+This page presents an ever growing collection of resources for digital mapping.

@@ -1,0 +1,3 @@
+{"title":["totalstation-tools"],"description":["Tools to use and manipulate total station data"],"github":["https://github.com/WiseLabCMU/totalstation-tools"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Drivers and IO"],"authors":["WiseLabCMU"]}
+
+Tools to use and manipulate total station data

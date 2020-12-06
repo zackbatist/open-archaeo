@@ -1,0 +1,3 @@
+{"title":["ArchaeoPhases"],"description":["Tools for the post-processing of the Markov Chain simulated by any software used for the construction of archeological chronologies."],"github":["https://github.com/marieannevibet/ArchaeoPhases"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Chronological modelling"],"authors":["ArchaeoStat"]}
+
+Tools for the post-processing of the Markov Chain simulated by any software used for the construction of archeological chronologies.

@@ -1,0 +1,3 @@
+{"title":["mudata"],"description":["The mudata2 package provides tools to read, write, and document multi-parameter spatiotemporal data"],"github":["https://github.com/paleolimbot/mudata"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Bits and bobs"],"authors":["paleolimbot"]}
+
+The mudata2 package provides tools to read, write, and document multi-parameter spatiotemporal data

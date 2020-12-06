@@ -1,0 +1,3 @@
+{"title":["synthkat"],"description":["Synthetic Categories for Archaeological Vessel Comparison."],"github":["https://github.com/scollinselliott/synthkat"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Shape recognition"],"authors":["scollinselliott"]}
+
+Synthetic Categories for Archaeological Vessel Comparison.

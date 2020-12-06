@@ -1,0 +1,3 @@
+{"title":["grass-arch"],"description":["A LaTeX textbook devoted to explain how archaeologists can work with GRASS GIS"],"github":["https://github.com/fradeve/grass-arch"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Educational resources and practical guides"],"authors":["fradeve"]}
+
+A LaTeX textbook devoted to explain how archaeologists can work with GRASS GIS

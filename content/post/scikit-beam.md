@@ -1,0 +1,3 @@
+{"title":["scikit-beam"],"description":["Data analysis tools for X-Ray, Neutron and Electron sciences"],"github":["https://github.com/scikit-beam/scikit-beam"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","XRF"],"authors":["scikit-beam"]}
+
+Data analysis tools for X-Ray, Neutron and Electron sciences

@@ -1,0 +1,3 @@
+{"title":["gitMuseum"],"description":["A repository listing Museums active on GitHub, written in Rstats"],"github":["https://github.com/BritishMuseum/gitMuseum"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Lists"],"authors":["BritishMuseum"]}
+
+A repository listing Museums active on GitHub, written in Rstats

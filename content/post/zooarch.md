@@ -1,0 +1,3 @@
+{"title":["zooaRch"],"description":["The zooaRch package provides analytical tools to make inferences on zooarchaeological data."],"github":[null],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":["https://cran.r-project.org/web/packages/zooaRch/"],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Zooarchaeology"],"authors":["Erik Otarola-Castillo","Jesse Wolfhagen","Max D. Price","zooaRch"]}
+
+The zooaRch package provides analytical tools to make inferences on zooarchaeological data.

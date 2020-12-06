@@ -1,0 +1,3 @@
+{"title":["rekrei"],"description":["Platform for crowdsourcing the digital recreation of lost heritage"],"github":["https://github.com/rekrei/rekrei"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Platforms and publications"],"authors":["rekrei"]}
+
+Platform for crowdsourcing the digital recreation of lost heritage

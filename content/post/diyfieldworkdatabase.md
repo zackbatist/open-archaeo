@@ -1,0 +1,3 @@
+{"title":["DIYFieldworkDatabase"],"description":["Documenting and sharing my ad-hoc fieldwork database setup"],"github":["https://github.com/zackbatist/DIYFieldworkDatabase"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Educational resources and practical guides"],"authors":["zackbatist"]}
+
+Documenting and sharing my ad-hoc fieldwork database setup

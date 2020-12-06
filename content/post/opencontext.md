@@ -1,0 +1,3 @@
+{"title":["opencontext"],"description":["An R API client for the Open Context archaeological data repository"],"github":["https://github.com/ropensci/opencontext"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://docs.ropensci.org/opencontext/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["API interfaces, scrapers and datasets"],"authors":["ropensci"]}
+
+An R API client for the Open Context archaeological data repository

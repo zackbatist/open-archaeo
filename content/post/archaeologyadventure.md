@@ -1,0 +1,3 @@
+{"title":["ArchaeologyAdventure"],"description":["A simple adventure game in Unity2D. Revolves around being an archaeologist exploring some ruin and digging up treasure/fossils"],"github":["https://github.com/Camology/ArchaeologyAdventure"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Games"],"authors":["Camology"]}
+
+A simple adventure game in Unity2D. Revolves around being an archaeologist exploring some ruin and digging up treasure/fossils

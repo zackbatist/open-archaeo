@@ -1,0 +1,3 @@
+{"title":["PLC"],"description":["Pure Locational Clustering."],"github":[null],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["http://www.mattpeeples.net/modules/PLC.html"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Quantitative and statistical analysis"],"authors":["Matt Peeples"]}
+
+Pure Locational Clustering.

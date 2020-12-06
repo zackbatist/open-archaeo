@@ -1,0 +1,3 @@
+{"title":["fieldwalkr"],"description":["Spatial Sampling and Survey Simulation Tools."],"github":["https://github.com/joeroe/fieldwalkr"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Site mapping"],"authors":["joeroe"]}
+
+Spatial Sampling and Survey Simulation Tools.

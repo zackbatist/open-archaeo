@@ -1,0 +1,3 @@
+{"title":["cawd"],"description":["An R package that collects together data for the ancient world"],"github":["https://github.com/sfsheath/cawd"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["API interfaces, scrapers and datasets"],"authors":["sfsheath"]}
+
+An R package that collects together data for the ancient world

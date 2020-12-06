@@ -1,0 +1,3 @@
+{"title":["clustering_14C"],"description":["A python implementation of the method of clustering radiocarbon dates in order to determine whether they represent separate events, or phases in time"],"github":["https://github.com/demjanp/clustering_14C"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","Radiocarbon"],"authors":["demjanp"]}
+
+A python implementation of the method of clustering radiocarbon dates in order to determine whether they represent separate events, or phases in time

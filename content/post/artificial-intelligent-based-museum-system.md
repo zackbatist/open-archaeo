@@ -1,0 +1,3 @@
+{"title":["Artificial-Intelligent-based-Museum-System"],"description":["Museum Based System for detecting a set of artifacts and returning the related information to the user."],"github":["https://github.com/kevind992/Artificial-Intelligent-based-Museum-System"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Shape recognition"],"authors":["kevind992"]}
+
+Museum Based System for detecting a set of artifacts and returning the related information to the user.

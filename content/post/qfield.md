@@ -1,0 +1,3 @@
+{"title":["QField"],"description":["A simplified touch optimized interface for QGIS."],"github":["https://github.com/opengisch/QField"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://qfield.org/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Data collection and management"],"authors":["openGIS"]}
+
+A simplified touch optimized interface for QGIS.

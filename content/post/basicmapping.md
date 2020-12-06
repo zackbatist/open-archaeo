@@ -1,0 +1,3 @@
+{"title":["BasicMapping"],"description":["Working with map data in R."],"github":[null],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["http://www.mattpeeples.net/modules/BasicMapping.html"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Quantitative and statistical analysis"],"authors":["Matt Peeples"]}
+
+Working with map data in R.

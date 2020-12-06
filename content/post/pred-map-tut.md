@@ -1,0 +1,3 @@
+{"title":["pred_map_tut"],"description":["A tutorial for (archaeological) predictive mapping using r"],"github":["https://github.com/archca/pred_map_tut"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://archca.github.io/pred_map_tut/index.html"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Educational resources and practical guides"],"authors":["archca"]}
+
+A tutorial for (archaeological) predictive mapping using r

@@ -1,0 +1,3 @@
+{"title":["frontiers-palaeo-additive-modelling"],"description":["Modelling and feature detection in palaeoenvironmental time series using additive models."],"github":["https://github.com/gavinsimpson/frontiers-palaeo-additive-modelling"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Palaeoenvironment and palaeobotany"],"authors":["gavinsimpson"]}
+
+Modelling and feature detection in palaeoenvironmental time series using additive models.

@@ -1,0 +1,3 @@
+{"title":["AtlantGIS"],"description":["Faked GIS-Datasets, simulating an island in the Atlantic for educational purposes in using GIS in archaeology"],"github":["https://github.com/kacebe/AtlantGIS"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Educational resources and practical guides"],"authors":["kacebe"]}
+
+Faked GIS-Datasets, simulating an island in the Atlantic for educational purposes in using GIS in archaeology

@@ -1,0 +1,3 @@
+{"title":["DRAC-calculator"],"description":["DRAC is a Dose Rate and Age Calculator which has been designed to calculate environmental dose rates (_) and ages for trapped charge dating applications"],"github":["https://github.com/DRAC-calculator/DRAC-calculator"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","Luminescence"],"authors":["DRAC-calculator"]}
+
+DRAC is a Dose Rate and Age Calculator which has been designed to calculate environmental dose rates (_) and ages for trapped charge dating applications

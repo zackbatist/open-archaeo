@@ -1,0 +1,3 @@
+{"title":["Kmeans"],"description":["Script for conducting K-means cluster analysis using R. This script provides output designed to help the user select an appropriate cluster solution."],"github":["https://github.com/mpeeples2008/Kmeans"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["http://www.mattpeeples.net/kmeans.html"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Quantitative and statistical analysis"],"authors":["mpeeples2008"]}
+
+Script for conducting K-means cluster analysis using R. This script provides output designed to help the user select an appropriate cluster solution.

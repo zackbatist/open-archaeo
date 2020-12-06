@@ -1,0 +1,3 @@
+{"title":["lithic3dslicer"],"description":[".obj slicing for lithic 3d morphometrics."],"github":["https://github.com/kotdijian/lithic3dslicer"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Artefact morphology"],"authors":["kotdijian"]}
+
+.obj slicing for lithic 3d morphometrics.

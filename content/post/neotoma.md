@@ -1,0 +1,3 @@
+{"title":["neotoma"],"description":["Programmatic R interface to the Neotoma Paleoecological Database"],"github":["https://github.com/ropensci/neotoma"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["API interfaces, scrapers and datasets"],"authors":["ropensci"]}
+
+Programmatic R interface to the Neotoma Paleoecological Database

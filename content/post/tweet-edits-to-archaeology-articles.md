@@ -1,0 +1,3 @@
+{"title":["tweet-edits-to-archaeology-articles.R"],"description":["Using R with wikipedia for various things"],"github":[null],"gist":["https://gist.github.com/benmarwick/ac394fd61f481393b0ae"],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Public archaeology"],"authors":["benmarwick"]}
+
+Using R with wikipedia for various things

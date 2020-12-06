@@ -1,0 +1,3 @@
+{"title":["senscape"],"description":["A toolbox for modelling human perception of topography for QGIS, based on QGIS viewshed module."],"github":["https://github.com/zoran-cuckovic/senscape"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Geospatial analysis","Viewshed analysis"],"authors":["zoran-cuckovic"]}
+
+A toolbox for modelling human perception of topography for QGIS, based on QGIS viewshed module.

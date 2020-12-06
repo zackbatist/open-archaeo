@@ -1,0 +1,3 @@
+{"title":["kotyle"],"description":["Kotyle (from the ancient greek ≈í‚à´≈í√∏≈ì√ë≈ì√ß≈í¬™≈í‚àë, ‚Äö√Ñ√∫measure of capacity‚Äö√Ñ√π, ‚Äö√Ñ√∫drinking cup‚Äö√Ñ√π) is a software program for calculating the capacity of a ceramic vessel."],"github":[null],"gist":[null],"gitlab":[null],"bitbucket":["https://bitbucket.org/iosa/kotyle"],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Artefact morphology"],"authors":["iosa"]}
+
+Kotyle (from the ancient greek ≈í‚à´≈í√∏≈ì√ë≈ì√ß≈í¬™≈í‚àë, ‚Äö√Ñ√∫measure of capacity‚Äö√Ñ√π, ‚Äö√Ñ√∫drinking cup‚Äö√Ñ√π) is a software program for calculating the capacity of a ceramic vessel.

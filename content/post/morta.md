@@ -1,0 +1,3 @@
+{"title":["mortAAR"],"description":["Analysis of Archaeological Mortality Data."],"github":["https://github.com/ISAAKiel/mortAAR"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Zooarchaeology"],"authors":["ISAAKiel"]}
+
+Analysis of Archaeological Mortality Data.

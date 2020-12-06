@@ -1,0 +1,3 @@
+{"title":["rti"],"description":["Series of common tols used by most Reflectance Transformation Imaging (RTI) projects, plus some custom programs to help with the workflow from the camera to the output."],"github":["https://github.com/kmartinez/rti"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://custom-imaging.co.uk/software/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Imaging"],"authors":["kmartinez"]}
+
+Series of common tols used by most Reflectance Transformation Imaging (RTI) projects, plus some custom programs to help with the workflow from the camera to the output.

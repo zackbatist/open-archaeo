@@ -1,0 +1,3 @@
+{"title":["recexcavAAR"],"description":["R package for 3D reconstruction of archaeological excavations."],"github":["https://github.com/ISAAKiel/recexcavAAR/"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["3D modelling"],"authors":["ISAAKiel"]}
+
+R package for 3D reconstruction of archaeological excavations.

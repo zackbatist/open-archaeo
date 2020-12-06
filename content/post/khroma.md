@@ -1,0 +1,3 @@
+{"title":["khroma"],"description":["Colour Schemes for Archaeological Data Visualization"],"github":["https://github.com/nfrerebeau/khroma"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Diagrams and visualizations"],"authors":["nfrerebeau"]}
+
+Colour Schemes for Archaeological Data Visualization

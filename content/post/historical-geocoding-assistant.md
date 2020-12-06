@@ -1,0 +1,3 @@
+{"title":["historical-geocoding-assistant"],"description":["Tool for assisted geocoding of historical datasets (something between a manual table editing and automated geocoding script)"],"github":["https://github.com/adammertel/historical-geocoding-assistant"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Data collection and management"],"authors":["adammertel"]}
+
+Tool for assisted geocoding of historical datasets (something between a manual table editing and automated geocoding script)

@@ -1,0 +1,3 @@
+{"title":["benmarwickopencontext.r"],"description":["Experimenting with the opencontext.org API using R"],"github":[null],"gist":["https://gist.github.com/benmarwick/50aa4c39b7d955d0ec40"],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["API interfaces, scrapers and datasets"],"authors":["benmarwick"]}
+
+Experimenting with the opencontext.org API using R

@@ -1,0 +1,3 @@
+{"title":["ArkMatrix"],"description":["A tool for creating and manipulating Harris Matrices, part of the Archaeological Recording Kit ARK."],"github":[null],"gist":[null],"gitlab":["https://gitlab.com/arklab/ArkMatrix"],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Harrix matrix"],"authors":["arklab"]}
+
+A tool for creating and manipulating Harris Matrices, part of the Archaeological Recording Kit ARK.

@@ -1,0 +1,3 @@
+{"title":["rxylib"],"description":["R package: wrapper for the C+library xylib"],"github":["https://github.com/R-Lum/rxylib"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","Luminescence"],"authors":["R-Lum"]}
+
+R package: wrapper for the C+library xylib

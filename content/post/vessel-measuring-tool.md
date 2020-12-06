@@ -1,0 +1,3 @@
+{"title":["Vessel-Measuring-Tool"],"description":["Digitize archeological drawings of vessels in order to calculate their capacity and weight."],"github":["https://github.com/alessandrobattisti/Vessel-Measuring-Tool"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://alessandrobattisti.github.io/Vessel-Measuring-Tool/#/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Artefact morphology"],"authors":["alessandrobattisti"]}
+
+Digitize archeological drawings of vessels in order to calculate their capacity and weight.

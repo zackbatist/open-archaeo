@@ -1,0 +1,37 @@
+# Utility functions for open-archaeo
+
+cnotna <- function(...) {
+  x <- c(...)
+  x[!is.na(x)]
+}
+
+clean_slug <- function(x) {
+  x %>% 
+    tolower() %>% 
+    str_remove(".r$") %>% 
+    str_replace_all(" ", "-") %>% 
+    str_replace_all("_", "-") %>% 
+    str_replace_all(coll("."), "-") %>% 
+    str_replace_all(coll("/"), "-") %>% 
+    str_replace_all("--+", "-")
+}
+
+unique_slug <- function(.data) {
+  if (nrow(.data) > 1) {
+    .data <- mutate(.data, slug = clean_slug(paste0(slug, "-", author1_name)))
+  }
+  if (length(unique(.data$slug)) != length(.data$slug)) {
+    stop("Couldn't generate unique slugs from ", paste(.data$slug, collapse = ", "))
+  }
+  .data$slug
+}
+
+generate_post_md <- function(slug, title, description, ..., path) {
+  front_matter <- toJSON(list(title = title, description = description, ...))
+  md <- paste0(front_matter, "\n\n", description)
+  file <- paste0(path, slug, ".md")
+  message("Writing ", file, " ...")
+  cat(md, file = file)
+  
+  invisible(file)
+}

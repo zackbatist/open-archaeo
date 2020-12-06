@@ -1,0 +1,3 @@
+{"title":["measure3d"],"description":["A simple qgis plugin that measures the 3d distance between two selected points."],"github":["https://github.com/alessandrobattisti/measure3d"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Bits and bobs"],"authors":["alessandrobattisti"]}
+
+A simple qgis plugin that measures the 3d distance between two selected points.

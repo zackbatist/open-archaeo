@@ -1,0 +1,3 @@
+{"title":["sitedefinition"],"description":["The goal of sitedefinition is to see how feature densities might be used for site definition."],"github":["https://github.com/SCSchmidt/sitedefinition"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Site mapping"],"authors":["SCSchmidt"]}
+
+The goal of sitedefinition is to see how feature densities might be used for site definition.

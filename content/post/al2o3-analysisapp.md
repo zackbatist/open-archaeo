@@ -1,0 +1,3 @@
+{"title":["Al2O3_AnalysisApp"],"description":["Shiny app to analyse Al2O3:C measurements"],"github":["https://github.com/RLumSK/Al2O3_AnalysisApp"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","Luminescence"],"authors":["RLumSK"]}
+
+Shiny app to analyse Al2O3:C measurements

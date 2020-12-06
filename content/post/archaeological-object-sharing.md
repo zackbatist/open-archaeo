@@ -1,0 +1,3 @@
+{"title":["archaeological-object-sharing"],"description":["An online space for sharing data, 3d models, etc about archaeological objects to enable the comparison of these objects"],"github":["https://github.com/anatolian/archaeological-object-sharing"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Platforms and publications"],"authors":["anatolian"]}
+
+An online space for sharing data, 3d models, etc about archaeological objects to enable the comparison of these objects

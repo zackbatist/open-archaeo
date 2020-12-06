@@ -1,0 +1,3 @@
+{"title":["total-station-manuals"],"description":["Manuals for total stations"],"github":["https://github.com/steko/total-station-manuals"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Drivers and IO"],"authors":["steko"]}
+
+Manuals for total stations

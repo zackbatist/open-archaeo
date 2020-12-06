@@ -1,0 +1,3 @@
+{"title":["3d-ceramics"],"description":["3d models of archaeological ceramics."],"github":["https://github.com/sfsheath/3d-ceramics"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["3D modelling"],"authors":["sfsheath"]}
+
+3d models of archaeological ceramics.

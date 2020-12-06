@@ -1,0 +1,3 @@
+{"title":["analogue"],"description":["Analogue and weighted averaging methods for palaeoecology."],"github":["https://github.com/gavinsimpson/analogue"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Palaeoenvironment and palaeobotany"],"authors":["gavinsimpson"]}
+
+Analogue and weighted averaging methods for palaeoecology.

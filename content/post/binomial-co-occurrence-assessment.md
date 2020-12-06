@@ -1,0 +1,3 @@
+{"title":["Binomial-Co-occurrence-Assessment"],"description":["R script that implements a means for statistically assessing the degree of co-occurrence between classes within a dataset."],"github":["https://github.com/mpeeples2008/Binomial-Co-occurrence-Assessment"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Quantitative and statistical analysis"],"authors":["mpeeples2008"]}
+
+R script that implements a means for statistically assessing the degree of co-occurrence between classes within a dataset.

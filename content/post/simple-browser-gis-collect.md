@@ -1,0 +1,3 @@
+{"title":["simple-browser-gis-collector"],"description":["Mobile-oriented browser based application that could be used for data collection."],"github":["https://github.com/adammertel/simple-browser-gis-collector"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Site mapping"],"authors":["adammertel"]}
+
+Mobile-oriented browser based application that could be used for data collection.

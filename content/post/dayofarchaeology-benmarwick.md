@@ -1,0 +1,3 @@
+{"title":["dayofarchaeology"],"description":["A Distant Reading of the Day of Archaeology"],"github":["https://github.com/benmarwick/dayofarchaeology"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Public archaeology"],"authors":["benmarwick"]}
+
+A Distant Reading of the Day of Archaeology

@@ -1,0 +1,3 @@
+{"title":["MtreeRing"],"description":["A tool for automatically measuring tree-ring width using image processing techniques"],"github":["https://github.com/ropensci/MtreeRing"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://ropensci.github.io/MtreeRing/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Bits and bobs"],"authors":["ropensci"]}
+
+A tool for automatically measuring tree-ring width using image processing techniques

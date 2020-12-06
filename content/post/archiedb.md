@@ -1,14 +1,3 @@
-+++
-title = "archiedb"
-tags = [
-  "Data collection and management",
-]
-authors = [
-  "archie",
-]
-github = [
-  "https://github.com/archiedb/archie",
-]
-+++
-A light-weight database application designed to standardize and simplify data entry of archaeological or historical artifacts
+{"title":["archiedb"],"description":["A light-weight database application designed to standardize and simplify data entry of archaeological or historical artifacts"],"github":["https://github.com/archiedb/archie"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Data collection and management"],"authors":["archie"]}
 
+A light-weight database application designed to standardize and simplify data entry of archaeological or historical artifacts

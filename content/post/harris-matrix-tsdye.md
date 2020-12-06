@@ -1,0 +1,3 @@
+{"title":["harris-matrix"],"description":["Write Graphviz dot files for archaeological sequence diagrams and Bayesian chronological models."],"github":["https://github.com/semerj/harris-matrix"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["http://tsdye.online/harris-matrix/homepage/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Harrix matrix"],"authors":["tsdye"]}
+
+Write Graphviz dot files for archaeological sequence diagrams and Bayesian chronological models.

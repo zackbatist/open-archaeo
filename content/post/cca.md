@@ -1,0 +1,3 @@
+{"title":["cca"],"description":["Colossal Cave Adventure digital palaeography and epigraphy project"],"github":["https://github.com/adreinhard/cca"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Other"],"authors":["adreinhard"]}
+
+Colossal Cave Adventure digital palaeography and epigraphy project

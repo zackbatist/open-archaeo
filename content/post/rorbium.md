@@ -1,0 +1,3 @@
+{"title":["rorbium"],"description":["Orbis data as an R package"],"github":["https://github.com/sfsheath/rorbium"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["API interfaces, scrapers and datasets"],"authors":["sfsheath"]}
+
+Orbis data as an R package

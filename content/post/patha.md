@@ -1,0 +1,3 @@
+{"title":["pathAAR"],"description":["R Package to reconstruct paths using archaeological monuments, model parameters of infrastructure and evaluate those parameters, model parameters of infrastructure and evaluate those parameters."],"github":["https://github.com/ISAAKiel/pathAAR"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Geospatial analysis","Spatial modelling and inference"],"authors":["ISAAKiel"]}
+
+R Package to reconstruct paths using archaeological monuments, model parameters of infrastructure and evaluate those parameters, model parameters of infrastructure and evaluate those parameters.

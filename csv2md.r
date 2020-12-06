@@ -1,111 +1,141 @@
 library(glue)
+library(stringr)
 library(dplyr)
+library(purrr)
 library(readr)
-x <- readr::read_csv("open-archaeo.csv")
-x <- arrange(x, item_name)
+library(jsonlite)
+library(fs)
+source("R/site.R")
+
+open_archaeo <- readr::read_csv("open-archaeo.csv")
+
+# Generate URL-friendly, unique slugs (lowercase, without spaces etc.)
+open_archaeo %>% 
+  mutate(slug = clean_slug(item_name)) %>% 
+  group_by(slug) %>% 
+  mutate(slug = unique_slug(cur_data_all())) ->
+  open_archaeo
+
+# Merge multiple columns
+open_archaeo %>% 
+  rowwise() %>% 
+  mutate(
+    tags = list(cnotna(tag1, tag2, tag3, tag4, tag5)),
+    authors = list(cnotna(author1_name, author2_name, author3_name, 
+                          author4_name, author5_name))
+  ) %>% 
+  ungroup() %>%
+  select(-matches("tag[0-9]"), -matches("author[0-9]_name")) ->
+  open_archaeo
+
+# Generate .md files
+open_archaeo %>% 
+  rename(title = item_name) %>% 
+  pmap(generate_post_md, path = "content/post/") %>% 
+  invisible()
 
 # put it all together
-lapply(seq_along(x), function(i){
-  tags1 <- x$tag1[[i]]
-  tags2 <- x$tag2[[i]]
-  tags3 <- x$tag3[[i]]
-  tags4 <- x$tag4[[i]]
-  tags5 <- x$tag5[[i]]
-  tags1 <- gsub("[", "", tags1, fixed = TRUE)
-  tags2 <- gsub("[", "", tags2, fixed = TRUE)
-  tags3 <- gsub("[", "", tags3, fixed = TRUE)
-  tags4 <- gsub("[", "", tags4, fixed = TRUE)
-  tags5 <- gsub("[", "", tags5, fixed = TRUE)
-  tags1 <- gsub("]", "", tags1, fixed = TRUE)
-  tags2 <- gsub("]", "", tags2, fixed = TRUE)
-  tags3 <- gsub("]", "", tags3, fixed = TRUE)
-  tags4 <- gsub("]", "", tags4, fixed = TRUE)
-  tags5 <- gsub("]", "", tags5, fixed = TRUE)
-  
-  authors1 <- x$author1_name[[i]]
-  authors2 <- x$author2_name[[i]]
-  authors3 <- x$author3_name[[i]]
-  authors4 <- x$author4_name[[i]]
-  authors5 <- x$author5_name[[i]]
-  
-  zz <- glue("
-            +++
-            title = \"{x$item_name[[i]]}\"
-            tags = [
-              \"{tags1}\",
-              \"{tags2}\",
-              \"{tags3}\",
-              \"{tags4}\",
-              \"{tags5}\",
-            ]
-            authors = [
-              \"{authors1}\",
-              \"{authors2}\",
-              \"{authors3}\",
-              \"{authors4}\",
-              \"{authors5}\",
-            ]
-            github = [
-              \"{x$github[[i]]}\",
-            ]
-            gist = [
-              \"{x$gist[[i]]}\",
-            ]
-            gitlab = [
-              \"{x$gitlab[[i]]}\",
-            ]
-            bitbucket = [
-              \"{x$bitbucket[[i]]}\",
-            ]
-            launchpad = [
-              \"{x$launchpad[[i]]}\",
-            ]
-            twitter = [
-              \"{x$twitter[[i]]}\",
-            ]
-            blogpost = [
-              \"{x$blogpost[[i]]}\",
-            ]
-            cran = [
-              \"{x$cran[[i]]}\",
-            ]
-            pypi = [
-              \"{x$pypi[[i]]}\",
-            ]
-            website = [
-              \"{x$website[[i]]}\",
-            ]
-            publication = [
-              \"{x$publication[[i]]}\",
-            ]
-            doi = [
-              \"{x$doi[[i]]}\",
-            ]
-            +++
-            {x$description[[i]]}
-            
-              ")
-  
-  zz <- gsub("\n  \"NA\",", "", zz, fixed = TRUE)
-  zz <- gsub("github = [\n]\n", "", zz, fixed = TRUE)
-  zz <- gsub("gist = [\n]\n", "", zz, fixed = TRUE)
-  zz <- gsub("gitlab = [\n]\n", "", zz, fixed = TRUE)
-  zz <- gsub("bitbucket = [\n]\n", "", zz, fixed = TRUE)
-  zz <- gsub("launchpad = [\n]\n", "", zz, fixed = TRUE)
-  zz <- gsub("twitter = [\n]\n", "", zz, fixed = TRUE)
-  zz <- gsub("blogpost = [\n]\n", "", zz, fixed = TRUE)
-  zz <- gsub("cran = [\n]\n", "", zz, fixed = TRUE)
-  zz <- gsub("pypi = [\n]\n", "", zz, fixed = TRUE)
-  zz <- gsub("website = [\n]\n", "", zz, fixed = TRUE)
-  zz <- gsub("publication = [\n]\n", "", zz, fixed = TRUE)
-  zz <- gsub("doi = [\n]\n", "", zz, fixed = TRUE)
-  
-  postName <- x$item_name[[i]]
-  directoryName <- paste0("content/post/",postName,".md")
-  fileConn<-file(directoryName)
-  writeLines(zz, fileConn)
-  close(fileConn)
-  })
+# lapply(seq_along(x), function(i){
+#   tags1 <- x$tag1[[i]]
+#   tags2 <- x$tag2[[i]]
+#   tags3 <- x$tag3[[i]]
+#   tags4 <- x$tag4[[i]]
+#   tags5 <- x$tag5[[i]]
+#   tags1 <- gsub("[", "", tags1, fixed = TRUE)
+#   tags2 <- gsub("[", "", tags2, fixed = TRUE)
+#   tags3 <- gsub("[", "", tags3, fixed = TRUE)
+#   tags4 <- gsub("[", "", tags4, fixed = TRUE)
+#   tags5 <- gsub("[", "", tags5, fixed = TRUE)
+#   tags1 <- gsub("]", "", tags1, fixed = TRUE)
+#   tags2 <- gsub("]", "", tags2, fixed = TRUE)
+#   tags3 <- gsub("]", "", tags3, fixed = TRUE)
+#   tags4 <- gsub("]", "", tags4, fixed = TRUE)
+#   tags5 <- gsub("]", "", tags5, fixed = TRUE)
+#   
+#   authors1 <- x$author1_name[[i]]
+#   authors2 <- x$author2_name[[i]]
+#   authors3 <- x$author3_name[[i]]
+#   authors4 <- x$author4_name[[i]]
+#   authors5 <- x$author5_name[[i]]
+#   
+#   zz <- glue("
+#             +++
+#             title = \"{x$item_name[[i]]}\"
+#             tags = [
+#               \"{tags1}\",
+#               \"{tags2}\",
+#               \"{tags3}\",
+#               \"{tags4}\",
+#               \"{tags5}\",
+#             ]
+#             authors = [
+#               \"{authors1}\",
+#               \"{authors2}\",
+#               \"{authors3}\",
+#               \"{authors4}\",
+#               \"{authors5}\",
+#             ]
+#             github = [
+#               \"{x$github[[i]]}\",
+#             ]
+#             gist = [
+#               \"{x$gist[[i]]}\",
+#             ]
+#             gitlab = [
+#               \"{x$gitlab[[i]]}\",
+#             ]
+#             bitbucket = [
+#               \"{x$bitbucket[[i]]}\",
+#             ]
+#             launchpad = [
+#               \"{x$launchpad[[i]]}\",
+#             ]
+#             twitter = [
+#               \"{x$twitter[[i]]}\",
+#             ]
+#             blogpost = [
+#               \"{x$blogpost[[i]]}\",
+#             ]
+#             cran = [
+#               \"{x$cran[[i]]}\",
+#             ]
+#             pypi = [
+#               \"{x$pypi[[i]]}\",
+#             ]
+#             website = [
+#               \"{x$website[[i]]}\",
+#             ]
+#             publication = [
+#               \"{x$publication[[i]]}\",
+#             ]
+#             doi = [
+#               \"{x$doi[[i]]}\",
+#             ]
+#             +++
+#             {x$description[[i]]}
+#             
+#               ")
+#   
+#   zz <- gsub("\n  \"NA\",", "", zz, fixed = TRUE)
+#   zz <- gsub("github = [\n]\n", "", zz, fixed = TRUE)
+#   zz <- gsub("gist = [\n]\n", "", zz, fixed = TRUE)
+#   zz <- gsub("gitlab = [\n]\n", "", zz, fixed = TRUE)
+#   zz <- gsub("bitbucket = [\n]\n", "", zz, fixed = TRUE)
+#   zz <- gsub("launchpad = [\n]\n", "", zz, fixed = TRUE)
+#   zz <- gsub("twitter = [\n]\n", "", zz, fixed = TRUE)
+#   zz <- gsub("blogpost = [\n]\n", "", zz, fixed = TRUE)
+#   zz <- gsub("cran = [\n]\n", "", zz, fixed = TRUE)
+#   zz <- gsub("pypi = [\n]\n", "", zz, fixed = TRUE)
+#   zz <- gsub("website = [\n]\n", "", zz, fixed = TRUE)
+#   zz <- gsub("publication = [\n]\n", "", zz, fixed = TRUE)
+#   zz <- gsub("doi = [\n]\n", "", zz, fixed = TRUE)
+#   
+#   postName <- x$item_name[[i]]
+#   directoryName <- paste0("content/post/",postName,".md")
+#   fileConn<-file(directoryName)
+#   writeLines(zz, fileConn)
+#   close(fileConn)
+#   })
 
 ## create config.toml
 all_tags <- coalesce(x$tag1, x$tag2, x$tag3, x$tag4, x$tag5)

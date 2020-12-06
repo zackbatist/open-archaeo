@@ -1,0 +1,3 @@
+{"title":["CloudCal"],"description":["This app will allow you to build & apply calibrations for the Tracer & Artax series of XRF devices"],"github":["https://github.com/leedrake5/CloudCal"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","XRF"],"authors":["leedrake5"]}
+
+This app will allow you to build & apply calibrations for the Tracer & Artax series of XRF devices

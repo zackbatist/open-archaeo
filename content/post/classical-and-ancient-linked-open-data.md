@@ -1,0 +1,3 @@
+{"title":["Classical and ancient Linked Open Data"],"description":["A list of linked open data repositories relating to classics and ancient history."],"github":[null],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://docs.google.com/spreadsheets/d/1aAssGGswX2WNMllV4kMYexBGS8miCywbW5XdcIeE22c/edit#gid=1033348216"],"publication":[null],"DOI":[null],"notes":[null],"tags":[],"authors":["Gabriel Bodard","Paula Granados García","Sarah Middle","Elton Barker"]}
+
+A list of linked open data repositories relating to classics and ancient history.

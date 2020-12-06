@@ -1,0 +1,3 @@
+{"title":["dayofarchaeology"],"description":["export of posts from dayofarchaeology.com"],"github":["https://github.com/drmattlaw/dayofarchaeology"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Public archaeology"],"authors":["drmattlaw"]}
+
+export of posts from dayofarchaeology.com

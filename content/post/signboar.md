@@ -1,0 +1,3 @@
+{"title":["signboardr"],"description":["Extract text from archaeological photos containing a sign board and tag as metadata"],"github":["https://github.com/mrecos/signboardr"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Other"],"authors":["mrecos"]}
+
+Extract text from archaeological photos containing a sign board and tag as metadata

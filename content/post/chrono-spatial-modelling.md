@@ -1,0 +1,3 @@
+{"title":["chrono_spatial_modelling"],"description":["This is an example implementation of chrono-spatial modelling of settlement activities."],"github":["https://github.com/demjanp/chrono_spatial_modelling"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Geospatial analysis","Spatial modelling and inference"],"authors":["demjanp"]}
+
+This is an example implementation of chrono-spatial modelling of settlement activities.

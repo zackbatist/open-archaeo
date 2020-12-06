@@ -1,0 +1,3 @@
+{"title":["nervia"],"description":["Management system for physical storage of archaeological finds"],"github":["https://github.com/steko/nervia"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Data collection and management"],"authors":["steko"]}
+
+Management system for physical storage of archaeological finds

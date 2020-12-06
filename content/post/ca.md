@@ -1,0 +1,3 @@
+{"title":["ca"],"description":["R Script for Seriation Using Correspondence Analysis."],"github":[null],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["http://www.mattpeeples.net/ca.html"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Quantitative and statistical analysis"],"authors":["Matt Peeples"]}
+
+R Script for Seriation Using Correspondence Analysis.

@@ -1,0 +1,3 @@
+{"title":["open-archaeo"],"description":["A list of open source archaeological software and resources"],"github":["https://github.com/zackbatist/open-archaeo"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://zackbatist.github.io/open-archaeo/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Lists"],"authors":["zackbatist"]}
+
+A list of open source archaeological software and resources

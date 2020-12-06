@@ -1,17 +1,3 @@
-+++
-title = "archstopmo"
-tags = [
-  "Communication and outreach",
-]
-authors = [
-  "shawngraham",
-]
-github = [
-  "https://github.com/shawngraham/archstopmo",
-]
-blogpost = [
-  "https://electricarchaeology.ca/2020/05/01/archstopmo-the-2020-edition/",
-]
-+++
-An Archaeology Stop Motion Movie Festival!
+{"title":["archstopmo"],"description":["An Archaeology Stop Motion Movie Festival!"],"github":["https://github.com/shawngraham/archstopmo"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":["https://electricarchaeology.ca/2020/05/01/archstopmo-the-2020-edition/"],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Communication and outreach"],"authors":["shawngraham"]}
 
+An Archaeology Stop Motion Movie Festival!

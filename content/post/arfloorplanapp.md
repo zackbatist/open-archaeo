@@ -1,0 +1,3 @@
+{"title":["ARFloorPlanApp"],"description":["Floor plan app using augmented reality."],"github":["https://github.com/carlsun98/ARFloorPlanApp"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Virtual and augmented reality"],"authors":["carlsun98"]}
+
+Floor plan app using augmented reality.

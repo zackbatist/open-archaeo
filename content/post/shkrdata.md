@@ -1,0 +1,3 @@
+{"title":["shkrdata"],"description":["Package for downloading and preparing shkr data for archaeological analysis"],"github":["https://github.com/ISAAKiel/shkrdata"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["API interfaces, scrapers and datasets"],"authors":["ISAAKiel"]}
+
+Package for downloading and preparing shkr data for archaeological analysis

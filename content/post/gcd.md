@@ -1,0 +1,3 @@
+{"title":["GCD"],"description":["Global Charcoal Database"],"github":["https://github.com/oblarquez/GCD"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["API interfaces, scrapers and datasets"],"authors":["oblarquez"]}
+
+Global Charcoal Database

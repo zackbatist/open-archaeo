@@ -1,0 +1,3 @@
+{"title":["LA_ICP_MS-Routines_FMNH"],"description":["Routines to read and analyze LA-ICP-MS data from the Field Museum's Elemental Analysis Facility"],"github":["https://github.com/ajupton/LA_ICP_MS-Routines_FMNH"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Educational resources and practical guides"],"authors":["ajupton"]}
+
+Routines to read and analyze LA-ICP-MS data from the Field Museum's Elemental Analysis Facility

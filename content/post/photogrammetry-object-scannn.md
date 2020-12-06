@@ -1,0 +1,3 @@
+{"title":["photogrammetry-object-scannner"],"description":["Created for the very-specific purpose of communicating via android with a raspberry pi running a scanner."],"github":["https://github.com/anatolian/photogrammetry-object-scannner"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Photogrammetry"],"authors":["anatolian"]}
+
+Created for the very-specific purpose of communicating via android with a raspberry pi running a scanner.

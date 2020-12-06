@@ -1,0 +1,3 @@
+{"title":["Tldating"],"description":["R package for TL dating"],"github":["https://github.com/dstreble/Tldating"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","Luminescence"],"authors":["dstreble"]}
+
+R package for TL dating

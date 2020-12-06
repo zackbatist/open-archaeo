@@ -1,0 +1,3 @@
+{"title":["Open Context Python Code Repository"],"description":["This project represents the current evolution of Open Context. It's intended to be an easier to maintain code-base, and to make the data published by Open Context easier to maintain."],"github":["https://github.com/ekansa/open-context-py"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Platforms and publications"],"authors":["Open Context"]}
+
+This project represents the current evolution of Open Context. It's intended to be an easier to maintain code-base, and to make the data published by Open Context easier to maintain.

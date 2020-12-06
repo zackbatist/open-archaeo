@@ -1,0 +1,3 @@
+{"title":["Artifact_Class_Diversity"],"description":["Estimates artifact class diversity in multiple geographic regions."],"github":["https://github.com/taphocoenose/Artifact_Class_Diversity"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Geospatial analysis","Locational analysis"],"authors":["taphocoenose"]}
+
+Estimates artifact class diversity in multiple geographic regions.

@@ -1,0 +1,3 @@
+{"title":["missing"],"description":["You have a sequence of numbered items and want to check if any are missing"],"github":["https://github.com/steko/missing"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Bits and bobs"],"authors":["steko"]}
+
+You have a sequence of numbered items and want to check if any are missing

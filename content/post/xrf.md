@@ -1,0 +1,3 @@
+{"title":["xrf"],"description":["The goal of xrf is to provide tools to read, plot, and interpret X-Ray fluorescence spectra"],"github":["https://github.com/paleolimbot/xrf"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","XRF"],"authors":["paleolimbot"]}
+
+The goal of xrf is to provide tools to read, plot, and interpret X-Ray fluorescence spectra

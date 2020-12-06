@@ -1,0 +1,3 @@
+{"title":["field-photographs"],"description":["Android apps for archaeology that enable photography during field work."],"github":["https://github.com/anatolian/field-photographs"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Site mapping"],"authors":["anatolian"]}
+
+Android apps for archaeology that enable photography during field work.

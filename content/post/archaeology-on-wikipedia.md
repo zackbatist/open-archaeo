@@ -1,0 +1,3 @@
+{"title":["archaeology_on_wikipedia.R"],"description":["How does wikipedia see archaeology?"],"github":[null],"gist":["https://gist.github.com/benmarwick/0d5e6526604e755b556f"],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Public archaeology"],"authors":["benmarwick"]}
+
+How does wikipedia see archaeology?

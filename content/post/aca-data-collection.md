@@ -1,0 +1,3 @@
+{"title":["aca_data_collection"],"description":["collection of archaeological data for training purposes."],"github":["https://github.com/archca/aca_data_collection"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["API interfaces, scrapers and datasets"],"authors":["archca"]}
+
+collection of archaeological data for training purposes.

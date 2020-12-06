@@ -1,0 +1,3 @@
+{"title":["ethnobotanyR"],"description":["R package for calculating quantitative ethnobotany indices."],"github":["https://github.com/CWWhitney/ethnobotanyR"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["http://htmlpreview.github.io/?https://github.com/CWWhitney/ethnobotanyR/blob/master/vignettes/ethnobotanyr_vignette.html"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Palaeoenvironment and palaeobotany"],"authors":["CWWhitney"]}
+
+R package for calculating quantitative ethnobotany indices.

@@ -1,0 +1,3 @@
+{"title":["demjanp"],"description":["Radiocarbon Dating Resolution Calculator"],"github":["https://github.com/demjanp/Res14C"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Radiocarbon"],"authors":["demjanp"]}
+
+Radiocarbon Dating Resolution Calculator

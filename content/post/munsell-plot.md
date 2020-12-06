@@ -1,0 +1,3 @@
+{"title":["munsell-plot.R"],"description":["Make a stratigraphic-style plot-schematic of sediment colour using munsell values"],"github":[null],"gist":["https://gist.github.com/benmarwick/f32cbc2fe7297ec9f276b52c118a249a"],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Diagrams and visualizations"],"authors":["benmarwick"]}
+
+Make a stratigraphic-style plot-schematic of sediment colour using munsell values

@@ -1,0 +1,3 @@
+{"title":["zooaRchGUI"],"description":["The zooaRchGUI package provides a Graphical User Interface (GUI) to analytical tools for zooarchaeological data in the R package."],"github":["https://github.com/zooaRchGUI/zooaRchGUI"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["http://www.zooarchgui.org/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Zooarchaeology"],"authors":["zooaRchGUI"]}
+
+The zooaRchGUI package provides a Graphical User Interface (GUI) to analytical tools for zooarchaeological data in the R package.

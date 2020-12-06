@@ -1,14 +1,3 @@
-+++
-title = "archaeology-object-data-collector-app"
-tags = [
-  "Data collection and management",
-]
-authors = [
-  "anatolian",
-]
-github = [
-  "https://github.com/anatolian/archaeology-object-data-collector-app",
-]
-+++
-archaeology-object-data-collector-app
+{"title":["archaeology-object-data-collector-app"],"description":["archaeology-object-data-collector-app"],"github":["https://github.com/anatolian/archaeology-object-data-collector-app"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Data collection and management"],"authors":["anatolian"]}
 
+archaeology-object-data-collector-app

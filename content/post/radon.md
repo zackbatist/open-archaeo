@@ -1,0 +1,3 @@
+{"title":["radon"],"description":["Backend for one of the largest 14C-Database online."],"github":["https://github.com/ISAAKiel/radon"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://radon.ufg.uni-kiel.de/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","Radiocarbon"],"authors":["ISAAKiel"]}
+
+Backend for one of the largest 14C-Database online.

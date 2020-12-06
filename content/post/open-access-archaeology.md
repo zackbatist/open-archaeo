@@ -1,0 +1,3 @@
+{"title":["Open Access Archaeology"],"description":["OpenAccessArchaeology.org is dedicated to helping people discover and use Open Access resources in the field of Archaeology"],"github":[null],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":["https://twitter.com/OpenAccessArch"],"blogpost":[null],"cran":[null],"pypi":[null],"website":["http://www.openaccessarchaeology.org/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Lists"],"authors":["Doug Rocks-Macqueen","Lorna Richardson","Emma O'Riordan","Katrina Urban"]}
+
+OpenAccessArchaeology.org is dedicated to helping people discover and use Open Access resources in the field of Archaeology

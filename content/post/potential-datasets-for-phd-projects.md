@@ -1,0 +1,3 @@
+{"title":["Potential datasets for PhD projects"],"description":["A Google Doc with different archaeological and anthropological datasets and resources for students who need to make changes to their project due to COVID-19"],"github":[null],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://docs.google.com/document/d/1BuIJ0ZXzzh838qvMOu59dLCCEz9xE3JnC76oHN-kMTU/edit"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Lists"],"authors":["Taryn Bell"]}
+
+A Google Doc with different archaeological and anthropological datasets and resources for students who need to make changes to their project due to COVID-19

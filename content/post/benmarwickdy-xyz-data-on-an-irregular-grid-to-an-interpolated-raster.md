@@ -1,0 +1,3 @@
+{"title":["benmarwickDY-XYZ-data-on-an-irregular-grid-to-an-interpolated-raster.r"],"description":["Plotting remote sensing data, especially how to go from XYZ data on an irregular grid to an interpolated raster"],"github":[null],"gist":["https://gist.github.com/benmarwick/7331879"],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Drones and satellite imagery"],"authors":["benmarwick"]}
+
+Plotting remote sensing data, especially how to go from XYZ data on an irregular grid to an interpolated raster

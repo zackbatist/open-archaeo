@@ -1,0 +1,3 @@
+{"title":["crp2a"],"description":["Dose Rate Estimation from In-Situ Gamma-Ray Spectrometry Measurements for Luminescence Dating"],"github":["https://github.com/crp2a/gamma"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://gamma.archaeo.science/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","Luminescence"],"authors":["gamma"]}
+
+Dose Rate Estimation from In-Situ Gamma-Ray Spectrometry Measurements for Luminescence Dating

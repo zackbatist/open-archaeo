@@ -1,0 +1,3 @@
+{"title":["ArchaeoPhases"],"description":["Post-Processing of the Markov Chain Simulated by 'ChronoModel', 'Oxcal' or 'BCal'."],"github":[null],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":["https://cran.r-project.org/web/packages/ArchaeoPhases/index.html"],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Chronological modelling"],"authors":["marieannevibet"]}
+
+Post-Processing of the Markov Chain Simulated by 'ChronoModel', 'Oxcal' or 'BCal'.

@@ -1,0 +1,3 @@
+{"title":["rtefact"],"description":["Brings together a range of methods for analysing the time series, shapes and other properties of archaeological artefacts."],"github":["https://github.com/ahb108/rtefact"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Artefact morphology"],"authors":["ahb108"]}
+
+Brings together a range of methods for analysing the time series, shapes and other properties of archaeological artefacts.

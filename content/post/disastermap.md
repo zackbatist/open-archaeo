@@ -1,0 +1,3 @@
+{"title":["disastermap"],"description":["Proof of concept map for disaster response and archaeology"],"github":["https://github.com/aejolene/disastermap"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://aejolene.github.io/disastermap/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Public policy and civic action"],"authors":["aejolene"]}
+
+Proof of concept map for disaster response and archaeology

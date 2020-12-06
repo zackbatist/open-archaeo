@@ -1,0 +1,3 @@
+{"title":["R-Scripts"],"description":["This contains a set of data about human mobility, subsistance, population, and environmental productivity derived from the Standard Cross Cultural Sample"],"github":["https://github.com/isaacullah/R-Scripts"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["API interfaces, scrapers and datasets"],"authors":["isaacullah"]}
+
+This contains a set of data about human mobility, subsistance, population, and environmental productivity derived from the Standard Cross Cultural Sample

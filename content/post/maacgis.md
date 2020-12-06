@@ -1,0 +1,3 @@
+{"title":["maacgis"],"description":["Climate Response and Virginia Archaeology: Maps from Different Points of View"],"github":["https://github.com/aejolene/maacgis"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://aejolene.github.io/maacgis/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Public policy and civic action"],"authors":["aejolene"]}
+
+Climate Response and Virginia Archaeology: Maps from Different Points of View

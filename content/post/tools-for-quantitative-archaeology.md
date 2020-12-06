@@ -1,0 +1,3 @@
+{"title":["Tools for Quantitative Archaeology"],"description":["Keith KintighTools for Quantitative Archaeology TFQA, is a package of more than 45 PC programs developed to satisfy several unusual analytical needs of archaeologists"],"github":[null],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["http://tfqa.com/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Lists"],"authors":["Keith Kintigh"]}
+
+Keith KintighTools for Quantitative Archaeology TFQA, is a package of more than 45 PC programs developed to satisfy several unusual analytical needs of archaeologists

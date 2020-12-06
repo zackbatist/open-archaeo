@@ -1,0 +1,3 @@
+{"title":["CeraMatch"],"description":["Visual shape-matching of ceramics profiles."],"github":["https://github.com/demjanp/CeraMatch"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Shape recognition"],"authors":["demjanp"]}
+
+Visual shape-matching of ceramics profiles.

@@ -1,0 +1,3 @@
+{"title":["Ford-Diagram"],"description":["This R Function creates a simple Ford diagram for archaeological seriation with error bars determined based on sample size were count data are given"],"github":["https://github.com/mpeeples2008/Ford-Diagram"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Diagrams and visualizations"],"authors":["mpeeples2008"]}
+
+This R Function creates a simple Ford diagram for archaeological seriation with error bars determined based on sample size were count data are given

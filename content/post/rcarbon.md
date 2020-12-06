@@ -1,0 +1,3 @@
+{"title":["rcarbon"],"description":["Methods for calibrating and analysing radiocarbon dates"],"github":["https://github.com/ahb108/rcarbon"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":["https://github.com/zackbatist/open-archaeo/blob/master"],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","Radiocarbon"],"authors":["ahb108"]}
+
+Methods for calibrating and analysing radiocarbon dates

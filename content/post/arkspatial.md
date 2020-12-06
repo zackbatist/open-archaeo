@@ -1,0 +1,3 @@
+{"title":["ArkSpatial"],"description":["A QGIS plugin to simplfy digitization of archaeological plans drawn using the Museum of London Single Context Recording methodology."],"github":["https://github.com/lparchaeology/ArkSpatial"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Site mapping"],"authors":["L-P Archaeology"]}
+
+A QGIS plugin to simplfy digitization of archaeological plans drawn using the Museum of London Single Context Recording methodology.

@@ -1,0 +1,3 @@
+{"title":["Digisite"],"description":["Digisite is a database system and graphical user interface designed for context recording on archaeological sites using mobile devices"],"github":[null],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":["https://launchpad.net/digisite"],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Data collection and management"],"authors":["Yann Hamon"]}
+
+Digisite is a database system and graphical user interface designed for context recording on archaeological sites using mobile devices

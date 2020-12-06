@@ -1,0 +1,3 @@
+{"title":["ede_interpolation"],"description":["A QGIS 3 plugin for spatio-temporal interpolation of archaeological settlement evidence."],"github":["https://github.com/demjanp/ede_interpolation"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://plugins.qgis.org/plugins/ede_interpolation/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Geospatial analysis","Locational analysis"],"authors":["demjanp"]}
+
+A QGIS 3 plugin for spatio-temporal interpolation of archaeological settlement evidence.

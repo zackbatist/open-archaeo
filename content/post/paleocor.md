@@ -1,0 +1,3 @@
+{"title":["paleocoreR"],"description":["R package for interacting with the Paleocore API"],"github":["https://github.com/paleocore/paleocoreR"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["http://paleocore.github.io/paleocoreR/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["API interfaces, scrapers and datasets"],"authors":["paleocore"]}
+
+R package for interacting with the Paleocore API

@@ -1,0 +1,3 @@
+{"title":["archvocab"],"description":["The ArchVocab ontologies by Leif Isaksen"],"github":["https://github.com/steko/archvocab"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://web.archive.org/web/20101229001934/http://archvocab.net/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Schema, ontologies and templates"],"authors":["steko"]}
+
+The ArchVocab ontologies by Leif Isaksen

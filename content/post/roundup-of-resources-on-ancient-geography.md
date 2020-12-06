@@ -1,0 +1,3 @@
+{"title":["Roundup of Resources on Ancient Geography"],"description":["Included in the following list are links to digital project dealing with geography and the ancient world"],"github":[null],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":["https://twitter.com/AWOL_tweets"],"blogpost":["http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html"],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Lists"],"authors":["Charles E. Jones"]}
+
+Included in the following list are links to digital project dealing with geography and the ancient world

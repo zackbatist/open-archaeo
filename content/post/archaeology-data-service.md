@@ -1,0 +1,3 @@
+{"title":["archaeology-data-service"],"description":["an app to collect data on archaeological objects."],"github":["https://github.com/anatolian/archaeology-data-service"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["API interfaces, scrapers and datasets"],"authors":["anatolian"]}
+
+an app to collect data on archaeological objects.

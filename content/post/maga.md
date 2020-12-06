@@ -1,0 +1,3 @@
+{"title":["magAAR"],"description":["Analyse geomagnetic data from archaeological context"],"github":["https://github.com/ISAAKiel/magAAR"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","Geophysics"],"authors":["ISAAKiel"]}
+
+Analyse geomagnetic data from archaeological context

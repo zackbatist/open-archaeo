@@ -1,0 +1,3 @@
+{"title":["PyXRF"],"description":["PyXRF is a python-based sophisticated fluorescence analysis package for fitting and visualizing X-ray fluorescence data"],"github":["https://github.com/NSLS-II/PyXRF"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","XRF"],"authors":["NSLS-II"]}
+
+PyXRF is a python-based sophisticated fluorescence analysis package for fitting and visualizing X-ray fluorescence data

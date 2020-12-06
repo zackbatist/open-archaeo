@@ -1,0 +1,3 @@
+{"title":["evoarchdata"],"description":["Datasets from studies of cultural evolution in Archaeology"],"github":["https://github.com/benmarwick/evoarchdata"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["API interfaces, scrapers and datasets"],"authors":["benmarwick"]}
+
+Datasets from studies of cultural evolution in Archaeology

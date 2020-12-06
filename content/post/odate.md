@@ -1,0 +1,3 @@
+{"title":["ODATE"],"description":["An introduction to the issues, methods, and techniques of digital archaeology, integrated with working code and virtual computing environments or 'notebooks' written in Python or R."],"github":["https://github.com/o-date/draft"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://o-date.github.io/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Educational resources and practical guides"],"authors":["o-date"]}
+
+An introduction to the issues, methods, and techniques of digital archaeology, integrated with working code and virtual computing environments or 'notebooks' written in Python or R.

@@ -1,0 +1,3 @@
+{"title":["photogrammetry-data-collection"],"description":["Photogrammetry tutorial"],"github":["https://github.com/leadr-msu/photogrammetry-data-collection"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://leadr-msu.github.io/photogrammetry-data-collection/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Photogrammetry","Educational resources and practical guides"],"authors":["Jack A. Biggs","leadr-msu"]}
+
+Photogrammetry tutorial

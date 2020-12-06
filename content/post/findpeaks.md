@@ -1,0 +1,3 @@
+{"title":["findPeaks"],"description":["A simple algorithm to find local maxima/minima in sequential data"],"github":["https://github.com/stas-g/findPeaks"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Bits and bobs"],"authors":["stas-g"]}
+
+A simple algorithm to find local maxima/minima in sequential data

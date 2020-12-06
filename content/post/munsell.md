@@ -1,0 +1,3 @@
+{"title":["munsell"],"description":["Provides easy access to, and manipulation of, the Munsell colours"],"github":["https://github.com/cwickham/munsell/"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":["https://cran.r-project.org/web/packages/munsell/index.html"],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Diagrams and visualizations"],"authors":["cwickham"]}
+
+Provides easy access to, and manipulation of, the Munsell colours

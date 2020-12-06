@@ -1,0 +1,3 @@
+{"title":["archaeology-grand-challenges.r"],"description":["Sketch of a look at the 'grand challenges' of Kintigh et al. 2014"],"github":[null],"gist":[null],"gitlab":["https://gist.github.com/benmarwick/d3eb3167ccb2116197ca"],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Other"],"authors":["benmarwick"]}
+
+Sketch of a look at the 'grand challenges' of Kintigh et al. 2014

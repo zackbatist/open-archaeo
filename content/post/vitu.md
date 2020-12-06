@@ -1,0 +1,3 @@
+{"title":["vitutr"],"description":["A page for video tutorials on R, specifically for archaeology"],"github":["https://github.com/MartinHinz/vitutr"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Educational resources and practical guides"],"authors":["MartinHinz"]}
+
+A page for video tutorials on R, specifically for archaeology

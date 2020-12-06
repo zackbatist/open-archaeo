@@ -1,0 +1,3 @@
+{"title":["quantAAR"],"description":["R Library for Quantitative Analysis in Archaeology."],"github":["https://github.com/ISAAKiel/quantAAR"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Quantitative and statistical analysis"],"authors":["ISAAKiel"]}
+
+R Library for Quantitative Analysis in Archaeology.

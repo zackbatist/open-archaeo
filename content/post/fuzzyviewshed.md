@@ -1,0 +1,3 @@
+{"title":["FuzzyViewshed"],"description":["ArcGIS toolbox for fuzzy viewshed calculation."],"github":["https://github.com/gianmarcoalberti/FuzzyViewshed"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Geospatial analysis","Viewshed analysis"],"authors":["gianmarcoalberti"]}
+
+ArcGIS toolbox for fuzzy viewshed calculation.

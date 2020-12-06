@@ -1,0 +1,3 @@
+{"title":["totalopenstation"],"description":["Total Open Station downloads and exports survey data from your total station"],"github":["https://github.com/steko/totalopenstation"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://tops.iosa.it/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Drivers and IO"],"authors":["steko"]}
+
+Total Open Station downloads and exports survey data from your total station

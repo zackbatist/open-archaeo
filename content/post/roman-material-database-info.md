@@ -1,0 +1,3 @@
+{"title":["Roman-material-database-info"],"description":["An interactive database of construction materials used in antiquity meant to enable creation of 3D and virtual reality (VR) models of historic structures."],"github":["https://github.com/rkn2/Roman-material-database-info"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["API interfaces, scrapers and datasets"],"authors":["rkn2"]}
+
+An interactive database of construction materials used in antiquity meant to enable creation of 3D and virtual reality (VR) models of historic structures.

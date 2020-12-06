@@ -1,0 +1,3 @@
+{"title":["tfqar"],"description":["Tools for Quantitative Archaeology - in R."],"github":["https://github.com/sslarch/tfqar"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["http://tfqa.com/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Quantitative and statistical analysis"],"authors":["sslarch"]}
+
+Tools for Quantitative Archaeology - in R.

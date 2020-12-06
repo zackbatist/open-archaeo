@@ -1,0 +1,3 @@
+{"title":["coenocliner"],"description":["An R package to simulate species occurences and abundances counts, along gradient."],"github":["https://github.com/gavinsimpson/coenocliner"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Palaeoenvironment and palaeobotany"],"authors":["gavinsimpson"]}
+
+An R package to simulate species occurences and abundances counts, along gradient.

@@ -1,15 +1,3 @@
-+++
-title = "archeofrag"
-tags = [
-  "Chronological modelling",
-  "Harrix matrix",
-]
-authors = [
-  "sebastien-plutniak",
-]
-github = [
-  "https://github.com/sebastien-plutniak/archeofrag",
-]
-+++
-R package for the analysis of the fragmentation of archeological objects
+{"title":["archeofrag"],"description":["R package for the analysis of the fragmentation of archeological objects"],"github":["https://github.com/sebastien-plutniak/archeofrag"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Chronological modelling","Harrix matrix"],"authors":["sebastien-plutniak"]}
 
+R package for the analysis of the fragmentation of archeological objects

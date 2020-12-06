@@ -1,0 +1,3 @@
+{"title":["Chronophage"],"description":["Applications for obtaining chronograms (quantified chronology diagrams) and time distribution curves of archaeological or historical units from quantified dating indicators treated as inaccuracy intervals."],"github":[null],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://abp.hypotheses.org/4284"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Chronological modelling"],"authors":["Bruno Desachy"]}
+
+Applications for obtaining chronograms (quantified chronology diagrams) and time distribution curves of archaeological or historical units from quantified dating indicators treated as inaccuracy intervals.

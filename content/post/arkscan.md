@@ -1,0 +1,3 @@
+{"title":["ArkScan"],"description":["A simple gui app to simplify scanning single context plans."],"github":["https://github.com/lparchaeology/ArkScan"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Site mapping"],"authors":["L-P Archaeology"]}
+
+A simple gui app to simplify scanning single context plans.

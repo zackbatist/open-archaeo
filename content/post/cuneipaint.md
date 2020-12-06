@@ -1,0 +1,3 @@
+{"title":["CuneiPainter"],"description":["An App to recognize cuneiform characters on your Android phone."],"github":["https://github.com/situx/CuneiPainter"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://situx.github.io/CuneiPainter/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Shape recognition"],"authors":["situx"]}
+
+An App to recognize cuneiform characters on your Android phone.

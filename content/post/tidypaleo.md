@@ -1,0 +1,3 @@
+{"title":["tidypaleo"],"description":["This package simplifies a few workflows when working with multi-proxy paleo-archive data"],"github":["https://github.com/paleolimbot/tidypaleo"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Data collection and management"],"authors":["paleolimbot"]}
+
+This package simplifies a few workflows when working with multi-proxy paleo-archive data

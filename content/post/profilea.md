@@ -1,0 +1,3 @@
+{"title":["profileAAR"],"description":["python qgis plugin of recexcavAAR's archprofile"],"github":["https://github.com/ISAAKiel/profileAAR"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Data collection and management"],"authors":["ISAAKiel"]}
+
+python qgis plugin of recexcavAAR's archprofile

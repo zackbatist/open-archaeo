@@ -1,0 +1,3 @@
+{"title":["archSeries"],"description":["Frequency time-series tools for archaeology."],"github":["https://github.com/joeroe/stratigraphr"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Chronological modelling"],"authors":["davidcorton"]}
+
+Frequency time-series tools for archaeology.

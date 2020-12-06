@@ -1,0 +1,3 @@
+{"title":["AncientMetagenomeDir"],"description":["Repository containing lists of all published ancient metagenome samples (and related)"],"github":["https://github.com/SPAAM-community/AncientMetagenomeDir"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Lists","Palaeoenvironment and palaeobotany"],"authors":["SPAAM-community"]}
+
+Repository containing lists of all published ancient metagenome samples (and related)

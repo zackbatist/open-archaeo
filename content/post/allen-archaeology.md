@@ -1,0 +1,3 @@
+{"title":["allen.archaeology"],"description":["Allen's Interval Algebra for Archaeologists"],"github":["https://github.com/tsdye/allen.archaeology"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Quantitative and statistical analysis"],"authors":["tsdye"]}
+
+Allen's Interval Algebra for Archaeologists

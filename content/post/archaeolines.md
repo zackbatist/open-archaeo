@@ -1,0 +1,3 @@
+{"title":["ArchaeoLines"],"description":["The ArchaeoLines plugin displays any combination of declination arcs most relevant to archaeo- or ethnoastronomical studies."],"github":["https://github.com/Stellarium/stellarium/tree/master/plugins/ArchaeoLines"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["http://stellarium.sourceforge.net/wiki/index.php/ArchaeoLines_plugin"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Geospatial analysis","Viewshed analysis"],"authors":["stellarium"]}
+
+The ArchaeoLines plugin displays any combination of declination arcs most relevant to archaeo- or ethnoastronomical studies.

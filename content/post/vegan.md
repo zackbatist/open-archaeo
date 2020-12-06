@@ -1,0 +1,3 @@
+{"title":["vegan"],"description":["R package for community ecologists: popular ordination methods, ecological null models & diversity analysis."],"github":["https://github.com/vegandevs/vegan"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Palaeoenvironment and palaeobotany"],"authors":["vegandevs"]}
+
+R package for community ecologists: popular ordination methods, ecological null models & diversity analysis.

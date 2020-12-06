@@ -1,0 +1,3 @@
+{"title":["Lithics3D"],"description":["An R package for processing and analyzing 3D scans of archaeological lithics."],"github":["https://github.com/cornelmpop/Lithics3D"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["3D modelling"],"authors":["cornelmpop"]}
+
+An R package for processing and analyzing 3D scans of archaeological lithics.

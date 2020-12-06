@@ -1,0 +1,3 @@
+{"title":["pyArchInit"],"description":["A python plugin for QGIS aimed at managing data from archaeological contexts on the GIS platform"],"github":[null],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://sites.google.com/site/pyarchinit/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Data collection and management"],"authors":[]}
+
+A python plugin for QGIS aimed at managing data from archaeological contexts on the GIS platform

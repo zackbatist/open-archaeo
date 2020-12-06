@@ -1,0 +1,3 @@
+{"title":["Bchron"],"description":["Radiocarbon Dating, Age-Depth Modelling, Relative Sea Level Rate Estimation, and Non-Parametric Phase Modelling"],"github":["https://github.com/andrewcparnell/Bchron"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":["https://cran.rstudio.com/web/packages/Bchron/index.html"],"pypi":[null],"website":[null],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","Radiocarbon"],"authors":["andrewcparnell"]}
+
+Radiocarbon Dating, Age-Depth Modelling, Relative Sea Level Rate Estimation, and Non-Parametric Phase Modelling

@@ -1,0 +1,3 @@
+{"title":["calibrator"],"description":["Small command line tool for 14C calibration"],"github":["https://github.com/ISAAKiel/calibrator"],"gist":[null],"gitlab":[null],"bitbucket":[null],"launchpad":[null],"twitter":[null],"blogpost":[null],"cran":[null],"pypi":[null],"website":["https://isaakiel.github.io/calibrator/"],"publication":[null],"DOI":[null],"notes":[null],"tags":["Instrumental analysis","Radiocarbon"],"authors":["ISAAKiel"]}
+
+Small command line tool for 14C calibration
