@@ -20,12 +20,25 @@ open_archaeo %>%
 open_archaeo %>% 
   rowwise() %>% 
   mutate(
-    tags = list(cnotna(tag1, tag2, tag3, tag4, tag5)),
+    links = list(as.list(cnotna(
+      GitHub = github,
+      gist = gist,
+      GitLab = gitlab,
+      BitBucket = bitbucket,
+      Launchpad = launchpad,
+      Twitter = twitter,
+      `blog post` = blogpost,
+      CRAN = cran,
+      PyPi = pypi,
+      Website = website,
+      Publication = publication
+    ))),
     authors = list(cnotna(author1_name, author2_name, author3_name, 
-                          author4_name, author5_name))
+                          author4_name, author5_name)),
+    tags = list(cnotna(tag1, tag2, tag3, tag4, tag5))
   ) %>% 
   ungroup() %>%
-  select(-matches("tag[0-9]"), -matches("author[0-9]_name")) ->
+  select(slug, item_name, description, links, authors, tags, doi = DOI) ->
   open_archaeo
 
 # Generate .md files

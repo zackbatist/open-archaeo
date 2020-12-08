@@ -28,8 +28,11 @@ unique_slug <- function(.data) {
 
 generate_post_md <- function(slug, title, description, ..., path) {
   front_matter <- list(title = title, description = description, ...)
-  # Title has to be a singleton
+  # Preserve some values as singletons
   front_matter$title <- unbox(front_matter$title)
+  front_matter$links <- map(front_matter$links, unbox)
+  front_matter$doi <- unbox(front_matter$doi)
+  
   front_matter <- toJSON(front_matter, auto_unbox	= FALSE, pretty = TRUE)
   
   md <- paste0(front_matter,
