@@ -13,7 +13,7 @@ theme = "hyde-hyde"
 
 # summarylength = 30
 
-#paginate = 5
+# paginate = 5
 
 ## Site Settings
 [params]
@@ -44,6 +44,7 @@ theme = "hyde-hyde"
     # Table of contents
     #toc = none, "hugo", or "tocbot"
     
+    customCss = ["css/custom.css"]
     
 
 ## Social Accounts
@@ -61,182 +62,3 @@ theme = "hyde-hyde"
 #    email = "your-email@example.com"
 #    gravatar = "your-email@example.com"
 #    pgpkey = "<path-to-your-key-in-/static>"
-
-## Main Menu
-
-[[menu.main]]
-    name = "3D modelling"
-    weight = 100
-    identifier = "3D modelling"
-    url = "/tags/3D modelling"
-[[menu.main]]
-    name = "API interfaces, scrapers and datasets"
-    weight = 100
-    identifier = "API interfaces, scrapers and datasets"
-    url = "/tags/API interfaces, scrapers and datasets"
-[[menu.main]]
-    name = "Artefact morphology"
-    weight = 100
-    identifier = "Artefact morphology"
-    url = "/tags/Artefact morphology"
-[[menu.main]]
-    name = "Bits and bobs"
-    weight = 100
-    identifier = "Bits and bobs"
-    url = "/tags/Bits and bobs"
-[[menu.main]]
-    name = "Chronological modelling"
-    weight = 100
-    identifier = "Chronological modelling"
-    url = "/tags/Chronological modelling"
-[[menu.main]]
-    name = "Communication and outreach"
-    weight = 100
-    identifier = "Communication and outreach"
-    url = "/tags/Communication and outreach"
-[[menu.main]]
-    name = "Data collection and management"
-    weight = 100
-    identifier = "Data collection and management"
-    url = "/tags/Data collection and management"
-[[menu.main]]
-    name = "Data entry"
-    weight = 100
-    identifier = "Data entry"
-    url = "/tags/Data entry"
-[[menu.main]]
-    name = "Diagrams and visualizations"
-    weight = 100
-    identifier = "Diagrams and visualizations"
-    url = "/tags/Diagrams and visualizations"
-[[menu.main]]
-    name = "Drivers and IO"
-    weight = 100
-    identifier = "Drivers and IO"
-    url = "/tags/Drivers and IO"
-[[menu.main]]
-    name = "Drones and satellite imagery"
-    weight = 100
-    identifier = "Drones and satellite imagery"
-    url = "/tags/Drones and satellite imagery"
-[[menu.main]]
-    name = "Educational resources and practical guides"
-    weight = 100
-    identifier = "Educational resources and practical guides"
-    url = "/tags/Educational resources and practical guides"
-[[menu.main]]
-    name = "Games"
-    weight = 100
-    identifier = "Games"
-    url = "/tags/Games"
-[[menu.main]]
-    name = "Geospatial analysis"
-    weight = 100
-    identifier = "Geospatial analysis"
-    url = "/tags/Geospatial analysis"
-[[menu.main]]
-    name = "Harrix matrix"
-    weight = 100
-    identifier = "Harrix matrix"
-    url = "/tags/Harrix matrix"
-[[menu.main]]
-    name = "Imaging"
-    weight = 100
-    identifier = "Imaging"
-    url = "/tags/Imaging"
-[[menu.main]]
-    name = "Instrumental analysis"
-    weight = 100
-    identifier = "Instrumental analysis"
-    url = "/tags/Instrumental analysis"
-[[menu.main]]
-    name = "LiDAR"
-    weight = 100
-    identifier = "LiDAR"
-    url = "/tags/LiDAR"
-[[menu.main]]
-    name = "Lists"
-    weight = 100
-    identifier = "Lists"
-    url = "/tags/Lists"
-[[menu.main]]
-    name = "Literary analysis and epigraphy"
-    weight = 100
-    identifier = "Literary analysis and epigraphy"
-    url = "/tags/Literary analysis and epigraphy"
-[[menu.main]]
-    name = "Logistics"
-    weight = 100
-    identifier = "Logistics"
-    url = "/tags/Logistics"
-[[menu.main]]
-    name = "Other"
-    weight = 100
-    identifier = "Other"
-    url = "/tags/Other"
-[[menu.main]]
-    name = "Palaeoenvironment and palaeobotany"
-    weight = 100
-    identifier = "Palaeoenvironment and palaeobotany"
-    url = "/tags/Palaeoenvironment and palaeobotany"
-[[menu.main]]
-    name = "Photogrammetry"
-    weight = 100
-    identifier = "Photogrammetry"
-    url = "/tags/Photogrammetry"
-[[menu.main]]
-    name = "Platforms and publications"
-    weight = 100
-    identifier = "Platforms and publications"
-    url = "/tags/Platforms and publications"
-[[menu.main]]
-    name = "Public archaeology"
-    weight = 100
-    identifier = "Public archaeology"
-    url = "/tags/Public archaeology"
-[[menu.main]]
-    name = "Public policy and civic action"
-    weight = 100
-    identifier = "Public policy and civic action"
-    url = "/tags/Public policy and civic action"
-[[menu.main]]
-    name = "Quantitative and statistical analysis"
-    weight = 100
-    identifier = "Quantitative and statistical analysis"
-    url = "/tags/Quantitative and statistical analysis"
-[[menu.main]]
-    name = "Radiocarbon"
-    weight = 100
-    identifier = "Radiocarbon"
-    url = "/tags/Radiocarbon"
-[[menu.main]]
-    name = "Schema, ontologies and templates"
-    weight = 100
-    identifier = "Schema, ontologies and templates"
-    url = "/tags/Schema, ontologies and templates"
-[[menu.main]]
-    name = "Shape recognition"
-    weight = 100
-    identifier = "Shape recognition"
-    url = "/tags/Shape recognition"
-[[menu.main]]
-    name = "Site mapping"
-    weight = 100
-    identifier = "Site mapping"
-    url = "/tags/Site mapping"
-[[menu.main]]
-    name = "Virtual and augmented reality"
-    weight = 100
-    identifier = "Virtual and augmented reality"
-    url = "/tags/Virtual and augmented reality"
-[[menu.main]]
-    name = "Writing"
-    weight = 100
-    identifier = "Writing"
-    url = "/tags/Writing"
-[[menu.main]]
-    name = "Zooarchaeology"
-    weight = 100
-    identifier = "Zooarchaeology"
-    url = "/tags/Zooarchaeology"
-

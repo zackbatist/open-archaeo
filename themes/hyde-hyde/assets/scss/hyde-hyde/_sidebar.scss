@@ -24,12 +24,11 @@
 }
 
 .sidebar-nav {
-  text-align: left;
+  text-align: center;
   list-style: none;
   margin-bottom: 2rem;
   margin-top: 2rem;
   padding-left: 0;
-  margin-left: 1.5rem;
 }
 
 .sidebar-nav-item {
@@ -86,13 +85,4 @@
 .builtwith {
   padding-top: .2rem;
   @extend %small-center-text;
-}
-
-.tags-header {
-  h3 {
-    margin-bottom: -1.5rem;
-    text-align: left;
-    color: #547f5c;
-    margin-left: 1.5rem;
-  }
 }
