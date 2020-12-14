@@ -3,10 +3,35 @@
 {{ end }}
 
 {{ define "content" }}
-    <div class="post">
-    {{ .Content }}
-    </div>
-
+  <div class="post-list">
+    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" site.Params.mainSections) }}
+    {{ range $paginator.Pages }}
+      {{ if .Draft }}
+        {{ .Scratch.Set "draftPage" true }}
+      {{ else }}
+        {{ .Scratch.Set "draftPage" false }}
+      {{ end }}
+      <div class="post-list__item">
+        <span class="item__title--big">
+          <a href="{{ .RelPermalink }}" {{if .Scratch.Get "draftPage" }}class="draft"{{end}}>{{ .Title }}</a>
+        </span>
+        <span class="item__date">
+          {{ .Date.Format (.Site.Params.dateformat | default "Jan 02, 2006") }}
+        </span>
+        <span {{if .Scratch.Get "draftPage" }}class="draft"{{end}}>
+        {{ if .Description }}
+        {{ .Description }}
+        {{ else }}
+        {{ .Summary }}
+        {{ end }}
+        </span>
+        {{ if .Truncated }}
+          ... <a class="read-more-symbol" href="{{ .RelPermalink }}">➦</a>
+        {{ end }}
+        </div>
+        {{ .Scratch.Delete "draftPage" }}
+     {{ end }}
+  </div>
   {{ partial "pagination.html" . }}
 {{ end }}
 

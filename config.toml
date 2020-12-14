@@ -13,7 +13,7 @@ theme = "hyde-hyde"
 
 # summarylength = 30
 
-#paginate = 5
+# paginate = 5
 
 ## Site Settings
 [params]
@@ -43,6 +43,9 @@ theme = "hyde-hyde"
 
     # Table of contents
     #toc = none, "hugo", or "tocbot"
+    
+    customCss = ["css/custom.css"]
+    
 
     # allow html links
     [markup.goldmark.renderer]
@@ -63,20 +66,3 @@ theme = "hyde-hyde"
 #    email = "your-email@example.com"
 #    gravatar = "your-email@example.com"
 #    pgpkey = "<path-to-your-key-in-/static>"
-
-## Main Menu
-#[[menu.main]]
-#    name = "Posts"
-#    weight = 100
-#    identifier = "posts"
-#    url = "/posts/"
-#[[menu.main]]
-#    name = "Portfolio"
-#    identifier = "portfolio"
-#    weight = 200
-#    url = "/portfolio/"
-#[[menu.main]]
-#    name = "About"
-#    identifier = "about"
-#    weight = 300
-#    url = "/about/"

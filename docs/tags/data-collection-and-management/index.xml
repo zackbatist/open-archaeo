@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data collection and management on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/data-collection-and-management/</link>
+    <description>Recent content in Data collection and management on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/data-collection-and-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>archaeology-object-data-collector-app</title>
+      <link>https://open-archaeo.info/post/archaeology-object-data-collector-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeology-object-data-collector-app/</guid>
+      <description>archaeology-object-data-collector-app</description>
+    </item>
+    
+    <item>
+      <title>arches</title>
+      <link>https://open-archaeo.info/post/arches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/arches/</guid>
+      <description>Arches is a web platform for creating, managing, &amp;amp; visualizing geospatial data. Arches was inspired by the needs of the Cultural Heritage community, particularly the widespread need of organizations to build &amp;amp; manage cultural heritage inventories.</description>
+    </item>
+    
+    <item>
+      <title>archiedb</title>
+      <link>https://open-archaeo.info/post/archiedb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archiedb/</guid>
+      <description>A light-weight database application designed to standardize and simplify data entry of archaeological or historical artifacts</description>
+    </item>
+    
+    <item>
+      <title>ArchJobCAD</title>
+      <link>https://open-archaeo.info/post/archjobcad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archjobcad/</guid>
+      <description>Tasks for Excavations in AutoCAD</description>
+    </item>
+    
+  </channel>
+</rss>
