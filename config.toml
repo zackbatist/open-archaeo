@@ -47,6 +47,10 @@ theme = "hyde-hyde"
     customCss = ["css/custom.css"]
     
 
+    # allow html links
+    [markup.goldmark.renderer]
+    unsafe = true
+
 ## Social Accounts
 [params.social]
      github = "zackbatist/open-archaeo"
