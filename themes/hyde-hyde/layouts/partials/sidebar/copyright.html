@@ -1,9 +1,6 @@
 {{ with .Site.Params.copyright }}
 <div class="copyright">
-
-  Maintained by Zack Batist </br>
-  [<a href="https://github.com/zackbatist">GitHub</a>] [<a href="https://twitter.com/mtl_zack">Twitter</a>] </br>
-  </br>
+  &copy; {{ with $.Site.Params.since }}{{ if lt . now.Year }}{{ . | safeHTML }} - {{ end }}{{ end }}{{ now.Format "2006"}} {{ . | safeHTML }}
   {{ with $.Site.Params.license }}
     <a href="{{$.Site.Params.licenseURL | safeHTML}}">{{ . | safeHTML }}</a>
   {{end}}

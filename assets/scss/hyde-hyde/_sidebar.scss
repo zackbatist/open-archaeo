@@ -1,0 +1,98 @@
+.sidebar {
+  background-color: $sidebar-color;
+  color: rgb(255, 255, 255);
+  color: rgba(255, 255, 255, 0.5);
+  padding: 2rem 1rem;
+  text-align: center;
+  a {
+    color: $gray-1;
+    border: none;
+    &:hover {
+      color: $link-color;
+    }
+    &:focus {
+      color: $link-color;
+    }
+  }
+  .sidebar-about {
+    text-align: center;
+  }
+  .author-image {
+    display: block;
+    margin-top: 4px;
+  }
+}
+
+.sidebar-nav {
+  text-align: left;
+  list-style: none;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  padding-left: 0;
+  margin-left: 1.5rem;
+}
+
+.sidebar-nav-item {
+  display: block;
+  line-height: 1.75;
+  .active {
+    font-weight: bold;
+  }
+}
+.site__title {
+  font-size: $site__title-font-size;
+  margin-bottom: 0.5rem;
+  a:hover {
+    border: none;
+  }
+}
+
+.site__description {
+  font-size: 1.285rem;
+  font-weight: 300;
+}
+
+.social {
+  text-align: center;
+  a {
+    padding: 0 4px;
+    @include link-no-decoration();
+  }
+}
+
+.img--circle {
+	border-radius: 50%;
+}
+
+.img--headshot {
+	height: 115px;
+	width: 115px;
+}
+
+.img--caption {
+	font-style: italic;
+}
+
+%small-center-text {
+  font-size: $font-scale-dot7;
+  line-height: 1.1rem;
+  text-align: center;
+}
+
+.copyright {
+  padding-top: 1rem;
+	@extend %small-center-text;
+}
+.builtwith {
+  padding-top: .2rem;
+  @extend %small-center-text;
+}
+
+.tags-header {
+  h3 {
+    margin-bottom: -1.5rem;
+    text-align: left;
+    color: #547f5c;
+    margin-left: 1.5rem;
+  }
+}

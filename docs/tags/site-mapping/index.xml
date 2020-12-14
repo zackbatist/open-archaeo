@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site mapping on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/site-mapping/</link>
+    <description>Recent content in Site mapping on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/site-mapping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>archaeological-survey-location-collector</title>
+      <link>https://open-archaeo.info/post/archaeological-survey-location-collect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeological-survey-location-collect/</guid>
+      <description>An app for use in archaeological field survey to collect high-accurate point locations, photographs, and other data.</description>
+    </item>
+    
+    <item>
+      <title>ArkGrid</title>
+      <link>https://open-archaeo.info/post/arkgrid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/arkgrid/</guid>
+      <description>A QGIS plugin for local site grids.</description>
+    </item>
+    
+    <item>
+      <title>ArkScan</title>
+      <link>https://open-archaeo.info/post/arkscan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/arkscan/</guid>
+      <description>A simple gui app to simplify scanning single context plans.</description>
+    </item>
+    
+    <item>
+      <title>ArkSpatial</title>
+      <link>https://open-archaeo.info/post/arkspatial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/arkspatial/</guid>
+      <description>A QGIS plugin to simplfy digitization of archaeological plans drawn using the Museum of London Single Context Recording methodology.</description>
+    </item>
+    
+    <item>
+      <title>field-photographs</title>
+      <link>https://open-archaeo.info/post/field-photographs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/field-photographs/</guid>
+      <description>Android apps for archaeology that enable photography during field work.</description>
+    </item>
+    
+    <item>
+      <title>fieldwalkr</title>
+      <link>https://open-archaeo.info/post/fieldwal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/fieldwal/</guid>
+      <description>Spatial Sampling and Survey Simulation Tools.</description>
+    </item>
+    
+    <item>
+      <title>simple-browser-gis-collector</title>
+      <link>https://open-archaeo.info/post/simple-browser-gis-collect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/simple-browser-gis-collect/</guid>
+      <description>Mobile-oriented browser based application that could be used for data collection.</description>
+    </item>
+    
+    <item>
+      <title>sitedefinition</title>
+      <link>https://open-archaeo.info/post/sitedefinition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/sitedefinition/</guid>
+      <description>The goal of sitedefinition is to see how feature densities might be used for site definition.</description>
+    </item>
+    
+    <item>
+      <title>trenchdrawer</title>
+      <link>https://open-archaeo.info/post/trenchdraw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/trenchdraw/</guid>
+      <description>Plugin for drawing trenches.</description>
+    </item>
+    
+  </channel>
+</rss>

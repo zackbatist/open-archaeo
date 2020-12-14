@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"file": "custom.css",
+	"sourceRoot": "/Users/zackbatist/Desktop/open-archaeo",
+	"sources": [
+		"stdin"
+	],
+	"sourcesContent": [
+		".openarchaeo-item {\n  margin: 0 0 2em 0;\n}\n\n.openarchaeo-item-name,\n.openarchaeo-item-description,\n.openarchaeo-item-description p {\n  display: inline;\n}\n\n.openarchaeo-item-name {\n  font-weight: bold;\n}\n\n.openarchaeo-item-name:after {\n  content: \":\";\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,iBAAiB,AAAC,CAChB,MAAM,CAAE,SAAS,CAClB,AAED,AAAA,sBAAsB,CACtB,6BAA6B,CAC7B,6BAA6B,CAAC,CAAC,AAAC,CAC9B,OAAO,CAAE,MAAM,CAChB,AAED,AAAA,sBAAsB,AAAC,CACrB,WAAW,CAAE,IAAI,CAClB,AAED,AAAA,sBAAsB,CAAC,KAAK,AAAC,CAC3B,OAAO,CAAE,GAAG,CACb"
+}

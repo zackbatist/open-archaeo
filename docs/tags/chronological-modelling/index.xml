@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chronological modelling on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/chronological-modelling/</link>
+    <description>Recent content in Chronological modelling on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/chronological-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ADMUR</title>
+      <link>https://open-archaeo.info/post/adm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/adm/</guid>
+      <description>Tools to directly model underlying population dynamics using chronological datasets (radiocarbon and other) with a variety of models, including Continuous Piecewise Linear (CPL) model framework, and model comparison framework using BIC. Package also calibrates 14C samples, and generates Summed Probability Distributions (SPD). CPL modelling directly estimates the most likely population trajectory given a dataset, using SPD simulation analysis to generate a Goodness-of-fit test for the best selected model.</description>
+    </item>
+    
+    <item>
+      <title>aoristAAR</title>
+      <link>https://open-archaeo.info/post/aorista/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/aorista/</guid>
+      <description>A R package for the aoristic analysis of archaeological data.</description>
+    </item>
+    
+    <item>
+      <title>ArchaeoChron</title>
+      <link>https://open-archaeo.info/post/archaeochron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeochron/</guid>
+      <description>Bayesian Modeling of Archaeological Chronologies.</description>
+    </item>
+    
+    <item>
+      <title>ArchaeoPhases</title>
+      <link>https://open-archaeo.info/post/archaeophases-archaeostat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeophases-archaeostat/</guid>
+      <description>Tools for the post-processing of the Markov Chain simulated by any software used for the construction of archeological chronologies.</description>
+    </item>
+    
+    <item>
+      <title>ArchaeoPhases</title>
+      <link>https://open-archaeo.info/post/archaeophases-marieannevibet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeophases-marieannevibet/</guid>
+      <description>Post-Processing of the Markov Chain Simulated by &amp;lsquo;ChronoModel&amp;rsquo;, &amp;lsquo;Oxcal&amp;rsquo; or &amp;lsquo;BCal&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>archeofrag</title>
+      <link>https://open-archaeo.info/post/archeofrag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archeofrag/</guid>
+      <description>R package for the analysis of the fragmentation of archeological objects</description>
+    </item>
+    
+    <item>
+      <title>archSeries</title>
+      <link>https://open-archaeo.info/post/archseries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archseries/</guid>
+      <description>Frequency time-series tools for archaeology.</description>
+    </item>
+    
+    <item>
+      <title>chronomodel</title>
+      <link>https://open-archaeo.info/post/chronomodel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/chronomodel/</guid>
+      <description>Chronological Modelling of Archaeological Data using Bayesian Statistics.</description>
+    </item>
+    
+    <item>
+      <title>Chronophage</title>
+      <link>https://open-archaeo.info/post/chronophage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/chronophage/</guid>
+      <description>Applications for obtaining chronograms (quantified chronology diagrams) and time distribution curves of archaeological or historical units from quantified dating indicators treated as inaccuracy intervals.</description>
+    </item>
+    
+    <item>
+      <title>Seriographe EPPM</title>
+      <link>https://open-archaeo.info/post/seriographe-eppm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/seriographe-eppm/</guid>
+      <description>The EPPM serograph is a graphical tool for chronological serialization of archaeological furniture counting tables.</description>
+    </item>
+    
+    <item>
+      <title>stratigraphr</title>
+      <link>https://open-archaeo.info/post/stratigrap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/stratigrap/</guid>
+      <description>R package for archaeological stratigraphy and chronological sequences.</description>
+    </item>
+    
+  </channel>
+</rss>

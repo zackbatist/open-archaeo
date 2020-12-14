@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/other/</link>
+    <description>Recent content in Other on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>archaeology-grand-challenges.r</title>
+      <link>https://open-archaeo.info/post/archaeology-grand-challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeology-grand-challenges/</guid>
+      <description>Sketch of a look at the &amp;lsquo;grand challenges&amp;rsquo; of Kintigh et al. 2014</description>
+    </item>
+    
+    <item>
+      <title>caa2019_halfway_house</title>
+      <link>https://open-archaeo.info/post/caa2019-halfway-house/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/caa2019-halfway-house/</guid>
+      <description>This poster presents an approach that helps archaeological projects maintain an authoritative database, while retaining the flexibility and accessibility needed for ongoing research with multiple collaborators, by implementing a server-client architecture to maintain a single, consistent research database</description>
+    </item>
+    
+    <item>
+      <title>cca</title>
+      <link>https://open-archaeo.info/post/cca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/cca/</guid>
+      <description>Colossal Cave Adventure digital palaeography and epigraphy project</description>
+    </item>
+    
+    <item>
+      <title>Ceramic_Dashboard</title>
+      <link>https://open-archaeo.info/post/ceramic-dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/ceramic-dashboard/</guid>
+      <description>Dashboard showing ceramic EDA and interaction network construction in the Late Prehistoric Central Illinois River Valley.</description>
+    </item>
+    
+    <item>
+      <title>signboardr</title>
+      <link>https://open-archaeo.info/post/signboar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/signboar/</guid>
+      <description>Extract text from archaeological photos containing a sign board and tag as metadata</description>
+    </item>
+    
+  </channel>
+</rss>
