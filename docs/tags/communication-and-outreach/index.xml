@@ -15,5 +15,14 @@
       <description>An Archaeology Stop Motion Movie Festival!</description>
     </item>
     
+    <item>
+      <title>sipontomedievale</title>
+      <link>https://open-archaeo.info/post/sipontomedievale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/sipontomedievale/</guid>
+      <description>This repo contains the code for an interactive website created to illustrate historical background, findings and data of the Siponto excavation site (Manfredonia, Italy)</description>
+    </item>
+    
   </channel>
 </rss>

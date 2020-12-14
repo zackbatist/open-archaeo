@@ -15,5 +15,104 @@
       <description>The ArchaeoLines plugin displays any combination of declination arcs most relevant to archaeo- or ethnoastronomical studies.</description>
     </item>
     
+    <item>
+      <title>Artifact_Class_Diversity</title>
+      <link>https://open-archaeo.info/post/artifact-class-diversity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/artifact-class-diversity/</guid>
+      <description>Estimates artifact class diversity in multiple geographic regions.</description>
+    </item>
+    
+    <item>
+      <title>chrono_spatial_modelling</title>
+      <link>https://open-archaeo.info/post/chrono-spatial-modelling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/chrono-spatial-modelling/</guid>
+      <description>This is an example implementation of chrono-spatial modelling of settlement activities.</description>
+    </item>
+    
+    <item>
+      <title>ede_interpolation</title>
+      <link>https://open-archaeo.info/post/ede-interpolation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/ede-interpolation/</guid>
+      <description>A QGIS 3 plugin for spatio-temporal interpolation of archaeological settlement evidence.</description>
+    </item>
+    
+    <item>
+      <title>FuzzyViewshed</title>
+      <link>https://open-archaeo.info/post/fuzzyviewshed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/fuzzyviewshed/</guid>
+      <description>ArcGIS toolbox for fuzzy viewshed calculation.</description>
+    </item>
+    
+    <item>
+      <title>leastcostpath</title>
+      <link>https://open-archaeo.info/post/leastcostpath/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/leastcostpath/</guid>
+      <description>Provides the functionality to calculate Least Cost Paths (LCPs) which are often, but not exclusively, used in archaeological research. This package can be used to apply multiple cost functions when approximating the difficulty of moving across a landscape, as well as taking into account traversing across slope and other costs such as landscape features. This package also provides functionality to validate the accuracy of the computed LCP relative to another path.</description>
+    </item>
+    
+    <item>
+      <title>mpvecost</title>
+      <link>https://open-archaeo.info/post/mpvecost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/mpvecost/</guid>
+      <description>Provides the facility to calculate non-isotropic accumulated cost surface and least-cost paths using a number of human-movement-related cost functions that can be selected by the user. It just requires a Digital Terrain Model, a start location and (optionally) destination locations.</description>
+    </item>
+    
+    <item>
+      <title>pathAAR</title>
+      <link>https://open-archaeo.info/post/patha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/patha/</guid>
+      <description>R Package to reconstruct paths using archaeological monuments, model parameters of infrastructure and evaluate those parameters, model parameters of infrastructure and evaluate those parameters.</description>
+    </item>
+    
+    <item>
+      <title>QGIS-topographic-networks</title>
+      <link>https://open-archaeo.info/post/qgis-topographic-networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/qgis-topographic-networks/</guid>
+      <description>Models relationships between elements in a terrain model, connecting pixels according to their height difference.</description>
+    </item>
+    
+    <item>
+      <title>QGIS-visibility-analysis</title>
+      <link>https://open-archaeo.info/post/qgis-visibility-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/qgis-visibility-analysis/</guid>
+      <description>Calculates visible surface from a given observer point over a digital elevation model. The plugin is intended for more complex modelling, such as the depth below the visible horizon or generation of intervisibilty networks between groups of points. It is particularly performant for multiple viewshed calculations form a set of fixed points.</description>
+    </item>
+    
+    <item>
+      <title>senscape</title>
+      <link>https://open-archaeo.info/post/senscape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/senscape/</guid>
+      <description>A toolbox for modelling human perception of topography for QGIS, based on QGIS viewshed module.</description>
+    </item>
+    
+    <item>
+      <title>TRANSIT</title>
+      <link>https://open-archaeo.info/post/transit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/transit/</guid>
+      <description>GIS toolbox for estimating the duration of ancient sail-powered navigation.</description>
+    </item>
+    
   </channel>
 </rss>

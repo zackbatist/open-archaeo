@@ -8,11 +8,38 @@
     <language>en</language><atom:link href="https://open-archaeo.info/tags/public-archaeology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>archaeology_on_wikipedia.R</title>
-      <link>https://open-archaeo.info/post/archaeology_on_wikipedia.r/</link>
+      <link>https://open-archaeo.info/post/archaeology-on-wikipedia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/archaeology_on_wikipedia.r/</guid>
+      <guid>https://open-archaeo.info/post/archaeology-on-wikipedia/</guid>
       <description>How does wikipedia see archaeology?</description>
+    </item>
+    
+    <item>
+      <title>dayofarchaeology</title>
+      <link>https://open-archaeo.info/post/dayofarchaeology-benmarwick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/dayofarchaeology-benmarwick/</guid>
+      <description>A Distant Reading of the Day of Archaeology</description>
+    </item>
+    
+    <item>
+      <title>dayofarchaeology</title>
+      <link>https://open-archaeo.info/post/dayofarchaeology-drmattlaw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/dayofarchaeology-drmattlaw/</guid>
+      <description>export of posts from dayofarchaeology.com</description>
+    </item>
+    
+    <item>
+      <title>tweet-edits-to-archaeology-articles.R</title>
+      <link>https://open-archaeo.info/post/tweet-edits-to-archaeology-articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/tweet-edits-to-archaeology-articles/</guid>
+      <description>Using R with wikipedia for various things</description>
     </item>
     
   </channel>

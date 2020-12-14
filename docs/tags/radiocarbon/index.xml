@@ -8,11 +8,92 @@
     <language>en</language><atom:link href="https://open-archaeo.info/tags/radiocarbon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analysing-Archaeological-Radiocabon-Ages-Using-R</title>
-      <link>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using-r/</link>
+      <link>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using-r/</guid>
+      <guid>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using/</guid>
       <description>Practice some techniques for analysing archaeological radiocabon ages using R</description>
+    </item>
+    
+    <item>
+      <title>Bchron</title>
+      <link>https://open-archaeo.info/post/bchron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/bchron/</guid>
+      <description>Radiocarbon Dating, Age-Depth Modelling, Relative Sea Level Rate Estimation, and Non-Parametric Phase Modelling</description>
+    </item>
+    
+    <item>
+      <title>calibrator</title>
+      <link>https://open-archaeo.info/post/calibrat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/calibrat/</guid>
+      <description>Small command line tool for 14C calibration</description>
+    </item>
+    
+    <item>
+      <title>carbon14</title>
+      <link>https://open-archaeo.info/post/carbon14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/carbon14/</guid>
+      <description>The goal of carbon14 is to provide a tidy interface to radiocarbon dating, to promote its inclusion in reproducible manuscripts</description>
+    </item>
+    
+    <item>
+      <title>clustering_14C</title>
+      <link>https://open-archaeo.info/post/clustering-14c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/clustering-14c/</guid>
+      <description>A python implementation of the method of clustering radiocarbon dates in order to determine whether they represent separate events, or phases in time</description>
+    </item>
+    
+    <item>
+      <title>demjanp</title>
+      <link>https://open-archaeo.info/post/demjanp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/demjanp/</guid>
+      <description>Radiocarbon Dating Resolution Calculator</description>
+    </item>
+    
+    <item>
+      <title>IOSACal</title>
+      <link>https://open-archaeo.info/post/iosacal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/iosacal/</guid>
+      <description>IOSACal is an open source tool for radiocarbon calibration</description>
+    </item>
+    
+    <item>
+      <title>radon</title>
+      <link>https://open-archaeo.info/post/radon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/radon/</guid>
+      <description>Backend for one of the largest 14C-Database online.</description>
+    </item>
+    
+    <item>
+      <title>rcarbon</title>
+      <link>https://open-archaeo.info/post/rcarbon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rcarbon/</guid>
+      <description>Methods for calibrating and analysing radiocarbon dates</description>
+    </item>
+    
+    <item>
+      <title>rintchron</title>
+      <link>https://open-archaeo.info/post/rintchron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rintchron/</guid>
+      <description>rintchron provides an R interface to IntChron, an indexing service and exchange format for chronological data such as radiocarbon dates</description>
     </item>
     
   </channel>

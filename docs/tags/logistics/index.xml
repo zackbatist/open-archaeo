@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logistics on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/logistics/</link>
+    <description>Recent content in Logistics on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/logistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>projectmanagersdb</title>
+      <link>https://open-archaeo.info/post/projectmanagersdb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/projectmanagersdb/</guid>
+      <description>Web based system to replace paper, spreadsheet and Access databases. It enables members of the Administration Department to communicate project related financial information to the project managers and makes it easy to view and organise financial, time and staff data from a project manager&amp;rsquo;s point of view</description>
+    </item>
+    
+    <item>
+      <title>Time Recording System</title>
+      <link>https://open-archaeo.info/post/time-recording-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/time-recording-system/</guid>
+      <description>Web based system to replace paper and spreadsheet timesheets. Although developed within archaeology it is probably of use beyond - it is not a time management system or a project management system, just a simple and effective way to record and store the time spent by people on projects and tasks.</description>
+    </item>
+    
+  </channel>
+</rss>
