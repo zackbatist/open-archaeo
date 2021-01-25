@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/DRAC-calculator/DRAC-calculator"
   },
   "authors": ["DRAC-calculator"],
-  "categories": ["Web"],
+  "categories": ["Web apps"],
   "tags": ["Instrumental analysis", "Luminescence"],
   "doi": null
 }

@@ -6,7 +6,7 @@
     "Website": "http://emanuelhuber.github.io/RGPR/"
   },
   "authors": ["emanuelhuber"],
-  "categories": [null],
+  "categories": ["R"],
   "tags": ["Instrumental analysis", "Geophysics"],
   "doi": null
 }

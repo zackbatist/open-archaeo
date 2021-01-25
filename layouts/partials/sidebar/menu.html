@@ -28,7 +28,7 @@
 </section>
 	
 <!-- categories -->
-<section class="sidebar-taxonomy">
+<div class="sidebar-taxonomy">
     <h2>Categories</h2>
 	<ul class="sidebar-nav">
     {{ range .Site.Taxonomies.categories }}
@@ -37,10 +37,10 @@
         </li>
     {{ end }}
     </ul>
-</section>
+</div>
 
 <!-- tags -->
-<section class="sidebar-taxonomy">
+<div class="sidebar-taxonomy">
     <h2>Tags</h2>
 	<ul class="sidebar-nav">
 	{{ range .Site.Taxonomies.tags }}
@@ -49,4 +49,4 @@
         </li>
     {{ end }}
     </ul>
-</section>
+</div>

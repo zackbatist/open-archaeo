@@ -5,7 +5,7 @@
     "gist": "https://gist.github.com/benmarwick/f32cbc2fe7297ec9f276b52c118a249a"
   },
   "authors": ["benmarwick"],
-  "categories": [null],
+  "categories": ["R"],
   "tags": ["Diagrams and visualizations"],
   "doi": null
 }

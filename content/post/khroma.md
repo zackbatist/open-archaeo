@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/nfrerebeau/khroma"
   },
   "authors": ["nfrerebeau"],
-  "categories": [null],
+  "categories": ["R"],
   "tags": ["Diagrams and visualizations"],
   "doi": null
 }

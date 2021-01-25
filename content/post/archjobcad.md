@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/ArchJobCAD"
   },
   "authors": ["ISAAKiel"],
-  "categories": [null],
+  "categories": ["Plugins"],
   "tags": ["Data collection and management"],
   "doi": null
 }

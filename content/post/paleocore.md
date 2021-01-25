@@ -6,7 +6,7 @@
     "Website": "https://paleocore.org/"
   },
   "authors": ["paleocore"],
-  "categories": [null],
+  "categories": ["?"],
   "tags": ["Platforms and publications"],
   "doi": null
 }

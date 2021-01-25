@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/sfsheath/roman-maps"
   },
   "authors": ["sfsheath"],
-  "categories": [null],
+  "categories": ["Datasets"],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

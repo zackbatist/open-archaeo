@@ -5,7 +5,7 @@
     "Launchpad": "https://launchpad.net/wittenhamspottery"
   },
   "authors": ["Lucian Pricop"],
-  "categories": [null],
+  "categories": ["?"],
   "tags": ["Data collection and management"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "Launchpad": "https://launchpad.net/zooos"
   },
   "authors": ["Chris Puttick"],
-  "categories": [null],
+  "categories": ["?"],
   "tags": ["Zooarchaeology"],
   "doi": null
 }

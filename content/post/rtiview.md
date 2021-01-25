@@ -5,7 +5,7 @@
     "Website": "http://culturalheritageimaging.org/What_We_Offer/Downloads/View/index.html"
   },
   "authors": ["culturalheritageimaging"],
-  "categories": ["Desktop"],
+  "categories": ["Desktop apps"],
   "tags": ["Imaging"],
   "doi": null
 }

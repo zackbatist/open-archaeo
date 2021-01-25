@@ -5,7 +5,7 @@
     "BitBucket": "https://bitbucket.org/steko/svg-pottery-catalogo/src/default/"
   },
   "authors": ["steko"],
-  "categories": [null],
+  "categories": ["?"],
   "tags": ["Platforms and publications"],
   "doi": null
 }

@@ -6,7 +6,7 @@
     "Website": "https://situx.github.io/CuneiPainter/"
   },
   "authors": ["situx"],
-  "categories": ["Mobile"],
+  "categories": ["Mobile apps"],
   "tags": ["Shape recognition"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/archca/aca_data_collection"
   },
   "authors": ["archca"],
-  "categories": [null],
+  "categories": ["Datasets"],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/zackbatist/FLIRT"
   },
   "authors": ["Zack Batist", "Dan Contreras", "Ciara Zogheib"],
-  "categories": [null],
+  "categories": ["Web apps"],
   "tags": ["Data entry", "Data wrangling", "Lithic analysis", "R Shiny"],
   "doi": null
 }

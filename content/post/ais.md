@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/andredebuisne/AIS"
   },
   "authors": ["andredebuisne"],
-  "categories": [null],
+  "categories": ["Desktop apps"],
   "tags": ["Data collection and management"],
   "doi": null
 }

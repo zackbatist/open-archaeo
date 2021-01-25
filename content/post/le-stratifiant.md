@@ -5,7 +5,7 @@
     "Website": "https://abp.hypotheses.org/3965"
   },
   "authors": ["Bruno Desachy"],
-  "categories": ["Spreadsheet"],
+  "categories": ["Spreadsheets"],
   "tags": ["Harrix matrix"],
   "doi": null
 }

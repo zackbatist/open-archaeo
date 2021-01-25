@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ropensci/neotoma"
   },
   "authors": ["ropensci"],
-  "categories": [null],
+  "categories": ["R"],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

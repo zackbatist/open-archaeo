@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/steko/radiocarbon-scrapers"
   },
   "authors": ["steko"],
-  "categories": [null],
+  "categories": ["R"],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "Launchpad": "https://launchpad.net/archaeologicalfindrecording"
   },
   "authors": ["David Sturtevant"],
-  "categories": [null],
+  "categories": ["?"],
   "tags": ["Schema, ontologies and templates"],
   "doi": null
 }

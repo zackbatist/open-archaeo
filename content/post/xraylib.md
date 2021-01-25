@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/tschoonj/xraylib"
   },
   "authors": ["tschoonj"],
-  "categories": ["Terminal"],
+  "categories": ["Command line tools"],
   "tags": ["Instrumental analysis", "XRF"],
   "doi": null
 }

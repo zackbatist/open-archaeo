@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/anatolian/archaeological-object-sharing"
   },
   "authors": ["anatolian"],
-  "categories": [null],
+  "categories": ["Web apps"],
   "tags": ["Platforms and publications"],
   "doi": null
 }

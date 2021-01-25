@@ -5,7 +5,7 @@
     "Website": "https://abp.hypotheses.org/4284"
   },
   "authors": ["Bruno Desachy"],
-  "categories": ["Spreadsheet"],
+  "categories": ["Spreadsheets"],
   "tags": ["Chronological modelling"],
   "doi": null
 }

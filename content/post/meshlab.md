@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/KevinCain/meshlab"
   },
   "authors": ["KevinCain"],
-  "categories": ["Meshlab"],
+  "categories": ["Plugins"],
   "tags": ["3D modelling"],
   "doi": null
 }

@@ -6,7 +6,7 @@
     "Website": "https://tops.iosa.it/"
   },
   "authors": ["steko"],
-  "categories": [null],
+  "categories": ["Desktop apps"],
   "tags": ["Drivers and IO"],
   "doi": null
 }

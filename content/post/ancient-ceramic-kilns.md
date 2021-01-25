@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/steko/ancient-ceramic-kilns"
   },
   "authors": ["steko"],
-  "categories": [null],
+  "categories": ["Datasets"],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

@@ -6,7 +6,7 @@
     "Website": "http://stellarium.sourceforge.net/wiki/index.php/ArchaeoLines_plugin"
   },
   "authors": ["stellarium"],
-  "categories": ["Stellarium"],
+  "categories": ["Plugins"],
   "tags": ["Geospatial analysis", "Viewshed analysis"],
   "doi": null
 }

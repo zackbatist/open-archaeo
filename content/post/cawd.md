@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/sfsheath/cawd"
   },
   "authors": ["sfsheath"],
-  "categories": [null],
+  "categories": ["R"],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

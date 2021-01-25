@@ -6,7 +6,7 @@
     "Website": "http://sds.ufg.uni-kiel.de/"
   },
   "authors": ["Johanna-Mestorf-Academy"],
-  "categories": ["Web"],
+  "categories": ["Web apps"],
   "tags": ["Artefact morphology"],
   "doi": null
 }

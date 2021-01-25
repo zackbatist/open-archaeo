@@ -6,7 +6,7 @@
     "Website": "https://sourceforge.net/projects/timerecsystem/"
   },
   "authors": ["Lucian Pricop"],
-  "categories": [null],
+  "categories": ["?"],
   "tags": ["Logistics"],
   "doi": null
 }
