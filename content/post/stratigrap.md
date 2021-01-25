@@ -2,9 +2,10 @@
   "title": "stratigraphr",
   "description": ["R package for archaeological stratigraphy and chronological sequences."],
   "links": {
-    "GitHub": "https://github.com/ArchaeoStat/ArchaeoChron"
+    "GitHub": "https://github.com/joeroe/stratigraphr"
   },
   "authors": ["joeroe"],
+  "categories": ["R"],
   "tags": ["Chronological modelling"],
   "doi": null
 }

@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/adammertel/simple-browser-gis-collector"
   },
   "authors": ["adammertel"],
+  "categories": ["Mobile"],
   "tags": ["Site mapping"],
   "doi": null
 }

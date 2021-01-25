@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/mortAAR"
   },
   "authors": ["ISAAKiel"],
+  "categories": ["R"],
   "tags": ["Zooarchaeology"],
   "doi": null
 }

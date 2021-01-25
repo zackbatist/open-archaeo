@@ -6,6 +6,7 @@
     "Website": "https://leadr-msu.github.io/photogrammetry-data-collection/"
   },
   "authors": ["Jack A. Biggs", "leadr-msu"],
+  "categories": [null],
   "tags": ["Photogrammetry", "Educational resources and practical guides"],
   "doi": null
 }

@@ -6,6 +6,7 @@
     "Website": "https://custom-imaging.co.uk/software/"
   },
   "authors": ["kmartinez"],
+  "categories": [null],
   "tags": ["Imaging"],
   "doi": null
 }

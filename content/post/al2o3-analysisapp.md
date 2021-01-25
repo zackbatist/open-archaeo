@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/RLumSK/Al2O3_AnalysisApp"
   },
   "authors": ["RLumSK"],
+  "categories": ["Web"],
   "tags": ["Instrumental analysis", "Luminescence"],
   "doi": null
 }

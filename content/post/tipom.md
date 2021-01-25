@@ -6,6 +6,7 @@
     "CRAN": "https://cran.r-project.org/web/packages/tipom/index.html"
   },
   "authors": ["iosa"],
+  "categories": ["R"],
   "tags": ["Artefact morphology"],
   "doi": null
 }

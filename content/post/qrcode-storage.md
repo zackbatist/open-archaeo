@@ -5,6 +5,7 @@
     "BitBucket": "https://bitbucket.org/steko/qrcode-storage/src/default/"
   },
   "authors": ["steko"],
+  "categories": [null],
   "tags": ["Bits and bobs"],
   "doi": null
 }

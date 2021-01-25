@@ -5,6 +5,7 @@
     "Website": "http://www.mattpeeples.net/ca.html"
   },
   "authors": ["Matt Peeples"],
+  "categories": ["R"],
   "tags": ["Quantitative and statistical analysis"],
   "doi": null
 }

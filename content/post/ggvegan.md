@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/gavinsimpson/ggvegan"
   },
   "authors": ["gavinsimpson"],
+  "categories": ["R"],
   "tags": ["Palaeoenvironment and palaeobotany"],
   "doi": null
 }

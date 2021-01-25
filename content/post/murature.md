@@ -6,6 +6,7 @@
     "BitBucket": "https://bitbucket.org/steko/murature/src/default/"
   },
   "authors": ["Stefano Costa", "iosa"],
+  "categories": ["Python"],
   "tags": ["Shape recognition"],
   "doi": null
 }

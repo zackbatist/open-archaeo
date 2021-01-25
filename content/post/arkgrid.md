@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/lparchaeology/ArkGrid"
   },
   "authors": ["L-P Archaeology"],
+  "categories": ["QGIS"],
   "tags": ["Site mapping"],
   "doi": null
 }

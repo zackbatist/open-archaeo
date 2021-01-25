@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/lparchaeology/ArkScan"
   },
   "authors": ["L-P Archaeology"],
+  "categories": ["Desktop"],
   "tags": ["Site mapping"],
   "doi": null
 }

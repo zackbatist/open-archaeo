@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/dstreble/LumReader"
   },
   "authors": ["dstreble"],
+  "categories": ["R"],
   "tags": ["Instrumental analysis", "Luminescence"],
   "doi": null
 }

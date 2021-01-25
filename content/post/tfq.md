@@ -6,6 +6,7 @@
     "Website": "http://tfqa.com/"
   },
   "authors": ["sslarch"],
+  "categories": ["R"],
   "tags": ["Quantitative and statistical analysis"],
   "doi": null
 }

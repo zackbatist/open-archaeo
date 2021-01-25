@@ -6,6 +6,7 @@
     "Website": "https://baylum.archaeo.science/"
   },
   "authors": ["R-Lum"],
+  "categories": ["R"],
   "tags": ["Instrumental analysis", "Luminescence"],
   "doi": null
 }

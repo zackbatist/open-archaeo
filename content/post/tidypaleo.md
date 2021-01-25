@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/paleolimbot/tidypaleo"
   },
   "authors": ["paleolimbot"],
+  "categories": ["R"],
   "tags": ["Data collection and management"],
   "doi": null
 }

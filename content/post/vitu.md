@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/MartinHinz/vitutr"
   },
   "authors": ["MartinHinz"],
+  "categories": ["Tutorials"],
   "tags": ["Educational resources and practical guides"],
   "doi": null
 }

@@ -6,6 +6,7 @@
     "Website": "http://isaacullah.github.io/DroneSurveyPlanner/"
   },
   "authors": ["isaacullah"],
+  "categories": ["Spreadsheet"],
   "tags": ["Drones and satellite imagery"],
   "doi": null
 }

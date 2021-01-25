@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/steko/nervia"
   },
   "authors": ["steko"],
+  "categories": [null],
   "tags": ["Data collection and management"],
   "doi": null
 }

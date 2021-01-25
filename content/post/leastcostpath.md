@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/josephlewis/leastcostpath"
   },
   "authors": ["josephlewis"],
+  "categories": ["R"],
   "tags": ["Geospatial analysis", "Spatial modelling and inference"],
   "doi": null
 }

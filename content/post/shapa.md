@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/shapAAR"
   },
   "authors": ["ISAAKiel"],
+  "categories": ["R"],
   "tags": ["Shape recognition"],
   "doi": null
 }

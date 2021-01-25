@@ -7,6 +7,7 @@
     "BitBucket": "https://bitbucket.org/steko/harris/src/default/"
   },
   "authors": ["L-P Archaeology"],
+  "categories": ["Python"],
   "tags": ["Harrix matrix"],
   "doi": null
 }

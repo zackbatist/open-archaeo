@@ -5,6 +5,7 @@
     "gist": "https://gist.github.com/benmarwick/0d5e6526604e755b556f"
   },
   "authors": ["benmarwick"],
+  "categories": [null],
   "tags": ["Public archaeology"],
   "doi": null
 }

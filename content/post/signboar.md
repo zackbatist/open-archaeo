@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/mrecos/signboardr"
   },
   "authors": ["mrecos"],
+  "categories": [null],
   "tags": ["Other"],
   "doi": null
 }

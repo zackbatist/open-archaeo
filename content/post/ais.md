@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/andredebuisne/AIS"
   },
   "authors": ["andredebuisne"],
+  "categories": [null],
   "tags": ["Data collection and management"],
   "doi": null
 }

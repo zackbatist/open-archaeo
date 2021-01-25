@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/steko/archaeology"
   },
   "authors": ["steko"],
+  "categories": [null],
   "tags": ["Lists"],
   "doi": null
 }

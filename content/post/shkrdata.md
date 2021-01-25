@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/shkrdata"
   },
   "authors": ["ISAAKiel"],
+  "categories": [null],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

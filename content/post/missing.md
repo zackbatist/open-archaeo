@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/steko/missing"
   },
   "authors": ["steko"],
+  "categories": [null],
   "tags": ["Bits and bobs"],
   "doi": null
 }

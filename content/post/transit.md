@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/gianmarcoalberti/TRANSIT"
   },
   "authors": ["gianmarcoalberti"],
+  "categories": ["ArcGIS"],
   "tags": ["Geospatial analysis", "Spatial modelling and inference"],
   "doi": null
 }

@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/ahb108/sparch"
   },
   "authors": ["ahb108"],
+  "categories": [null],
   "tags": ["Bits and bobs"],
   "doi": null
 }

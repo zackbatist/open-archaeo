@@ -5,6 +5,7 @@
     "GitLab": "https://gitlab.com/arklab/ArkMatrix"
   },
   "authors": ["arklab"],
+  "categories": ["Terminal"],
   "tags": ["Harrix matrix"],
   "doi": null
 }

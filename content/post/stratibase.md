@@ -5,6 +5,7 @@
     "Website": "https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/fsn"
   },
   "authors": ["Bruno Desachy"],
+  "categories": [null],
   "tags": ["Data collection and management"],
   "doi": null
 }

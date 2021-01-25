@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/steko/total-station-manuals"
   },
   "authors": ["steko"],
+  "categories": [null],
   "tags": ["Drivers and IO"],
   "doi": null
 }

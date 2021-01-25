@@ -5,6 +5,7 @@
     "BitBucket": "https://bitbucket.org/iosa/kotyle"
   },
   "authors": ["iosa"],
+  "categories": ["Python"],
   "tags": ["Artefact morphology"],
   "doi": null
 }

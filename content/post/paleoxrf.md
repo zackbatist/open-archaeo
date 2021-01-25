@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/paleolimbot/paleoxrf"
   },
   "authors": ["paleolimbot"],
+  "categories": ["R"],
   "tags": ["Instrumental analysis", "XRF"],
   "doi": null
 }

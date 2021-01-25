@@ -5,6 +5,7 @@
     "Website": "http://oadigital.net/software/xbones.html"
   },
   "authors": ["Leif Isaksen"],
+  "categories": ["Desktop"],
   "tags": ["Zooarchaeology"],
   "doi": null
 }

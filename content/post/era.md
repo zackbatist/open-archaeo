@@ -6,6 +6,7 @@
     "Website": "https://era.joeroe.io/"
   },
   "authors": ["joeroe"],
+  "categories": ["R"],
   "tags": ["Schema, ontologies and templates"],
   "doi": null
 }

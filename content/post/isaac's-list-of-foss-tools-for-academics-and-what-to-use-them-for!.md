@@ -5,6 +5,7 @@
     "blog post": "http://isaacullah.github.io/List-of-FOSS-tools-for-academics/"
   },
   "authors": ["isaacullah"],
+  "categories": [null],
   "tags": ["Lists"],
   "doi": null
 }

@@ -1,10 +1,9 @@
 {
   "title": "harris-matrix",
   "description": ["Create a Harris Matrix from archaeological stratigraphy data using Python and Graphviz."],
-  "links": {
-    "GitHub": "https://github.com/tsdye/harris-matrix/"
-  },
+  "links": {},
   "authors": ["Stefano Costa", "iosa"],
+  "categories": ["Python"],
   "tags": ["Harrix matrix"],
   "doi": null
 }

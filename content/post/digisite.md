@@ -5,6 +5,7 @@
     "Launchpad": "https://launchpad.net/digisite"
   },
   "authors": ["Yann Hamon"],
+  "categories": [null],
   "tags": ["Data collection and management"],
   "doi": null
 }

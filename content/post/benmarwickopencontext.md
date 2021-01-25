@@ -5,6 +5,7 @@
     "gist": "https://gist.github.com/benmarwick/50aa4c39b7d955d0ec40"
   },
   "authors": ["benmarwick"],
+  "categories": [null],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

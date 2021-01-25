@@ -5,6 +5,7 @@
     "BitBucket": "https://bitbucket.org/steko/svg-pottery/src/default/"
   },
   "authors": ["Stefano Costa"],
+  "categories": [null],
   "tags": ["Educational resources and practical guides"],
   "doi": null
 }

@@ -6,6 +6,7 @@
     "Website": "http://www.mattpeeples.net/kmeans.html"
   },
   "authors": ["mpeeples2008"],
+  "categories": ["R"],
   "tags": ["Quantitative and statistical analysis"],
   "doi": null
 }

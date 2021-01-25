@@ -6,6 +6,7 @@
     "Website": "https://web.archive.org/web/20101229001934/http://archvocab.net/"
   },
   "authors": ["steko"],
+  "categories": [null],
   "tags": ["Schema, ontologies and templates"],
   "doi": null
 }

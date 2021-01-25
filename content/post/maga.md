@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/magAAR"
   },
   "authors": ["ISAAKiel"],
+  "categories": ["R"],
   "tags": ["Instrumental analysis", "Geophysics"],
   "doi": null
 }

@@ -6,6 +6,7 @@
     "Website": "https://qfield.org/"
   },
   "authors": ["openGIS"],
+  "categories": [null],
   "tags": ["Data collection and management"],
   "doi": null
 }

@@ -2,9 +2,10 @@
   "title": "aoristAAR",
   "description": ["A R package for the aoristic analysis of archaeological data."],
   "links": {
-    "GitHub": "https://github.com/davidcorton/archSeries"
+    "GitHub": "https://github.com/ISAAKiel/aoristAAR"
   },
   "authors": ["ISAAKiel"],
+  "categories": ["R"],
   "tags": ["Chronological modelling"],
   "doi": null
 }

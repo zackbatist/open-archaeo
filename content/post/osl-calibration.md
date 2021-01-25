@@ -5,6 +5,7 @@
     "gist": "https://gist.github.com/benmarwick/5f996a0f52ba1d92f76968119f941bd8"
   },
   "authors": ["benmarwick"],
+  "categories": ["R"],
   "tags": ["Instrumental analysis", "Luminescence"],
   "doi": null
 }

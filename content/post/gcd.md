@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/oblarquez/GCD"
   },
   "authors": ["oblarquez"],
+  "categories": [null],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

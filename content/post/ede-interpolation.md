@@ -6,6 +6,7 @@
     "Website": "https://plugins.qgis.org/plugins/ede_interpolation/"
   },
   "authors": ["demjanp"],
+  "categories": ["QGIS"],
   "tags": ["Geospatial analysis", "Locational analysis"],
   "doi": null
 }

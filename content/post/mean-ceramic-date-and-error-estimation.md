@@ -6,6 +6,7 @@
     "Website": "http://www.mattpeeples.net/mcd.html"
   },
   "authors": ["mpeeples2008"],
+  "categories": ["R"],
   "tags": ["Quantitative and statistical analysis"],
   "doi": null
 }

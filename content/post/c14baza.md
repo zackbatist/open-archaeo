@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/c14bazAAR"
   },
   "authors": ["ISAAKiel"],
+  "categories": [null],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

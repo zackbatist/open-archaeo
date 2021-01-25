@@ -6,6 +6,7 @@
     "Website": "https://steko.github.io/inclusions/"
   },
   "authors": ["scollinselliott"],
+  "categories": [null],
   "tags": ["Schema, ontologies and templates"],
   "doi": null
 }

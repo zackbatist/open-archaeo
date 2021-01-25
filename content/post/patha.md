@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/pathAAR"
   },
   "authors": ["ISAAKiel"],
+  "categories": ["R"],
   "tags": ["Geospatial analysis", "Spatial modelling and inference"],
   "doi": null
 }

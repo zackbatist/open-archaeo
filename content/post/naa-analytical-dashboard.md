@@ -6,6 +6,7 @@
     "Website": "http://nsls-ii.github.io/PyXRF/"
   },
   "authors": ["mpeeples2008"],
+  "categories": ["R"],
   "tags": ["Instrumental analysis", "Neutron activation analysis"],
   "doi": null
 }

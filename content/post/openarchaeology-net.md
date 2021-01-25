@@ -5,6 +5,7 @@
     "Launchpad": "https://launchpad.net/openarchaeology"
   },
   "authors": ["openarchaeology"],
+  "categories": [null],
   "tags": ["Lists"],
   "doi": null
 }

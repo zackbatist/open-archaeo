@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/gianmarcoalberti/CAinterprTools"
   },
   "authors": ["gianmarcoalberti"],
+  "categories": ["R"],
   "tags": ["Quantitative and statistical analysis"],
   "doi": null
 }

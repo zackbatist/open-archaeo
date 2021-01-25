@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/zackbatist/DIYFieldworkDatabase"
   },
   "authors": ["zackbatist"],
+  "categories": [null],
   "tags": ["Educational resources and practical guides"],
   "doi": null
 }

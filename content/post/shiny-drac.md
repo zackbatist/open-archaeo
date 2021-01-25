@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/dstreble/shiny_DRAC"
   },
   "authors": ["dstreble"],
+  "categories": ["Web"],
   "tags": ["Instrumental analysis", "Luminescence"],
   "doi": null
 }

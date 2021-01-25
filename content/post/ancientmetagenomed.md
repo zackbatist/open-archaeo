@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/SPAAM-community/AncientMetagenomeDir"
   },
   "authors": ["SPAAM-community"],
+  "categories": [null],
   "tags": ["Lists", "Palaeoenvironment and palaeobotany"],
   "doi": null
 }

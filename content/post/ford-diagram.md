@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/mpeeples2008/Ford-Diagram"
   },
   "authors": ["mpeeples2008"],
+  "categories": [null],
   "tags": ["Diagrams and visualizations"],
   "doi": null
 }

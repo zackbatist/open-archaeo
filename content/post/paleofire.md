@@ -6,6 +6,7 @@
     "Website": "https://www.gpwg.paleofire.org/"
   },
   "authors": ["oblarquez"],
+  "categories": [null],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

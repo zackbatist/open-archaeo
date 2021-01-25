@@ -5,6 +5,7 @@
     "gist": "https://gist.github.com/benmarwick/7331879"
   },
   "authors": ["benmarwick"],
+  "categories": ["R"],
   "tags": ["Drones and satellite imagery"],
   "doi": null
 }

@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/MikeJJohnson/trenchdrawer"
   },
   "authors": ["Mike J. Johnson"],
+  "categories": ["QGIS"],
   "tags": ["Site mapping"],
   "doi": null
 }

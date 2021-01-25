@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/klokantech/roman-empire"
   },
   "authors": ["klokantech"],
+  "categories": [null],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/natowi/photogrammetry_datasets"
   },
   "authors": ["culturalheritageimaging"],
+  "categories": ["Datasets"],
   "tags": ["Photogrammetry"],
   "doi": null
 }

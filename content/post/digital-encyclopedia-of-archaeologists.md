@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/msu-anthropology/deoa"
   },
   "authors": ["msu-anthropology"],
+  "categories": [null],
   "tags": ["Educational resources and practical guides"],
   "doi": null
 }

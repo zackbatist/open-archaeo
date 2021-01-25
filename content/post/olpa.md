@@ -5,6 +5,7 @@
     "Launchpad": "https://launchpad.net/olpa"
   },
   "authors": ["Chris Puttick"],
+  "categories": [null],
   "tags": ["Data collection and management"],
   "doi": null
 }

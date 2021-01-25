@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/paleolimbot/mudata"
   },
   "authors": ["paleolimbot"],
+  "categories": [null],
   "tags": ["Bits and bobs"],
   "doi": null
 }

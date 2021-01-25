@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/fradeve/sipontomedievale"
   },
   "authors": ["fradeve"],
+  "categories": [null],
   "tags": ["Communication and outreach"],
   "doi": null
 }

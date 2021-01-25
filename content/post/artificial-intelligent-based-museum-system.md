@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/kevind992/Artificial-Intelligent-based-Museum-System"
   },
   "authors": ["kevind992"],
+  "categories": [null],
   "tags": ["Shape recognition"],
   "doi": null
 }

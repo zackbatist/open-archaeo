@@ -5,6 +5,7 @@
     "Website": "http://isaw.nyu.edu/publications/awol-index/"
   },
   "authors": ["Charles E. Jones", "Tom Elliott"],
+  "categories": [null],
   "tags": ["Lists"],
   "doi": null
 }

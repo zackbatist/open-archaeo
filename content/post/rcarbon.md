@@ -6,6 +6,7 @@
     "CRAN": "https://github.com/zackbatist/open-archaeo/blob/master"
   },
   "authors": ["ahb108"],
+  "categories": ["R"],
   "tags": ["Instrumental analysis", "Radiocarbon"],
   "doi": null
 }

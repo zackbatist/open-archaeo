@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/zackbatist/DObsiSS"
   },
   "authors": ["zackbatist"],
+  "categories": [null],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

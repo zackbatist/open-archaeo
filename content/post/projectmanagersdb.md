@@ -5,6 +5,7 @@
     "Launchpad": "https://launchpad.net/projectmanagersdb"
   },
   "authors": ["Lucian Pricop"],
+  "categories": [null],
   "tags": ["Logistics"],
   "doi": null
 }

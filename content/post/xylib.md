@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/wojdyr/xylib"
   },
   "authors": ["wojdyr"],
+  "categories": ["Terminal"],
   "tags": ["Instrumental analysis", "Luminescence"],
   "doi": null
 }

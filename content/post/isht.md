@@ -6,6 +6,7 @@
     "Website": "https://ishtar-archeo.net/en/"
   },
   "authors": ["iggdrasil"],
+  "categories": [null],
   "tags": ["Data collection and management"],
   "doi": null
 }

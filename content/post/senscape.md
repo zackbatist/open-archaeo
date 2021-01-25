@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/zoran-cuckovic/senscape"
   },
   "authors": ["zoran-cuckovic"],
+  "categories": ["QGIS"],
   "tags": ["Geospatial analysis", "Viewshed analysis"],
   "doi": null
 }

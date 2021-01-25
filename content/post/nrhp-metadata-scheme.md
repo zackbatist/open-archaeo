@@ -5,6 +5,7 @@
     "Website": "https://www.nps.gov/nr/publications/bulletins/nrb16a/index.htm"
   },
   "authors": ["aejolene"],
+  "categories": [null],
   "tags": ["Schema, ontologies and templates"],
   "doi": null
 }

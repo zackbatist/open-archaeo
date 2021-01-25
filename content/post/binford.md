@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/benmarwick/binford"
   },
   "authors": ["benmarwick"],
+  "categories": [null],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

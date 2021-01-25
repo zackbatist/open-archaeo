@@ -27,8 +27,19 @@
 	</ul>
 </section>
 	
+<!-- categories -->
+<section class="sidebar-categories">
+    <h3>Categories</h3>
+	<ul>
+	{{ range .Site.Taxonomies.categories }}
+  	<a href="{{ .Page.Permalink }}" class="badge">{{ .Page.Title | upper }}</a>
+  {{ end }}
+  </ul>
+</section>
+
 <!-- tags -->
 <section class="sidebar-tags">
+    <h3>Tags</h3>
 	<ul>
 	{{ range .Site.Taxonomies.tags }}
   	<a href="{{ .Page.Permalink }}" class="badge">{{ .Page.Title }}</a>

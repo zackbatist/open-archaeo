@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/dtavern/grainsizeR"
   },
   "authors": ["dtavern"],
+  "categories": ["R"],
   "tags": ["Shape recognition"],
   "doi": null
 }

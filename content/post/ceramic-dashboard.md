@@ -6,6 +6,7 @@
     "Website": "https://aupton.shinyapps.io/CeramicDashboard/"
   },
   "authors": ["ajupton"],
+  "categories": [null],
   "tags": ["Other"],
   "doi": null
 }

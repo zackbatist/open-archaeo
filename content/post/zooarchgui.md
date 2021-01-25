@@ -6,6 +6,7 @@
     "Website": "http://www.zooarchgui.org/"
   },
   "authors": ["zooaRchGUI"],
+  "categories": ["R"],
   "tags": ["Zooarchaeology"],
   "doi": null
 }

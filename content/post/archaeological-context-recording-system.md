@@ -5,6 +5,7 @@
     "Launchpad": "https://launchpad.net/archaeologicalcontextrecording"
   },
   "authors": ["David Sturtevant"],
+  "categories": [null],
   "tags": ["Schema, ontologies and templates"],
   "doi": null
 }
