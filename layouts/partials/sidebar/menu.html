@@ -28,21 +28,25 @@
 </section>
 	
 <!-- categories -->
-<section class="sidebar-categories">
-    <h3>Categories</h3>
-	<ul>
-	{{ range .Site.Taxonomies.categories }}
-  	<a href="{{ .Page.Permalink }}" class="badge">{{ .Page.Title | upper }}</a>
-  {{ end }}
-  </ul>
+<section class="sidebar-taxonomy">
+    <h2>Categories</h2>
+	<ul class="sidebar-nav">
+    {{ range .Site.Taxonomies.categories }}
+        <li>
+            <a href="{{ .Page.Permalink }}" title="Entries in category '{{ .Page.Title }}'" class="badge">{{ .Page.Title | upper }}&nbsp;<span class="taxonomy-count post__meta">({{ .Count }})</span></a>
+        </li>
+    {{ end }}
+    </ul>
 </section>
 
 <!-- tags -->
-<section class="sidebar-tags">
-    <h3>Tags</h3>
-	<ul>
+<section class="sidebar-taxonomy">
+    <h2>Tags</h2>
+	<ul class="sidebar-nav">
 	{{ range .Site.Taxonomies.tags }}
-  	<a href="{{ .Page.Permalink }}" class="badge">{{ .Page.Title }}</a>
-  {{ end }}
-  </ul>
+        <li>
+            <a href="{{ .Page.Permalink }}" title="Entries tagged '{{ .Page.Title }}'" class="badge">{{ .Page.Title }}&nbsp;<span class="taxonomy-count post__meta">({{ .Count }})</span></a>
+        </li>
+    {{ end }}
+    </ul>
 </section>

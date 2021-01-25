@@ -1,3 +1,12 @@
+/* Sidebar menu */
+.sidebar-taxonomy ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin: 0;
+}
+
+/* Entries */
 .openarchaeo-item {
   margin: 0 0 2em 0;
 }
