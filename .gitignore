@@ -36,3 +36,7 @@
 ehthumbs.db
 Thumbs.db
 .Rproj.user
+
+# Built hugo site #
+###################
+docs/
