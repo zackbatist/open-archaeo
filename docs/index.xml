@@ -988,6 +988,15 @@
     </item>
     
     <item>
+      <title>expotime</title>
+      <link>https://open-archaeo.info/post/expotime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/expotime/</guid>
+      <description>What’s the correlation between the exposure time of your photographs and the time of the day?</description>
+    </item>
+    
+    <item>
       <title>Fiche Stratigraphique Numérique (FSN)</title>
       <link>https://open-archaeo.info/post/fiche-stratigraphique-num%C3%A9rique-fsn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1021,6 +1030,15 @@
       
       <guid>https://open-archaeo.info/post/findpeaks/</guid>
       <description>A simple algorithm to find local maxima/minima in sequential data</description>
+    </item>
+    
+    <item>
+      <title>Fix-exif-artist</title>
+      <link>https://open-archaeo.info/post/fix-exif-artist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/fix-exif-artist/</guid>
+      <description>Fix the Exif.Image.Artist tag based on user input depending from the camera model. Useful if you have a bunch of photographs from different people all mixed up.</description>
     </item>
     
     <item>
@@ -1075,6 +1093,15 @@
       
       <guid>https://open-archaeo.info/post/ggvegan/</guid>
       <description>ggplot-based plots for vegan.</description>
+    </item>
+    
+    <item>
+      <title>GigaMesh</title>
+      <link>https://open-archaeo.info/post/gigamesh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/gigamesh/</guid>
+      <description>A modular software for display, editing and visualization of 3D-data typically acquired with structured light scanning (SLS) or structure from motion (SfM).</description>
     </item>
     
     <item>
@@ -1165,6 +1192,24 @@
       
       <guid>https://open-archaeo.info/post/harris-matrix-tsdye/</guid>
       <description>Write Graphviz dot files for archaeological sequence diagrams and Bayesian chronological models.</description>
+    </item>
+    
+    <item>
+      <title>harris-matrix-data-package</title>
+      <link>https://open-archaeo.info/post/harris-matrix-data-package/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/harris-matrix-data-package/</guid>
+      <description>A Data Package specification for archaeological stratigraphy data following the Harris Matrix convention.</description>
+    </item>
+    
+    <item>
+      <title>Harris-matrix-legacy</title>
+      <link>https://open-archaeo.info/post/harris-matrix-legacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/harris-matrix-legacy/</guid>
+      <description>Create a Harris Matrix from archaeological stratigraphy data using Python and Graphviz.</description>
     </item>
     
     <item>
@@ -1510,6 +1555,15 @@
     </item>
     
     <item>
+      <title>ODK-forms-archaeology</title>
+      <link>https://open-archaeo.info/post/odk-forms-archaeology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/odk-forms-archaeology/</guid>
+      <description>Forms for the Open Data Kit mobile data collection app.</description>
+    </item>
+    
+    <item>
       <title>ODKArchForms</title>
       <link>https://open-archaeo.info/post/odkarchforms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1813,6 +1867,15 @@
       
       <guid>https://open-archaeo.info/post/quanta/</guid>
       <description>R Library for Quantitative Analysis in Archaeology.</description>
+    </item>
+    
+    <item>
+      <title>QuARI</title>
+      <link>https://open-archaeo.info/post/quari/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/quari/</guid>
+      <description>A database interface designed to facilitate the irregular, iterative, and non-linear workflows that are commonly employed in lithic analysis.</description>
     </item>
     
     <item>
@@ -2353,6 +2416,15 @@
       
       <guid>https://open-archaeo.info/post/trenchdraw/</guid>
       <description>Plugin for drawing trenches.</description>
+    </item>
+    
+    <item>
+      <title>tridas</title>
+      <link>https://open-archaeo.info/post/tridas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/tridas/</guid>
+      <description>TRiDaS is a universal data exchange standard for the dendrochronology community. This project contains the data standard itself as well as libraries and tools useful for reading, writing and converting dendro data files.</description>
     </item>
     
     <item>
