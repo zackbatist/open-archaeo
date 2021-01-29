@@ -2,7 +2,7 @@
   "title": "harris-matrix",
   "description": ["Write Graphviz dot files for archaeological sequence diagrams and Bayesian chronological models."],
   "links": {
-    "GitHub": "https://github.com/semerj/harris-matrix",
+    "GitHub": "https://github.com/tsdye/harris-matrix/",
     "Website": "http://tsdye.online/harris-matrix/homepage/"
   },
   "authors": ["tsdye"],

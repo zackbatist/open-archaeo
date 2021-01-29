@@ -2,9 +2,9 @@
   "title": "IOSACal",
   "description": ["IOSACal is an open source tool for radiocarbon calibration"],
   "links": {
-    "GitLab": "https://gitlab.com/iosa/iosacal",
-    "BitBucket": "https://bitbucket.org/iosa/iosacal",
-    "Website": "http://c14.iosa.it/en/latest/"
+    "PyPi": "https://pypi.org/project/iosacal/",
+    "Codeberg": "https://codeberg.org/steko/iosacal",
+    "Website": "http://c14.iosa.it/"
   },
   "authors": ["iosa"],
   "tags": ["Instrumental analysis", "Radiocarbon"],

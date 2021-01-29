@@ -2,7 +2,7 @@
   "title": "svg-pottery",
   "description": ["A set of best practices, how-tos and implementations for publishing pottery drawings on the Web"],
   "links": {
-    "BitBucket": "https://bitbucket.org/steko/svg-pottery/src/default/"
+    "Codeberg": "https://codeberg.org/steko/svg-pottery"
   },
   "authors": ["Stefano Costa"],
   "tags": ["Educational resources and practical guides"],

@@ -2,8 +2,7 @@
   "title": "rppsfs",
   "description": ["Roman Peasant Project Small Finds Ontology"],
   "links": {
-    "GitHub": "https://github.com/scollinselliott/rppsfs",
-    "Website": "https://steko.github.io/inclusions/"
+    "GitHub": "https://github.com/scollinselliott/rppsfs"
   },
   "authors": ["scollinselliott"],
   "tags": ["Schema, ontologies and templates"],

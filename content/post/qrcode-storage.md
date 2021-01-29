@@ -2,7 +2,7 @@
   "title": "qrcode-storage",
   "description": ["Scripts to create QR-Code images for storage boxes. Each box has an associated web page describing its content, and the QR-Code serves as a short-link from the physical object to the web page."],
   "links": {
-    "BitBucket": "https://bitbucket.org/steko/qrcode-storage/src/default/"
+    "Codeberg": "https://codeberg.org/steko/qrcode-storage"
   },
   "authors": ["steko"],
   "tags": ["Bits and bobs"],

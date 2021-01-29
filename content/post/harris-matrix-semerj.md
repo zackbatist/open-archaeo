@@ -1,7 +1,9 @@
 {
   "title": "harris-matrix",
   "description": ["Harris Matrix Visualization for the web using D3 + KLayJS-D3."],
-  "links": {},
+  "links": {
+    "GitHub": "https://github.com/semerj/harris-matrix"
+  },
   "authors": ["semerj"],
   "tags": ["Harrix matrix"],
   "doi": null

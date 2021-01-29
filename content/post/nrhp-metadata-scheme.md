@@ -2,7 +2,7 @@
   "title": "NRHP_Metadata_Scheme",
   "description": ["Metadata scheme for National Register of Historic Places, transcribed from the National Park Service NPS Bulletin 16"],
   "links": {
-    "Website": "https://www.nps.gov/nr/publications/bulletins/nrb16a/index.htm"
+    "GitHub": "https://github.com/aejolene/NRHP_Metadata_Scheme"
   },
   "authors": ["aejolene"],
   "tags": ["Schema, ontologies and templates"],
