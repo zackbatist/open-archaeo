@@ -43,6 +43,11 @@ open_archaeo %>%
   select(slug, item_name, description, links, authors, tags, doi = DOI) ->
   open_archaeo
 
+# Delete all existing .md files
+post_directory <- paste0(getwd(),"/content/post")
+post_files <- list.files(post_directory, include.dirs = F, full.names = T, recursive = T)
+file.remove(post_files)
+
 # Generate .md files
 open_archaeo %>% 
   rename(title = item_name) %>% 
