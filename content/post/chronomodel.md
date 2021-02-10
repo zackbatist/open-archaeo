@@ -2,7 +2,7 @@
   "title": "chronomodel",
   "description": ["Chronological Modelling of Archaeological Data using Bayesian Statistics."],
   "links": {
-    "GitHub": "https://github.com/ISAAKiel/aoristAAR",
+    "GitHub": "https://github.com/Chronomodel/chronomodel",
     "Website": "https://chronomodel.com/"
   },
   "authors": ["Chronomodel"],
