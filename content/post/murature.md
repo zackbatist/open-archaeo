@@ -5,6 +5,7 @@
     "Codeberg": "https://codeberg.org/steko/murature"
   },
   "authors": ["Stefano Costa", "iosa"],
+  "categories": ["Python"],
   "tags": ["Shape recognition"],
   "doi": null
 }

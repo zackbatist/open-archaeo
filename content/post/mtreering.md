@@ -6,6 +6,7 @@
     "Website": "https://ropensci.github.io/MtreeRing/"
   },
   "authors": ["ropensci"],
+  "categories": ["R"],
   "tags": ["Bits and bobs"],
   "doi": null
 }

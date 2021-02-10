@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datasets on open-archaeo</title>
+    <link>https://open-archaeo.info/categories/datasets/</link>
+    <description>Recent content in Datasets on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/categories/datasets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3d-ceramics</title>
+      <link>https://open-archaeo.info/post/3d-ceramics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/3d-ceramics/</guid>
+      <description>3d models of archaeological ceramics.</description>
+    </item>
+    
+    <item>
+      <title>aca_data_collection</title>
+      <link>https://open-archaeo.info/post/aca-data-collection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/aca-data-collection/</guid>
+      <description>collection of archaeological data for training purposes.</description>
+    </item>
+    
+    <item>
+      <title>ancient-ceramic-kilns</title>
+      <link>https://open-archaeo.info/post/ancient-ceramic-kilns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/ancient-ceramic-kilns/</guid>
+      <description>GeoJSON files for ceramic kilns of the ancient world, no chronological/spatial boundaries</description>
+    </item>
+    
+    <item>
+      <title>Arran</title>
+      <link>https://open-archaeo.info/post/arran/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/arran/</guid>
+      <description>A benchmark dataset for automated detection of archaeological sites on LiDAR data</description>
+    </item>
+    
+    <item>
+      <title>AtlantGIS</title>
+      <link>https://open-archaeo.info/post/atlantgis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/atlantgis/</guid>
+      <description>Faked GIS-Datasets, simulating an island in the Atlantic for educational purposes in using GIS in archaeology</description>
+    </item>
+    
+    <item>
+      <title>cca</title>
+      <link>https://open-archaeo.info/post/cca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/cca/</guid>
+      <description>Colossal Cave Adventure digital palaeography and epigraphy project</description>
+    </item>
+    
+    <item>
+      <title>dayofarchaeology</title>
+      <link>https://open-archaeo.info/post/dayofarchaeology-drmattlaw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/dayofarchaeology-drmattlaw/</guid>
+      <description>export of posts from dayofarchaeology.com</description>
+    </item>
+    
+    <item>
+      <title>Digital Encyclopedia of Archaeologists</title>
+      <link>https://open-archaeo.info/post/digital-encyclopedia-of-archaeologists/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/digital-encyclopedia-of-archaeologists/</guid>
+      <description>A webpage containing brief biographical information about some iconic archaeologists.</description>
+    </item>
+    
+    <item>
+      <title>DObsiSS</title>
+      <link>https://open-archaeo.info/post/dobsiss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/dobsiss/</guid>
+      <description>The Database of Obsidian Sourcing Studies</description>
+    </item>
+    
+    <item>
+      <title>GCD</title>
+      <link>https://open-archaeo.info/post/gcd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/gcd/</guid>
+      <description>Global Charcoal Database</description>
+    </item>
+    
+    <item>
+      <title>gorbit</title>
+      <link>https://open-archaeo.info/post/gorbit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/gorbit/</guid>
+      <description>Making the freely available and excellent Orbis data just a little bit more easy to use.</description>
+    </item>
+    
+    <item>
+      <title>italy-3d-amphitheaters</title>
+      <link>https://open-archaeo.info/post/italy-3d-amphitheaters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/italy-3d-amphitheaters/</guid>
+      <description>3D amphitheatres.</description>
+    </item>
+    
+    <item>
+      <title>levant-zooarch</title>
+      <link>https://open-archaeo.info/post/levant-zooarch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/levant-zooarch/</guid>
+      <description>Table of faunal analyses from archaeological sites in the Levant</description>
+    </item>
+    
+    <item>
+      <title>Map Files</title>
+      <link>https://open-archaeo.info/post/map-files/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/map-files/</guid>
+      <description>This page presents an ever growing collection of resources for digital mapping.</description>
+    </item>
+    
+    <item>
+      <title>photogrammetry_datasets</title>
+      <link>https://open-archaeo.info/post/photogrammetry-datasets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/photogrammetry-datasets/</guid>
+      <description>This is a collection of datasets for photogrammetry.</description>
+    </item>
+    
+    <item>
+      <title>roman-amphitheaters</title>
+      <link>https://open-archaeo.info/post/roman-amphitheaters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/roman-amphitheaters/</guid>
+      <description>A dataset and discussion relating to Roman amphitheaters</description>
+    </item>
+    
+    <item>
+      <title>roman-empire</title>
+      <link>https://open-archaeo.info/post/roman-empire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/roman-empire/</guid>
+      <description>Map of the Roman Empire made with vector tiles</description>
+    </item>
+    
+    <item>
+      <title>roman-maps</title>
+      <link>https://open-archaeo.info/post/roman-maps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/roman-maps/</guid>
+      <description>These are geojson files relevant to Roman history. Initially they are all derived from the Ancient World Mapping Center&amp;rsquo;s set of CC-BY-NC licensed shapefiles.</description>
+    </item>
+    
+    <item>
+      <title>Roman-material-database-info</title>
+      <link>https://open-archaeo.info/post/roman-material-database-info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/roman-material-database-info/</guid>
+      <description>An interactive database of construction materials used in antiquity meant to enable creation of 3D and virtual reality (VR) models of historic structures.</description>
+    </item>
+    
+    <item>
+      <title>The AWOL Index</title>
+      <link>https://open-archaeo.info/post/the-awol-index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/the-awol-index/</guid>
+      <description>This publication systematically describes ancient-world information resources on the world-wide web. The bibliographic data presented herein has been programmatically extracted from the content of AWOL - The Ancient World Online (ISSN 2156-2253) and formatted in accordance with a structured data model</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/sfsheath/rorbium"
   },
   "authors": ["sfsheath"],
+  "categories": ["R"],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

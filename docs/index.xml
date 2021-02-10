@@ -44,10 +44,10 @@
     
     <item>
       <title>ADMUR</title>
-      <link>https://open-archaeo.info/post/adm/</link>
+      <link>https://open-archaeo.info/post/admur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/adm/</guid>
+      <guid>https://open-archaeo.info/post/admur/</guid>
       <description>Tools to directly model underlying population dynamics using chronological datasets (radiocarbon and other) with a variety of models, including Continuous Piecewise Linear (CPL) model framework, and model comparison framework using BIC. Package also calibrates 14C samples, and generates Summed Probability Distributions (SPD). CPL modelling directly estimates the most likely population trajectory given a dataset, using SPD simulation analysis to generate a Goodness-of-fit test for the best selected model.</description>
     </item>
     
@@ -89,10 +89,10 @@
     
     <item>
       <title>Analysing-Archaeological-Radiocabon-Ages-Using-R</title>
-      <link>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using/</link>
+      <link>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using-r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using/</guid>
+      <guid>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using-r/</guid>
       <description>Practice some techniques for analysing archaeological radiocabon ages using R</description>
     </item>
     
@@ -116,19 +116,19 @@
     
     <item>
       <title>AncientMetagenomeDir</title>
-      <link>https://open-archaeo.info/post/ancientmetagenomed/</link>
+      <link>https://open-archaeo.info/post/ancientmetagenomedir/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/ancientmetagenomed/</guid>
+      <guid>https://open-archaeo.info/post/ancientmetagenomedir/</guid>
       <description>Repository containing lists of all published ancient metagenome samples (and related)</description>
     </item>
     
     <item>
       <title>aoristAAR</title>
-      <link>https://open-archaeo.info/post/aorista/</link>
+      <link>https://open-archaeo.info/post/aoristaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/aorista/</guid>
+      <guid>https://open-archaeo.info/post/aoristaar/</guid>
       <description>A R package for the aoristic analysis of archaeological data.</description>
     </item>
     
@@ -160,33 +160,6 @@
     </item>
     
     <item>
-      <title>Archaeological Context Recording System</title>
-      <link>https://open-archaeo.info/post/archaeological-context-recording-system/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/archaeological-context-recording-system/</guid>
-      <description>A database + web frontend system to allow the recording and analyzing of archaeological context data</description>
-    </item>
-    
-    <item>
-      <title>Archaeological Environmental Recording System</title>
-      <link>https://open-archaeo.info/post/archaeological-environmental-recording-system/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/archaeological-environmental-recording-system/</guid>
-      <description>A database + web frontend system to allow the recording and analyzing of archaeological environmental data</description>
-    </item>
-    
-    <item>
-      <title>Archaeological Find Recording System</title>
-      <link>https://open-archaeo.info/post/archaeological-find-recording-system/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/archaeological-find-recording-system/</guid>
-      <description>A database + web frontend system to allow the recording and analyzing of archaeological finds data</description>
-    </item>
-    
-    <item>
       <title>archaeological-object-sharing</title>
       <link>https://open-archaeo.info/post/archaeological-object-sharing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -197,10 +170,10 @@
     
     <item>
       <title>archaeological-survey-location-collector</title>
-      <link>https://open-archaeo.info/post/archaeological-survey-location-collect/</link>
+      <link>https://open-archaeo.info/post/archaeological-survey-location-collector/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/archaeological-survey-location-collect/</guid>
+      <guid>https://open-archaeo.info/post/archaeological-survey-location-collector/</guid>
       <description>An app for use in archaeological field survey to collect high-accurate point locations, photographs, and other data.</description>
     </item>
     
@@ -475,15 +448,6 @@
     </item>
     
     <item>
-      <title>Artificial-Intelligent-based-Museum-System</title>
-      <link>https://open-archaeo.info/post/artificial-intelligent-based-museum-system/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/artificial-intelligent-based-museum-system/</guid>
-      <description>Museum Based System for detecting a set of artifacts and returning the related information to the user.</description>
-    </item>
-    
-    <item>
       <title>AtlantGIS</title>
       <link>https://open-archaeo.info/post/atlantgis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -584,10 +548,10 @@
     
     <item>
       <title>c14bazAAR</title>
-      <link>https://open-archaeo.info/post/c14baza/</link>
+      <link>https://open-archaeo.info/post/c14bazaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/c14baza/</guid>
+      <guid>https://open-archaeo.info/post/c14bazaar/</guid>
       <description>R package to query different openly accessible radiocarbon date databases, allowing for basic data cleaning, calibration and merging</description>
     </item>
     
@@ -620,10 +584,10 @@
     
     <item>
       <title>calibrator</title>
-      <link>https://open-archaeo.info/post/calibrat/</link>
+      <link>https://open-archaeo.info/post/calibrator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/calibrat/</guid>
+      <guid>https://open-archaeo.info/post/calibrator/</guid>
       <description>Small command line tool for 14C calibration</description>
     </item>
     
@@ -719,10 +683,10 @@
     
     <item>
       <title>cherish-installer</title>
-      <link>https://open-archaeo.info/post/cherish-install/</link>
+      <link>https://open-archaeo.info/post/cherish-installer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/cherish-install/</guid>
+      <guid>https://open-archaeo.info/post/cherish-installer/</guid>
       <description>Installer files for Cherish software.</description>
     </item>
     
@@ -782,10 +746,10 @@
     
     <item>
       <title>coenocliner</title>
-      <link>https://open-archaeo.info/post/coenoclin/</link>
+      <link>https://open-archaeo.info/post/coenocliner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/coenoclin/</guid>
+      <guid>https://open-archaeo.info/post/coenocliner/</guid>
       <description>An R package to simulate species occurences and abundances counts, along gradient.</description>
     </item>
     
@@ -827,10 +791,10 @@
     
     <item>
       <title>CuneiPainter</title>
-      <link>https://open-archaeo.info/post/cuneipaint/</link>
+      <link>https://open-archaeo.info/post/cuneipainter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/cuneipaint/</guid>
+      <guid>https://open-archaeo.info/post/cuneipainter/</guid>
       <description>An App to recognize cuneiform characters on your Android phone.</description>
     </item>
     
@@ -871,15 +835,6 @@
     </item>
     
     <item>
-      <title>Digisite</title>
-      <link>https://open-archaeo.info/post/digisite/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/digisite/</guid>
-      <description>Digisite is a database system and graphical user interface designed for context recording on archaeological sites using mobile devices</description>
-    </item>
-    
-    <item>
       <title>Digital Encyclopedia of Archaeologists</title>
       <link>https://open-archaeo.info/post/digital-encyclopedia-of-archaeologists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -917,19 +872,19 @@
     
     <item>
       <title>DRAC-calculator</title>
-      <link>https://open-archaeo.info/post/drac-calculat/</link>
+      <link>https://open-archaeo.info/post/drac-calculator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/drac-calculat/</guid>
+      <guid>https://open-archaeo.info/post/drac-calculator/</guid>
       <description>DRAC is a Dose Rate and Age Calculator which has been designed to calculate environmental dose rates (_) and ages for trapped charge dating applications</description>
     </item>
     
     <item>
       <title>DroneSurveyPlanner</title>
-      <link>https://open-archaeo.info/post/dronesurveyplann/</link>
+      <link>https://open-archaeo.info/post/dronesurveyplanner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/dronesurveyplann/</guid>
+      <guid>https://open-archaeo.info/post/dronesurveyplanner/</guid>
       <description>This is a LibreOffice Calc spreadsheet designed to help you plan an aerial drone mapping survey mission.</description>
     </item>
     
@@ -962,10 +917,10 @@
     
     <item>
       <title>ethnobotanyR</title>
-      <link>https://open-archaeo.info/post/ethnobotan/</link>
+      <link>https://open-archaeo.info/post/ethnobotanyr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/ethnobotan/</guid>
+      <guid>https://open-archaeo.info/post/ethnobotanyr/</guid>
       <description>R package for calculating quantitative ethnobotany indices.</description>
     </item>
     
@@ -1016,10 +971,10 @@
     
     <item>
       <title>fieldwalkr</title>
-      <link>https://open-archaeo.info/post/fieldwal/</link>
+      <link>https://open-archaeo.info/post/fieldwalkr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/fieldwal/</guid>
+      <guid>https://open-archaeo.info/post/fieldwalkr/</guid>
       <description>Spatial Sampling and Survey Simulation Tools.</description>
     </item>
     
@@ -1039,15 +994,6 @@
       
       <guid>https://open-archaeo.info/post/fix-exif-artist/</guid>
       <description>Fix the Exif.Image.Artist tag based on user input depending from the camera model. Useful if you have a bunch of photographs from different people all mixed up.</description>
-    </item>
-    
-    <item>
-      <title>FLiRT</title>
-      <link>https://open-archaeo.info/post/flirt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/flirt/</guid>
-      <description>A database interface designed to facilitate the irregular, iterative, and non-linear workflows that are commonly employed in lithic analysis.</description>
     </item>
     
     <item>
@@ -1151,10 +1097,10 @@
     
     <item>
       <title>grainsizeR</title>
-      <link>https://open-archaeo.info/post/grainsiz/</link>
+      <link>https://open-archaeo.info/post/grainsizer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/grainsiz/</guid>
+      <guid>https://open-archaeo.info/post/grainsizer/</guid>
       <description>This package contains all the tools necessary to extract grain sizes from images, digitally sieve grain size measurements, and gather descriptive statistics on sieved data.</description>
     </item>
     
@@ -1174,15 +1120,6 @@
       
       <guid>https://open-archaeo.info/post/harris-matrix-semerj/</guid>
       <description>Harris Matrix Visualization for the web using D3 + KLayJS-D3.</description>
-    </item>
-    
-    <item>
-      <title>harris-matrix</title>
-      <link>https://open-archaeo.info/post/harris-matrix-stefano-costa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/harris-matrix-stefano-costa/</guid>
-      <description>Create a Harris Matrix from archaeological stratigraphy data using Python and Graphviz.</description>
     </item>
     
     <item>
@@ -1259,10 +1196,10 @@
     
     <item>
       <title>ishtar</title>
-      <link>https://open-archaeo.info/post/isht/</link>
+      <link>https://open-archaeo.info/post/ishtar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/isht/</guid>
+      <guid>https://open-archaeo.info/post/ishtar/</guid>
       <description>Ishtar is a database project for managing archaeological data and documentation from archaeological operations, that prioritizes maximum traceability of the information. Designed to enable inter-database communication, the Ishtar project aims rather to a distributed information model than a centralized one: communication between the databases is favored.</description>
     </item>
     
@@ -1349,10 +1286,10 @@
     
     <item>
       <title>lithic3dslicer</title>
-      <link>https://open-archaeo.info/post/lithic3dslic/</link>
+      <link>https://open-archaeo.info/post/lithic3dslicer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/lithic3dslic/</guid>
+      <guid>https://open-archaeo.info/post/lithic3dslicer/</guid>
       <description>.obj slicing for lithic 3d morphometrics.</description>
     </item>
     
@@ -1376,10 +1313,10 @@
     
     <item>
       <title>LumReader</title>
-      <link>https://open-archaeo.info/post/lumread/</link>
+      <link>https://open-archaeo.info/post/lumreader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/lumread/</guid>
+      <guid>https://open-archaeo.info/post/lumreader/</guid>
       <description>R package to simulate a Luminescence Reader</description>
     </item>
     
@@ -1394,10 +1331,10 @@
     
     <item>
       <title>magAAR</title>
-      <link>https://open-archaeo.info/post/maga/</link>
+      <link>https://open-archaeo.info/post/magaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/maga/</guid>
+      <guid>https://open-archaeo.info/post/magaar/</guid>
       <description>Analyse geomagnetic data from archaeological context</description>
     </item>
     
@@ -1448,10 +1385,10 @@
     
     <item>
       <title>mortAAR</title>
-      <link>https://open-archaeo.info/post/morta/</link>
+      <link>https://open-archaeo.info/post/mortaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/morta/</guid>
+      <guid>https://open-archaeo.info/post/mortaar/</guid>
       <description>Analysis of Archaeological Mortality Data.</description>
     </item>
     
@@ -1573,15 +1510,6 @@
     </item>
     
     <item>
-      <title>OLPA</title>
-      <link>https://open-archaeo.info/post/olpa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/olpa/</guid>
-      <description>To develop software for use in archaeological recording in the field (or town!) with a focus on iterative approaches and collaboration. Utilises hardware frightening similar to that developed by the One Laptop Per Child project</description>
-    </item>
-    
-    <item>
       <title>Open Access Archaeology</title>
       <link>https://open-archaeo.info/post/open-access-archaeology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1655,10 +1583,10 @@
     
     <item>
       <title>paleocoreR</title>
-      <link>https://open-archaeo.info/post/paleocor/</link>
+      <link>https://open-archaeo.info/post/paleocorer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/paleocor/</guid>
+      <guid>https://open-archaeo.info/post/paleocorer/</guid>
       <description>R package for interacting with the Paleocore API</description>
     </item>
     
@@ -1682,10 +1610,10 @@
     
     <item>
       <title>pathAAR</title>
-      <link>https://open-archaeo.info/post/patha/</link>
+      <link>https://open-archaeo.info/post/pathaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/patha/</guid>
+      <guid>https://open-archaeo.info/post/pathaar/</guid>
       <description>R Package to reconstruct paths using archaeological monuments, model parameters of infrastructure and evaluate those parameters, model parameters of infrastructure and evaluate those parameters.</description>
     </item>
     
@@ -1700,10 +1628,10 @@
     
     <item>
       <title>photogrammetry-object-scannner</title>
-      <link>https://open-archaeo.info/post/photogrammetry-object-scannn/</link>
+      <link>https://open-archaeo.info/post/photogrammetry-object-scannner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/photogrammetry-object-scannn/</guid>
+      <guid>https://open-archaeo.info/post/photogrammetry-object-scannner/</guid>
       <description>Created for the very-specific purpose of communicating via android with a raspberry pi running a scanner.</description>
     </item>
     
@@ -1781,20 +1709,11 @@
     
     <item>
       <title>profileAAR</title>
-      <link>https://open-archaeo.info/post/profilea/</link>
+      <link>https://open-archaeo.info/post/profileaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/profilea/</guid>
+      <guid>https://open-archaeo.info/post/profileaar/</guid>
       <description>python qgis plugin of recexcavAAR&amp;rsquo;s archprofile</description>
-    </item>
-    
-    <item>
-      <title>projectmanagersdb</title>
-      <link>https://open-archaeo.info/post/projectmanagersdb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/projectmanagersdb/</guid>
-      <description>Web based system to replace paper, spreadsheet and Access databases. It enables members of the Administration Department to communicate project related financial information to the project managers and makes it easy to view and organise financial, time and staff data from a project manager&amp;rsquo;s point of view</description>
     </item>
     
     <item>
@@ -1862,10 +1781,10 @@
     
     <item>
       <title>quantAAR</title>
-      <link>https://open-archaeo.info/post/quanta/</link>
+      <link>https://open-archaeo.info/post/quantaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/quanta/</guid>
+      <guid>https://open-archaeo.info/post/quantaar/</guid>
       <description>R Library for Quantitative Analysis in Archaeology.</description>
     </item>
     
@@ -1934,10 +1853,10 @@
     
     <item>
       <title>recexcavAAR</title>
-      <link>https://open-archaeo.info/post/recexcava/</link>
+      <link>https://open-archaeo.info/post/recexcavaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/recexcava/</guid>
+      <guid>https://open-archaeo.info/post/recexcavaar/</guid>
       <description>R package for 3D reconstruction of archaeological excavations.</description>
     </item>
     
@@ -1952,10 +1871,10 @@
     
     <item>
       <title>RGPR</title>
-      <link>https://open-archaeo.info/post/rg/</link>
+      <link>https://open-archaeo.info/post/rgpr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/rg/</guid>
+      <guid>https://open-archaeo.info/post/rgpr/</guid>
       <description>RGPR is a free and open-source software package to read, export, analyse, process and visualise ground-penetrating radar (GPR) data</description>
     </item>
     
@@ -2060,19 +1979,19 @@
     
     <item>
       <title>RTIBuilder</title>
-      <link>https://open-archaeo.info/post/rtibuild/</link>
+      <link>https://open-archaeo.info/post/rtibuilder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/rtibuild/</guid>
+      <guid>https://open-archaeo.info/post/rtibuilder/</guid>
       <description>A software interface to a set of tools that process your captured image set to produce the final RTI files. The RTIBuilder download includes the Hemispherical Harmonics (HSH) fitter to create .rti files.</description>
     </item>
     
     <item>
       <title>RTIViewer</title>
-      <link>https://open-archaeo.info/post/rtiview/</link>
+      <link>https://open-archaeo.info/post/rtiviewer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/rtiview/</guid>
+      <guid>https://open-archaeo.info/post/rtiviewer/</guid>
       <description>Enables you to view and explore Reflectance Transformation Imaging (RTI) files at very high resolution (Polynomial Texture Maps, Hemispherical Harmonics Map, and Multiview RTI). You can view image files stored on your local file system, and remote files through HTTP.</description>
     </item>
     
@@ -2105,10 +2024,10 @@
     
     <item>
       <title>sdsbrowser</title>
-      <link>https://open-archaeo.info/post/sdsbrows/</link>
+      <link>https://open-archaeo.info/post/sdsbrowser/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/sdsbrows/</guid>
+      <guid>https://open-archaeo.info/post/sdsbrowser/</guid>
       <description>sdsbrowser is an R Shiny WebApp developed to make the available SDS datasets (following the Systematic and Digital Documentation of Stone Artefacts recording system) more accessible. It is designed to give you a quick overview on the spatial and temporal scope of sites previously analysed with SDS and the distribution of artefacts within these sites.</description>
     </item>
     
@@ -2132,10 +2051,10 @@
     
     <item>
       <title>shapAAR</title>
-      <link>https://open-archaeo.info/post/shapa/</link>
+      <link>https://open-archaeo.info/post/shapaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/shapa/</guid>
+      <guid>https://open-archaeo.info/post/shapaar/</guid>
       <description>This is an R package for the extraction, analysis and classification of (not only) archaeological objects derived from scanned images. Especially it aims at the analysis of the shapes/profiles of eg. ceramic vessels or arrow heads.</description>
     </item>
     
@@ -2168,19 +2087,19 @@
     
     <item>
       <title>signboardr</title>
-      <link>https://open-archaeo.info/post/signboar/</link>
+      <link>https://open-archaeo.info/post/signboardr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/signboar/</guid>
+      <guid>https://open-archaeo.info/post/signboardr/</guid>
       <description>Extract text from archaeological photos containing a sign board and tag as metadata</description>
     </item>
     
     <item>
       <title>simple-browser-gis-collector</title>
-      <link>https://open-archaeo.info/post/simple-browser-gis-collect/</link>
+      <link>https://open-archaeo.info/post/simple-browser-gis-collector/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/simple-browser-gis-collect/</guid>
+      <guid>https://open-archaeo.info/post/simple-browser-gis-collector/</guid>
       <description>Mobile-oriented browser based application that could be used for data collection.</description>
     </item>
     
@@ -2240,10 +2159,10 @@
     
     <item>
       <title>stratigraphr</title>
-      <link>https://open-archaeo.info/post/stratigrap/</link>
+      <link>https://open-archaeo.info/post/stratigraphr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/stratigrap/</guid>
+      <guid>https://open-archaeo.info/post/stratigraphr/</guid>
       <description>R package for archaeological stratigraphy and chronological sequences.</description>
     </item>
     
@@ -2303,10 +2222,10 @@
     
     <item>
       <title>tfqar</title>
-      <link>https://open-archaeo.info/post/tfq/</link>
+      <link>https://open-archaeo.info/post/tfqar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/tfq/</guid>
+      <guid>https://open-archaeo.info/post/tfqar/</guid>
       <description>Tools for Quantitative Archaeology - in R.</description>
     </item>
     
@@ -2326,15 +2245,6 @@
       
       <guid>https://open-archaeo.info/post/tidypaleo/</guid>
       <description>This package simplifies a few workflows when working with multi-proxy paleo-archive data</description>
-    </item>
-    
-    <item>
-      <title>Time Recording System</title>
-      <link>https://open-archaeo.info/post/time-recording-system/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/time-recording-system/</guid>
-      <description>Web based system to replace paper and spreadsheet timesheets. Although developed within archaeology it is probably of use beyond - it is not a time management system or a project management system, just a simple and effective way to record and store the time spent by people on projects and tasks.</description>
     </item>
     
     <item>
@@ -2411,10 +2321,10 @@
     
     <item>
       <title>trenchdrawer</title>
-      <link>https://open-archaeo.info/post/trenchdraw/</link>
+      <link>https://open-archaeo.info/post/trenchdrawer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/trenchdraw/</guid>
+      <guid>https://open-archaeo.info/post/trenchdrawer/</guid>
       <description>Plugin for drawing trenches.</description>
     </item>
     
@@ -2474,20 +2384,11 @@
     
     <item>
       <title>vitutr</title>
-      <link>https://open-archaeo.info/post/vitu/</link>
+      <link>https://open-archaeo.info/post/vitutr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/vitu/</guid>
+      <guid>https://open-archaeo.info/post/vitutr/</guid>
       <description>A page for video tutorials on R, specifically for archaeology</description>
-    </item>
-    
-    <item>
-      <title>Wittenhams Pottery System</title>
-      <link>https://open-archaeo.info/post/wittenhams-pottery-system/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/wittenhams-pottery-system/</guid>
-      <description>This application provides a database and an interface for adding, modifying and searching for pottery shards. Adding a shard is done via a tree-like interface for providing the system with all the exact particularities of the ornaments found on the shard, so that an expert could make an idea of what that shard looks like just by looking at the data and not the image. The interface provides a way to search for shards with the same description (pot zone, pattern type, method, inlay, design, etc)</description>
     </item>
     
     <item>
@@ -2533,15 +2434,6 @@
       
       <guid>https://open-archaeo.info/post/zooarchgui/</guid>
       <description>The zooaRchGUI package provides a Graphical User Interface (GUI) to analytical tools for zooarchaeological data in the R package.</description>
-    </item>
-    
-    <item>
-      <title>zooOS</title>
-      <link>https://open-archaeo.info/post/zooos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/zooos/</guid>
-      <description>zooOS (pronounced Zeus) is an open source system for recording and analysing animal bones found during archaeological excavations.</description>
     </item>
     
   </channel>

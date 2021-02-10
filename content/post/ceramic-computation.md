@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/anatolian/ceramic-computation"
   },
   "authors": ["anatolian"],
+  "categories": ["R"],
   "tags": ["Shape recognition"],
   "doi": null
 }

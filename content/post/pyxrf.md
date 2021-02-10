@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/NSLS-II/PyXRF"
   },
   "authors": ["NSLS-II"],
+  "categories": ["Python"],
   "tags": ["Instrumental analysis", "XRF"],
   "doi": null
 }

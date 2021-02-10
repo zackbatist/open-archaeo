@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/scikit-beam/scikit-beam"
   },
   "authors": ["scikit-beam"],
+  "categories": ["Python"],
   "tags": ["Instrumental analysis", "XRF"],
   "doi": null
 }

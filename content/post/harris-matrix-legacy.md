@@ -6,6 +6,7 @@
     "Website": "https://www.iosa.it/2008/08/27/harris-matrix-with-graphviz-a-draft-application-with-python/"
   },
   "authors": ["Stefano Costa", "iosa"],
+  "categories": ["Python"],
   "tags": ["Harrix matrix"],
   "doi": null
 }

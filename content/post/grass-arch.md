@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/fradeve/grass-arch"
   },
   "authors": ["fradeve"],
+  "categories": ["Tutorials"],
   "tags": ["Educational resources and practical guides"],
   "doi": null
 }

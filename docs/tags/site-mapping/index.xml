@@ -8,10 +8,10 @@
     <language>en</language><atom:link href="https://open-archaeo.info/tags/site-mapping/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>archaeological-survey-location-collector</title>
-      <link>https://open-archaeo.info/post/archaeological-survey-location-collect/</link>
+      <link>https://open-archaeo.info/post/archaeological-survey-location-collector/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/archaeological-survey-location-collect/</guid>
+      <guid>https://open-archaeo.info/post/archaeological-survey-location-collector/</guid>
       <description>An app for use in archaeological field survey to collect high-accurate point locations, photographs, and other data.</description>
     </item>
     
@@ -53,19 +53,19 @@
     
     <item>
       <title>fieldwalkr</title>
-      <link>https://open-archaeo.info/post/fieldwal/</link>
+      <link>https://open-archaeo.info/post/fieldwalkr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/fieldwal/</guid>
+      <guid>https://open-archaeo.info/post/fieldwalkr/</guid>
       <description>Spatial Sampling and Survey Simulation Tools.</description>
     </item>
     
     <item>
       <title>simple-browser-gis-collector</title>
-      <link>https://open-archaeo.info/post/simple-browser-gis-collect/</link>
+      <link>https://open-archaeo.info/post/simple-browser-gis-collector/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/simple-browser-gis-collect/</guid>
+      <guid>https://open-archaeo.info/post/simple-browser-gis-collector/</guid>
       <description>Mobile-oriented browser based application that could be used for data collection.</description>
     </item>
     
@@ -80,10 +80,10 @@
     
     <item>
       <title>trenchdrawer</title>
-      <link>https://open-archaeo.info/post/trenchdraw/</link>
+      <link>https://open-archaeo.info/post/trenchdrawer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/trenchdraw/</guid>
+      <guid>https://open-archaeo.info/post/trenchdrawer/</guid>
       <description>Plugin for drawing trenches.</description>
     </item>
     

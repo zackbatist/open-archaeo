@@ -17,10 +17,10 @@
     
     <item>
       <title>Analysing-Archaeological-Radiocabon-Ages-Using-R</title>
-      <link>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using/</link>
+      <link>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using-r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using/</guid>
+      <guid>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using-r/</guid>
       <description>Practice some techniques for analysing archaeological radiocabon ages using R</description>
     </item>
     
@@ -44,10 +44,10 @@
     
     <item>
       <title>calibrator</title>
-      <link>https://open-archaeo.info/post/calibrat/</link>
+      <link>https://open-archaeo.info/post/calibrator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/calibrat/</guid>
+      <guid>https://open-archaeo.info/post/calibrator/</guid>
       <description>Small command line tool for 14C calibration</description>
     </item>
     
@@ -89,10 +89,10 @@
     
     <item>
       <title>DRAC-calculator</title>
-      <link>https://open-archaeo.info/post/drac-calculat/</link>
+      <link>https://open-archaeo.info/post/drac-calculator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/drac-calculat/</guid>
+      <guid>https://open-archaeo.info/post/drac-calculator/</guid>
       <description>DRAC is a Dose Rate and Age Calculator which has been designed to calculate environmental dose rates (_) and ages for trapped charge dating applications</description>
     </item>
     
@@ -116,19 +116,19 @@
     
     <item>
       <title>LumReader</title>
-      <link>https://open-archaeo.info/post/lumread/</link>
+      <link>https://open-archaeo.info/post/lumreader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/lumread/</guid>
+      <guid>https://open-archaeo.info/post/lumreader/</guid>
       <description>R package to simulate a Luminescence Reader</description>
     </item>
     
     <item>
       <title>magAAR</title>
-      <link>https://open-archaeo.info/post/maga/</link>
+      <link>https://open-archaeo.info/post/magaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/maga/</guid>
+      <guid>https://open-archaeo.info/post/magaar/</guid>
       <description>Analyse geomagnetic data from archaeological context</description>
     </item>
     
@@ -197,10 +197,10 @@
     
     <item>
       <title>RGPR</title>
-      <link>https://open-archaeo.info/post/rg/</link>
+      <link>https://open-archaeo.info/post/rgpr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/rg/</guid>
+      <guid>https://open-archaeo.info/post/rgpr/</guid>
       <description>RGPR is a free and open-source software package to read, export, analyse, process and visualise ground-penetrating radar (GPR) data</description>
     </item>
     

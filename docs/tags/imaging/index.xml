@@ -17,19 +17,19 @@
     
     <item>
       <title>RTIBuilder</title>
-      <link>https://open-archaeo.info/post/rtibuild/</link>
+      <link>https://open-archaeo.info/post/rtibuilder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/rtibuild/</guid>
+      <guid>https://open-archaeo.info/post/rtibuilder/</guid>
       <description>A software interface to a set of tools that process your captured image set to produce the final RTI files. The RTIBuilder download includes the Hemispherical Harmonics (HSH) fitter to create .rti files.</description>
     </item>
     
     <item>
       <title>RTIViewer</title>
-      <link>https://open-archaeo.info/post/rtiview/</link>
+      <link>https://open-archaeo.info/post/rtiviewer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/rtiview/</guid>
+      <guid>https://open-archaeo.info/post/rtiviewer/</guid>
       <description>Enables you to view and explore Reflectance Transformation Imaging (RTI) files at very high resolution (Polynomial Texture Maps, Hemispherical Harmonics Map, and Multiview RTI). You can view image files stored on your local file system, and remote files through HTTP.</description>
     </item>
     

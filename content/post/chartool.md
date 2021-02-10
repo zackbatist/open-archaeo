@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/gsnitker/CharTool"
   },
   "authors": ["gsnitker"],
+  "categories": ["Desktop apps"],
   "tags": ["Palaeoenvironment and palaeobotany"],
   "doi": null
 }

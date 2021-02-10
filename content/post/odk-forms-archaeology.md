@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/isaacullah/ODK-forms-archaeology"
   },
   "authors": ["isaacullah"],
+  "categories": ["ODK"],
   "tags": [],
   "doi": null
 }

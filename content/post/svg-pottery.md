@@ -5,6 +5,7 @@
     "Codeberg": "https://codeberg.org/steko/svg-pottery"
   },
   "authors": ["Stefano Costa"],
+  "categories": ["Tutorials"],
   "tags": ["Educational resources and practical guides"],
   "doi": null
 }

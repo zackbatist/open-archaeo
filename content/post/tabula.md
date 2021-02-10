@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/nfrerebeau/tabula"
   },
   "authors": ["nfrerebeau"],
+  "categories": ["R"],
   "tags": ["Quantitative and statistical analysis"],
   "doi": null
 }

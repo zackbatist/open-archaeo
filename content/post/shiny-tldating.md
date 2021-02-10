@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/dstreble/shiny_Tldating"
   },
   "authors": ["dstreble"],
+  "categories": ["Web apps"],
   "tags": ["Instrumental analysis", "Luminescence"],
   "doi": null
 }

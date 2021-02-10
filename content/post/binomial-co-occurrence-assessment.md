@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/mpeeples2008/Binomial-Co-occurrence-Assessment"
   },
   "authors": ["mpeeples2008"],
+  "categories": ["R"],
   "tags": ["Quantitative and statistical analysis"],
   "doi": null
 }

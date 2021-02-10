@@ -6,6 +6,7 @@
     "CRAN": "https://cran.r-project.org/web/packages/soiltexture/index.html"
   },
   "authors": ["julienmoeys"],
+  "categories": ["R"],
   "tags": ["Bits and bobs"],
   "doi": null
 }

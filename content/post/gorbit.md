@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/sfsheath/gorbit"
   },
   "authors": ["sfsheath"],
+  "categories": ["Datasets"],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

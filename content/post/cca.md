@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/adreinhard/cca"
   },
   "authors": ["adreinhard"],
+  "categories": ["Datasets"],
   "tags": ["Other"],
   "doi": null
 }

@@ -6,5 +6,176 @@
     <description>Recent content in Categories on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://open-archaeo.info/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyses</title>
+      <link>https://open-archaeo.info/categories/analyses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/analyses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ArcGIS</title>
+      <link>https://open-archaeo.info/categories/arcgis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/arcgis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Command line tools</title>
+      <link>https://open-archaeo.info/categories/command-line-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/command-line-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datasets</title>
+      <link>https://open-archaeo.info/categories/datasets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/datasets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desktop apps</title>
+      <link>https://open-archaeo.info/categories/desktop-apps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/desktop-apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filemaker</title>
+      <link>https://open-archaeo.info/categories/filemaker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/filemaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Games</title>
+      <link>https://open-archaeo.info/categories/games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lisp</title>
+      <link>https://open-archaeo.info/categories/lisp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/lisp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lists</title>
+      <link>https://open-archaeo.info/categories/lists/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/lists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile apps</title>
+      <link>https://open-archaeo.info/categories/mobile-apps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/mobile-apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ODK</title>
+      <link>https://open-archaeo.info/categories/odk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/odk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plugins</title>
+      <link>https://open-archaeo.info/categories/plugins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/plugins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://open-archaeo.info/categories/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QGIS</title>
+      <link>https://open-archaeo.info/categories/qgis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/qgis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://open-archaeo.info/categories/r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schemas</title>
+      <link>https://open-archaeo.info/categories/schemas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/schemas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spreadsheets</title>
+      <link>https://open-archaeo.info/categories/spreadsheets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/spreadsheets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://open-archaeo.info/categories/tutorials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web apps</title>
+      <link>https://open-archaeo.info/categories/web-apps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/web-apps/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

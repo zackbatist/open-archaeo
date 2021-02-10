@@ -5,6 +5,7 @@
     "GitLab": "https://gist.github.com/benmarwick/d3eb3167ccb2116197ca"
   },
   "authors": ["benmarwick"],
+  "categories": ["Analyses"],
   "tags": ["Other"],
   "doi": null
 }

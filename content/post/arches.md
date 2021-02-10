@@ -6,6 +6,7 @@
     "Website": "https://www.archesproject.org/"
   },
   "authors": ["archesproject"],
+  "categories": ["Web apps"],
   "tags": ["Data collection and management"],
   "doi": null
 }

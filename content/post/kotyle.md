@@ -6,6 +6,7 @@
     "Website": "https://kotyle.readthedocs.io/en/latest/"
   },
   "authors": ["iosa"],
+  "categories": ["Python"],
   "tags": ["Artefact morphology"],
   "doi": null
 }

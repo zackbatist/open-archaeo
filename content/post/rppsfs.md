@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/scollinselliott/rppsfs"
   },
   "authors": ["scollinselliott"],
+  "categories": ["?"],
   "tags": ["Schema, ontologies and templates"],
   "doi": null
 }

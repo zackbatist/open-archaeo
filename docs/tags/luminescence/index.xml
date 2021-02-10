@@ -35,10 +35,10 @@
     
     <item>
       <title>DRAC-calculator</title>
-      <link>https://open-archaeo.info/post/drac-calculat/</link>
+      <link>https://open-archaeo.info/post/drac-calculator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/drac-calculat/</guid>
+      <guid>https://open-archaeo.info/post/drac-calculator/</guid>
       <description>DRAC is a Dose Rate and Age Calculator which has been designed to calculate environmental dose rates (_) and ages for trapped charge dating applications</description>
     </item>
     
@@ -53,10 +53,10 @@
     
     <item>
       <title>LumReader</title>
-      <link>https://open-archaeo.info/post/lumread/</link>
+      <link>https://open-archaeo.info/post/lumreader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/lumread/</guid>
+      <guid>https://open-archaeo.info/post/lumreader/</guid>
       <description>R package to simulate a Luminescence Reader</description>
     </item>
     

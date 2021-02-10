@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/sfsheath/ramphs"
   },
   "authors": ["sfsheath"],
+  "categories": ["R"],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

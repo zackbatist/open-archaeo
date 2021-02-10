@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/anatolian/archaeology-object-data-collector-app"
   },
   "authors": ["anatolian"],
+  "categories": ["Mobile apps"],
   "tags": ["Data collection and management"],
   "doi": null
 }

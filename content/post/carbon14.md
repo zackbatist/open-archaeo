@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/paleolimbot/carbon14"
   },
   "authors": ["paleolimbot"],
+  "categories": ["R"],
   "tags": ["Instrumental analysis", "Radiocarbon"],
   "doi": null
 }

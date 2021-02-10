@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/zackbatist/archaeo-db-workshop"
   },
   "authors": ["zackbatist"],
+  "categories": ["Tutorials"],
   "tags": ["Educational resources and practical guides"],
   "doi": null
 }

@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/sfsheath/3d-ceramics"
   },
   "authors": ["sfsheath"],
+  "categories": ["Datasets"],
   "tags": ["3D modelling"],
   "doi": null
 }

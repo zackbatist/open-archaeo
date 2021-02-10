@@ -5,6 +5,7 @@
     "Website": "https://sites.google.com/site/pyarchinit/"
   },
   "authors": [],
+  "categories": ["QGIS"],
   "tags": ["Data collection and management"],
   "doi": null
 }

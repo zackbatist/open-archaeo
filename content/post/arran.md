@@ -7,6 +7,7 @@
     "Website": "https://arkhe.archaeo.science/"
   },
   "authors": ["ickramer"],
+  "categories": ["Datasets"],
   "tags": ["LiDAR", "Drones and satellite imagery"],
   "doi": null
 }

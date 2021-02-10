@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/zackbatist/QuARI"
   },
   "authors": ["Zack Batist", "Dan Contreras", "Ciara Zogheib"],
+  "categories": ["Web apps"],
   "tags": ["Data entry", "Data wrangling", "Lithic analysis", "R Shiny"],
   "doi": null
 }

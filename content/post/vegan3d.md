@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/vegandevs/vegan3d"
   },
   "authors": ["vegandevs"],
+  "categories": ["R"],
   "tags": ["Palaeoenvironment and palaeobotany"],
   "doi": null
 }

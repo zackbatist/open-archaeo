@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/leedrake5/CloudCal"
   },
   "authors": ["leedrake5"],
+  "categories": ["R"],
   "tags": ["Instrumental analysis", "XRF"],
   "doi": null
 }

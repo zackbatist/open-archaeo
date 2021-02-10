@@ -6,6 +6,7 @@
     "Codeberg": "https://codeberg.org/steko/inclusions"
   },
   "authors": ["steko"],
+  "categories": ["?"],
   "tags": ["Schema, ontologies and templates"],
   "doi": null
 }

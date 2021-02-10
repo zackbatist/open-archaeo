@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/demjanp/CeraMatch"
   },
   "authors": ["demjanp"],
+  "categories": ["Python"],
   "tags": ["Shape recognition"],
   "doi": null
 }

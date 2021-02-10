@@ -17,10 +17,10 @@
     
     <item>
       <title>mortAAR</title>
-      <link>https://open-archaeo.info/post/morta/</link>
+      <link>https://open-archaeo.info/post/mortaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/morta/</guid>
+      <guid>https://open-archaeo.info/post/mortaar/</guid>
       <description>Analysis of Archaeological Mortality Data.</description>
     </item>
     
@@ -40,15 +40,6 @@
       
       <guid>https://open-archaeo.info/post/zooarchgui/</guid>
       <description>The zooaRchGUI package provides a Graphical User Interface (GUI) to analytical tools for zooarchaeological data in the R package.</description>
-    </item>
-    
-    <item>
-      <title>zooOS</title>
-      <link>https://open-archaeo.info/post/zooos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/zooos/</guid>
-      <description>zooOS (pronounced Zeus) is an open source system for recording and analysing animal bones found during archaeological excavations.</description>
     </item>
     
   </channel>

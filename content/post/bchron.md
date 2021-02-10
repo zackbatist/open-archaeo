@@ -6,6 +6,7 @@
     "CRAN": "https://cran.rstudio.com/web/packages/Bchron/index.html"
   },
   "authors": ["andrewcparnell"],
+  "categories": ["R"],
   "tags": ["Instrumental analysis", "Radiocarbon"],
   "doi": null
 }

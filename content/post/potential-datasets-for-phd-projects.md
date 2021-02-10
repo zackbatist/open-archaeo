@@ -5,6 +5,7 @@
     "Website": "https://docs.google.com/document/d/1BuIJ0ZXzzh838qvMOu59dLCCEz9xE3JnC76oHN-kMTU/edit"
   },
   "authors": ["Taryn Bell"],
+  "categories": ["Lists"],
   "tags": ["Lists"],
   "doi": null
 }

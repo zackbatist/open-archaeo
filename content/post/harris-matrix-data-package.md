@@ -5,6 +5,7 @@
     "Codeberg": "https://codeberg.org/steko/harris-matrix-data-package"
   },
   "authors": ["steko"],
+  "categories": ["?"],
   "tags": [],
   "doi": null
 }

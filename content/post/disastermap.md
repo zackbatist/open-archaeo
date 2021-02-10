@@ -6,6 +6,7 @@
     "Website": "https://aejolene.github.io/disastermap/"
   },
   "authors": ["aejolene"],
+  "categories": ["Analyses"],
   "tags": ["Public policy and civic action"],
   "doi": null
 }

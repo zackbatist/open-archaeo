@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/aejolene/NRHP_Metadata_Scheme"
   },
   "authors": ["aejolene"],
+  "categories": ["?"],
   "tags": ["Schema, ontologies and templates"],
   "doi": null
 }

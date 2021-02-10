@@ -6,6 +6,7 @@
     "Website": "https://qfield.org/"
   },
   "authors": ["openGIS"],
+  "categories": ["Mobile apps"],
   "tags": ["Data collection and management"],
   "doi": null
 }

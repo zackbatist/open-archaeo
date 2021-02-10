@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/renderpci/dedalo"
   },
   "authors": ["renderpci"],
+  "categories": ["Web apps"],
   "tags": ["Data collection and management"],
   "doi": null
 }

@@ -6,6 +6,7 @@
     "Website": "https://sourceforge.net/projects/tridas/"
   },
   "authors": ["steko"],
+  "categories": ["?"],
   "tags": [],
   "doi": null
 }

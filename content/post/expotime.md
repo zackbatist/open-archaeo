@@ -5,6 +5,7 @@
     "Codeberg": "https://codeberg.org/steko/expotime"
   },
   "authors": ["steko"],
+  "categories": ["?"],
   "tags": [],
   "doi": null
 }

@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/UNMOCA/ODKArchForms"
   },
   "authors": ["UNMOCA"],
+  "categories": ["ODK"],
   "tags": ["Data collection and management"],
   "doi": null
 }

@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/Johanna-Mestorf-Academy/sdsanalysis"
   },
   "authors": ["Johanna-Mestorf-Academy"],
+  "categories": ["R"],
   "tags": ["Artefact morphology"],
   "doi": null
 }

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "print.css",
-	"sourceRoot": "/home/zack/Dropbox/open-archaeo",
+	"sourceRoot": "/home/joeroe/g/work/dev/open-archaeo",
 	"sources": [
 		"themes/hyde-hyde/assets/scss/print.scss",
 		"assets/scss/hyde-hyde/_variables.scss",

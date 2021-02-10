@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/cornelmpop/Lithics3D"
   },
   "authors": ["cornelmpop"],
+  "categories": ["R"],
   "tags": ["3D modelling"],
   "doi": null
 }

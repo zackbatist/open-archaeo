@@ -6,6 +6,7 @@
     "Website": "https://docs.ropensci.org/opencontext/"
   },
   "authors": ["ropensci"],
+  "categories": ["R"],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

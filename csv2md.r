@@ -40,7 +40,8 @@ open_archaeo %>%
     tags = list(cnotna(tag1, tag2, tag3, tag4, tag5))
   ) %>% 
   ungroup() %>%
-  select(slug, item_name, description, links, authors, tags, doi = DOI) ->
+  select(slug, item_name, description, links, authors, categories = category,
+         tags, doi = DOI) ->
   open_archaeo
 
 # Delete all existing .md files

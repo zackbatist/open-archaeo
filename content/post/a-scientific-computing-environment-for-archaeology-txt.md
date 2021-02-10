@@ -5,6 +5,7 @@
     "gist": "https://gist.github.com/benmarwick/11204658"
   },
   "authors": ["benmarwick"],
+  "categories": ["Tutorials"],
   "tags": ["Educational resources and practical guides"],
   "doi": null
 }

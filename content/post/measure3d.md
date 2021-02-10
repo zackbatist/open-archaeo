@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/alessandrobattisti/measure3d"
   },
   "authors": ["alessandrobattisti"],
+  "categories": ["QGIS"],
   "tags": ["Bits and bobs"],
   "doi": null
 }

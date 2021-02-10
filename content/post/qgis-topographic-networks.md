@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/zoran-cuckovic/QGIS-topographic-networks"
   },
   "authors": ["zoran-cuckovic"],
+  "categories": ["QGIS"],
   "tags": ["Geospatial analysis", "Spatial modelling and inference"],
   "doi": null
 }

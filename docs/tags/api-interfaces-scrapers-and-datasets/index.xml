@@ -62,10 +62,10 @@
     
     <item>
       <title>c14bazAAR</title>
-      <link>https://open-archaeo.info/post/c14baza/</link>
+      <link>https://open-archaeo.info/post/c14bazaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/c14baza/</guid>
+      <guid>https://open-archaeo.info/post/c14bazaar/</guid>
       <description>R package to query different openly accessible radiocarbon date databases, allowing for basic data cleaning, calibration and merging</description>
     </item>
     
@@ -143,10 +143,10 @@
     
     <item>
       <title>paleocoreR</title>
-      <link>https://open-archaeo.info/post/paleocor/</link>
+      <link>https://open-archaeo.info/post/paleocorer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/paleocor/</guid>
+      <guid>https://open-archaeo.info/post/paleocorer/</guid>
       <description>R package for interacting with the Paleocore API</description>
     </item>
     

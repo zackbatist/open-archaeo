@@ -5,6 +5,7 @@
     "Website": "https://docs.google.com/spreadsheets/d/1aAssGGswX2WNMllV4kMYexBGS8miCywbW5XdcIeE22c/edit#gid=1033348216"
   },
   "authors": ["Gabriel Bodard", "Paula Granados García", "Sarah Middle", "Elton Barker"],
+  "categories": ["Lists"],
   "tags": [],
   "doi": null
 }

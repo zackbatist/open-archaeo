@@ -5,6 +5,7 @@
     "Website": "https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/outils-danalyse-graphique-des-donnees"
   },
   "authors": ["Bruno Desachy"],
+  "categories": ["Spreadsheets"],
   "tags": ["Bits and bobs"],
   "doi": null
 }

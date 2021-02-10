@@ -6,6 +6,7 @@
     "blog post": "http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html"
   },
   "authors": ["Charles E. Jones"],
+  "categories": ["Lists"],
   "tags": ["Lists"],
   "doi": null
 }

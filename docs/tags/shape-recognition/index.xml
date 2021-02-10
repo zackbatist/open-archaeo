@@ -16,15 +16,6 @@
     </item>
     
     <item>
-      <title>Artificial-Intelligent-based-Museum-System</title>
-      <link>https://open-archaeo.info/post/artificial-intelligent-based-museum-system/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/artificial-intelligent-based-museum-system/</guid>
-      <description>Museum Based System for detecting a set of artifacts and returning the related information to the user.</description>
-    </item>
-    
-    <item>
       <title>CeraMatch</title>
       <link>https://open-archaeo.info/post/ceramatch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -44,19 +35,19 @@
     
     <item>
       <title>CuneiPainter</title>
-      <link>https://open-archaeo.info/post/cuneipaint/</link>
+      <link>https://open-archaeo.info/post/cuneipainter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/cuneipaint/</guid>
+      <guid>https://open-archaeo.info/post/cuneipainter/</guid>
       <description>An App to recognize cuneiform characters on your Android phone.</description>
     </item>
     
     <item>
       <title>grainsizeR</title>
-      <link>https://open-archaeo.info/post/grainsiz/</link>
+      <link>https://open-archaeo.info/post/grainsizer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/grainsiz/</guid>
+      <guid>https://open-archaeo.info/post/grainsizer/</guid>
       <description>This package contains all the tools necessary to extract grain sizes from images, digitally sieve grain size measurements, and gather descriptive statistics on sieved data.</description>
     </item>
     
@@ -71,10 +62,10 @@
     
     <item>
       <title>shapAAR</title>
-      <link>https://open-archaeo.info/post/shapa/</link>
+      <link>https://open-archaeo.info/post/shapaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/shapa/</guid>
+      <guid>https://open-archaeo.info/post/shapaar/</guid>
       <description>This is an R package for the extraction, analysis and classification of (not only) archaeological objects derived from scanned images. Especially it aims at the analysis of the shapes/profiles of eg. ceramic vessels or arrow heads.</description>
     </item>
     

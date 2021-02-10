@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/msu-anthropology/deoa"
   },
   "authors": ["msu-anthropology"],
+  "categories": ["Datasets"],
   "tags": ["Educational resources and practical guides"],
   "doi": null
 }

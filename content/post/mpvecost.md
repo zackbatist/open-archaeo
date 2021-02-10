@@ -5,6 +5,7 @@
     "CRAN": "https://cran.r-project.org/web/packages/movecost/index.html"
   },
   "authors": ["gianmarcoalberti"],
+  "categories": ["R"],
   "tags": ["Geospatial analysis", "Spatial modelling and inference"],
   "doi": null
 }

@@ -6,6 +6,7 @@
     "Website": "http://tsdye.online/harris-matrix/homepage/"
   },
   "authors": ["tsdye"],
+  "categories": ["Lisp"],
   "tags": ["Harrix matrix"],
   "doi": null
 }

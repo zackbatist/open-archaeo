@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/sarahkansa/levant-zooarch"
   },
   "authors": ["sarahkansa"],
+  "categories": ["Datasets"],
   "tags": ["Lists"],
   "doi": null
 }

@@ -26,10 +26,10 @@
     
     <item>
       <title>cherish-installer</title>
-      <link>https://open-archaeo.info/post/cherish-install/</link>
+      <link>https://open-archaeo.info/post/cherish-installer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/cherish-install/</guid>
+      <guid>https://open-archaeo.info/post/cherish-installer/</guid>
       <description>Installer files for Cherish software.</description>
     </item>
     
@@ -62,10 +62,10 @@
     
     <item>
       <title>recexcavAAR</title>
-      <link>https://open-archaeo.info/post/recexcava/</link>
+      <link>https://open-archaeo.info/post/recexcavaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/recexcava/</guid>
+      <guid>https://open-archaeo.info/post/recexcavaar/</guid>
       <description>R package for 3D reconstruction of archaeological excavations.</description>
     </item>
     

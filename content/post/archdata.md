@@ -5,6 +5,7 @@
     "CRAN": "https://cran.rstudio.com/web/packages/archdata/index.html"
   },
   "authors": ["David L. Carlson", "Georg Roth"],
+  "categories": ["R"],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

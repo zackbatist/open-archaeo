@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/benmarwick/ctv-archaeology"
   },
   "authors": ["benmarwick"],
+  "categories": ["Lists"],
   "tags": ["Lists"],
   "doi": null
 }

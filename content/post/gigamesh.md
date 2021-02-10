@@ -8,6 +8,7 @@
     "Website": "https://gigamesh.eu/"
   },
   "authors": ["Hubert Mara", "Forensic Computational Geometry Laboratory"],
+  "categories": ["?"],
   "tags": [],
   "doi": null
 }

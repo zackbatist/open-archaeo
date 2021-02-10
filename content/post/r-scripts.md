@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/isaacullah/R-Scripts"
   },
   "authors": ["isaacullah"],
+  "categories": ["R"],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

@@ -6,6 +6,7 @@
     "Website": "http://www.zoran-cuckovic.from.hr/QGIS-visibility-analysis/"
   },
   "authors": ["zoran-cuckovic"],
+  "categories": ["QGIS"],
   "tags": ["Geospatial analysis", "Viewshed analysis"],
   "doi": null
 }

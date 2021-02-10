@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lists on open-archaeo</title>
+    <link>https://open-archaeo.info/categories/lists/</link>
+    <description>Recent content in Lists on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/categories/lists/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AncientMetagenomeDir</title>
+      <link>https://open-archaeo.info/post/ancientmetagenomedir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/ancientmetagenomedir/</guid>
+      <description>Repository containing lists of all published ancient metagenome samples (and related)</description>
+    </item>
+    
+    <item>
+      <title>archaeology</title>
+      <link>https://open-archaeo.info/post/archaeology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeology/</guid>
+      <description>A directory of GitHub projects by OR for archaeologists</description>
+    </item>
+    
+    <item>
+      <title>Classical and ancient Linked Open Data</title>
+      <link>https://open-archaeo.info/post/classical-and-ancient-linked-open-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/classical-and-ancient-linked-open-data/</guid>
+      <description>A list of linked open data repositories relating to classics and ancient history.</description>
+    </item>
+    
+    <item>
+      <title>ctv-archaeology</title>
+      <link>https://open-archaeo.info/post/ctv-archaeology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/ctv-archaeology/</guid>
+      <description>This CRAN Task View contains a list of packages useful for scientific work in Archaeology</description>
+    </item>
+    
+    <item>
+      <title>gitMuseum</title>
+      <link>https://open-archaeo.info/post/gitmuseum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/gitmuseum/</guid>
+      <description>A repository listing Museums active on GitHub, written in Rstats</description>
+    </item>
+    
+    <item>
+      <title>Isaac&#39;s List of FOSS tools for academics... and what to use them for!</title>
+      <link>https://open-archaeo.info/post/isaacs-list-of-foss-tools-for-academics-and-what-to-use-them-for/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/isaacs-list-of-foss-tools-for-academics-and-what-to-use-them-for/</guid>
+      <description>An annotated list of open source tools for academics.</description>
+    </item>
+    
+    <item>
+      <title>Open Access Archaeology</title>
+      <link>https://open-archaeo.info/post/open-access-archaeology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/open-access-archaeology/</guid>
+      <description>OpenAccessArchaeology.org is dedicated to helping people discover and use Open Access resources in the field of Archaeology</description>
+    </item>
+    
+    <item>
+      <title>open-archaeo</title>
+      <link>https://open-archaeo.info/post/open-archaeo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/open-archaeo/</guid>
+      <description>A list of open source archaeological software and resources</description>
+    </item>
+    
+    <item>
+      <title>Potential datasets for PhD projects</title>
+      <link>https://open-archaeo.info/post/potential-datasets-for-phd-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/potential-datasets-for-phd-projects/</guid>
+      <description>A Google Doc with different archaeological and anthropological datasets and resources for students who need to make changes to their project due to COVID-19</description>
+    </item>
+    
+    <item>
+      <title>Roundup of Resources on Ancient Geography</title>
+      <link>https://open-archaeo.info/post/roundup-of-resources-on-ancient-geography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/roundup-of-resources-on-ancient-geography/</guid>
+      <description>Included in the following list are links to digital project dealing with geography and the ancient world</description>
+    </item>
+    
+  </channel>
+</rss>

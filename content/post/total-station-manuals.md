@@ -5,6 +5,7 @@
     "Codeberg": "https://codeberg.org/steko/total-station-manuals"
   },
   "authors": ["steko"],
+  "categories": ["Tutorials"],
   "tags": ["Drivers and IO"],
   "doi": null
 }

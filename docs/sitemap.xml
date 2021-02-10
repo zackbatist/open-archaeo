@@ -23,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/adm/</loc>
+    <loc>https://open-archaeo.info/post/admur/</loc>
   </url>
   
   <url>
@@ -43,7 +43,11 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using/</loc>
+    <loc>https://open-archaeo.info/categories/analyses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using-r/</loc>
   </url>
   
   <url>
@@ -55,15 +59,19 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/ancientmetagenomed/</loc>
+    <loc>https://open-archaeo.info/post/ancientmetagenomedir/</loc>
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/aorista/</loc>
+    <loc>https://open-archaeo.info/post/aoristaar/</loc>
   </url>
   
   <url>
     <loc>https://open-archaeo.info/tags/api-interfaces-scrapers-and-datasets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/categories/arcgis/</loc>
   </url>
   
   <url>
@@ -79,23 +87,11 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/archaeological-context-recording-system/</loc>
-  </url>
-  
-  <url>
-    <loc>https://open-archaeo.info/post/archaeological-environmental-recording-system/</loc>
-  </url>
-  
-  <url>
-    <loc>https://open-archaeo.info/post/archaeological-find-recording-system/</loc>
-  </url>
-  
-  <url>
     <loc>https://open-archaeo.info/post/archaeological-object-sharing/</loc>
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/archaeological-survey-location-collect/</loc>
+    <loc>https://open-archaeo.info/post/archaeological-survey-location-collector/</loc>
   </url>
   
   <url>
@@ -223,10 +219,6 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/artificial-intelligent-based-museum-system/</loc>
-  </url>
-  
-  <url>
     <loc>https://open-archaeo.info/post/atlantgis/</loc>
   </url>
   
@@ -275,7 +267,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/c14baza/</loc>
+    <loc>https://open-archaeo.info/post/c14bazaar/</loc>
   </url>
   
   <url>
@@ -291,7 +283,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/calibrat/</loc>
+    <loc>https://open-archaeo.info/post/calibrator/</loc>
   </url>
   
   <url>
@@ -339,7 +331,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/cherish-install/</loc>
+    <loc>https://open-archaeo.info/post/cherish-installer/</loc>
   </url>
   
   <url>
@@ -371,7 +363,11 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/coenoclin/</loc>
+    <loc>https://open-archaeo.info/post/coenocliner/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/categories/command-line-tools/</loc>
   </url>
   
   <url>
@@ -395,7 +391,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/cuneipaint/</loc>
+    <loc>https://open-archaeo.info/post/cuneipainter/</loc>
   </url>
   
   <url>
@@ -408,6 +404,10 @@
   
   <url>
     <loc>https://open-archaeo.info/tags/data-wrangling/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/categories/datasets/</loc>
   </url>
   
   <url>
@@ -427,11 +427,11 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/tags/diagrams-and-visualizations/</loc>
+    <loc>https://open-archaeo.info/categories/desktop-apps/</loc>
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/digisite/</loc>
+    <loc>https://open-archaeo.info/tags/diagrams-and-visualizations/</loc>
   </url>
   
   <url>
@@ -451,7 +451,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/drac-calculat/</loc>
+    <loc>https://open-archaeo.info/post/drac-calculator/</loc>
   </url>
   
   <url>
@@ -463,7 +463,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/dronesurveyplann/</loc>
+    <loc>https://open-archaeo.info/post/dronesurveyplanner/</loc>
   </url>
   
   <url>
@@ -483,7 +483,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/ethnobotan/</loc>
+    <loc>https://open-archaeo.info/post/ethnobotanyr/</loc>
   </url>
   
   <url>
@@ -507,7 +507,11 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/fieldwal/</loc>
+    <loc>https://open-archaeo.info/post/fieldwalkr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/categories/filemaker/</loc>
   </url>
   
   <url>
@@ -516,10 +520,6 @@
   
   <url>
     <loc>https://open-archaeo.info/post/fix-exif-artist/</loc>
-  </url>
-  
-  <url>
-    <loc>https://open-archaeo.info/post/flirt/</loc>
   </url>
   
   <url>
@@ -536,6 +536,10 @@
   
   <url>
     <loc>https://open-archaeo.info/tags/games/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/categories/games/</loc>
   </url>
   
   <url>
@@ -579,7 +583,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/grainsiz/</loc>
+    <loc>https://open-archaeo.info/post/grainsizer/</loc>
   </url>
   
   <url>
@@ -588,10 +592,6 @@
   
   <url>
     <loc>https://open-archaeo.info/post/harris-matrix-semerj/</loc>
-  </url>
-  
-  <url>
-    <loc>https://open-archaeo.info/post/harris-matrix-stefano-costa/</loc>
   </url>
   
   <url>
@@ -639,7 +639,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/isht/</loc>
+    <loc>https://open-archaeo.info/post/ishtar/</loc>
   </url>
   
   <url>
@@ -683,7 +683,15 @@
   </url>
   
   <url>
+    <loc>https://open-archaeo.info/categories/lisp/</loc>
+  </url>
+  
+  <url>
     <loc>https://open-archaeo.info/tags/lists/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/categories/lists/</loc>
   </url>
   
   <url>
@@ -695,7 +703,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/lithic3dslic/</loc>
+    <loc>https://open-archaeo.info/post/lithic3dslicer/</loc>
   </url>
   
   <url>
@@ -707,10 +715,6 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/tags/logistics/</loc>
-  </url>
-  
-  <url>
     <loc>https://open-archaeo.info/tags/luminescence/</loc>
   </url>
   
@@ -719,7 +723,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/lumread/</loc>
+    <loc>https://open-archaeo.info/post/lumreader/</loc>
   </url>
   
   <url>
@@ -727,7 +731,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/maga/</loc>
+    <loc>https://open-archaeo.info/post/magaar/</loc>
   </url>
   
   <url>
@@ -751,7 +755,11 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/morta/</loc>
+    <loc>https://open-archaeo.info/categories/mobile-apps/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/post/mortaar/</loc>
   </url>
   
   <url>
@@ -803,15 +811,15 @@
   </url>
   
   <url>
+    <loc>https://open-archaeo.info/categories/odk/</loc>
+  </url>
+  
+  <url>
     <loc>https://open-archaeo.info/post/odk-forms-archaeology/</loc>
   </url>
   
   <url>
     <loc>https://open-archaeo.info/post/odkarchforms/</loc>
-  </url>
-  
-  <url>
-    <loc>https://open-archaeo.info/post/olpa/</loc>
   </url>
   
   <url>
@@ -859,7 +867,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/paleocor/</loc>
+    <loc>https://open-archaeo.info/post/paleocorer/</loc>
   </url>
   
   <url>
@@ -871,7 +879,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/patha/</loc>
+    <loc>https://open-archaeo.info/post/pathaar/</loc>
   </url>
   
   <url>
@@ -883,7 +891,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/photogrammetry-object-scannn/</loc>
+    <loc>https://open-archaeo.info/post/photogrammetry-object-scannner/</loc>
   </url>
   
   <url>
@@ -896,6 +904,10 @@
   
   <url>
     <loc>https://open-archaeo.info/post/plc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/categories/plugins/</loc>
   </url>
   
   <url>
@@ -927,11 +939,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/profilea/</loc>
-  </url>
-  
-  <url>
-    <loc>https://open-archaeo.info/post/projectmanagersdb/</loc>
+    <loc>https://open-archaeo.info/post/profileaar/</loc>
   </url>
   
   <url>
@@ -947,11 +955,19 @@
   </url>
   
   <url>
+    <loc>https://open-archaeo.info/categories/python/</loc>
+  </url>
+  
+  <url>
     <loc>https://open-archaeo.info/post/pyxrf/</loc>
   </url>
   
   <url>
     <loc>https://open-archaeo.info/post/qfield/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/categories/qgis/</loc>
   </url>
   
   <url>
@@ -971,7 +987,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/quanta/</loc>
+    <loc>https://open-archaeo.info/post/quantaar/</loc>
   </url>
   
   <url>
@@ -980,6 +996,10 @@
   
   <url>
     <loc>https://open-archaeo.info/post/quari/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/categories/r/</loc>
   </url>
   
   <url>
@@ -1015,7 +1035,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/recexcava/</loc>
+    <loc>https://open-archaeo.info/post/recexcavaar/</loc>
   </url>
   
   <url>
@@ -1023,7 +1043,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/rg/</loc>
+    <loc>https://open-archaeo.info/post/rgpr/</loc>
   </url>
   
   <url>
@@ -1071,11 +1091,11 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/rtibuild/</loc>
+    <loc>https://open-archaeo.info/post/rtibuilder/</loc>
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/rtiview/</loc>
+    <loc>https://open-archaeo.info/post/rtiviewer/</loc>
   </url>
   
   <url>
@@ -1087,6 +1107,10 @@
   </url>
   
   <url>
+    <loc>https://open-archaeo.info/categories/schemas/</loc>
+  </url>
+  
+  <url>
     <loc>https://open-archaeo.info/post/scikit-beam/</loc>
   </url>
   
@@ -1095,7 +1119,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/sdsbrows/</loc>
+    <loc>https://open-archaeo.info/post/sdsbrowser/</loc>
   </url>
   
   <url>
@@ -1107,7 +1131,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/shapa/</loc>
+    <loc>https://open-archaeo.info/post/shapaar/</loc>
   </url>
   
   <url>
@@ -1127,11 +1151,11 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/signboar/</loc>
+    <loc>https://open-archaeo.info/post/signboardr/</loc>
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/simple-browser-gis-collect/</loc>
+    <loc>https://open-archaeo.info/post/simple-browser-gis-collector/</loc>
   </url>
   
   <url>
@@ -1163,11 +1187,15 @@
   </url>
   
   <url>
+    <loc>https://open-archaeo.info/categories/spreadsheets/</loc>
+  </url>
+  
+  <url>
     <loc>https://open-archaeo.info/post/stratibase/</loc>
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/stratigrap/</loc>
+    <loc>https://open-archaeo.info/post/stratigraphr/</loc>
   </url>
   
   <url>
@@ -1199,7 +1227,7 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/tfq/</loc>
+    <loc>https://open-archaeo.info/post/tfqar/</loc>
   </url>
   
   <url>
@@ -1208,10 +1236,6 @@
   
   <url>
     <loc>https://open-archaeo.info/post/tidypaleo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://open-archaeo.info/post/time-recording-system/</loc>
   </url>
   
   <url>
@@ -1247,11 +1271,15 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/trenchdraw/</loc>
+    <loc>https://open-archaeo.info/post/trenchdrawer/</loc>
   </url>
   
   <url>
     <loc>https://open-archaeo.info/post/tridas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-archaeo.info/categories/tutorials/</loc>
   </url>
   
   <url>
@@ -1283,11 +1311,11 @@
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/vitu/</loc>
+    <loc>https://open-archaeo.info/post/vitutr/</loc>
   </url>
   
   <url>
-    <loc>https://open-archaeo.info/post/wittenhams-pottery-system/</loc>
+    <loc>https://open-archaeo.info/categories/web-apps/</loc>
   </url>
   
   <url>
@@ -1320,10 +1348,6 @@
   
   <url>
     <loc>https://open-archaeo.info/post/zooarchgui/</loc>
-  </url>
-  
-  <url>
-    <loc>https://open-archaeo.info/post/zooos/</loc>
   </url>
   
 </urlset>

@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/ahb108/rcarbon"
   },
   "authors": ["ahb108"],
+  "categories": ["R"],
   "tags": ["Instrumental analysis", "Radiocarbon"],
   "doi": null
 }

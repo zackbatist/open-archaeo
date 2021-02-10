@@ -5,6 +5,7 @@
     "Codeberg": "https://codeberg.org/steko/missing"
   },
   "authors": ["steko"],
+  "categories": ["?"],
   "tags": ["Bits and bobs"],
   "doi": null
 }

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desktop apps on open-archaeo</title>
+    <link>https://open-archaeo.info/categories/desktop-apps/</link>
+    <description>Recent content in Desktop apps on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/categories/desktop-apps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIS</title>
+      <link>https://open-archaeo.info/post/ais/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/ais/</guid>
+      <description>Archaeological Information System</description>
+    </item>
+    
+    <item>
+      <title>ArkScan</title>
+      <link>https://open-archaeo.info/post/arkscan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/arkscan/</guid>
+      <description>A simple gui app to simplify scanning single context plans.</description>
+    </item>
+    
+    <item>
+      <title>CharTool</title>
+      <link>https://open-archaeo.info/post/chartool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/chartool/</guid>
+      <description>CharTool is a macro tool for quantifying charcoal particles for paleoecological research applications.</description>
+    </item>
+    
+    <item>
+      <title>cherish</title>
+      <link>https://open-archaeo.info/post/cherish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/cherish/</guid>
+      <description>Cherish is a tool that aids archaeologists and designers to represent historical, urban and archaeological structures and sites in 3D by means of image manipulation and sketching. Combine disparate data types such as photographs, illustrations, diagrams, text annotations, point cloud representation, etc, into a comprehensive 3D space, to make 3D sense of the data.</description>
+    </item>
+    
+    <item>
+      <title>cherish-installer</title>
+      <link>https://open-archaeo.info/post/cherish-installer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/cherish-installer/</guid>
+      <description>Installer files for Cherish software.</description>
+    </item>
+    
+    <item>
+      <title>chronomodel</title>
+      <link>https://open-archaeo.info/post/chronomodel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/chronomodel/</guid>
+      <description>Chronological Modelling of Archaeological Data using Bayesian Statistics.</description>
+    </item>
+    
+    <item>
+      <title>Crossbones</title>
+      <link>https://open-archaeo.info/post/crossbones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/crossbones/</guid>
+      <description>Crossbones autogenerates 3D schematic skeletons, making rapid surveying and visualisation of dense skeletal assemblages a snap.</description>
+    </item>
+    
+    <item>
+      <title>E5</title>
+      <link>https://open-archaeo.info/post/e5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/e5/</guid>
+      <description>E5 is a generalized data entry program intended for archaeologists that works with a configuration file where the data entry fields are defined</description>
+    </item>
+    
+    <item>
+      <title>RTIBuilder</title>
+      <link>https://open-archaeo.info/post/rtibuilder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rtibuilder/</guid>
+      <description>A software interface to a set of tools that process your captured image set to produce the final RTI files. The RTIBuilder download includes the Hemispherical Harmonics (HSH) fitter to create .rti files.</description>
+    </item>
+    
+    <item>
+      <title>RTIViewer</title>
+      <link>https://open-archaeo.info/post/rtiviewer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rtiviewer/</guid>
+      <description>Enables you to view and explore Reflectance Transformation Imaging (RTI) files at very high resolution (Polynomial Texture Maps, Hemispherical Harmonics Map, and Multiview RTI). You can view image files stored on your local file system, and remote files through HTTP.</description>
+    </item>
+    
+    <item>
+      <title>totalopenstation</title>
+      <link>https://open-archaeo.info/post/totalopenstation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/totalopenstation/</guid>
+      <description>Total Open Station downloads and exports survey data from your total station</description>
+    </item>
+    
+  </channel>
+</rss>

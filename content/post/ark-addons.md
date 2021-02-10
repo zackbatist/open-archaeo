@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/fradeve/ark-addons"
   },
   "authors": ["fradeve"],
+  "categories": ["Web apps"],
   "tags": ["Data collection and management"],
   "doi": null
 }

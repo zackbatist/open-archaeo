@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/demjanp/clustering_14C"
   },
   "authors": ["demjanp"],
+  "categories": ["Python"],
   "tags": ["Instrumental analysis", "Radiocarbon"],
   "doi": null
 }

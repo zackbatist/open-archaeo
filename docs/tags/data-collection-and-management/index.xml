@@ -88,15 +88,6 @@
     </item>
     
     <item>
-      <title>Digisite</title>
-      <link>https://open-archaeo.info/post/digisite/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/digisite/</guid>
-      <description>Digisite is a database system and graphical user interface designed for context recording on archaeological sites using mobile devices</description>
-    </item>
-    
-    <item>
       <title>E5</title>
       <link>https://open-archaeo.info/post/e5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -125,10 +116,10 @@
     
     <item>
       <title>ishtar</title>
-      <link>https://open-archaeo.info/post/isht/</link>
+      <link>https://open-archaeo.info/post/ishtar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/isht/</guid>
+      <guid>https://open-archaeo.info/post/ishtar/</guid>
       <description>Ishtar is a database project for managing archaeological data and documentation from archaeological operations, that prioritizes maximum traceability of the information. Designed to enable inter-database communication, the Ishtar project aims rather to a distributed information model than a centralized one: communication between the databases is favored.</description>
     </item>
     
@@ -151,20 +142,11 @@
     </item>
     
     <item>
-      <title>OLPA</title>
-      <link>https://open-archaeo.info/post/olpa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/olpa/</guid>
-      <description>To develop software for use in archaeological recording in the field (or town!) with a focus on iterative approaches and collaboration. Utilises hardware frightening similar to that developed by the One Laptop Per Child project</description>
-    </item>
-    
-    <item>
       <title>profileAAR</title>
-      <link>https://open-archaeo.info/post/profilea/</link>
+      <link>https://open-archaeo.info/post/profileaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/profilea/</guid>
+      <guid>https://open-archaeo.info/post/profileaar/</guid>
       <description>python qgis plugin of recexcavAAR&amp;rsquo;s archprofile</description>
     </item>
     
@@ -202,15 +184,6 @@
       
       <guid>https://open-archaeo.info/post/tidypaleo/</guid>
       <description>This package simplifies a few workflows when working with multi-proxy paleo-archive data</description>
-    </item>
-    
-    <item>
-      <title>Wittenhams Pottery System</title>
-      <link>https://open-archaeo.info/post/wittenhams-pottery-system/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/wittenhams-pottery-system/</guid>
-      <description>This application provides a database and an interface for adding, modifying and searching for pottery shards. Adding a shard is done via a tree-like interface for providing the system with all the exact particularities of the ornaments found on the shard, so that an expert could make an idea of what that shard looks like just by looking at the data and not the image. The interface provides a way to search for shards with the same description (pot zone, pattern type, method, inlay, design, etc)</description>
     </item>
     
   </channel>

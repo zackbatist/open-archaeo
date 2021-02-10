@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/mpeeples2008/Ceramic-Frequency-Date-Plot"
   },
   "authors": ["mpeeples2008"],
+  "categories": ["R"],
   "tags": ["Diagrams and visualizations"],
   "doi": null
 }

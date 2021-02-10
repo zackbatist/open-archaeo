@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/benmarwick/evoarchdata"
   },
   "authors": ["benmarwick"],
+  "categories": ["R"],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }

@@ -35,15 +35,6 @@
     
     <item>
       <title>harris-matrix</title>
-      <link>https://open-archaeo.info/post/harris-matrix-stefano-costa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/harris-matrix-stefano-costa/</guid>
-      <description>Create a Harris Matrix from archaeological stratigraphy data using Python and Graphviz.</description>
-    </item>
-    
-    <item>
-      <title>harris-matrix</title>
       <link>https://open-archaeo.info/post/harris-matrix-tsdye/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

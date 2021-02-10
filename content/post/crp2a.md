@@ -6,6 +6,7 @@
     "Website": "https://gamma.archaeo.science/"
   },
   "authors": ["gamma"],
+  "categories": ["R"],
   "tags": ["Instrumental analysis", "Luminescence"],
   "doi": null
 }

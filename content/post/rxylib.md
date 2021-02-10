@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/R-Lum/rxylib"
   },
   "authors": ["R-Lum"],
+  "categories": ["R"],
   "tags": ["Instrumental analysis", "Luminescence"],
   "doi": null
 }

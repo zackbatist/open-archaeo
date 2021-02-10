@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/joeroe/rintchron"
   },
   "authors": ["joeroe"],
+  "categories": ["R"],
   "tags": ["Radiocarbon", "API interfaces, scrapers and datasets"],
   "doi": null
 }

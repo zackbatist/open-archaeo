@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/demjanp/Res14C"
   },
   "authors": ["demjanp"],
+  "categories": ["Python"],
   "tags": ["Radiocarbon"],
   "doi": null
 }

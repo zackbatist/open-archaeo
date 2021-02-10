@@ -6,6 +6,7 @@
     "Website": "https://archca.github.io/pred_map_tut/index.html"
   },
   "authors": ["archca"],
+  "categories": ["Tutorials"],
   "tags": ["Educational resources and practical guides"],
   "doi": null
 }

@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/isaacullah/GIS-Projects"
   },
   "authors": ["isaacullah"],
+  "categories": ["Tutorials"],
   "tags": ["Educational resources and practical guides"],
   "doi": null
 }

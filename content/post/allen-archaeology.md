@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/tsdye/allen.archaeology"
   },
   "authors": ["tsdye"],
+  "categories": ["R"],
   "tags": ["Quantitative and statistical analysis"],
   "doi": null
 }

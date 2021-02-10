@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/lparchaeology/harris2graph/"
   },
   "authors": ["L-P Archaeology"],
+  "categories": ["Python"],
   "tags": ["Harrix matrix"],
   "doi": null
 }

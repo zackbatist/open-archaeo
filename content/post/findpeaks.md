@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/stas-g/findPeaks"
   },
   "authors": ["stas-g"],
+  "categories": ["R"],
   "tags": ["Bits and bobs"],
   "doi": null
 }

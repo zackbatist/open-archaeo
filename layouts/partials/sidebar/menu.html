@@ -27,11 +27,26 @@
 	</ul>
 </section>
 	
+<!-- categories -->
+<div class="sidebar-taxonomy">
+    <h2>Categories</h2>
+	<ul class="sidebar-nav">
+    {{ range .Site.Taxonomies.categories }}
+        <li>
+            <a href="{{ .Page.Permalink }}" title="Entries in category '{{ .Page.Title }}'" class="badge">{{ .Page.Title | upper }}&nbsp;<span class="taxonomy-count post__meta">({{ .Count }})</span></a>
+        </li>
+    {{ end }}
+    </ul>
+</div>
+
 <!-- tags -->
-<section class="sidebar-tags">
-	<ul>
+<div class="sidebar-taxonomy">
+    <h2>Tags</h2>
+	<ul class="sidebar-nav">
 	{{ range .Site.Taxonomies.tags }}
-  	<a href="{{ .Page.Permalink }}" class="badge">{{ .Page.Title }}</a>
-  {{ end }}
-  </ul>
-</section>
+        <li>
+            <a href="{{ .Page.Permalink }}" title="Entries tagged '{{ .Page.Title }}'" class="badge">{{ .Page.Title }}&nbsp;<span class="taxonomy-count post__meta">({{ .Count }})</span></a>
+        </li>
+    {{ end }}
+    </ul>
+</div>

@@ -2,9 +2,10 @@
   "title": "ArchaeoChron",
   "description": ["Bayesian Modeling of Archaeological Chronologies."],
   "links": {
-    "GitHub": "https://github.com/ArchaeoStat/ArchaeoPhases"
+    "GitHub": "https://github.com/ArchaeoStat/ArchaeoChron"
   },
   "authors": ["ArchaeoStat"],
+  "categories": ["R"],
   "tags": ["Chronological modelling"],
   "doi": null
 }

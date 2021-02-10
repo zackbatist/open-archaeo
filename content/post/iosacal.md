@@ -7,6 +7,7 @@
     "Website": "http://c14.iosa.it/"
   },
   "authors": ["iosa"],
+  "categories": ["Python"],
   "tags": ["Instrumental analysis", "Radiocarbon"],
   "doi": null
 }

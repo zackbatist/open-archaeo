@@ -5,6 +5,7 @@
     "GitHub": "https://github.com/sfsheath/roman-amphitheaters"
   },
   "authors": ["sfsheath"],
+  "categories": ["Datasets"],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null
 }
