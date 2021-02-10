@@ -2,7 +2,7 @@
   "title": "aoristAAR",
   "description": ["A R package for the aoristic analysis of archaeological data."],
   "links": {
-    "GitHub": "https://github.com/ISAAKiel/aoristAAR"
+    "GitHub": "https://github.com/davidcorton/archSeries"
   },
   "authors": ["ISAAKiel"],
   "categories": ["R"],

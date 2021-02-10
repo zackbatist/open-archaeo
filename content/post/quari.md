@@ -1,8 +1,8 @@
 {
-  "title": "FLiRT",
+  "title": "QuARI",
   "description": ["A database interface designed to facilitate the irregular, iterative, and non-linear workflows that are commonly employed in lithic analysis."],
   "links": {
-    "GitHub": "https://github.com/zackbatist/FLIRT"
+    "GitHub": "https://github.com/zackbatist/QuARI"
   },
   "authors": ["Zack Batist", "Dan Contreras", "Ciara Zogheib"],
   "categories": ["Web apps"],

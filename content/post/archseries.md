@@ -2,7 +2,7 @@
   "title": "archSeries",
   "description": ["Frequency time-series tools for archaeology."],
   "links": {
-    "GitHub": "https://github.com/davidcorton/archSeries"
+    "GitHub": "https://github.com/joeroe/stratigraphr"
   },
   "authors": ["davidcorton"],
   "categories": ["R"],

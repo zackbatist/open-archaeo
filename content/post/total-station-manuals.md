@@ -2,7 +2,7 @@
   "title": "total-station-manuals",
   "description": ["Manuals for total stations"],
   "links": {
-    "GitHub": "https://github.com/steko/total-station-manuals"
+    "Codeberg": "https://codeberg.org/steko/total-station-manuals"
   },
   "authors": ["steko"],
   "categories": ["Tutorials"],

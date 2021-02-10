@@ -2,6 +2,7 @@
   "title": "Le Stratifiant",
   "description": ["Application for creating stratigraphic diagrams and checking the consistency of the chronostratigraphic recording."],
   "links": {
+    "GitHub": "https://github.com/Chronomodel/chronomodel",
     "Website": "https://abp.hypotheses.org/3965"
   },
   "authors": ["Bruno Desachy"],

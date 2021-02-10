@@ -2,8 +2,7 @@
   "title": "murature",
   "description": ["This Python library was written as an help for the study of stone walls, mainly through the quantitative analysis of spatial dimensions of stones."],
   "links": {
-    "GitLab": "https://gitlab.com/iosa/murature",
-    "BitBucket": "https://bitbucket.org/steko/murature/src/default/"
+    "Codeberg": "https://codeberg.org/steko/murature"
   },
   "authors": ["Stefano Costa", "iosa"],
   "categories": ["Python"],

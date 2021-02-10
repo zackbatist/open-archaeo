@@ -2,9 +2,7 @@
   "title": "harris2graph",
   "description": ["harris2graph is a script to help migrate data from the LST file format used by the BASP Harris, Stratify and ArchEd packages into modern graph file formats."],
   "links": {
-    "GitHub": "https://github.com/lparchaeology/harris2graph/",
-    "GitLab": "https://gitlab.com/iosa/harris-matrix",
-    "BitBucket": "https://bitbucket.org/steko/harris/src/default/"
+    "GitHub": "https://github.com/lparchaeology/harris2graph/"
   },
   "authors": ["L-P Archaeology"],
   "categories": ["Python"],

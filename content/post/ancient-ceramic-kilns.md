@@ -2,7 +2,7 @@
   "title": "ancient-ceramic-kilns",
   "description": ["GeoJSON files for ceramic kilns of the ancient world, no chronological/spatial boundaries"],
   "links": {
-    "GitHub": "https://github.com/steko/ancient-ceramic-kilns"
+    "Codeberg": "https://codeberg.org/steko/ancient-ceramic-kilns"
   },
   "authors": ["steko"],
   "categories": ["Datasets"],

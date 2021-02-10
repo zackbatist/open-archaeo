@@ -2,7 +2,7 @@
   "title": "radiocarbon-scrapers",
   "description": ["Scrapers for public radiocarbon databases"],
   "links": {
-    "GitHub": "https://github.com/steko/radiocarbon-scrapers"
+    "Codeberg": "https://codeberg.org/steko/radiocarbon-scrapers"
   },
   "authors": ["steko"],
   "categories": ["R"],

@@ -2,8 +2,8 @@
   "title": "tipom",
   "description": ["TIPOM is based on a methodology that was developed in the 1960s by Bernardino Bagolini. The basic idea is to use the three simple dimensions of length, width and thickness of each lithic artefact to classify them in discrete groups and infer their function."],
   "links": {
-    "BitBucket": "https://bitbucket.org/iosa/tipom",
-    "CRAN": "https://cran.r-project.org/web/packages/tipom/index.html"
+    "CRAN": "https://cran.r-project.org/web/packages/tipom/index.html",
+    "Codeberg": "https://codeberg.org/steko/tipom"
   },
   "authors": ["iosa"],
   "categories": ["R"],

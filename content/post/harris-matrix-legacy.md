@@ -1,7 +1,10 @@
 {
-  "title": "harris-matrix",
+  "title": "Harris-matrix-legacy",
   "description": ["Create a Harris Matrix from archaeological stratigraphy data using Python and Graphviz."],
-  "links": {},
+  "links": {
+    "blog post": "https://codeberg.org/steko/harris-matrix-legacy",
+    "Website": "https://www.iosa.it/2008/08/27/harris-matrix-with-graphviz-a-draft-application-with-python/"
+  },
   "authors": ["Stefano Costa", "iosa"],
   "categories": ["Python"],
   "tags": ["Harrix matrix"],

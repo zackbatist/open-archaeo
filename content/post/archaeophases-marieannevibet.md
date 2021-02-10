@@ -2,7 +2,6 @@
   "title": "ArchaeoPhases",
   "description": ["Post-Processing of the Markov Chain Simulated by 'ChronoModel', 'Oxcal' or 'BCal'."],
   "links": {
-    "GitHub": "https://github.com/marieannevibet/ArchaeoPhases",
     "CRAN": "https://cran.r-project.org/web/packages/ArchaeoPhases/index.html"
   },
   "authors": ["marieannevibet"],

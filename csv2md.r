@@ -27,9 +27,11 @@ open_archaeo %>%
       BitBucket = bitbucket,
       Launchpad = launchpad,
       Twitter = twitter,
+      YouTube = youtube,
       `blog post` = blogpost,
       CRAN = cran,
       PyPi = pypi,
+      Codeberg = codeberg,
       Website = website,
       Publication = publication
     ))),
@@ -47,4 +49,5 @@ open_archaeo %>%
   rename(title = item_name) %>% 
   pmap(generate_post_md, path = "content/post/") %>% 
   invisible()
+
 
