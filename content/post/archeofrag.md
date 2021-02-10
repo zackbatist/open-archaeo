@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/sebastien-plutniak/archeofrag"
   },
   "authors": ["sebastien-plutniak"],
-  "categories": [null],
+  "categories": ["R"],
   "tags": ["Chronological modelling", "Harrix matrix"],
   "doi": null
 }

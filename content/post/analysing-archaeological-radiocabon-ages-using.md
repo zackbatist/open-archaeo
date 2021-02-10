@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/benmarwick/Analysing-Archaeological-Radiocabon-Ages-Using-R"
   },
   "authors": ["benmarwick"],
-  "categories": [null],
+  "categories": ["Tutorials"],
   "tags": ["Instrumental analysis", "Radiocarbon", "Educational resources and practical guides"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/maxibor/coproID"
   },
   "authors": ["maxibor"],
-  "categories": [null],
+  "categories": ["Command line tools"],
   "tags": ["Palaeoenvironment and palaeobotany"],
   "doi": null
 }

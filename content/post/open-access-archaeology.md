@@ -6,7 +6,7 @@
     "Website": "http://www.openaccessarchaeology.org/"
   },
   "authors": ["Doug Rocks-Macqueen", "Lorna Richardson", "Emma O'Riordan", "Katrina Urban"],
-  "categories": [null],
+  "categories": ["Lists"],
   "tags": ["Lists"],
   "doi": null
 }

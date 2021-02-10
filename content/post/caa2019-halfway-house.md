@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/joeroe/caa2019_halfway_house"
   },
   "authors": ["joeroe"],
-  "categories": [null],
+  "categories": ["Tutorials"],
   "tags": ["Other"],
   "doi": null
 }

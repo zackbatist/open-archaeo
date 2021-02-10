@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/nfrerebeau/arkhe"
   },
   "authors": ["nfrerebeau"],
-  "categories": [null],
+  "categories": ["R"],
   "tags": ["Schema, ontologies and templates"],
   "doi": null
 }

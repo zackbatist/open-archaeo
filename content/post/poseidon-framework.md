@@ -6,7 +6,7 @@
     "Website": "https://poseidon-framework.github.io/"
   },
   "authors": ["Poseidon Framework"],
-  "categories": [null],
+  "categories": ["?"],
   "tags": ["Schema, ontologies and templates"],
   "doi": null
 }

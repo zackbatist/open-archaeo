@@ -6,7 +6,7 @@
     "Website": "https://zackbatist.github.io/open-archaeo/"
   },
   "authors": ["zackbatist"],
-  "categories": [null],
+  "categories": ["Lists"],
   "tags": ["Lists"],
   "doi": null
 }

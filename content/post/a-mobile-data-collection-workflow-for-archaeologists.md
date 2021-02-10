@@ -5,7 +5,7 @@
     "blog post": "http://isaacullah.github.io/A-mobile-field-data-collection-workflow/"
   },
   "authors": ["isaacullah"],
-  "categories": [null],
+  "categories": ["Tutorials"],
   "tags": ["Educational resources and practical guides"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/benmarwick/dayofarchaeology"
   },
   "authors": ["benmarwick"],
-  "categories": [null],
+  "categories": ["Analyses"],
   "tags": ["Public archaeology"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ajupton/LA_ICP_MS-Routines_FMNH"
   },
   "authors": ["ajupton"],
-  "categories": [null],
+  "categories": ["R"],
   "tags": ["Educational resources and practical guides"],
   "doi": null
 }

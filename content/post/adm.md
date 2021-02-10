@@ -6,7 +6,7 @@
     "Publication": "https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0723"
   },
   "authors": ["Adrian Timpson", "Ramiro Barberena", "Mark G. Thomas", "César Méndez", "Katie Manning"],
-  "categories": [null],
+  "categories": ["R"],
   "tags": ["Chronological modelling"],
   "doi": "10.1098/rstb.2019.0723"
 }

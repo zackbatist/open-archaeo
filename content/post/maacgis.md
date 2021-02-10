@@ -6,7 +6,7 @@
     "Website": "https://aejolene.github.io/maacgis/"
   },
   "authors": ["aejolene"],
-  "categories": [null],
+  "categories": ["Analyses"],
   "tags": ["Public policy and civic action"],
   "doi": null
 }

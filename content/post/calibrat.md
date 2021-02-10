@@ -6,7 +6,7 @@
     "Website": "https://isaakiel.github.io/calibrator/"
   },
   "authors": ["ISAAKiel"],
-  "categories": [null],
+  "categories": ["Command line tools"],
   "tags": ["Instrumental analysis", "Radiocarbon"],
   "doi": null
 }

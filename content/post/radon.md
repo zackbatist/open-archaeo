@@ -6,7 +6,7 @@
     "Website": "https://radon.ufg.uni-kiel.de/"
   },
   "authors": ["ISAAKiel"],
-  "categories": [null],
+  "categories": ["Web apps"],
   "tags": ["Instrumental analysis", "Radiocarbon"],
   "doi": null
 }

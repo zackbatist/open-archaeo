@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/anatolian/anatolia-bibliography-map"
   },
   "authors": ["anatolian"],
-  "categories": [null],
+  "categories": ["Web apps"],
   "tags": ["Writing"],
   "doi": null
 }

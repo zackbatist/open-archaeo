@@ -6,7 +6,7 @@
     "blog post": "https://electricarchaeology.ca/2020/05/01/archstopmo-the-2020-edition/"
   },
   "authors": ["shawngraham"],
-  "categories": [null],
+  "categories": ["?"],
   "tags": ["Communication and outreach"],
   "doi": null
 }

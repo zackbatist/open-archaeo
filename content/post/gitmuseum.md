@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/BritishMuseum/gitMuseum"
   },
   "authors": ["BritishMuseum"],
-  "categories": [null],
+  "categories": ["Lists"],
   "tags": ["Lists"],
   "doi": null
 }
