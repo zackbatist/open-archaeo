@@ -8,7 +8,7 @@ cnotna <- function(...) {
 clean_slug <- function(x) {
   x %>% 
     tolower() %>% 
-    str_remove(".r$") %>% 
+    str_remove("\\.r$") %>% 
     str_replace_all(" ", "-") %>% 
     str_replace_all("_", "-") %>% 
     str_replace_all(coll("."), "-") %>% 
