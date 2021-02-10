@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Platforms and publications on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/platforms-and-publications/</link>
+    <description>Recent content in Platforms and publications on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/platforms-and-publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>archaeological-object-sharing</title>
+      <link>https://open-archaeo.info/post/archaeological-object-sharing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeological-object-sharing/</guid>
+      <description>An online space for sharing data, 3d models, etc about archaeological objects to enable the comparison of these objects</description>
+    </item>
+    
+    <item>
+      <title>Open Context Python Code Repository</title>
+      <link>https://open-archaeo.info/post/open-context-python-code-repository/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/open-context-python-code-repository/</guid>
+      <description>This project represents the current evolution of Open Context. It&amp;rsquo;s intended to be an easier to maintain code-base, and to make the data published by Open Context easier to maintain.</description>
+    </item>
+    
+    <item>
+      <title>paleocore</title>
+      <link>https://open-archaeo.info/post/paleocore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/paleocore/</guid>
+      <description>Towards a data standard for paleoanthropology</description>
+    </item>
+    
+    <item>
+      <title>rekrei</title>
+      <link>https://open-archaeo.info/post/rekrei/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rekrei/</guid>
+      <description>Platform for crowdsourcing the digital recreation of lost heritage</description>
+    </item>
+    
+    <item>
+      <title>svg-pottery-catalogo</title>
+      <link>https://open-archaeo.info/post/svg-pottery-catalogo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/svg-pottery-catalogo/</guid>
+      <description>A simple program that generates a catalogue of your pottery drawings ready for the Web</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instrumental analysis on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/instrumental-analysis/</link>
+    <description>Recent content in Instrumental analysis on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/instrumental-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Al2O3_AnalysisApp</title>
+      <link>https://open-archaeo.info/post/al2o3-analysisapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/al2o3-analysisapp/</guid>
+      <description>Shiny app to analyse Al2O3:C measurements</description>
+    </item>
+    
+    <item>
+      <title>Analysing-Archaeological-Radiocabon-Ages-Using-R</title>
+      <link>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using-r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using-r/</guid>
+      <description>Practice some techniques for analysing archaeological radiocabon ages using R</description>
+    </item>
+    
+    <item>
+      <title>BayLum</title>
+      <link>https://open-archaeo.info/post/baylum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/baylum/</guid>
+      <description>An R package for chronological Bayesian models integrated for Optically Stimulated OSL, Luminescence Dating</description>
+    </item>
+    
+    <item>
+      <title>Bchron</title>
+      <link>https://open-archaeo.info/post/bchron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/bchron/</guid>
+      <description>Radiocarbon Dating, Age-Depth Modelling, Relative Sea Level Rate Estimation, and Non-Parametric Phase Modelling</description>
+    </item>
+    
+    <item>
+      <title>calibrator</title>
+      <link>https://open-archaeo.info/post/calibrator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/calibrator/</guid>
+      <description>Small command line tool for 14C calibration</description>
+    </item>
+    
+    <item>
+      <title>carbon14</title>
+      <link>https://open-archaeo.info/post/carbon14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/carbon14/</guid>
+      <description>The goal of carbon14 is to provide a tidy interface to radiocarbon dating, to promote its inclusion in reproducible manuscripts</description>
+    </item>
+    
+    <item>
+      <title>CloudCal</title>
+      <link>https://open-archaeo.info/post/cloudcal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/cloudcal/</guid>
+      <description>This app will allow you to build &amp;amp; apply calibrations for the Tracer &amp;amp; Artax series of XRF devices</description>
+    </item>
+    
+    <item>
+      <title>clustering_14C</title>
+      <link>https://open-archaeo.info/post/clustering-14c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/clustering-14c/</guid>
+      <description>A python implementation of the method of clustering radiocarbon dates in order to determine whether they represent separate events, or phases in time</description>
+    </item>
+    
+    <item>
+      <title>crp2a</title>
+      <link>https://open-archaeo.info/post/crp2a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/crp2a/</guid>
+      <description>Dose Rate Estimation from In-Situ Gamma-Ray Spectrometry Measurements for Luminescence Dating</description>
+    </item>
+    
+    <item>
+      <title>DRAC-calculator</title>
+      <link>https://open-archaeo.info/post/drac-calculator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/drac-calculator/</guid>
+      <description>DRAC is a Dose Rate and Age Calculator which has been designed to calculate environmental dose rates (_) and ages for trapped charge dating applications</description>
+    </item>
+    
+    <item>
+      <title>IOSACal</title>
+      <link>https://open-archaeo.info/post/iosacal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/iosacal/</guid>
+      <description>IOSACal is an open source tool for radiocarbon calibration</description>
+    </item>
+    
+    <item>
+      <title>Luminescence</title>
+      <link>https://open-archaeo.info/post/luminescence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/luminescence/</guid>
+      <description>Development version of the R package &amp;lsquo;Luminescence&amp;rsquo;. The R package &amp;lsquo;Luminescence&amp;rsquo; by the R-Luminescence Group provides a collection of various R functions for luminescence dating data analysis.</description>
+    </item>
+    
+    <item>
+      <title>LumReader</title>
+      <link>https://open-archaeo.info/post/lumreader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/lumreader/</guid>
+      <description>R package to simulate a Luminescence Reader</description>
+    </item>
+    
+    <item>
+      <title>magAAR</title>
+      <link>https://open-archaeo.info/post/magaar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/magaar/</guid>
+      <description>Analyse geomagnetic data from archaeological context</description>
+    </item>
+    
+    <item>
+      <title>NAA analytical dashboard</title>
+      <link>https://open-archaeo.info/post/naa-analytical-dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/naa-analytical-dashboard/</guid>
+      <description>Analytical Dashboard for conducting various analysis to group and assess groupings for Neutron Activation Analytical chemical compositional data</description>
+    </item>
+    
+    <item>
+      <title>osl_calibration.r</title>
+      <link>https://open-archaeo.info/post/osl-calibration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/osl-calibration/</guid>
+      <description>osl_calibration</description>
+    </item>
+    
+    <item>
+      <title>paleoxrf</title>
+      <link>https://open-archaeo.info/post/paleoxrf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/paleoxrf/</guid>
+      <description>The goal of paleoxrf is to simplify reading data from Acadia&amp;rsquo;s paleoenvironmental X-Ray Fluorescence laboratory</description>
+    </item>
+    
+    <item>
+      <title>PyXRF</title>
+      <link>https://open-archaeo.info/post/pyxrf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pyxrf/</guid>
+      <description>PyXRF is a python-based sophisticated fluorescence analysis package for fitting and visualizing X-ray fluorescence data</description>
+    </item>
+    
+    <item>
+      <title>radon</title>
+      <link>https://open-archaeo.info/post/radon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/radon/</guid>
+      <description>Backend for one of the largest 14C-Database online.</description>
+    </item>
+    
+    <item>
+      <title>Rcarb</title>
+      <link>https://open-archaeo.info/post/rcarb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rcarb/</guid>
+      <description>The R package &amp;lsquo;RCarb&amp;rsquo; provides a collection of various R functions to model dose rates in carbonate-rich samples. The package is a translation of the &amp;lsquo;MATLAB&amp;rsquo; program Carb by Roger P. Nathan</description>
+    </item>
+    
+    <item>
+      <title>rcarbon</title>
+      <link>https://open-archaeo.info/post/rcarbon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rcarbon/</guid>
+      <description>Methods for calibrating and analysing radiocarbon dates</description>
+    </item>
+    
+    <item>
+      <title>RGPR</title>
+      <link>https://open-archaeo.info/post/rgpr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rgpr/</guid>
+      <description>RGPR is a free and open-source software package to read, export, analyse, process and visualise ground-penetrating radar (GPR) data</description>
+    </item>
+    
+    <item>
+      <title>RLumModel</title>
+      <link>https://open-archaeo.info/post/rlummodel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rlummodel/</guid>
+      <description>Solving Ordinary Differential Equations to Understand Luminescence</description>
+    </item>
+    
+    <item>
+      <title>rxylib</title>
+      <link>https://open-archaeo.info/post/rxylib/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rxylib/</guid>
+      <description>R package: wrapper for the C+library xylib</description>
+    </item>
+    
+    <item>
+      <title>scikit-beam</title>
+      <link>https://open-archaeo.info/post/scikit-beam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/scikit-beam/</guid>
+      <description>Data analysis tools for X-Ray, Neutron and Electron sciences</description>
+    </item>
+    
+    <item>
+      <title>shiny_DRAC</title>
+      <link>https://open-archaeo.info/post/shiny-drac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/shiny-drac/</guid>
+      <description>graphical interface for DRAC</description>
+    </item>
+    
+    <item>
+      <title>shiny_Tldating</title>
+      <link>https://open-archaeo.info/post/shiny-tldating/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/shiny-tldating/</guid>
+      <description>Shiny app for TL dating</description>
+    </item>
+    
+    <item>
+      <title>Tldating</title>
+      <link>https://open-archaeo.info/post/tldating/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/tldating/</guid>
+      <description>R package for TL dating</description>
+    </item>
+    
+    <item>
+      <title>xraylib</title>
+      <link>https://open-archaeo.info/post/xraylib/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/xraylib/</guid>
+      <description>xraylib is a library containing over 40 functions to be used to retrieve data from some of the most respected databases of physical data in the field of X-ray</description>
+    </item>
+    
+    <item>
+      <title>xrf</title>
+      <link>https://open-archaeo.info/post/xrf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/xrf/</guid>
+      <description>The goal of xrf is to provide tools to read, plot, and interpret X-Ray fluorescence spectra</description>
+    </item>
+    
+    <item>
+      <title>xylib</title>
+      <link>https://open-archaeo.info/post/xylib/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/xylib/</guid>
+      <description>ylib is a portable library for reading files with x-y data from powder diffraction, spectroscopy, or other experimental methods</description>
+    </item>
+    
+  </channel>
+</rss>

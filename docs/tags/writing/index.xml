@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/writing/</link>
+    <description>Recent content in Writing on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>anatolia-bibliography-map</title>
+      <link>https://open-archaeo.info/post/anatolia-bibliography-map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/anatolia-bibliography-map/</guid>
+      <description>The goal of this project is to spatially locate bibliographic resources regarding the archaeology of Anatolia (modern Turkey). This takes the bibliography of archaeology to the next level by showing not only the topics and authors, but where the archaeological research is being done.</description>
+    </item>
+    
+  </channel>
+</rss>
