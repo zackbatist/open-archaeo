@@ -1,4 +1,8 @@
 /* Sidebar menu */
+.sidebar {
+    overflow-y: scroll;
+}
+
 .sidebar-taxonomy ul {
     display: flex;
     flex-flow: row wrap;
