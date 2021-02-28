@@ -1641,6 +1641,12 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
   * tags: [Zooarchaeology]
 ----
 
+* **zoolog**: manipulate log-ratios (also known as log size index (LSI) values) from measurements obtained on zooarchaeological material.
+  * by: josempozo
+  * links: [<a href='https://josempozo.github.io/zoolog/' target='_blank'>Website</a>]
+  * tags: [Zooarchaeology]
+----
+
 * **zooOS**: zooOS (pronounced Zeus) is an open source system for recording and analysing animal bones found during archaeological excavations.
   * by: Chris Puttick
   * links: [<a href='https://launchpad.net/zooos' target='_blank'>LaunchPad</a>]
