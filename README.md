@@ -813,6 +813,12 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
   * tags: [Data collection and management]
 ----
 
+* **iconr**: Set of formal methods for studying archaeological iconographic datasets (rock-art, pottery decoration, stelae, etc.) using network and spatial analysis.
+  * by: zoometh
+  * links: [<a href='https://github.com/zoometh/iconr#iconr-package--modeling-prehistoric-iconography-' target='_blank'>GitHub</a>]
+  * tags: [Iconography]
+----
+
 * **italy-3d-amphitheaters**: 3D amphitheatres.
   * by: sfsheath
   * links: [<a href='https://github.com/sfsheath/italy-3d-amphitheaters' target='_blank'>GitHub</a>]
