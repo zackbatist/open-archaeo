@@ -160,6 +160,15 @@
     </item>
     
     <item>
+      <title>Archaeo-Term</title>
+      <link>https://open-archaeo.info/post/archaeo-term/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeo-term/</guid>
+      <description>Multilingual glossary designed to enhance access to archaeological data.</description>
+    </item>
+    
+    <item>
       <title>ArchaeoChron</title>
       <link>https://open-archaeo.info/post/archaeochron/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -265,6 +274,15 @@
       
       <guid>https://open-archaeo.info/post/archaeophases-marieannevibet/</guid>
       <description>Post-Processing of the Markov Chain Simulated by &amp;lsquo;ChronoModel&amp;rsquo;, &amp;lsquo;Oxcal&amp;rsquo; or &amp;lsquo;BCal&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>ArchAIDE</title>
+      <link>https://open-archaeo.info/post/archaide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaide/</guid>
+      <description>Tool for the automatic recognition of archaeological pottery.</description>
     </item>
     
     <item>
@@ -1192,6 +1210,15 @@
       
       <guid>https://open-archaeo.info/post/historical-geocoding-assistant/</guid>
       <description>Tool for assisted geocoding of historical datasets (something between a manual table editing and automated geocoding script)</description>
+    </item>
+    
+    <item>
+      <title>HumanOS</title>
+      <link>https://open-archaeo.info/post/humanos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/humanos/</guid>
+      <description>A mobile application for the intuitive recording of human bones from archaeological sites.</description>
     </item>
     
     <item>
