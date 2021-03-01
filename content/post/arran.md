@@ -2,9 +2,7 @@
   "title": "Arran",
   "description": ["A benchmark dataset for automated detection of archaeological sites on LiDAR data"],
   "links": {
-    "GitHub": "https://github.com/ickramer/Arran",
-    "CRAN": "https://cran.r-project.org/",
-    "Website": "https://arkhe.archaeo.science/"
+    "GitHub": "https://github.com/ickramer/Arran"
   },
   "authors": ["ickramer"],
   "categories": ["Datasets"],
