@@ -106,6 +106,15 @@
     </item>
     
     <item>
+      <title>heurist</title>
+      <link>https://open-archaeo.info/post/heurist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/heurist/</guid>
+      <description>A web-based data management infrastructure that allows researchers to design, create, manage, analyse and publish their own richly-structured database(s) through a simple web interface, without the need for programmers or consultants.</description>
+    </item>
+    
+    <item>
       <title>historical-geocoding-assistant</title>
       <link>https://open-archaeo.info/post/historical-geocoding-assistant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

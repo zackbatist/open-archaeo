@@ -16,6 +16,15 @@
     </item>
     
     <item>
+      <title>3D-ORGAN</title>
+      <link>https://open-archaeo.info/post/3d-organ/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/3d-organ/</guid>
+      <description>3D reconstruction of incomplete archaeological objects using a generative adversarial network (GAN).</description>
+    </item>
+    
+    <item>
       <title>A Mobile Data-Collection Workflow for Archaeologists</title>
       <link>https://open-archaeo.info/post/a-mobile-data-collection-workflow-for-archaeologists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -121,6 +130,15 @@
       
       <guid>https://open-archaeo.info/post/ancientmetagenomedir/</guid>
       <description>Repository containing lists of all published ancient metagenome samples (and related)</description>
+    </item>
+    
+    <item>
+      <title>anthropmmd</title>
+      <link>https://open-archaeo.info/post/anthropmmd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/anthropmmd/</guid>
+      <description>An R package for Smith&amp;rsquo;s Mean Measure of Divergence (MMD), with a graphical user interface, facilities for trait selection and graphical representations.</description>
     </item>
     
     <item>
@@ -1159,12 +1177,30 @@
     </item>
     
     <item>
+      <title>heurist</title>
+      <link>https://open-archaeo.info/post/heurist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/heurist/</guid>
+      <description>A web-based data management infrastructure that allows researchers to design, create, manage, analyse and publish their own richly-structured database(s) through a simple web interface, without the need for programmers or consultants.</description>
+    </item>
+    
+    <item>
       <title>historical-geocoding-assistant</title>
       <link>https://open-archaeo.info/post/historical-geocoding-assistant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/historical-geocoding-assistant/</guid>
       <description>Tool for assisted geocoding of historical datasets (something between a manual table editing and automated geocoding script)</description>
+    </item>
+    
+    <item>
+      <title>iconr</title>
+      <link>https://open-archaeo.info/post/iconr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/iconr/</guid>
+      <description>Set of formal methods for studying archaeological iconographic datasets (rock-art, pottery decoration, stelae, etc.) using network and spatial analysis.</description>
     </item>
     
     <item>
@@ -1345,6 +1381,24 @@
       
       <guid>https://open-archaeo.info/post/map-files/</guid>
       <description>This page presents an ever growing collection of resources for digital mapping.</description>
+    </item>
+    
+    <item>
+      <title>map-of-Ancient-Egypt</title>
+      <link>https://open-archaeo.info/post/map-of-ancient-egypt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/map-of-ancient-egypt/</guid>
+      <description>Known pyramids of Ancient Egypt using python + OpenStreetMap.</description>
+    </item>
+    
+    <item>
+      <title>MAX</title>
+      <link>https://open-archaeo.info/post/max/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/max/</guid>
+      <description>An online tool for the comparative analysis of museum databases.</description>
     </item>
     
     <item>
@@ -1852,6 +1906,15 @@
     </item>
     
     <item>
+      <title>rdss</title>
+      <link>https://open-archaeo.info/post/rdss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rdss/</guid>
+      <description>An R package to facilitate the use of Murail et al.’s (1999) approach of sex estimation in past populations.</description>
+    </item>
+    
+    <item>
       <title>recexcavAAR</title>
       <link>https://open-archaeo.info/post/recexcavaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2356,6 +2419,15 @@
     </item>
     
     <item>
+      <title>unstruwwel</title>
+      <link>https://open-archaeo.info/post/unstruwwel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/unstruwwel/</guid>
+      <description>Detect and Parse Historic Dates in R.</description>
+    </item>
+    
+    <item>
       <title>vegan</title>
       <link>https://open-archaeo.info/post/vegan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2434,6 +2506,15 @@
       
       <guid>https://open-archaeo.info/post/zooarchgui/</guid>
       <description>The zooaRchGUI package provides a Graphical User Interface (GUI) to analytical tools for zooarchaeological data in the R package.</description>
+    </item>
+    
+    <item>
+      <title>zoolog</title>
+      <link>https://open-archaeo.info/post/zoolog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/zoolog/</guid>
+      <description>Manipulate log-ratios (also known as log size index (LSI) values) from measurements obtained on zooarchaeological material.</description>
     </item>
     
   </channel>

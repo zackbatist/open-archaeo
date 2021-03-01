@@ -34,6 +34,15 @@
     </item>
     
     <item>
+      <title>anthropmmd</title>
+      <link>https://open-archaeo.info/post/anthropmmd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/anthropmmd/</guid>
+      <description>An R package for Smith&amp;rsquo;s Mean Measure of Divergence (MMD), with a graphical user interface, facilities for trait selection and graphical representations.</description>
+    </item>
+    
+    <item>
       <title>aoristAAR</title>
       <link>https://open-archaeo.info/post/aoristaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -394,6 +403,15 @@
     </item>
     
     <item>
+      <title>iconr</title>
+      <link>https://open-archaeo.info/post/iconr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/iconr/</guid>
+      <description>Set of formal methods for studying archaeological iconographic datasets (rock-art, pottery decoration, stelae, etc.) using network and spatial analysis.</description>
+    </item>
+    
+    <item>
       <title>khroma</title>
       <link>https://open-archaeo.info/post/khroma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -718,6 +736,15 @@
     </item>
     
     <item>
+      <title>rdss</title>
+      <link>https://open-archaeo.info/post/rdss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rdss/</guid>
+      <description>An R package to facilitate the use of Murail et al.’s (1999) approach of sex estimation in past populations.</description>
+    </item>
+    
+    <item>
       <title>recexcavAAR</title>
       <link>https://open-archaeo.info/post/recexcavaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -916,6 +943,15 @@
     </item>
     
     <item>
+      <title>unstruwwel</title>
+      <link>https://open-archaeo.info/post/unstruwwel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/unstruwwel/</guid>
+      <description>Detect and Parse Historic Dates in R.</description>
+    </item>
+    
+    <item>
       <title>vegan</title>
       <link>https://open-archaeo.info/post/vegan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -958,6 +994,15 @@
       
       <guid>https://open-archaeo.info/post/zooarchgui/</guid>
       <description>The zooaRchGUI package provides a Graphical User Interface (GUI) to analytical tools for zooarchaeological data in the R package.</description>
+    </item>
+    
+    <item>
+      <title>zoolog</title>
+      <link>https://open-archaeo.info/post/zoolog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/zoolog/</guid>
+      <description>Manipulate log-ratios (also known as log size index (LSI) values) from measurements obtained on zooarchaeological material.</description>
     </item>
     
   </channel>

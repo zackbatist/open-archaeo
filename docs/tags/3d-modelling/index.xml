@@ -16,6 +16,15 @@
     </item>
     
     <item>
+      <title>3D-ORGAN</title>
+      <link>https://open-archaeo.info/post/3d-organ/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/3d-organ/</guid>
+      <description>3D reconstruction of incomplete archaeological objects using a generative adversarial network (GAN).</description>
+    </item>
+    
+    <item>
       <title>cherish</title>
       <link>https://open-archaeo.info/post/cherish/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
