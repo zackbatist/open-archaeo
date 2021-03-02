@@ -294,8 +294,6 @@ oxcAAR,A collection of functions that can be used to execute OxCal from within R
 cTransmission,"An Approximate Bayesian Computation Framework for inferring patterns of cultural transmission from frequency data
 ",https://github.com/ercrema/cTransmission,,,,,,,,,,,,,,ercrema,Anne Kandler,,,,R,Cultural evolution,,,,,
 PaleoView,A visualization tool for paleoclimatic modeling data.,https://github.com/GlobalEcologyLab/PaleoView,,,,,,,,,,,https://www.fordhamlab.com/climate-geography,https://doi.org/10.1111/ecog.03031,,seanhaythorne,,,,,Desktop apps,Palaeoenvironment and palaeobotany,,,,,
-anatolia-bibliography-map,"A web app and mapping interface for searching and displaying bibliographic information about Anatolian archaeology
-",https://github.com/anatolian/anatolia-bibliography-map,,,,,,,,,,,,,,anatolian,LydLyd,humaneu,msv4109,swapneelsheth,Web apps,Bibliography,,,,,
 nimbleCarbon,The nimbleCarbon package provides utility functions and bespoke probability distributions for the Bayesian analyses of radiocarbon dates using the NIMBLE framework. The package is particularly dedicated to demographic inferences based on changing frequencies of radiocarbon dates.,https://github.com/ercrema/nimbleCarbon,,,,,,,,,,,,,,ercrema,,,,,R,Radiocarbon,,,,,
 neiman1995,"R Shiny Document - Visualizing model functions in Neimans 'Stylistic variation in evolutionary perspective' with an interactive document
 ",https://github.com/nevrome/neiman1995,,,,,,,,,,,https://nevrome.shinyapps.io/neiman1995,,,nevrome,,,,,R,Educational resources and practical guides,Cultural evolution,,,,
