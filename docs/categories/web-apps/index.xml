@@ -97,6 +97,15 @@
     </item>
     
     <item>
+      <title>caddonet</title>
+      <link>https://open-archaeo.info/post/caddonet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/caddonet/</guid>
+      <description>Peer reviewed and indexed articles published on Caddo archaeology since 2000.</description>
+    </item>
+    
+    <item>
       <title>Ceramic_Dashboard</title>
       <link>https://open-archaeo.info/post/ceramic-dashboard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -169,6 +178,15 @@
     </item>
     
     <item>
+      <title>neolithicR</title>
+      <link>https://open-archaeo.info/post/neolithicr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/neolithicr/</guid>
+      <description>Shiny app to search and filter radiocarbon dates from various source databases, based on the R package c14bazAAR.</description>
+    </item>
+    
+    <item>
       <title>nervia</title>
       <link>https://open-archaeo.info/post/nervia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -184,6 +202,24 @@
       
       <guid>https://open-archaeo.info/post/open-context-python-code-repository/</guid>
       <description>This project represents the current evolution of Open Context. It&amp;rsquo;s intended to be an easier to maintain code-base, and to make the data published by Open Context easier to maintain.</description>
+    </item>
+    
+    <item>
+      <title>OpenAtlas</title>
+      <link>https://open-archaeo.info/post/openatlas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/openatlas/</guid>
+      <description>An open source, web based database system for complex archaeological, historical and geospatial data.</description>
+    </item>
+    
+    <item>
+      <title>outliner</title>
+      <link>https://open-archaeo.info/post/outliner-benmarwick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/outliner-benmarwick/</guid>
+      <description>A simple app for tracing outlines of an irregular shape and exporting the coordinates of the outline.</description>
     </item>
     
     <item>
@@ -247,6 +283,24 @@
       
       <guid>https://open-archaeo.info/post/sipontomedievale/</guid>
       <description>This repo contains the code for an interactive website created to illustrate historical background, findings and data of the Siponto excavation site (Manfredonia, Italy)</description>
+    </item>
+    
+    <item>
+      <title>strativerse</title>
+      <link>https://open-archaeo.info/post/strativerse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/strativerse/</guid>
+      <description>A collection of time-stratigraphic publications.</description>
+    </item>
+    
+    <item>
+      <title>THANADOS</title>
+      <link>https://open-archaeo.info/post/thanados/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/thanados/</guid>
+      <description>An open source, web application for the presentation of archaeological data especially for burial studies.</description>
     </item>
     
     <item>

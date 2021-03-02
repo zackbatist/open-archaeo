@@ -70,6 +70,24 @@
     </item>
     
     <item>
+      <title>postAAR</title>
+      <link>https://open-archaeo.info/post/postaar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/postaar/</guid>
+      <description>An automated process to detect buildings within large sets of postholes in multi-occupational sites, similar to the obsolete Windows-software &amp;ldquo;posthole&amp;rdquo; by Irwin Scollar.</description>
+    </item>
+    
+    <item>
+      <title>postAAR-python</title>
+      <link>https://open-archaeo.info/post/postaar-python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/postaar-python/</guid>
+      <description>Python implementation of postAAR</description>
+    </item>
+    
+    <item>
       <title>shapAAR</title>
       <link>https://open-archaeo.info/post/shapaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

@@ -25,6 +25,15 @@
     </item>
     
     <item>
+      <title>ABM tutorials</title>
+      <link>https://open-archaeo.info/post/abm-tutorials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/abm-tutorials/</guid>
+      <description>A collection of tutorial on agent-based modelling for archaeologists</description>
+    </item>
+    
+    <item>
       <title>Analysing-Archaeological-Radiocabon-Ages-Using-R</title>
       <link>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using-r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -70,6 +79,15 @@
     </item>
     
     <item>
+      <title>folio</title>
+      <link>https://open-archaeo.info/post/folio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/folio/</guid>
+      <description>Datasets for teaching quantitative approaches and modeling in archaeology and paleontology. This package provides several types of data related to broad topics (cultural evolution, radiocarbon dating, paleoenvironments, etc.), which can be used to illustrate statistical methods in the classroom (multivariate data analysis, compositional data analysis, diversity measurement, etc.).</description>
+    </item>
+    
+    <item>
       <title>GIS-Projects</title>
       <link>https://open-archaeo.info/post/gis-projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -94,6 +112,24 @@
       
       <guid>https://open-archaeo.info/post/la-icp-ms-routines-fmnh/</guid>
       <description>Routines to read and analyze LA-ICP-MS data from the Field Museum&amp;rsquo;s Elemental Analysis Facility</description>
+    </item>
+    
+    <item>
+      <title>mhbil</title>
+      <link>https://open-archaeo.info/post/mhbil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/mhbil/</guid>
+      <description>Code repository of the book by Oliver Nakoinz and Daniel Knitter &amp;ldquo;Modelling Human Behaviour in Landscapes &amp;ndash; Basic concepts and modelling elements&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>neiman1995</title>
+      <link>https://open-archaeo.info/post/neiman1995/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/neiman1995/</guid>
+      <description>R Shiny Document - Visualizing model functions in Neimans &amp;lsquo;Stylistic variation in evolutionary perspective&amp;rsquo; with an interactive document</description>
     </item>
     
     <item>

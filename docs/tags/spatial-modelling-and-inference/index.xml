@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://open-archaeo.info/tags/spatial-modelling-and-inference/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>bleiglas</title>
+      <link>https://open-archaeo.info/post/bleiglas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/bleiglas/</guid>
+      <description>An R package that provides functions for 3D tessellation with Voro++ and subsequent horizontal cutting of the resulting polygons for 2D plotting. It was developed for archaeological spatiotemporal data, but may as well be used for other three dimensional contexts.</description>
+    </item>
+    
+    <item>
       <title>chrono_spatial_modelling</title>
       <link>https://open-archaeo.info/post/chrono-spatial-modelling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -16,12 +25,39 @@
     </item>
     
     <item>
+      <title>fastmaRching</title>
+      <link>https://open-archaeo.info/post/fastmarching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/fastmarching/</guid>
+      <description>An R implementation of the Fast Marching Method (FMM), first developed by Sethian (1996), with the modifications of Silva and Steele (2012, 2014). Also included is a spatial wrapper function that makes it easier to model dispersal scenarios in geospatial domains, as originally envisaged for the study and simulation of prehistoric dispersals</description>
+    </item>
+    
+    <item>
       <title>leastcostpath</title>
       <link>https://open-archaeo.info/post/leastcostpath/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/leastcostpath/</guid>
       <description>Provides the functionality to calculate Least Cost Paths (LCPs) which are often, but not exclusively, used in archaeological research. This package can be used to apply multiple cost functions when approximating the difficulty of moving across a landscape, as well as taking into account traversing across slope and other costs such as landscape features. This package also provides functionality to validate the accuracy of the computed LCP relative to another path.</description>
+    </item>
+    
+    <item>
+      <title>lecAAR</title>
+      <link>https://open-archaeo.info/post/lecaar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/lecaar/</guid>
+      <description>Tool for calculating the largest empty circles and estimation of archaeological sites theoretically to be expected in region of interest, an implementation of the method published by Andreas Zimmermann and Karl Peter Wendt (2003).</description>
+    </item>
+    
+    <item>
+      <title>mhbil</title>
+      <link>https://open-archaeo.info/post/mhbil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/mhbil/</guid>
+      <description>Code repository of the book by Oliver Nakoinz and Daniel Knitter &amp;ldquo;Modelling Human Behaviour in Landscapes &amp;ndash; Basic concepts and modelling elements&amp;rdquo;</description>
     </item>
     
     <item>

@@ -6,7 +6,7 @@
   },
   "authors": ["Bruno Desachy"],
   "categories": ["Spreadsheets"],
-  "tags": ["Bits and bobs"],
+  "tags": ["Bits and bobs", "Seriation"],
   "doi": null
 }
 

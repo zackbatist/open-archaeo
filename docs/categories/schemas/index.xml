@@ -15,5 +15,14 @@
       <description>ARCSCore is a metadata standard for organizing and sharing digital versions of non-digital documents created during the course of an archaeological investigation</description>
     </item>
     
+    <item>
+      <title>nonekXML</title>
+      <link>https://open-archaeo.info/post/nonekxml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/nonekxml/</guid>
+      <description>Exchange data format (XML) for NoNeK (Nordmitteleuropäische Neolithische Keramik)</description>
+    </item>
+    
   </channel>
 </rss>

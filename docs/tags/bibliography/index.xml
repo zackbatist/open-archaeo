@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bibliography on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/bibliography/</link>
+    <description>Recent content in Bibliography on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/bibliography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>caddonet</title>
+      <link>https://open-archaeo.info/post/caddonet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/caddonet/</guid>
+      <description>Peer reviewed and indexed articles published on Caddo archaeology since 2000.</description>
+    </item>
+    
+    <item>
+      <title>The ABM in Archaeology Bibliography</title>
+      <link>https://open-archaeo.info/post/the-abm-in-archaeology-bibliography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/the-abm-in-archaeology-bibliography/</guid>
+      <description>A selected yet comprehensive list of literature and resources on Agent Based Models (ABM) in Archaeology.</description>
+    </item>
+    
+  </channel>
+</rss>

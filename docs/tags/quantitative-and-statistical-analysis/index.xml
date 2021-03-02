@@ -79,6 +79,15 @@
     </item>
     
     <item>
+      <title>dimensio</title>
+      <link>https://open-archaeo.info/post/dimensio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/dimensio/</guid>
+      <description>Simple Principal Components Analysis (PCA) and Correspondence Analysis (CA) based on the Singular Value Decomposition (SVD). This package provides S4 classes and methods to compute, extract, summarize and visualize results of multivariate data analysis. It also includes methods for partial bootstrap validation.</description>
+    </item>
+    
+    <item>
       <title>Explographe</title>
       <link>https://open-archaeo.info/post/explographe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -97,6 +106,15 @@
     </item>
     
     <item>
+      <title>lecAAR</title>
+      <link>https://open-archaeo.info/post/lecaar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/lecaar/</guid>
+      <description>Tool for calculating the largest empty circles and estimation of archaeological sites theoretically to be expected in region of interest, an implementation of the method published by Andreas Zimmermann and Karl Peter Wendt (2003).</description>
+    </item>
+    
+    <item>
       <title>LISA</title>
       <link>https://open-archaeo.info/post/lisa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -112,6 +130,15 @@
       
       <guid>https://open-archaeo.info/post/mean-ceramic-date-and-error-estimation/</guid>
       <description>Script for calculating mean ceramic dates based on tabular data. This script also estimates sampling error using a bootstrapping procedure.</description>
+    </item>
+    
+    <item>
+      <title>paleocar</title>
+      <link>https://open-archaeo.info/post/paleocar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/paleocar/</guid>
+      <description>An R package implementing functions to perform spatio-temporal paleoclimate reconstruction from tree-rings using the CAR (Correlation Adjusted corRelation) approach of Zuber and Strimmer.</description>
     </item>
     
     <item>
@@ -148,6 +175,24 @@
       
       <guid>https://open-archaeo.info/post/quantaar/</guid>
       <description>R Library for Quantitative Analysis in Archaeology.</description>
+    </item>
+    
+    <item>
+      <title>Seriation</title>
+      <link>https://open-archaeo.info/post/seriation-clipo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/seriation-clipo/</guid>
+      <description>Algorithms, implementations, manuscripts, and test cases for iterative deterministic frequency seriation done by agglomeration.</description>
+    </item>
+    
+    <item>
+      <title>seriation</title>
+      <link>https://open-archaeo.info/post/seriation-mhahsler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/seriation-mhahsler/</guid>
+      <description>R package that provides the infrastructure for ordering objects with an implementation of several seriation/sequencing/ordination techniques to reorder matrices, dissimilarity matrices, and dendrograms (see below for a full list). Also provides (optimally) reordered heatmaps, color images and clustering visualizations like dissimilarity plots, and visual assessment of cluster tendency plots (VAT and iVAT).</description>
     </item>
     
     <item>
