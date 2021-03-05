@@ -1,6 +1,6 @@
 {
   "title": "aoristic",
-  "description": ["R package for aoristic analysis; the goal of aoristic is to make sense of temporally vague data.\n"],
+  "description": ["R package for aoristic analysis; the goal of aoristic is to make sense of temporally vague data."],
   "links": {
     "GitHub": "https://github.com/jerryratcliffe/aoristic",
     "CRAN": "https://CRAN.R-project.org/package=aoristic"

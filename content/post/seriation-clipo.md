@@ -1,6 +1,6 @@
 {
   "title": "Seriation",
-  "description": ["Algorithms, implementations, manuscripts, and test cases for iterative deterministic frequency seriation done by agglomeration.\n"],
+  "description": ["Algorithms, implementations, manuscripts, and test cases for iterative deterministic frequency seriation done by agglomeration."],
   "links": {
     "GitHub": "https://github.com/clipo/Seriation"
   },

@@ -1,6 +1,6 @@
 {
   "title": "dimensio",
-  "description": ["Simple Principal Components Analysis (PCA) and Correspondence Analysis (CA) based on the Singular Value Decomposition (SVD). This package provides S4 classes and methods to compute, extract, summarize and visualize results of multivariate data analysis. It also includes methods for partial bootstrap validation.\n"],
+  "description": ["Simple Principal Components Analysis (PCA) and Correspondence Analysis (CA) based on the Singular Value Decomposition (SVD). This package provides S4 classes and methods to compute, extract, summarize and visualize results of multivariate data analysis. It also includes methods for partial bootstrap validation."],
   "links": {
     "GitHub": "https://github.com/tesselle/dimensio",
     "Website": "https://dimensio.tesselle.org/"

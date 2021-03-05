@@ -1,6 +1,6 @@
 {
   "title": "yada",
-  "description": ["yada, which stands for Yet Another Demographic Analysis package, supports a variety of demographic tasks, with most applications drawn from forensic anthroplogy and archaeology.\n"],
+  "description": ["yada, which stands for Yet Another Demographic Analysis package, supports a variety of demographic tasks, with most applications drawn from forensic anthroplogy and archaeology."],
   "links": {
     "GitHub": "https://github.com/eehh-stanford/yada",
     "Website": "https://eehh-stanford.github.io/yada/"

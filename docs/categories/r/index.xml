@@ -21,7 +21,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/allen-relations/</guid>
-      <description>Allen relations from Bayesian calibration: R function to compare two indefinite intervals produced by a Bayesian calibration using the Allen algebra</description>
+      <description>Allen relations from Bayesian calibration: R function to compare two indefinite intervals produced by a Bayesian calibration using the Allen algebra.</description>
     </item>
     
     <item>
@@ -165,7 +165,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/baydem/</guid>
-      <description>Bayesian tools for reconstructing past demography</description>
+      <description>Bayesian tools for reconstructing past demography.</description>
     </item>
     
     <item>
@@ -363,7 +363,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/ctransmission/</guid>
-      <description>An Approximate Bayesian Computation Framework for inferring patterns of cultural transmission from frequency data</description>
+      <description>An Approximate Bayesian Computation Framework for inferring patterns of cultural transmission from frequency data.</description>
     </item>
     
     <item>
@@ -390,7 +390,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/distantia/</guid>
-      <description>R package to compute dissimilarity between multivariate time series</description>
+      <description>R package to compute dissimilarity between multivariate time series.</description>
     </item>
     
     <item>
@@ -714,7 +714,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/neiman1995/</guid>
-      <description>R Shiny Document - Visualizing model functions in Neimans &amp;lsquo;Stylistic variation in evolutionary perspective&amp;rsquo; with an interactive document</description>
+      <description>R Shiny Document - Visualizing model functions in Neimans &amp;lsquo;Stylistic variation in evolutionary perspective&amp;rsquo; with an interactive document.</description>
     </item>
     
     <item>
@@ -768,7 +768,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/outliner-yesdavid/</guid>
-      <description>An R package to derive outline shapes from (multiple) artefacts on JPEG images</description>
+      <description>An R package to derive outline shapes from (multiple) artefacts on JPEG images.</description>
     </item>
     
     <item>
@@ -1102,6 +1102,15 @@
       
       <guid>https://open-archaeo.info/post/sparch/</guid>
       <description>A set of extra utilities that extend the functionlaity provided by core packages for spatial data management and analysis in R</description>
+    </item>
+    
+    <item>
+      <title>SPARTAAS</title>
+      <link>https://open-archaeo.info/post/spartaas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/spartaas/</guid>
+      <description>Statistical pattern recognition and dating using archaeological artefacts assemblages.</description>
     </item>
     
     <item>

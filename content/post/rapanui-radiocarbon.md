@@ -1,6 +1,6 @@
 {
   "title": "rapanui-radiocarbon",
-  "description": ["A repository of radiocarbon data for Rapa Nui.\n"],
+  "description": ["A repository of radiocarbon data for Rapa Nui."],
   "links": {
     "GitHub": "https://github.com/clipo/rapanui-radiocarbon"
   },

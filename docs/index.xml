@@ -48,7 +48,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/abm-tutorials/</guid>
-      <description>A collection of tutorial on agent-based modelling for archaeologists</description>
+      <description>A collection of tutorial on agent-based modelling for archaeologists.</description>
     </item>
     
     <item>
@@ -102,7 +102,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/allen-relations/</guid>
-      <description>Allen relations from Bayesian calibration: R function to compare two indefinite intervals produced by a Bayesian calibration using the Allen algebra</description>
+      <description>Allen relations from Bayesian calibration: R function to compare two indefinite intervals produced by a Bayesian calibration using the Allen algebra.</description>
     </item>
     
     <item>
@@ -112,6 +112,15 @@
       
       <guid>https://open-archaeo.info/post/allen-archaeology/</guid>
       <description>Allen&amp;rsquo;s Interval Algebra for Archaeologists</description>
+    </item>
+    
+    <item>
+      <title>Alligator</title>
+      <link>https://open-archaeo.info/post/alligator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/alligator/</guid>
+      <description>A Web tool for converting CAs with dating information to relative time intervals as RDF.</description>
     </item>
     
     <item>
@@ -219,7 +228,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/archaeodiet/</guid>
-      <description>Pipeline for metagenomic identification and authentication of ancient dietary DNA from archaeological samples</description>
+      <description>Pipeline for metagenomic identification and authentication of ancient dietary DNA from archaeological samples.</description>
     </item>
     
     <item>
@@ -570,7 +579,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/baydem/</guid>
-      <description>Bayesian tools for reconstructing past demography</description>
+      <description>Bayesian tools for reconstructing past demography.</description>
     </item>
     
     <item>
@@ -634,6 +643,15 @@
       
       <guid>https://open-archaeo.info/post/bleiglas/</guid>
       <description>An R package that provides functions for 3D tessellation with Voro++ and subsequent horizontal cutting of the resulting polygons for 2D plotting. It was developed for archaeological spatiotemporal data, but may as well be used for other three dimensional contexts.</description>
+    </item>
+    
+    <item>
+      <title>Bonify</title>
+      <link>https://open-archaeo.info/post/bonify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/bonify/</guid>
+      <description>Access and visualize 3D models of faunal remains.</description>
     </item>
     
     <item>
@@ -930,7 +948,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/ctransmission/</guid>
-      <description>An Approximate Bayesian Computation Framework for inferring patterns of cultural transmission from frequency data</description>
+      <description>An Approximate Bayesian Computation Framework for inferring patterns of cultural transmission from frequency data.</description>
     </item>
     
     <item>
@@ -958,6 +976,15 @@
       
       <guid>https://open-archaeo.info/post/datplot/</guid>
       <description>Converting date ranges into dating &amp;lsquo;steps&amp;rsquo; eases the visualization of changes in e.g. pottery consumption, style and other variables over time. This package provides tools to process and prepare data for visualization.</description>
+    </item>
+    
+    <item>
+      <title>Day of Archaeology Archive</title>
+      <link>https://open-archaeo.info/post/day-of-archaeology-archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/day-of-archaeology-archive/</guid>
+      <description>Archive of content shared during the annual Day of Archaeology from 2011-2017.</description>
     </item>
     
     <item>
@@ -1029,7 +1056,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/distantia/</guid>
-      <description>R package to compute dissimilarity between multivariate time series</description>
+      <description>R package to compute dissimilarity between multivariate time series.</description>
     </item>
     
     <item>
@@ -1246,6 +1273,15 @@
       
       <guid>https://open-archaeo.info/post/geochronr/</guid>
       <description>An integrated framework that allows scientists to generate state-of-the-art age models for their records, create time-uncertain ensembles of their data, analyze those ensembles with a number of commonly-used techniques, and visualize their results in an intuitive way.</description>
+    </item>
+    
+    <item>
+      <title>geoCore</title>
+      <link>https://open-archaeo.info/post/geocore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/geocore/</guid>
+      <description>Constructs a graphical representation of petrographic drilling profiles.</description>
     </item>
     
     <item>
@@ -1677,7 +1713,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/mhbil/</guid>
-      <description>Code repository of the book by Oliver Nakoinz and Daniel Knitter &amp;ldquo;Modelling Human Behaviour in Landscapes &amp;ndash; Basic concepts and modelling elements&amp;rdquo;</description>
+      <description>Code repository of the book by Oliver Nakoinz and Daniel Knitter &amp;ldquo;Modelling Human Behaviour in Landscapes &amp;ndash; Basic concepts and modelling elements&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -1767,7 +1803,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/neiman1995/</guid>
-      <description>R Shiny Document - Visualizing model functions in Neimans &amp;lsquo;Stylistic variation in evolutionary perspective&amp;rsquo; with an interactive document</description>
+      <description>R Shiny Document - Visualizing model functions in Neimans &amp;lsquo;Stylistic variation in evolutionary perspective&amp;rsquo; with an interactive document.</description>
     </item>
     
     <item>
@@ -1812,7 +1848,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/nonekxml/</guid>
-      <description>Exchange data format (XML) for NoNeK (Nordmitteleuropäische Neolithische Keramik)</description>
+      <description>Exchange data format (XML) for NoNeK (Nordmitteleuropäische Neolithische Keramik).</description>
     </item>
     
     <item>
@@ -1929,7 +1965,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/outliner-yesdavid/</guid>
-      <description>An R package to derive outline shapes from (multiple) artefacts on JPEG images</description>
+      <description>An R package to derive outline shapes from (multiple) artefacts on JPEG images.</description>
     </item>
     
     <item>
@@ -2623,6 +2659,15 @@
       
       <guid>https://open-archaeo.info/post/sparch/</guid>
       <description>A set of extra utilities that extend the functionlaity provided by core packages for spatial data management and analysis in R</description>
+    </item>
+    
+    <item>
+      <title>SPARTAAS</title>
+      <link>https://open-archaeo.info/post/spartaas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/spartaas/</guid>
+      <description>Statistical pattern recognition and dating using archaeological artefacts assemblages.</description>
     </item>
     
     <item>

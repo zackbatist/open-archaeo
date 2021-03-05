@@ -1,6 +1,6 @@
 {
   "title": "strativerse",
-  "description": ["A collection of time-stratigraphic publications.\n"],
+  "description": ["A collection of time-stratigraphic publications."],
   "links": {
     "GitHub": "https://github.com/paleolimbot/strativerse-hugo",
     "Website": "https://strativerse.org"

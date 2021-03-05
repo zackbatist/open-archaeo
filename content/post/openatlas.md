@@ -1,6 +1,6 @@
 {
   "title": "OpenAtlas",
-  "description": ["An open source, web based database system for complex archaeological, historical and geospatial data.\n"],
+  "description": ["An open source, web based database system for complex archaeological, historical and geospatial data."],
   "links": {
     "GitHub": "https://github.com/craws/OpenAtlas",
     "Website": "https://openatlas.eu/"

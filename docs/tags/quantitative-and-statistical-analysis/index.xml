@@ -16,6 +16,15 @@
     </item>
     
     <item>
+      <title>Alligator</title>
+      <link>https://open-archaeo.info/post/alligator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/alligator/</guid>
+      <description>A Web tool for converting CAs with dating information to relative time intervals as RDF.</description>
+    </item>
+    
+    <item>
       <title>BasicMapping</title>
       <link>https://open-archaeo.info/post/basicmapping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -202,6 +211,15 @@
       
       <guid>https://open-archaeo.info/post/sindwem/</guid>
       <description>This R package contains exactly one function, that calculates the &amp;ldquo;sum of individual weighted means&amp;rdquo; according to a methodology that is quite common among archaeologists and was first published in 1988 by Elisabeth Fentress and Philip Perkins.</description>
+    </item>
+    
+    <item>
+      <title>SPARTAAS</title>
+      <link>https://open-archaeo.info/post/spartaas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/spartaas/</guid>
+      <description>Statistical pattern recognition and dating using archaeological artefacts assemblages.</description>
     </item>
     
     <item>

@@ -1,6 +1,6 @@
 {
   "title": "bleiglas",
-  "description": ["An R package that provides functions for 3D tessellation with Voro++ and subsequent horizontal cutting of the resulting polygons for 2D plotting. It was developed for archaeological spatiotemporal data, but may as well be used for other three dimensional contexts.\n"],
+  "description": ["An R package that provides functions for 3D tessellation with Voro++ and subsequent horizontal cutting of the resulting polygons for 2D plotting. It was developed for archaeological spatiotemporal data, but may as well be used for other three dimensional contexts."],
   "links": {
     "GitHub": "https://github.com/nevrome/bleiglas"
   },

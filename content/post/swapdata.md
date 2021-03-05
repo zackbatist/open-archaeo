@@ -1,6 +1,6 @@
 {
   "title": "swapdata",
-  "description": ["A collection of archaeological datasets and tools related to the prehistory of Southwest Asia.\n"],
+  "description": ["A collection of archaeological datasets and tools related to the prehistory of Southwest Asia."],
   "links": {
     "GitHub": "https://github.com/joeroe/swapdata"
   },

@@ -1,6 +1,6 @@
 {
   "title": "aDRAC",
-  "description": ["The *Archive des datations radiocarbones d’Afrique centrale* (archive for radiocarbon datings from Central Africa, aDRAC) provides a catalogue of available radiocarbon dates from Central Africa. The data cover published radiocarbon dates and essential metadata for each date as well as available references.\n"],
+  "description": ["The *Archive des datations radiocarbones d’Afrique centrale* (archive for radiocarbon datings from Central Africa, aDRAC) provides a catalogue of available radiocarbon dates from Central Africa. The data cover published radiocarbon dates and essential metadata for each date as well as available references."],
   "links": {
     "GitHub": "https://github.com/dirkseidensticker/aDRAC"
   },

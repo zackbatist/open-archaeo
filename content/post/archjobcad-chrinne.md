@@ -1,6 +1,6 @@
 {
   "title": "ArchJobCAD",
-  "description": ["Comprises three LISP-functions for repeated tasks in archaeological excavations. The aims are efficient work and a homogeneous structure for easy retrieval. This is achieved with standardised named layers for filtering and the extensive use of blocks with attributes including labels of features, finds and profiles. The detailed explanations are in German but the code includes German as well as English comments.\n"],
+  "description": ["Comprises three LISP-functions for repeated tasks in archaeological excavations. The aims are efficient work and a homogeneous structure for easy retrieval. This is achieved with standardised named layers for filtering and the extensive use of blocks with attributes including labels of features, finds and profiles. The detailed explanations are in German but the code includes German as well as English comments."],
   "links": {
     "GitHub": "https://github.com/ISAAKiel/ArchJobCAD"
   },
