@@ -43,6 +43,15 @@
     </item>
     
     <item>
+      <title>ABM tutorials</title>
+      <link>https://open-archaeo.info/post/abm-tutorials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/abm-tutorials/</guid>
+      <description>A collection of tutorial on agent-based modelling for archaeologists</description>
+    </item>
+    
+    <item>
       <title>aca_data_collection</title>
       <link>https://open-archaeo.info/post/aca-data-collection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -61,6 +70,15 @@
     </item>
     
     <item>
+      <title>aDRAC</title>
+      <link>https://open-archaeo.info/post/adrac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/adrac/</guid>
+      <description>The Archive des datations radiocarbones d’Afrique centrale (archive for radiocarbon datings from Central Africa, aDRAC) provides a catalogue of available radiocarbon dates from Central Africa. The data cover published radiocarbon dates and essential metadata for each date as well as available references.</description>
+    </item>
+    
+    <item>
       <title>AIS</title>
       <link>https://open-archaeo.info/post/ais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -76,6 +94,15 @@
       
       <guid>https://open-archaeo.info/post/al2o3-analysisapp/</guid>
       <description>Shiny app to analyse Al2O3:C measurements</description>
+    </item>
+    
+    <item>
+      <title>allen-relations</title>
+      <link>https://open-archaeo.info/post/allen-relations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/allen-relations/</guid>
+      <description>Allen relations from Bayesian calibration: R function to compare two indefinite intervals produced by a Bayesian calibration using the Allen algebra</description>
     </item>
     
     <item>
@@ -151,6 +178,15 @@
     </item>
     
     <item>
+      <title>aoristic</title>
+      <link>https://open-archaeo.info/post/aoristic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/aoristic/</guid>
+      <description>R package for aoristic analysis; the goal of aoristic is to make sense of temporally vague data.</description>
+    </item>
+    
+    <item>
       <title>archaeo-db-workshop</title>
       <link>https://open-archaeo.info/post/archaeo-db-workshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -175,6 +211,15 @@
       
       <guid>https://open-archaeo.info/post/archaeochron/</guid>
       <description>Bayesian Modeling of Archaeological Chronologies.</description>
+    </item>
+    
+    <item>
+      <title>archaeodiet</title>
+      <link>https://open-archaeo.info/post/archaeodiet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeodiet/</guid>
+      <description>Pipeline for metagenomic identification and authentication of ancient dietary DNA from archaeological samples</description>
     </item>
     
     <item>
@@ -323,10 +368,19 @@
     
     <item>
       <title>ArchJobCAD</title>
-      <link>https://open-archaeo.info/post/archjobcad/</link>
+      <link>https://open-archaeo.info/post/archjobcad-chrinne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/archjobcad/</guid>
+      <guid>https://open-archaeo.info/post/archjobcad-chrinne/</guid>
+      <description>Comprises three LISP-functions for repeated tasks in archaeological excavations. The aims are efficient work and a homogeneous structure for easy retrieval. This is achieved with standardised named layers for filtering and the extensive use of blocks with attributes including labels of features, finds and profiles. The detailed explanations are in German but the code includes German as well as English comments.</description>
+    </item>
+    
+    <item>
+      <title>ArchJobCAD</title>
+      <link>https://open-archaeo.info/post/archjobcad-isaakiel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archjobcad-isaakiel/</guid>
       <description>Tasks for Excavations in AutoCAD</description>
     </item>
     
@@ -511,6 +565,15 @@
     </item>
     
     <item>
+      <title>baydem</title>
+      <link>https://open-archaeo.info/post/baydem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/baydem/</guid>
+      <description>Bayesian tools for reconstructing past demography</description>
+    </item>
+    
+    <item>
       <title>BayLum</title>
       <link>https://open-archaeo.info/post/baylum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -565,6 +628,15 @@
     </item>
     
     <item>
+      <title>bleiglas</title>
+      <link>https://open-archaeo.info/post/bleiglas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/bleiglas/</guid>
+      <description>An R package that provides functions for 3D tessellation with Voro++ and subsequent horizontal cutting of the resulting polygons for 2D plotting. It was developed for archaeological spatiotemporal data, but may as well be used for other three dimensional contexts.</description>
+    </item>
+    
+    <item>
       <title>Bootstrap-Correspondence-Analysis</title>
       <link>https://open-archaeo.info/post/bootstrap-correspondence-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -580,6 +652,24 @@
       
       <guid>https://open-archaeo.info/post/brainerd-robinson-similarity-coefficient-and-sampling-error-assessment/</guid>
       <description>Script for calculating Brainerd-Robinson coefficients based on tabular count or percent data. This script also estimates the probability that a given difference between two samples is the product of sampling error.</description>
+    </item>
+    
+    <item>
+      <title>c14</title>
+      <link>https://open-archaeo.info/post/c14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/c14/</guid>
+      <description>R package for tidy radiocarbon data</description>
+    </item>
+    
+    <item>
+      <title>c14-laboratory-code</title>
+      <link>https://open-archaeo.info/post/c14-laboratory-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/c14-laboratory-code/</guid>
+      <description>List of all past and present radiocarbon laboratory codes known to have been used in published references.</description>
     </item>
     
     <item>
@@ -610,6 +700,15 @@
     </item>
     
     <item>
+      <title>caddonet</title>
+      <link>https://open-archaeo.info/post/caddonet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/caddonet/</guid>
+      <description>Peer reviewed and indexed articles published on Caddo archaeology since 2000.</description>
+    </item>
+    
+    <item>
       <title>CAinterprTools</title>
       <link>https://open-archaeo.info/post/cainterprtools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -625,6 +724,15 @@
       
       <guid>https://open-archaeo.info/post/calibrator/</guid>
       <description>Small command line tool for 14C calibration</description>
+    </item>
+    
+    <item>
+      <title>CalPal-Database</title>
+      <link>https://open-archaeo.info/post/calpal-database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/calpal-database/</guid>
+      <description>CalPal 14C-Database created by Bernhard Weninger (Universität zu Köln) as part of the CalPal software package. This repository serves as an interface to access the data more easily.</description>
     </item>
     
     <item>
@@ -817,6 +925,15 @@
     </item>
     
     <item>
+      <title>cTransmission</title>
+      <link>https://open-archaeo.info/post/ctransmission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/ctransmission/</guid>
+      <description>An Approximate Bayesian Computation Framework for inferring patterns of cultural transmission from frequency data</description>
+    </item>
+    
+    <item>
       <title>ctv-archaeology</title>
       <link>https://open-archaeo.info/post/ctv-archaeology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -832,6 +949,15 @@
       
       <guid>https://open-archaeo.info/post/cuneipainter/</guid>
       <description>An App to recognize cuneiform characters on your Android phone.</description>
+    </item>
+    
+    <item>
+      <title>datplot</title>
+      <link>https://open-archaeo.info/post/datplot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/datplot/</guid>
+      <description>Converting date ranges into dating &amp;lsquo;steps&amp;rsquo; eases the visualization of changes in e.g. pottery consumption, style and other variables over time. This package provides tools to process and prepare data for visualization.</description>
     </item>
     
     <item>
@@ -880,12 +1006,30 @@
     </item>
     
     <item>
+      <title>dimensio</title>
+      <link>https://open-archaeo.info/post/dimensio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/dimensio/</guid>
+      <description>Simple Principal Components Analysis (PCA) and Correspondence Analysis (CA) based on the Singular Value Decomposition (SVD). This package provides S4 classes and methods to compute, extract, summarize and visualize results of multivariate data analysis. It also includes methods for partial bootstrap validation.</description>
+    </item>
+    
+    <item>
       <title>disastermap</title>
       <link>https://open-archaeo.info/post/disastermap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/disastermap/</guid>
       <description>Proof of concept map for disaster response and archaeology</description>
+    </item>
+    
+    <item>
+      <title>distantia</title>
+      <link>https://open-archaeo.info/post/distantia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/distantia/</guid>
+      <description>R package to compute dissimilarity between multivariate time series</description>
     </item>
     
     <item>
@@ -948,7 +1092,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/era/</guid>
-      <description>An R package that provides a consistent vector representation of years with an associated calendar era or time scale. It includes built-in definitions of many contemporary and historic calendars; time scales commonly used in archaeology, astronomy, geology, and other palaeosciences (e.g. Before Present, SI-prefixed annus); and support for arbitrary user-defined eras. Functions for converting between eras and for type-stable arithmetic with years are also provided.</description>
+      <description>R package for year-based time scales</description>
     </item>
     
     <item>
@@ -985,6 +1129,15 @@
       
       <guid>https://open-archaeo.info/post/expotime/</guid>
       <description>What’s the correlation between the exposure time of your photographs and the time of the day?</description>
+    </item>
+    
+    <item>
+      <title>fastmaRching</title>
+      <link>https://open-archaeo.info/post/fastmarching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/fastmarching/</guid>
+      <description>An R implementation of the Fast Marching Method (FMM), first developed by Sethian (1996), with the modifications of Silva and Steele (2012, 2014). Also included is a spatial wrapper function that makes it easier to model dispersal scenarios in geospatial domains, as originally envisaged for the study and simulation of prehistoric dispersals</description>
     </item>
     
     <item>
@@ -1033,6 +1186,15 @@
     </item>
     
     <item>
+      <title>folio</title>
+      <link>https://open-archaeo.info/post/folio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/folio/</guid>
+      <description>Datasets for teaching quantitative approaches and modeling in archaeology and paleontology. This package provides several types of data related to broad topics (cultural evolution, radiocarbon dating, paleoenvironments, etc.), which can be used to illustrate statistical methods in the classroom (multivariate data analysis, compositional data analysis, diversity measurement, etc.).</description>
+    </item>
+    
+    <item>
       <title>Ford-Diagram</title>
       <link>https://open-archaeo.info/post/ford-diagram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1060,12 +1222,30 @@
     </item>
     
     <item>
+      <title>gargammel</title>
+      <link>https://open-archaeo.info/post/gargammel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/gargammel/</guid>
+      <description>Gargammel is a set of programs aimed at simulating ancient DNA fragments. For ancient hominin samples our program can also simulate various levels of present-day human contamination and microbial contamination.</description>
+    </item>
+    
+    <item>
       <title>GCD</title>
       <link>https://open-archaeo.info/post/gcd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/gcd/</guid>
       <description>Global Charcoal Database</description>
+    </item>
+    
+    <item>
+      <title>GeoChronR</title>
+      <link>https://open-archaeo.info/post/geochronr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/geochronr/</guid>
+      <description>An integrated framework that allows scientists to generate state-of-the-art age models for their records, create time-uncertain ensembles of their data, analyze those ensembles with a number of commonly-used techniques, and visualize their results in an intuitive way.</description>
     </item>
     
     <item>
@@ -1093,6 +1273,15 @@
       
       <guid>https://open-archaeo.info/post/gis-projects/</guid>
       <description>GIS Projects for teaching and learning about Computational Archaeology</description>
+    </item>
+    
+    <item>
+      <title>Git-to-the-Point</title>
+      <link>https://open-archaeo.info/post/git-to-the-point/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/git-to-the-point/</guid>
+      <description>An open call to edit and revise current typological assignments and attributes associated with diagnostic artifacts found across the National Forests and Grasslands in Texas (NFGT).</description>
     </item>
     
     <item>
@@ -1231,6 +1420,24 @@
     </item>
     
     <item>
+      <title>iDAI.field</title>
+      <link>https://open-archaeo.info/post/idai-field/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/idai-field/</guid>
+      <description>The German Archaeological Institute’s (DAI) new take on a field research documentation system. Combining features of GIS, photo management, and database management systems in a unique and integrating manner, it aims at facilitating archaeological workflows by reducing the overhead of using multiple systems. Developed in-house by the DAI’s information technology department, it targets primarily the needs of the institute’s excavations, older ones as well as those to come. Yet, due to the nature of its adjustable data model and the fact it is open source software, any interested third party is free to reuse and adjust it to their needs.</description>
+    </item>
+    
+    <item>
+      <title>idaifieldR</title>
+      <link>https://open-archaeo.info/post/idaifieldr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/idaifieldr/</guid>
+      <description>The goal of idaifieldR is to flexibly get data from the idaifield database into R.</description>
+    </item>
+    
+    <item>
       <title>inclusions</title>
       <link>https://open-archaeo.info/post/inclusions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1327,6 +1534,15 @@
       
       <guid>https://open-archaeo.info/post/leastcostpath/</guid>
       <description>Provides the functionality to calculate Least Cost Paths (LCPs) which are often, but not exclusively, used in archaeological research. This package can be used to apply multiple cost functions when approximating the difficulty of moving across a landscape, as well as taking into account traversing across slope and other costs such as landscape features. This package also provides functionality to validate the accuracy of the computed LCP relative to another path.</description>
+    </item>
+    
+    <item>
+      <title>lecAAR</title>
+      <link>https://open-archaeo.info/post/lecaar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/lecaar/</guid>
+      <description>Tool for calculating the largest empty circles and estimation of archaeological sites theoretically to be expected in region of interest, an implementation of the method published by Andreas Zimmermann and Karl Peter Wendt (2003).</description>
     </item>
     
     <item>
@@ -1456,6 +1672,15 @@
     </item>
     
     <item>
+      <title>mhbil</title>
+      <link>https://open-archaeo.info/post/mhbil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/mhbil/</guid>
+      <description>Code repository of the book by Oliver Nakoinz and Daniel Knitter &amp;ldquo;Modelling Human Behaviour in Landscapes &amp;ndash; Basic concepts and modelling elements&amp;rdquo;</description>
+    </item>
+    
+    <item>
       <title>missing</title>
       <link>https://open-archaeo.info/post/missing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1537,6 +1762,24 @@
     </item>
     
     <item>
+      <title>neiman1995</title>
+      <link>https://open-archaeo.info/post/neiman1995/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/neiman1995/</guid>
+      <description>R Shiny Document - Visualizing model functions in Neimans &amp;lsquo;Stylistic variation in evolutionary perspective&amp;rsquo; with an interactive document</description>
+    </item>
+    
+    <item>
+      <title>neolithicR</title>
+      <link>https://open-archaeo.info/post/neolithicr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/neolithicr/</guid>
+      <description>Shiny app to search and filter radiocarbon dates from various source databases, based on the R package c14bazAAR.</description>
+    </item>
+    
+    <item>
       <title>neotoma</title>
       <link>https://open-archaeo.info/post/neotoma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1552,6 +1795,24 @@
       
       <guid>https://open-archaeo.info/post/nervia/</guid>
       <description>Management system for physical storage of archaeological finds</description>
+    </item>
+    
+    <item>
+      <title>nimbleCarbon</title>
+      <link>https://open-archaeo.info/post/nimblecarbon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/nimblecarbon/</guid>
+      <description>The nimbleCarbon package provides utility functions and bespoke probability distributions for the Bayesian analyses of radiocarbon dates using the NIMBLE framework. The package is particularly dedicated to demographic inferences based on changing frequencies of radiocarbon dates.</description>
+    </item>
+    
+    <item>
+      <title>nonekXML</title>
+      <link>https://open-archaeo.info/post/nonekxml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/nonekxml/</guid>
+      <description>Exchange data format (XML) for NoNeK (Nordmitteleuropäische Neolithische Keramik)</description>
     </item>
     
     <item>
@@ -1627,6 +1888,15 @@
     </item>
     
     <item>
+      <title>OpenAtlas</title>
+      <link>https://open-archaeo.info/post/openatlas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/openatlas/</guid>
+      <description>An open source, web based database system for complex archaeological, historical and geospatial data.</description>
+    </item>
+    
+    <item>
       <title>opencontext</title>
       <link>https://open-archaeo.info/post/opencontext/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1654,6 +1924,42 @@
     </item>
     
     <item>
+      <title>outlineR</title>
+      <link>https://open-archaeo.info/post/outliner-yesdavid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/outliner-yesdavid/</guid>
+      <description>An R package to derive outline shapes from (multiple) artefacts on JPEG images</description>
+    </item>
+    
+    <item>
+      <title>outliner</title>
+      <link>https://open-archaeo.info/post/outliner-benmarwick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/outliner-benmarwick/</guid>
+      <description>A simple app for tracing outlines of an irregular shape and exporting the coordinates of the outline.</description>
+    </item>
+    
+    <item>
+      <title>oxcAAR</title>
+      <link>https://open-archaeo.info/post/oxcaar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/oxcaar/</guid>
+      <description>A collection of functions that can be used to execute OxCal from within R</description>
+    </item>
+    
+    <item>
+      <title>paleocar</title>
+      <link>https://open-archaeo.info/post/paleocar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/paleocar/</guid>
+      <description>An R package implementing functions to perform spatio-temporal paleoclimate reconstruction from tree-rings using the CAR (Correlation Adjusted corRelation) approach of Zuber and Strimmer.</description>
+    </item>
+    
+    <item>
       <title>paleocore</title>
       <link>https://open-archaeo.info/post/paleocore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1678,6 +1984,15 @@
       
       <guid>https://open-archaeo.info/post/paleofire/</guid>
       <description>An R package to analyse sedimentary charcoal records from the Global Charcoal Database to reconstruct past biomass burning</description>
+    </item>
+    
+    <item>
+      <title>PaleoView</title>
+      <link>https://open-archaeo.info/post/paleoview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/paleoview/</guid>
+      <description>A visualization tool for paleoclimatic modeling data.</description>
     </item>
     
     <item>
@@ -1726,6 +2041,15 @@
     </item>
     
     <item>
+      <title>piwigo-3dhop</title>
+      <link>https://open-archaeo.info/post/piwigo-3dhop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/piwigo-3dhop/</guid>
+      <description>Piwigo plugin for viewing 3D models using 3DHOP</description>
+    </item>
+    
+    <item>
       <title>PLC</title>
       <link>https://open-archaeo.info/post/plc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1759,6 +2083,24 @@
       
       <guid>https://open-archaeo.info/post/poseidon-framework/</guid>
       <description>Poseidon is a framework that seeks to provide standardized ways to store and share archaeogenetic, and perhaps more broadly, molecular archaeological datasets.</description>
+    </item>
+    
+    <item>
+      <title>postAAR</title>
+      <link>https://open-archaeo.info/post/postaar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/postaar/</guid>
+      <description>An automated process to detect buildings within large sets of postholes in multi-occupational sites, similar to the obsolete Windows-software &amp;ldquo;posthole&amp;rdquo; by Irwin Scollar.</description>
+    </item>
+    
+    <item>
+      <title>postAAR-python</title>
+      <link>https://open-archaeo.info/post/postaar-python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/postaar-python/</guid>
+      <description>Python implementation of postAAR</description>
     </item>
     
     <item>
@@ -1915,6 +2257,15 @@
     </item>
     
     <item>
+      <title>rapanui-radiocarbon</title>
+      <link>https://open-archaeo.info/post/rapanui-radiocarbon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rapanui-radiocarbon/</guid>
+      <description>A repository of radiocarbon data for Rapa Nui.</description>
+    </item>
+    
+    <item>
       <title>Rcarb</title>
       <link>https://open-archaeo.info/post/rcarb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2041,6 +2392,15 @@
     </item>
     
     <item>
+      <title>rpaleoclim</title>
+      <link>https://open-archaeo.info/post/rpaleoclim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rpaleoclim/</guid>
+      <description>R interface for open paleoclimate data</description>
+    </item>
+    
+    <item>
       <title>rppsfs</title>
       <link>https://open-archaeo.info/post/rppsfs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2128,6 +2488,24 @@
       
       <guid>https://open-archaeo.info/post/senscape/</guid>
       <description>A toolbox for modelling human perception of topography for QGIS, based on QGIS viewshed module.</description>
+    </item>
+    
+    <item>
+      <title>Seriation</title>
+      <link>https://open-archaeo.info/post/seriation-clipo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/seriation-clipo/</guid>
+      <description>Algorithms, implementations, manuscripts, and test cases for iterative deterministic frequency seriation done by agglomeration.</description>
+    </item>
+    
+    <item>
+      <title>seriation</title>
+      <link>https://open-archaeo.info/post/seriation-mhahsler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/seriation-mhahsler/</guid>
+      <description>R package that provides the infrastructure for ordering objects with an implementation of several seriation/sequencing/ordination techniques to reorder matrices, dissimilarity matrices, and dendrograms (see below for a full list). Also provides (optimally) reordered heatmaps, color images and clustering visualizations like dissimilarity plots, and visual assessment of cluster tendency plots (VAT and iVAT).</description>
     </item>
     
     <item>
@@ -2221,6 +2599,15 @@
     </item>
     
     <item>
+      <title>skyscapeR</title>
+      <link>https://open-archaeo.info/post/skyscaper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/skyscaper/</guid>
+      <description>An R package for data reduction, visualization and analysis in skyscape archaeology, archaeoastronomy and cultural astronomy.</description>
+    </item>
+    
+    <item>
       <title>soiltexture</title>
       <link>https://open-archaeo.info/post/soiltexture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2236,6 +2623,15 @@
       
       <guid>https://open-archaeo.info/post/sparch/</guid>
       <description>A set of extra utilities that extend the functionlaity provided by core packages for spatial data management and analysis in R</description>
+    </item>
+    
+    <item>
+      <title>statuAAR</title>
+      <link>https://open-archaeo.info/post/statuaar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/statuaar/</guid>
+      <description>Estimation of human stature from long bone measurements according to several well established estimation formula.</description>
     </item>
     
     <item>
@@ -2257,6 +2653,15 @@
     </item>
     
     <item>
+      <title>strativerse</title>
+      <link>https://open-archaeo.info/post/strativerse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/strativerse/</guid>
+      <description>A collection of time-stratigraphic publications.</description>
+    </item>
+    
+    <item>
       <title>svg-pottery</title>
       <link>https://open-archaeo.info/post/svg-pottery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2272,6 +2677,15 @@
       
       <guid>https://open-archaeo.info/post/svg-pottery-catalogo/</guid>
       <description>A simple program that generates a catalogue of your pottery drawings ready for the Web</description>
+    </item>
+    
+    <item>
+      <title>swapdata</title>
+      <link>https://open-archaeo.info/post/swapdata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/swapdata/</guid>
+      <description>A collection of archaeological datasets and tools related to the prehistory of Southwest Asia.</description>
     </item>
     
     <item>
@@ -2302,6 +2716,24 @@
     </item>
     
     <item>
+      <title>tavo-a27</title>
+      <link>https://open-archaeo.info/post/tavo-a27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/tavo-a27/</guid>
+      <description>Ancient animal occurrence data from Uerpmann 1987, The Ancient Distribution of Ungulate Mammals in the Middle East, TAVO A27</description>
+    </item>
+    
+    <item>
+      <title>tdar</title>
+      <link>https://open-archaeo.info/post/tdar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/tdar/</guid>
+      <description>R package that allows programmatic access to the Digital Archaeological Record (tDAR), a service of Digital Antiquity.</description>
+    </item>
+    
+    <item>
       <title>teaching-rome</title>
       <link>https://open-archaeo.info/post/teaching-rome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2320,12 +2752,39 @@
     </item>
     
     <item>
+      <title>THANADOS</title>
+      <link>https://open-archaeo.info/post/thanados/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/thanados/</guid>
+      <description>An open source, web application for the presentation of archaeological data especially for burial studies.</description>
+    </item>
+    
+    <item>
+      <title>The ABM in Archaeology Bibliography</title>
+      <link>https://open-archaeo.info/post/the-abm-in-archaeology-bibliography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/the-abm-in-archaeology-bibliography/</guid>
+      <description>A selected yet comprehensive list of literature and resources on Agent Based Models (ABM) in Archaeology.</description>
+    </item>
+    
+    <item>
       <title>The AWOL Index</title>
       <link>https://open-archaeo.info/post/the-awol-index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/the-awol-index/</guid>
       <description>This publication systematically describes ancient-world information resources on the world-wide web. The bibliographic data presented herein has been programmatically extracted from the content of AWOL - The Ancient World Online (ISSN 2156-2253) and formatted in accordance with a structured data model</description>
+    </item>
+    
+    <item>
+      <title>The Southwestern Taphonomic Protocol</title>
+      <link>https://open-archaeo.info/post/the-southwestern-taphonomic-protocol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/the-southwestern-taphonomic-protocol/</guid>
+      <description>A set of analyses to control for variable taphonomic impacts on archaeological faunal datasets</description>
     </item>
     
     <item>
@@ -2515,6 +2974,15 @@
       
       <guid>https://open-archaeo.info/post/xylib/</guid>
       <description>ylib is a portable library for reading files with x-y data from powder diffraction, spectroscopy, or other experimental methods</description>
+    </item>
+    
+    <item>
+      <title>yada</title>
+      <link>https://open-archaeo.info/post/yada/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/yada/</guid>
+      <description>yada, which stands for Yet Another Demographic Analysis package, supports a variety of demographic tasks, with most applications drawn from forensic anthroplogy and archaeology.</description>
     </item>
     
     <item>

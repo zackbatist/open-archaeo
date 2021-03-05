@@ -16,12 +16,30 @@
     </item>
     
     <item>
+      <title>allen-relations</title>
+      <link>https://open-archaeo.info/post/allen-relations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/allen-relations/</guid>
+      <description>Allen relations from Bayesian calibration: R function to compare two indefinite intervals produced by a Bayesian calibration using the Allen algebra</description>
+    </item>
+    
+    <item>
       <title>aoristAAR</title>
       <link>https://open-archaeo.info/post/aoristaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/aoristaar/</guid>
       <description>A R package for the aoristic analysis of archaeological data.</description>
+    </item>
+    
+    <item>
+      <title>aoristic</title>
+      <link>https://open-archaeo.info/post/aoristic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/aoristic/</guid>
+      <description>R package for aoristic analysis; the goal of aoristic is to make sense of temporally vague data.</description>
     </item>
     
     <item>
@@ -70,6 +88,15 @@
     </item>
     
     <item>
+      <title>baydem</title>
+      <link>https://open-archaeo.info/post/baydem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/baydem/</guid>
+      <description>Bayesian tools for reconstructing past demography</description>
+    </item>
+    
+    <item>
       <title>chronomodel</title>
       <link>https://open-archaeo.info/post/chronomodel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -85,6 +112,33 @@
       
       <guid>https://open-archaeo.info/post/chronophage/</guid>
       <description>Applications for obtaining chronograms (quantified chronology diagrams) and time distribution curves of archaeological or historical units from quantified dating indicators treated as inaccuracy intervals.</description>
+    </item>
+    
+    <item>
+      <title>datplot</title>
+      <link>https://open-archaeo.info/post/datplot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/datplot/</guid>
+      <description>Converting date ranges into dating &amp;lsquo;steps&amp;rsquo; eases the visualization of changes in e.g. pottery consumption, style and other variables over time. This package provides tools to process and prepare data for visualization.</description>
+    </item>
+    
+    <item>
+      <title>GeoChronR</title>
+      <link>https://open-archaeo.info/post/geochronr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/geochronr/</guid>
+      <description>An integrated framework that allows scientists to generate state-of-the-art age models for their records, create time-uncertain ensembles of their data, analyze those ensembles with a number of commonly-used techniques, and visualize their results in an intuitive way.</description>
+    </item>
+    
+    <item>
+      <title>oxcAAR</title>
+      <link>https://open-archaeo.info/post/oxcaar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/oxcaar/</guid>
+      <description>A collection of functions that can be used to execute OxCal from within R</description>
     </item>
     
     <item>

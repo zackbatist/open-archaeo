@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://open-archaeo.info/categories/lists/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ABM tutorials</title>
+      <link>https://open-archaeo.info/post/abm-tutorials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/abm-tutorials/</guid>
+      <description>A collection of tutorial on agent-based modelling for archaeologists</description>
+    </item>
+    
+    <item>
       <title>AncientMetagenomeDir</title>
       <link>https://open-archaeo.info/post/ancientmetagenomedir/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -94,6 +103,15 @@
       
       <guid>https://open-archaeo.info/post/roundup-of-resources-on-ancient-geography/</guid>
       <description>Included in the following list are links to digital project dealing with geography and the ancient world</description>
+    </item>
+    
+    <item>
+      <title>The ABM in Archaeology Bibliography</title>
+      <link>https://open-archaeo.info/post/the-abm-in-archaeology-bibliography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/the-abm-in-archaeology-bibliography/</guid>
+      <description>A selected yet comprehensive list of literature and resources on Agent Based Models (ABM) in Archaeology.</description>
     </item>
     
   </channel>

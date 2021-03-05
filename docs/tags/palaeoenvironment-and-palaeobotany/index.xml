@@ -52,6 +52,15 @@
     </item>
     
     <item>
+      <title>distantia</title>
+      <link>https://open-archaeo.info/post/distantia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/distantia/</guid>
+      <description>R package to compute dissimilarity between multivariate time series</description>
+    </item>
+    
+    <item>
       <title>ethnobotanyR</title>
       <link>https://open-archaeo.info/post/ethnobotanyr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -70,6 +79,15 @@
     </item>
     
     <item>
+      <title>GeoChronR</title>
+      <link>https://open-archaeo.info/post/geochronr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/geochronr/</guid>
+      <description>An integrated framework that allows scientists to generate state-of-the-art age models for their records, create time-uncertain ensembles of their data, analyze those ensembles with a number of commonly-used techniques, and visualize their results in an intuitive way.</description>
+    </item>
+    
+    <item>
       <title>ggvegan</title>
       <link>https://open-archaeo.info/post/ggvegan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -79,12 +97,57 @@
     </item>
     
     <item>
+      <title>paleocar</title>
+      <link>https://open-archaeo.info/post/paleocar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/paleocar/</guid>
+      <description>An R package implementing functions to perform spatio-temporal paleoclimate reconstruction from tree-rings using the CAR (Correlation Adjusted corRelation) approach of Zuber and Strimmer.</description>
+    </item>
+    
+    <item>
+      <title>PaleoView</title>
+      <link>https://open-archaeo.info/post/paleoview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/paleoview/</guid>
+      <description>A visualization tool for paleoclimatic modeling data.</description>
+    </item>
+    
+    <item>
       <title>pollen_data_processing</title>
       <link>https://open-archaeo.info/post/pollen-data-processing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/pollen-data-processing/</guid>
       <description>some tools in respect to pollen data processing.</description>
+    </item>
+    
+    <item>
+      <title>rpaleoclim</title>
+      <link>https://open-archaeo.info/post/rpaleoclim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rpaleoclim/</guid>
+      <description>R interface for open paleoclimate data</description>
+    </item>
+    
+    <item>
+      <title>strativerse</title>
+      <link>https://open-archaeo.info/post/strativerse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/strativerse/</guid>
+      <description>A collection of time-stratigraphic publications.</description>
+    </item>
+    
+    <item>
+      <title>tavo-a27</title>
+      <link>https://open-archaeo.info/post/tavo-a27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/tavo-a27/</guid>
+      <description>Ancient animal occurrence data from Uerpmann 1987, The Ancient Distribution of Ungulate Mammals in the Middle East, TAVO A27</description>
     </item>
     
     <item>

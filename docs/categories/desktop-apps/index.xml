@@ -79,6 +79,24 @@
     </item>
     
     <item>
+      <title>iDAI.field</title>
+      <link>https://open-archaeo.info/post/idai-field/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/idai-field/</guid>
+      <description>The German Archaeological Institute’s (DAI) new take on a field research documentation system. Combining features of GIS, photo management, and database management systems in a unique and integrating manner, it aims at facilitating archaeological workflows by reducing the overhead of using multiple systems. Developed in-house by the DAI’s information technology department, it targets primarily the needs of the institute’s excavations, older ones as well as those to come. Yet, due to the nature of its adjustable data model and the fact it is open source software, any interested third party is free to reuse and adjust it to their needs.</description>
+    </item>
+    
+    <item>
+      <title>PaleoView</title>
+      <link>https://open-archaeo.info/post/paleoview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/paleoview/</guid>
+      <description>A visualization tool for paleoclimatic modeling data.</description>
+    </item>
+    
+    <item>
       <title>RTIBuilder</title>
       <link>https://open-archaeo.info/post/rtibuilder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

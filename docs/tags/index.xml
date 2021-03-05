@@ -25,11 +25,38 @@
     </item>
     
     <item>
+      <title>Archaeoastronomy</title>
+      <link>https://open-archaeo.info/tags/archaeoastronomy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/archaeoastronomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Artefact morphology</title>
       <link>https://open-archaeo.info/tags/artefact-morphology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/tags/artefact-morphology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bibliography</title>
+      <link>https://open-archaeo.info/tags/bibliography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/bibliography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioarchaeology and archaeogenetics</title>
+      <link>https://open-archaeo.info/tags/bioarchaeology-and-archaeogenetics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/bioarchaeology-and-archaeogenetics/</guid>
       <description></description>
     </item>
     
@@ -57,6 +84,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/tags/communication-and-outreach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cultural evolution</title>
+      <link>https://open-archaeo.info/tags/cultural-evolution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/cultural-evolution/</guid>
       <description></description>
     </item>
     
@@ -345,6 +381,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/tags/schema-ontologies-and-templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seriation</title>
+      <link>https://open-archaeo.info/tags/seriation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/seriation/</guid>
       <description></description>
     </item>
     

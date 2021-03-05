@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bioarchaeology and archaeogenetics on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/bioarchaeology-and-archaeogenetics/</link>
+    <description>Recent content in Bioarchaeology and archaeogenetics on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/bioarchaeology-and-archaeogenetics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>archaeodiet</title>
+      <link>https://open-archaeo.info/post/archaeodiet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeodiet/</guid>
+      <description>Pipeline for metagenomic identification and authentication of ancient dietary DNA from archaeological samples</description>
+    </item>
+    
+    <item>
+      <title>gargammel</title>
+      <link>https://open-archaeo.info/post/gargammel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/gargammel/</guid>
+      <description>Gargammel is a set of programs aimed at simulating ancient DNA fragments. For ancient hominin samples our program can also simulate various levels of present-day human contamination and microbial contamination.</description>
+    </item>
+    
+    <item>
+      <title>statuAAR</title>
+      <link>https://open-archaeo.info/post/statuaar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/statuaar/</guid>
+      <description>Estimation of human stature from long bone measurements according to several well established estimation formula.</description>
+    </item>
+    
+    <item>
+      <title>yada</title>
+      <link>https://open-archaeo.info/post/yada/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/yada/</guid>
+      <description>yada, which stands for Yet Another Demographic Analysis package, supports a variety of demographic tasks, with most applications drawn from forensic anthroplogy and archaeology.</description>
+    </item>
+    
+  </channel>
+</rss>

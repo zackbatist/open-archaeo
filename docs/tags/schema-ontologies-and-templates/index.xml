@@ -48,7 +48,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/era/</guid>
-      <description>An R package that provides a consistent vector representation of years with an associated calendar era or time scale. It includes built-in definitions of many contemporary and historic calendars; time scales commonly used in archaeology, astronomy, geology, and other palaeosciences (e.g. Before Present, SI-prefixed annus); and support for arbitrary user-defined eras. Functions for converting between eras and for type-stable arithmetic with years are also provided.</description>
+      <description>R package for year-based time scales</description>
     </item>
     
     <item>
@@ -58,6 +58,15 @@
       
       <guid>https://open-archaeo.info/post/inclusions/</guid>
       <description>Shortcodes to describe inclusions in ceramic bodies</description>
+    </item>
+    
+    <item>
+      <title>nonekXML</title>
+      <link>https://open-archaeo.info/post/nonekxml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/nonekxml/</guid>
+      <description>Exchange data format (XML) for NoNeK (Nordmitteleuropäische Neolithische Keramik)</description>
     </item>
     
     <item>
@@ -85,6 +94,15 @@
       
       <guid>https://open-archaeo.info/post/rppsfs/</guid>
       <description>Roman Peasant Project Small Finds Ontology</description>
+    </item>
+    
+    <item>
+      <title>The Southwestern Taphonomic Protocol</title>
+      <link>https://open-archaeo.info/post/the-southwestern-taphonomic-protocol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/the-southwestern-taphonomic-protocol/</guid>
+      <description>A set of analyses to control for variable taphonomic impacts on archaeological faunal datasets</description>
     </item>
     
   </channel>
