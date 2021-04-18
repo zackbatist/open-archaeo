@@ -1,0 +1,23 @@
+# set `baseurl` to your root domain
+# if you set it to "/" share icons won't work properly on production
+baseurl = "https://open-archaeo.info/"  # Include trailing slash
+title = "open-archaeo"
+author = "open-archaeo"
+# copyright = ""
+# canonifyurls = true
+paginate = 1000
+theme = "hugo-clarity"
+
+disqusShortname = ""
+
+# DefaultContentLanguage = "en"
+# [languages]
+# config/_default/languages.toml
+
+# [menus]
+# config/_default/menus/menu.xx.toml
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+author = "authors"

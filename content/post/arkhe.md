@@ -2,8 +2,7 @@
   "title": "arkhe",
   "description": ["A Collection of R S4 Classes that Represent Archaeological Data"],
   "links": {
-    "GitHub": "https://github.com/nfrerebeau/arkhe",
-    "Website": "https://arkhe.archaeo.science/"
+    "GitHub": "https://github.com/nfrerebeau/arkhe"
   },
   "authors": ["nfrerebeau"],
   "categories": ["R"],

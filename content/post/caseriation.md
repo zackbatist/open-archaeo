@@ -6,7 +6,7 @@
   },
   "authors": ["gianmarcoalberti"],
   "categories": ["R"],
-  "tags": ["Quantitative and statistical analysis", "Seriation"],
+  "tags": ["Quantitative and statistical analysis"],
   "doi": null
 }
 

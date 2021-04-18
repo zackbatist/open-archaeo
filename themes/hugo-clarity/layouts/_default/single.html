@@ -1,0 +1,40 @@
+{{- define "main" }}
+{{- $s := .Site.Params }}
+{{- $p := .Params }}
+{{- $scratch := newScratch }}
+{{- if isset $p "image" }}
+  {{- $scratch.Set "image" $p.image }}
+{{- else }}
+  {{ $scratch.Set "image" $s.fallBackOgImage }}
+{{- end }}
+{{- $image := $scratch.Get "image" }}
+{{- $bg := absLangURL (path.Join "images" $image) }}
+<div class="{{ if ne $p.singleColumn true }}grid-inverse {{ end }}wrap content">
+  <article class="post_content">
+    {{- $t := .Title }}
+    <h1 class="post_title">{{ $t }}</h1>
+    {{- partial "post-meta" . }}
+    {{ with $p.featureImage }}
+    <img src="{{ . }}" class="image_featured" alt="{{ $t }}">
+    {{ end }}
+    {{ if $p.toc }}
+    <h2>{{ T "overview" }}</h2>
+    {{ .TableOfContents }}
+    {{ end }}
+    {{- .Content }}
+    {{- $showComments := true }}
+    {{- if eq $s.comments false }}
+      {{- $showComments = false }}
+    {{- else if eq $p.comments false }}
+      {{- $showComments = false }}
+    {{- end }}
+    {{- if ne $showComments false }}
+      {{- partial "comments" . }}
+    {{- end }}
+    {{- partial "i18nlist" . }}
+  </article>
+  {{- if ( ne $p.sidebar false ) }}
+    {{- partial "sidebar" . }}
+  {{ end }}
+</div>
+{{- end }}

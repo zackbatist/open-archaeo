@@ -6,7 +6,7 @@
   },
   "authors": ["mpeeples2008"],
   "categories": ["R"],
-  "tags": ["Diagrams and visualizations", "Seriation"],
+  "tags": ["Diagrams and visualizations"],
   "doi": null
 }
 

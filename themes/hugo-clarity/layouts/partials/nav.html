@@ -1,0 +1,35 @@
+{{- $menu := .menu }}
+{{ $menuData := .context.Site.Data.menu }}
+{{- $link := .context.Permalink }}
+{{- $url := "" }}
+{{- $name := "" }}
+{{- $children := false }}
+{{- range $menu }}
+  {{- if eq $menu $menuData }}
+    {{- $children = .submenu }}
+    {{- $name = .name }}
+    {{- $url = absURL .link }}
+  {{- else }}
+    {{- $children = .Children }}
+    {{- $name = .Name }}
+    {{- $url = absLangURL .URL }}
+  {{- end }}
+  <div class="nav_parent{{ if (and (not .Children) (eq $url $link)) }} nav_active{{ end}}">
+    <a href="{{ $url }}" class="nav_item" title="{{ $name }}">{{ $name }} {{ with $children }}<img src='{{ absURL "icons/caret-icon.svg" }}' alt="icon" class="nav_icon">{{ end }}</a>
+    {{- with $children }}
+    <div class="nav_sub">
+      <span class="nav_child"></span>
+      {{- range . }}
+        {{- if eq $menu $menuData }}
+          {{- $name = .name }}
+          {{- $url = absURL .link }}
+        {{- else }}
+          {{- $name = .Name }}
+          {{- $url = absLangURL .URL }}
+        {{- end }}
+        <a href="{{ $url }}" class="nav_child nav_item" title="{{ $name }}">{{ $name }}</a>
+      {{- end }}
+    </div>
+    {{- end }}
+  </div>
+{{- end }}
