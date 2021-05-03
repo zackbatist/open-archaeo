@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "hyde-hyde.css",
-	"sourceRoot": "/home/zack/Dropbox/open-archaeo",
+	"sourceRoot": "/Users/zackbatist/Dropbox/open-archaeo",
 	"sources": [
 		"themes/hyde-hyde/assets/scss/hyde-hyde.scss",
 		"assets/scss/hyde-hyde/_variables.scss",

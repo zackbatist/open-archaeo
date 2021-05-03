@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "custom.css",
-	"sourceRoot": "/home/zack/Dropbox/open-archaeo",
+	"sourceRoot": "/Users/zackbatist/Dropbox/open-archaeo",
 	"sources": [
 		"stdin"
 	],
