@@ -2,11 +2,12 @@
   "title": "coproID",
   "description": ["CoproID helps you to identify the \"true maker\" of Illumina sequenced Coprolites/Paleofaeces by checking the microbiome composition and the endogenous DNA."],
   "links": {
-    "GitHub": "https://github.com/maxibor/coproID"
+    "GitHub": "https://github.com/maxibor/coproID",
+    "Website": "https://coproid.readthedocs.io/en/latest/"
   },
-  "authors": ["maxibor"],
-  "categories": ["Command line tools"],
-  "tags": ["Palaeoenvironment and palaeobotany"],
+  "authors": ["maxibor", "nf-core"],
+  "categories": ["Nextflow"],
+  "tags": ["Palaeoenvironment and palaeobotany", "Pipelines", "Ancient DNA"],
   "doi": null
 }
 

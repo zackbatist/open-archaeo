@@ -7,6 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://open-archaeo.info/tags/drivers-and-io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>survey2gis</title>
+      <link>https://open-archaeo.info/post/survey2gis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/survey2gis/</guid>
+      <description>A little tool for processing survey data, such as produced by a GPS or total station, and export it as topologically cleaned data fit for use in GIS.</description>
+    </item>
+    
+    <item>
+      <title>Tachy2GIS</title>
+      <link>https://open-archaeo.info/post/tachy2gis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/tachy2gis/</guid>
+      <description>Enables you to create geometries directly from tachymeter input while at the same time adding vertices manually.</description>
+    </item>
+    
+    <item>
       <title>total-station-manuals</title>
       <link>https://open-archaeo.info/post/total-station-manuals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

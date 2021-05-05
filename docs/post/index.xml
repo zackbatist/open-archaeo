@@ -79,6 +79,15 @@
     </item>
     
     <item>
+      <title>adrsm</title>
+      <link>https://open-archaeo.info/post/adrsm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/adrsm/</guid>
+      <description>A tool designed to simulate the paired-end sequencing of a metagenomic community.</description>
+    </item>
+    
+    <item>
       <title>AIS</title>
       <link>https://open-archaeo.info/post/ais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -166,6 +175,33 @@
       
       <guid>https://open-archaeo.info/post/ancientmetagenomedir/</guid>
       <description>Repository containing lists of all published ancient metagenome samples (and related)</description>
+    </item>
+    
+    <item>
+      <title>Anfo</title>
+      <link>https://open-archaeo.info/post/anfo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/anfo/</guid>
+      <description>NA</description>
+    </item>
+    
+    <item>
+      <title>angsd</title>
+      <link>https://open-archaeo.info/post/angsd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/angsd/</guid>
+      <description>Program for analysing next generation sequencing data.</description>
+    </item>
+    
+    <item>
+      <title>AntCaller</title>
+      <link>https://open-archaeo.info/post/antcaller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/antcaller/</guid>
+      <description>SNP calling and genotyping for damaged DNA.</description>
     </item>
     
     <item>
@@ -439,6 +475,15 @@
     </item>
     
     <item>
+      <title>ARIADNA</title>
+      <link>https://open-archaeo.info/post/ariadna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/ariadna/</guid>
+      <description>Machine Learning Method for Ancient DNA Variant Discovery</description>
+    </item>
+    
+    <item>
       <title>ark-addons</title>
       <link>https://open-archaeo.info/post/ark-addons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -553,6 +598,24 @@
       
       <guid>https://open-archaeo.info/post/atlantgis/</guid>
       <description>Faked GIS-Datasets, simulating an island in the Atlantic for educational purposes in using GIS in archaeology</description>
+    </item>
+    
+    <item>
+      <title>atlas</title>
+      <link>https://open-archaeo.info/post/atlas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/atlas/</guid>
+      <description>A set of tools that cover all programs necessary to obtain variant calls, estimates of heterozygosity and more from a BAM file.</description>
+    </item>
+    
+    <item>
+      <title>AuthentiCT</title>
+      <link>https://open-archaeo.info/post/authentict/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/authentict/</guid>
+      <description>Estimate the proportion of present-day DNA contamination in ancient DNA datasets generated from single-stranded libraries.</description>
     </item>
     
     <item>
@@ -916,6 +979,24 @@
     </item>
     
     <item>
+      <title>Consensify</title>
+      <link>https://open-archaeo.info/post/consensify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/consensify/</guid>
+      <description>NA</description>
+    </item>
+    
+    <item>
+      <title>contamMix</title>
+      <link>https://open-archaeo.info/post/contammix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/contammix/</guid>
+      <description>NA</description>
+    </item>
+    
+    <item>
       <title>coproID</title>
       <link>https://open-archaeo.info/post/coproid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -970,6 +1051,24 @@
     </item>
     
     <item>
+      <title>DamageProfiler</title>
+      <link>https://open-archaeo.info/post/damageprofiler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/damageprofiler/</guid>
+      <description>A Java based tool to determine damage patterns on ancient DNA as a replacement for mapDamage.</description>
+    </item>
+    
+    <item>
+      <title>DATES</title>
+      <link>https://open-archaeo.info/post/dates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/dates/</guid>
+      <description>NA</description>
+    </item>
+    
+    <item>
       <title>datplot</title>
       <link>https://open-archaeo.info/post/datplot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1021,6 +1120,15 @@
       
       <guid>https://open-archaeo.info/post/demjanp/</guid>
       <description>Radiocarbon Dating Resolution Calculator</description>
+    </item>
+    
+    <item>
+      <title>Dice</title>
+      <link>https://open-archaeo.info/post/dice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/dice/</guid>
+      <description>NA</description>
     </item>
     
     <item>
@@ -1105,12 +1213,48 @@
     </item>
     
     <item>
+      <title>eager</title>
+      <link>https://open-archaeo.info/post/eager/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/eager/</guid>
+      <description>A fully reproducible and state-of-the-art ancient DNA analysis pipeline.</description>
+    </item>
+    
+    <item>
+      <title>EAGER-CLI</title>
+      <link>https://open-archaeo.info/post/eager-cli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/eager-cli/</guid>
+      <description>A fully reproducible and state-of-the-art ancient DNA analysis pipeline.</description>
+    </item>
+    
+    <item>
+      <title>EAGER-GUI</title>
+      <link>https://open-archaeo.info/post/eager-gui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/eager-gui/</guid>
+      <description>A fully reproducible and state-of-the-art ancient DNA analysis pipeline.</description>
+    </item>
+    
+    <item>
       <title>ede_interpolation</title>
       <link>https://open-archaeo.info/post/ede-interpolation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/ede-interpolation/</guid>
       <description>A QGIS 3 plugin for spatio-temporal interpolation of archaeological settlement evidence.</description>
+    </item>
+    
+    <item>
+      <title>epiPALEOMIX</title>
+      <link>https://open-archaeo.info/post/epipaleomix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/epipaleomix/</guid>
+      <description>A Fast, Accurate, and Automatic pipeline for generating nucleosome and methylation maps from high throughput sequencing data underlying ancient samples.</description>
     </item>
     
     <item>
@@ -1165,6 +1309,15 @@
       
       <guid>https://open-archaeo.info/post/fastmarching/</guid>
       <description>An R implementation of the Fast Marching Method (FMM), first developed by Sethian (1996), with the modifications of Silva and Steele (2012, 2014). Also included is a spatial wrapper function that makes it easier to model dispersal scenarios in geospatial domains, as originally envisaged for the study and simulation of prehistoric dispersals</description>
+    </item>
+    
+    <item>
+      <title>Fiche Stratigraphique Numérique (FSN)</title>
+      <link>https://open-archaeo.info/post/fiche-stratigraphique-nume%CC%81rique-fsn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/fiche-stratigraphique-nume%CC%81rique-fsn/</guid>
+      <description>Fiche Stratigraphique Numérique (FSN) is an application project for field recording and management of archaeological operations data.</description>
     </item>
     
     <item>
@@ -1366,6 +1519,15 @@
     </item>
     
     <item>
+      <title>hapROH</title>
+      <link>https://open-archaeo.info/post/haproh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/haproh/</guid>
+      <description>Software to call ROH from ancient and present-day DNA using reference haplotypes.</description>
+    </item>
+    
+    <item>
       <title>harris-matrix</title>
       <link>https://open-archaeo.info/post/harris-matrix-semerj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1426,6 +1588,15 @@
       
       <guid>https://open-archaeo.info/post/historical-geocoding-assistant/</guid>
       <description>Tool for assisted geocoding of historical datasets (something between a manual table editing and automated geocoding script)</description>
+    </item>
+    
+    <item>
+      <title>HOPS</title>
+      <link>https://open-archaeo.info/post/hops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/hops/</guid>
+      <description>A pipeline which focuses on screening MALT data for the presence of a user-specified list of target species.</description>
     </item>
     
     <item>
@@ -1573,6 +1744,15 @@
     </item>
     
     <item>
+      <title>Leehom</title>
+      <link>https://open-archaeo.info/post/leehom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/leehom/</guid>
+      <description>NA</description>
+    </item>
+    
+    <item>
       <title>levant-zooarch</title>
       <link>https://open-archaeo.info/post/levant-zooarch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1645,6 +1825,15 @@
     </item>
     
     <item>
+      <title>MALT</title>
+      <link>https://open-archaeo.info/post/malt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/malt/</guid>
+      <description>A sequence alignment and analysis tool designedfor processing high-throughput sequencing data, especially in the context of metagenomics.</description>
+    </item>
+    
+    <item>
       <title>Map Files</title>
       <link>https://open-archaeo.info/post/map-files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1663,12 +1852,30 @@
     </item>
     
     <item>
+      <title>mapDamage</title>
+      <link>https://open-archaeo.info/post/mapdamage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/mapdamage/</guid>
+      <description>Tracking and quantifying damage patterns in ancient DNA sequences.</description>
+    </item>
+    
+    <item>
       <title>MAX</title>
       <link>https://open-archaeo.info/post/max/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/max/</guid>
       <description>An online tool for the comparative analysis of museum databases.</description>
+    </item>
+    
+    <item>
+      <title>maximum-likelihood-relatedness-estimation</title>
+      <link>https://open-archaeo.info/post/maximum-likelihood-relatedness-estimation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/maximum-likelihood-relatedness-estimation/</guid>
+      <description>Infer biological relatedness from low coverage 2nd generation sequencing data.</description>
     </item>
     
     <item>
@@ -1699,12 +1906,30 @@
     </item>
     
     <item>
+      <title>metabit</title>
+      <link>https://open-archaeo.info/post/metabit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/metabit/</guid>
+      <description>An integrative and automated metagenomic pipeline for analysing microbial profiles from high-throughput sequencing shotgun data.</description>
+    </item>
+    
+    <item>
       <title>mhbil</title>
       <link>https://open-archaeo.info/post/mhbil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/mhbil/</guid>
       <description>Code repository of the book by Oliver Nakoinz and Daniel Knitter &amp;ldquo;Modelling Human Behaviour in Landscapes &amp;ndash; Basic concepts and modelling elements&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Mia</title>
+      <link>https://open-archaeo.info/post/mia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/mia/</guid>
+      <description>NA</description>
     </item>
     
     <item>
@@ -1750,6 +1975,15 @@
       
       <guid>https://open-archaeo.info/post/mudata/</guid>
       <description>The mudata2 package provides tools to read, write, and document multi-parameter spatiotemporal data</description>
+    </item>
+    
+    <item>
+      <title>MultiVCFAnalyzer</title>
+      <link>https://open-archaeo.info/post/multivcfanalyzer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/multivcfanalyzer/</guid>
+      <description>A SNP filtering and SNP alignment generation tool, designed around (but not limited to) low coverage ancient DNA data.</description>
     </item>
     
     <item>
@@ -2014,6 +2248,15 @@
     </item>
     
     <item>
+      <title>paleomix</title>
+      <link>https://open-archaeo.info/post/paleomix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/paleomix/</guid>
+      <description>Pipelines and tools for the processing of ancient and modern High-Throughput Sequencing (HTS) data.</description>
+    </item>
+    
+    <item>
       <title>PaleoView</title>
       <link>https://open-archaeo.info/post/paleoview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2068,6 +2311,15 @@
     </item>
     
     <item>
+      <title>pileupcaller</title>
+      <link>https://open-archaeo.info/post/pileupcaller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pileupcaller/</guid>
+      <description>Sample alleles from low coverage sequence data.</description>
+    </item>
+    
+    <item>
       <title>piwigo-3dhop</title>
       <link>https://open-archaeo.info/post/piwigo-3dhop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2083,6 +2335,15 @@
       
       <guid>https://open-archaeo.info/post/plc/</guid>
       <description>Pure Locational Clustering.</description>
+    </item>
+    
+    <item>
+      <title>PMDtools</title>
+      <link>https://open-archaeo.info/post/pmdtools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pmdtools/</guid>
+      <description>Compute postmortem damage patterns and decontaminate ancient genomes.</description>
     </item>
     
     <item>
@@ -2320,6 +2581,15 @@
     </item>
     
     <item>
+      <title>READ</title>
+      <link>https://open-archaeo.info/post/read/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/read/</guid>
+      <description>A method to infer the degree of relationship (up to second degree, i.e. nephew/niece-uncle/aunt, grandparent-grandchild or half-siblings) for a pair of low-coverage individuals.</description>
+    </item>
+    
+    <item>
       <title>recexcavAAR</title>
       <link>https://open-archaeo.info/post/recexcavaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2482,6 +2752,15 @@
     </item>
     
     <item>
+      <title>schmutzi</title>
+      <link>https://open-archaeo.info/post/schmutzi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/schmutzi/</guid>
+      <description>Maximum a posteriori estimate of contamination for ancient samples.</description>
+    </item>
+    
+    <item>
       <title>scikit-beam</title>
       <link>https://open-archaeo.info/post/scikit-beam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2542,6 +2821,15 @@
       
       <guid>https://open-archaeo.info/post/seriographe-eppm/</guid>
       <description>The EPPM serograph is a graphical tool for chronological serialization of archaeological furniture counting tables.</description>
+    </item>
+    
+    <item>
+      <title>Sex.DetERRmine</title>
+      <link>https://open-archaeo.info/post/sex-deterrmine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/sex-deterrmine/</guid>
+      <description>Calculate the relative coverage of X and Y chromosomes, and their associated error bars, from the depth of coverage at specified SNPs.</description>
     </item>
     
     <item>
@@ -2635,6 +2923,15 @@
     </item>
     
     <item>
+      <title>snpAD</title>
+      <link>https://open-archaeo.info/post/snpad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/snpad/</guid>
+      <description>Implements an iterative method to jointly estimate error rates and genotypes frequencies from the data.</description>
+    </item>
+    
+    <item>
       <title>soiltexture</title>
       <link>https://open-archaeo.info/post/soiltexture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2650,6 +2947,15 @@
       
       <guid>https://open-archaeo.info/post/sparch/</guid>
       <description>A set of extra utilities that extend the functionlaity provided by core packages for spatial data management and analysis in R</description>
+    </item>
+    
+    <item>
+      <title>SPARSE</title>
+      <link>https://open-archaeo.info/post/sparse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/sparse/</guid>
+      <description>Indexes &amp;gt;100,000 reference genomes in public databases in to hierarchical clusters and uses it to predict origins of metagenomic reads.</description>
     </item>
     
     <item>
@@ -2695,6 +3001,15 @@
       
       <guid>https://open-archaeo.info/post/strativerse/</guid>
       <description>A collection of time-stratigraphic publications.</description>
+    </item>
+    
+    <item>
+      <title>survey2gis</title>
+      <link>https://open-archaeo.info/post/survey2gis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/survey2gis/</guid>
+      <description>A little tool for processing survey data, such as produced by a GPS or total station, and export it as topologically cleaned data fit for use in GIS.</description>
     </item>
     
     <item>
@@ -2749,6 +3064,24 @@
       
       <guid>https://open-archaeo.info/post/tabula/</guid>
       <description>Analysis, Seriation and Visualization of Archaeological Count Data.</description>
+    </item>
+    
+    <item>
+      <title>Tachy2GIS</title>
+      <link>https://open-archaeo.info/post/tachy2gis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/tachy2gis/</guid>
+      <description>Enables you to create geometries directly from tachymeter input while at the same time adding vertices manually.</description>
+    </item>
+    
+    <item>
+      <title>tapas</title>
+      <link>https://open-archaeo.info/post/tapas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/tapas/</guid>
+      <description>Evaluate the effectiveness of any short read mapper and its parameters using artificially generated reads.</description>
     </item>
     
     <item>

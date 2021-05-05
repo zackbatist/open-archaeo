@@ -5,9 +5,9 @@
     "GitHub": "https://github.com/poseidon-framework",
     "Website": "https://poseidon-framework.github.io/"
   },
-  "authors": ["Poseidon Framework"],
+  "authors": ["poseidon-framework"],
   "categories": ["?"],
-  "tags": ["Schema, ontologies and templates"],
+  "tags": ["Schema, ontologies and templates", "Ancient DNA", "Bioarchaeology and archaeogenetics"],
   "doi": null
 }
 

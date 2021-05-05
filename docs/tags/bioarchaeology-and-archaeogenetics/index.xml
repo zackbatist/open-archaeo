@@ -7,12 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://open-archaeo.info/tags/bioarchaeology-and-archaeogenetics/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>AncientMetagenomeDir</title>
+      <link>https://open-archaeo.info/post/ancientmetagenomedir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/ancientmetagenomedir/</guid>
+      <description>Repository containing lists of all published ancient metagenome samples (and related)</description>
+    </item>
+    
+    <item>
       <title>archaeodiet</title>
       <link>https://open-archaeo.info/post/archaeodiet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/archaeodiet/</guid>
       <description>Pipeline for metagenomic identification and authentication of ancient dietary DNA from archaeological samples.</description>
+    </item>
+    
+    <item>
+      <title>eager</title>
+      <link>https://open-archaeo.info/post/eager/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/eager/</guid>
+      <description>A fully reproducible and state-of-the-art ancient DNA analysis pipeline.</description>
     </item>
     
     <item>

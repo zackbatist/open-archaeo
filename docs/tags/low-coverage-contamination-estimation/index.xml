@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Low-coverage contamination estimation on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/low-coverage-contamination-estimation/</link>
+    <description>Recent content in Low-coverage contamination estimation on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/low-coverage-contamination-estimation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>angsd</title>
+      <link>https://open-archaeo.info/post/angsd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/angsd/</guid>
+      <description>Program for analysing next generation sequencing data.</description>
+    </item>
+    
+    <item>
+      <title>AuthentiCT</title>
+      <link>https://open-archaeo.info/post/authentict/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/authentict/</guid>
+      <description>Estimate the proportion of present-day DNA contamination in ancient DNA datasets generated from single-stranded libraries.</description>
+    </item>
+    
+    <item>
+      <title>schmutzi</title>
+      <link>https://open-archaeo.info/post/schmutzi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/schmutzi/</guid>
+      <description>Maximum a posteriori estimate of contamination for ancient samples.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,8 +5,8 @@
     "GitHub": "https://github.com/jfy133/archaeodiet"
   },
   "authors": ["jfy133"],
-  "categories": [null],
-  "tags": ["Bioarchaeology and archaeogenetics"],
+  "categories": ["Nextflow"],
+  "tags": ["Bioarchaeology and archaeogenetics", "Ancient DNA"],
   "doi": null
 }
 

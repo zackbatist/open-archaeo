@@ -16,6 +16,33 @@
     </item>
     
     <item>
+      <title>aDNA Damage-aware Genotypers</title>
+      <link>https://open-archaeo.info/tags/adna-damage-aware-genotypers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/adna-damage-aware-genotypers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aDNA Simulators</title>
+      <link>https://open-archaeo.info/tags/adna-simulators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/adna-simulators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ancient DNA</title>
+      <link>https://open-archaeo.info/tags/ancient-dna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/ancient-dna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>API interfaces, scrapers and datasets</title>
       <link>https://open-archaeo.info/tags/api-interfaces-scrapers-and-datasets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -93,6 +120,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/tags/cultural-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Damage profilers</title>
+      <link>https://open-archaeo.info/tags/damage-profilers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/damage-profilers/</guid>
       <description></description>
     </item>
     
@@ -268,11 +304,38 @@
     </item>
     
     <item>
+      <title>Low-coverage adapted population-genetics tools</title>
+      <link>https://open-archaeo.info/tags/low-coverage-adapted-population-genetics-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/low-coverage-adapted-population-genetics-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-coverage contamination estimation</title>
+      <link>https://open-archaeo.info/tags/low-coverage-contamination-estimation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/low-coverage-contamination-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Luminescence</title>
       <link>https://open-archaeo.info/tags/luminescence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/tags/luminescence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metagenomic classifers</title>
+      <link>https://open-archaeo.info/tags/metagenomic-classifers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/metagenomic-classifers/</guid>
       <description></description>
     </item>
     
@@ -318,6 +381,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/tags/photogrammetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pipelines</title>
+      <link>https://open-archaeo.info/tags/pipelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/pipelines/</guid>
       <description></description>
     </item>
     

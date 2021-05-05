@@ -5,8 +5,8 @@
     "GitHub": "https://github.com/nf-core/eager"
   },
   "authors": ["nf-core"],
-  "categories": [null],
-  "tags": ["Bioarchaeology and archaeogenetics"],
+  "categories": ["Nextflow"],
+  "tags": ["Bioarchaeology and archaeogenetics", "Ancient DNA", "Ancient DNA"],
   "doi": null
 }
 

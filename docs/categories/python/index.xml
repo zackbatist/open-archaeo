@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://open-archaeo.info/categories/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>AuthentiCT</title>
+      <link>https://open-archaeo.info/post/authentict/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/authentict/</guid>
+      <description>Estimate the proportion of present-day DNA contamination in ancient DNA datasets generated from single-stranded libraries.</description>
+    </item>
+    
+    <item>
       <title>CeraMatch</title>
       <link>https://open-archaeo.info/post/ceramatch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -40,6 +49,15 @@
       
       <guid>https://open-archaeo.info/post/demjanp/</guid>
       <description>Radiocarbon Dating Resolution Calculator</description>
+    </item>
+    
+    <item>
+      <title>hapROH</title>
+      <link>https://open-archaeo.info/post/haproh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/haproh/</guid>
+      <description>Software to call ROH from ancient and present-day DNA using reference haplotypes.</description>
     </item>
     
     <item>
@@ -79,12 +97,30 @@
     </item>
     
     <item>
+      <title>mapDamage</title>
+      <link>https://open-archaeo.info/post/mapdamage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/mapdamage/</guid>
+      <description>Tracking and quantifying damage patterns in ancient DNA sequences.</description>
+    </item>
+    
+    <item>
       <title>murature</title>
       <link>https://open-archaeo.info/post/murature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/murature/</guid>
       <description>This Python library was written as an help for the study of stone walls, mainly through the quantitative analysis of spatial dimensions of stones.</description>
+    </item>
+    
+    <item>
+      <title>PMDtools</title>
+      <link>https://open-archaeo.info/post/pmdtools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pmdtools/</guid>
+      <description>Compute postmortem damage patterns and decontaminate ancient genomes.</description>
     </item>
     
     <item>
@@ -112,6 +148,24 @@
       
       <guid>https://open-archaeo.info/post/scikit-beam/</guid>
       <description>Data analysis tools for X-Ray, Neutron and Electron sciences</description>
+    </item>
+    
+    <item>
+      <title>Sex.DetERRmine</title>
+      <link>https://open-archaeo.info/post/sex-deterrmine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/sex-deterrmine/</guid>
+      <description>Calculate the relative coverage of X and Y chromosomes, and their associated error bars, from the depth of coverage at specified SNPs.</description>
+    </item>
+    
+    <item>
+      <title>SPARSE</title>
+      <link>https://open-archaeo.info/post/sparse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/sparse/</guid>
+      <description>Indexes &amp;gt;100,000 reference genomes in public databases in to hierarchical clusters and uses it to predict origins of metagenomic reads.</description>
     </item>
     
     <item>
