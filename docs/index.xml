@@ -174,7 +174,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/ancientmetagenomedir/</guid>
-      <description>Repository containing lists of all published ancient metagenome samples (and related)</description>
+      <description>Repository containing lists of all published ancient metagenome samples (and related).</description>
     </item>
     
     <item>
@@ -183,7 +183,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/anfo/</guid>
-      <description>NA</description>
+      <description>The ANFO ancient DNA mapper.</description>
     </item>
     
     <item>
@@ -984,16 +984,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/consensify/</guid>
-      <description>NA</description>
+      <description>Consensify method for error reduction in ancient DNA pseudohaploidisation.</description>
     </item>
     
     <item>
-      <title>contamMix</title>
-      <link>https://open-archaeo.info/post/contammix/</link>
+      <title>ContamLD</title>
+      <link>https://open-archaeo.info/post/contamld/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/contammix/</guid>
-      <description>NA</description>
+      <guid>https://open-archaeo.info/post/contamld/</guid>
+      <description>Software designed to estimate autosomal contamination in ancient DNA samples.</description>
     </item>
     
     <item>
@@ -1060,12 +1060,21 @@
     </item>
     
     <item>
+      <title>DamMet</title>
+      <link>https://open-archaeo.info/post/dammet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/dammet/</guid>
+      <description>A full probabilistic model for mapping ancient methylomes.</description>
+    </item>
+    
+    <item>
       <title>DATES</title>
       <link>https://open-archaeo.info/post/dates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/dates/</guid>
-      <description>NA</description>
+      <description>Method for dating admixture in ancient DNA specimens.</description>
     </item>
     
     <item>
@@ -1123,12 +1132,12 @@
     </item>
     
     <item>
-      <title>Dice</title>
+      <title>DICE</title>
       <link>https://open-archaeo.info/post/dice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/dice/</guid>
-      <description>NA</description>
+      <description>Joint estimate of demography and contamination for nuclear ancient DNA.</description>
     </item>
     
     <item>
@@ -1254,7 +1263,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/epipaleomix/</guid>
-      <description>A Fast, Accurate, and Automatic pipeline for generating nucleosome and methylation maps from high throughput sequencing data underlying ancient samples.</description>
+      <description>A fast, accurate, and automatic pipeline for generating nucleosome and methylation maps from high throughput sequencing data underlying ancient samples.</description>
     </item>
     
     <item>
@@ -1398,7 +1407,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/gargammel/</guid>
-      <description>Gargammel is a set of programs aimed at simulating ancient DNA fragments. For ancient hominin samples our program can also simulate various levels of present-day human contamination and microbial contamination.</description>
+      <description>A set of programs aimed at simulating ancient DNA fragments. For ancient hominin samples our program can also simulate various levels of present-day human contamination and microbial contamination.</description>
     </item>
     
     <item>
@@ -1749,7 +1758,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/leehom/</guid>
-      <description>NA</description>
+      <description>Bayesian reconstruction of ancient DNA fragments.</description>
     </item>
     
     <item>
@@ -1816,6 +1825,15 @@
     </item>
     
     <item>
+      <title>MADAM</title>
+      <link>https://open-archaeo.info/post/madam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/madam/</guid>
+      <description>Two-level de novo assembly strategy for ancient bacterial genomes.</description>
+    </item>
+    
+    <item>
       <title>magAAR</title>
       <link>https://open-archaeo.info/post/magaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1858,6 +1876,15 @@
       
       <guid>https://open-archaeo.info/post/mapdamage/</guid>
       <description>Tracking and quantifying damage patterns in ancient DNA sequences.</description>
+    </item>
+    
+    <item>
+      <title>mapping-iterative-assembler</title>
+      <link>https://open-archaeo.info/post/mapping-iterative-assembler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/mapping-iterative-assembler/</guid>
+      <description>Consensus calling (or &amp;ldquo;reference assisted assembly&amp;rdquo;), chiefly of ancient mitochondria.</description>
     </item>
     
     <item>
@@ -1921,15 +1948,6 @@
       
       <guid>https://open-archaeo.info/post/mhbil/</guid>
       <description>Code repository of the book by Oliver Nakoinz and Daniel Knitter &amp;ldquo;Modelling Human Behaviour in Landscapes &amp;ndash; Basic concepts and modelling elements&amp;rdquo;.</description>
-    </item>
-    
-    <item>
-      <title>Mia</title>
-      <link>https://open-archaeo.info/post/mia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/mia/</guid>
-      <description>NA</description>
     </item>
     
     <item>
@@ -2281,6 +2299,15 @@
       
       <guid>https://open-archaeo.info/post/pathaar/</guid>
       <description>R Package to reconstruct paths using archaeological monuments, model parameters of infrastructure and evaluate those parameters, model parameters of infrastructure and evaluate those parameters.</description>
+    </item>
+    
+    <item>
+      <title>pathPhynder</title>
+      <link>https://open-archaeo.info/post/pathphynder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pathphynder/</guid>
+      <description>A workflow for integrating ancient lineages into present-day phylogenies.</description>
     </item>
     
     <item>
@@ -3190,6 +3217,15 @@
       
       <guid>https://open-archaeo.info/post/tools-for-quantitative-archaeology/</guid>
       <description>Keith KintighTools for Quantitative Archaeology TFQA, is a package of more than 45 PC programs developed to satisfy several unusual analytical needs of archaeologists</description>
+    </item>
+    
+    <item>
+      <title>TOPAS</title>
+      <link>https://open-archaeo.info/post/topas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/topas/</guid>
+      <description>A toolkit for efficient manipulation of sequence data in various ways.</description>
     </item>
     
     <item>

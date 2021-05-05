@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>aDNA Simulators on open-archaeo</title>
+    <title>aDNA simulators on open-archaeo</title>
     <link>https://open-archaeo.info/tags/adna-simulators/</link>
-    <description>Recent content in aDNA Simulators on open-archaeo</description>
+    <description>Recent content in aDNA simulators on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://open-archaeo.info/tags/adna-simulators/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,6 +13,15 @@
       
       <guid>https://open-archaeo.info/post/adrsm/</guid>
       <description>A tool designed to simulate the paired-end sequencing of a metagenomic community.</description>
+    </item>
+    
+    <item>
+      <title>gargammel</title>
+      <link>https://open-archaeo.info/post/gargammel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/gargammel/</guid>
+      <description>A set of programs aimed at simulating ancient DNA fragments. For ancient hominin samples our program can also simulate various levels of present-day human contamination and microbial contamination.</description>
     </item>
     
     <item>

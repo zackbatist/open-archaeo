@@ -16,7 +16,25 @@
     </item>
     
     <item>
-      <title>aDNA Damage-aware Genotypers</title>
+      <title>aDNA aligner</title>
+      <link>https://open-archaeo.info/tags/adna-aligner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/adna-aligner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aDNA assembler</title>
+      <link>https://open-archaeo.info/tags/adna-assembler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/adna-assembler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aDNA damage-aware genotypers</title>
       <link>https://open-archaeo.info/tags/adna-damage-aware-genotypers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -25,11 +43,29 @@
     </item>
     
     <item>
-      <title>aDNA Simulators</title>
+      <title>aDNA preprocessing</title>
+      <link>https://open-archaeo.info/tags/adna-preprocessing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/adna-preprocessing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aDNA simulators</title>
       <link>https://open-archaeo.info/tags/adna-simulators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/tags/adna-simulators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aDNA toolkit</title>
+      <link>https://open-archaeo.info/tags/adna-toolkit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/adna-toolkit/</guid>
       <description></description>
     </item>
     

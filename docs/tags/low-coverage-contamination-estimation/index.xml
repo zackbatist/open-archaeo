@@ -25,6 +25,24 @@
     </item>
     
     <item>
+      <title>ContamLD</title>
+      <link>https://open-archaeo.info/post/contamld/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/contamld/</guid>
+      <description>Software designed to estimate autosomal contamination in ancient DNA samples.</description>
+    </item>
+    
+    <item>
+      <title>DICE</title>
+      <link>https://open-archaeo.info/post/dice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/dice/</guid>
+      <description>Joint estimate of demography and contamination for nuclear ancient DNA.</description>
+    </item>
+    
+    <item>
       <title>schmutzi</title>
       <link>https://open-archaeo.info/post/schmutzi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

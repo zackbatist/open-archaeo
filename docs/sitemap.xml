@@ -18,9 +18,17 @@
   </url><url>
     <loc>https://open-archaeo.info/post/admur/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/tags/adna-aligner/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/tags/adna-assembler/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/tags/adna-damage-aware-genotypers/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/tags/adna-preprocessing/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/tags/adna-simulators/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/tags/adna-toolkit/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/adrac/</loc>
   </url><url>
@@ -188,6 +196,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/brainerd-robinson-similarity-coefficient-and-sampling-error-assessment/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/categories/c/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/categories/c&#43;&#43;/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/c14/</loc>
@@ -254,7 +264,7 @@
   </url><url>
     <loc>https://open-archaeo.info/post/consensify/</loc>
   </url><url>
-    <loc>https://open-archaeo.info/post/contammix/</loc>
+    <loc>https://open-archaeo.info/post/contamld/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/coproid/</loc>
   </url><url>
@@ -273,6 +283,8 @@
     <loc>https://open-archaeo.info/tags/damage-profilers/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/damageprofiler/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/dammet/</loc>
   </url><url>
     <loc>https://open-archaeo.info/tags/data-collection-and-management/</loc>
   </url><url>
@@ -418,6 +430,8 @@
   </url><url>
     <loc>https://open-archaeo.info/tags/harrix-matrix/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/categories/haskell/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/heurist/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/historical-geocoding-assistant/</loc>
@@ -500,6 +514,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/maacgis/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/madam/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/magaar/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/malt/</loc>
@@ -509,6 +525,8 @@
     <loc>https://open-archaeo.info/post/map-of-ancient-egypt/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/mapdamage/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/mapping-iterative-assembler/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/max/</loc>
   </url><url>
@@ -525,8 +543,6 @@
     <loc>https://open-archaeo.info/tags/metagenomic-classifers/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/mhbil/</loc>
-  </url><url>
-    <loc>https://open-archaeo.info/post/mia/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/missing/</loc>
   </url><url>
@@ -561,6 +577,8 @@
     <loc>https://open-archaeo.info/post/nervia/</loc>
   </url><url>
     <loc>https://open-archaeo.info/tags/neutron-activation-analysis/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/categories/nextflow/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/nimblecarbon/</loc>
   </url><url>
@@ -620,6 +638,10 @@
   </url><url>
     <loc>https://open-archaeo.info/post/pathaar/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/pathphynder/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/categories/perl/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/tags/photogrammetry/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/photogrammetry-data-collection/</loc>
@@ -669,6 +691,8 @@
     <loc>https://open-archaeo.info/post/pyarchinit/</loc>
   </url><url>
     <loc>https://open-archaeo.info/categories/python/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/categories/python-/-r/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/pyxrf/</loc>
   </url><url>
@@ -863,6 +887,8 @@
     <loc>https://open-archaeo.info/post/tldating/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/tools-for-quantitative-archaeology/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/topas/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/tosca/</loc>
   </url><url>

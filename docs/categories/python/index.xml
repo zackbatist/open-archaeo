@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://open-archaeo.info/categories/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>AntCaller</title>
+      <link>https://open-archaeo.info/post/antcaller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/antcaller/</guid>
+      <description>SNP calling and genotyping for damaged DNA.</description>
+    </item>
+    
+    <item>
       <title>AuthentiCT</title>
       <link>https://open-archaeo.info/post/authentict/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -49,6 +58,15 @@
       
       <guid>https://open-archaeo.info/post/demjanp/</guid>
       <description>Radiocarbon Dating Resolution Calculator</description>
+    </item>
+    
+    <item>
+      <title>epiPALEOMIX</title>
+      <link>https://open-archaeo.info/post/epipaleomix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/epipaleomix/</guid>
+      <description>A fast, accurate, and automatic pipeline for generating nucleosome and methylation maps from high throughput sequencing data underlying ancient samples.</description>
     </item>
     
     <item>
@@ -115,6 +133,15 @@
     </item>
     
     <item>
+      <title>paleomix</title>
+      <link>https://open-archaeo.info/post/paleomix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/paleomix/</guid>
+      <description>Pipelines and tools for the processing of ancient and modern High-Throughput Sequencing (HTS) data.</description>
+    </item>
+    
+    <item>
       <title>PMDtools</title>
       <link>https://open-archaeo.info/post/pmdtools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -139,6 +166,15 @@
       
       <guid>https://open-archaeo.info/post/pyxrf/</guid>
       <description>PyXRF is a python-based sophisticated fluorescence analysis package for fitting and visualizing X-ray fluorescence data</description>
+    </item>
+    
+    <item>
+      <title>READ</title>
+      <link>https://open-archaeo.info/post/read/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/read/</guid>
+      <description>A method to infer the degree of relationship (up to second degree, i.e. nephew/niece-uncle/aunt, grandparent-grandchild or half-siblings) for a pair of low-coverage individuals.</description>
     </item>
     
     <item>

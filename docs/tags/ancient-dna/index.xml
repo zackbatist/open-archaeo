@@ -16,12 +16,21 @@
     </item>
     
     <item>
+      <title>AncientMetagenomeDir</title>
+      <link>https://open-archaeo.info/post/ancientmetagenomedir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/ancientmetagenomedir/</guid>
+      <description>Repository containing lists of all published ancient metagenome samples (and related).</description>
+    </item>
+    
+    <item>
       <title>Anfo</title>
       <link>https://open-archaeo.info/post/anfo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/anfo/</guid>
-      <description>NA</description>
+      <description>The ANFO ancient DNA mapper.</description>
     </item>
     
     <item>
@@ -40,6 +49,15 @@
       
       <guid>https://open-archaeo.info/post/antcaller/</guid>
       <description>SNP calling and genotyping for damaged DNA.</description>
+    </item>
+    
+    <item>
+      <title>archaeodiet</title>
+      <link>https://open-archaeo.info/post/archaeodiet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeodiet/</guid>
+      <description>Pipeline for metagenomic identification and authentication of ancient dietary DNA from archaeological samples.</description>
     </item>
     
     <item>
@@ -75,16 +93,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/consensify/</guid>
-      <description>NA</description>
+      <description>Consensify method for error reduction in ancient DNA pseudohaploidisation.</description>
     </item>
     
     <item>
-      <title>contamMix</title>
-      <link>https://open-archaeo.info/post/contammix/</link>
+      <title>ContamLD</title>
+      <link>https://open-archaeo.info/post/contamld/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/contammix/</guid>
-      <description>NA</description>
+      <guid>https://open-archaeo.info/post/contamld/</guid>
+      <description>Software designed to estimate autosomal contamination in ancient DNA samples.</description>
+    </item>
+    
+    <item>
+      <title>coproID</title>
+      <link>https://open-archaeo.info/post/coproid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/coproid/</guid>
+      <description>CoproID helps you to identify the &amp;ldquo;true maker&amp;rdquo; of Illumina sequenced Coprolites/Paleofaeces by checking the microbiome composition and the endogenous DNA.</description>
     </item>
     
     <item>
@@ -97,21 +124,39 @@
     </item>
     
     <item>
+      <title>DamMet</title>
+      <link>https://open-archaeo.info/post/dammet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/dammet/</guid>
+      <description>A full probabilistic model for mapping ancient methylomes.</description>
+    </item>
+    
+    <item>
       <title>DATES</title>
       <link>https://open-archaeo.info/post/dates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/dates/</guid>
-      <description>NA</description>
+      <description>Method for dating admixture in ancient DNA specimens.</description>
     </item>
     
     <item>
-      <title>Dice</title>
+      <title>DICE</title>
       <link>https://open-archaeo.info/post/dice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/dice/</guid>
-      <description>NA</description>
+      <description>Joint estimate of demography and contamination for nuclear ancient DNA.</description>
+    </item>
+    
+    <item>
+      <title>eager</title>
+      <link>https://open-archaeo.info/post/eager/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/eager/</guid>
+      <description>A fully reproducible and state-of-the-art ancient DNA analysis pipeline.</description>
     </item>
     
     <item>
@@ -138,7 +183,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/epipaleomix/</guid>
-      <description>A Fast, Accurate, and Automatic pipeline for generating nucleosome and methylation maps from high throughput sequencing data underlying ancient samples.</description>
+      <description>A fast, accurate, and automatic pipeline for generating nucleosome and methylation maps from high throughput sequencing data underlying ancient samples.</description>
+    </item>
+    
+    <item>
+      <title>gargammel</title>
+      <link>https://open-archaeo.info/post/gargammel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/gargammel/</guid>
+      <description>A set of programs aimed at simulating ancient DNA fragments. For ancient hominin samples our program can also simulate various levels of present-day human contamination and microbial contamination.</description>
     </item>
     
     <item>
@@ -165,7 +219,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/leehom/</guid>
-      <description>NA</description>
+      <description>Bayesian reconstruction of ancient DNA fragments.</description>
+    </item>
+    
+    <item>
+      <title>MADAM</title>
+      <link>https://open-archaeo.info/post/madam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/madam/</guid>
+      <description>Two-level de novo assembly strategy for ancient bacterial genomes.</description>
     </item>
     
     <item>
@@ -187,6 +250,15 @@
     </item>
     
     <item>
+      <title>mapping-iterative-assembler</title>
+      <link>https://open-archaeo.info/post/mapping-iterative-assembler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/mapping-iterative-assembler/</guid>
+      <description>Consensus calling (or &amp;ldquo;reference assisted assembly&amp;rdquo;), chiefly of ancient mitochondria.</description>
+    </item>
+    
+    <item>
       <title>maximum-likelihood-relatedness-estimation</title>
       <link>https://open-archaeo.info/post/maximum-likelihood-relatedness-estimation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -202,15 +274,6 @@
       
       <guid>https://open-archaeo.info/post/metabit/</guid>
       <description>An integrative and automated metagenomic pipeline for analysing microbial profiles from high-throughput sequencing shotgun data.</description>
-    </item>
-    
-    <item>
-      <title>Mia</title>
-      <link>https://open-archaeo.info/post/mia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/mia/</guid>
-      <description>NA</description>
     </item>
     
     <item>
@@ -232,6 +295,15 @@
     </item>
     
     <item>
+      <title>pathPhynder</title>
+      <link>https://open-archaeo.info/post/pathphynder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pathphynder/</guid>
+      <description>A workflow for integrating ancient lineages into present-day phylogenies.</description>
+    </item>
+    
+    <item>
       <title>pileupcaller</title>
       <link>https://open-archaeo.info/post/pileupcaller/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -247,6 +319,15 @@
       
       <guid>https://open-archaeo.info/post/pmdtools/</guid>
       <description>Compute postmortem damage patterns and decontaminate ancient genomes.</description>
+    </item>
+    
+    <item>
+      <title>poseidon-framework</title>
+      <link>https://open-archaeo.info/post/poseidon-framework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/poseidon-framework/</guid>
+      <description>Poseidon is a framework that seeks to provide standardized ways to store and share archaeogenetic, and perhaps more broadly, molecular archaeological datasets.</description>
     </item>
     
     <item>
@@ -301,6 +382,15 @@
       
       <guid>https://open-archaeo.info/post/tapas/</guid>
       <description>Evaluate the effectiveness of any short read mapper and its parameters using artificially generated reads.</description>
+    </item>
+    
+    <item>
+      <title>TOPAS</title>
+      <link>https://open-archaeo.info/post/topas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/topas/</guid>
+      <description>A toolkit for efficient manipulation of sequence data in various ways.</description>
     </item>
     
   </channel>

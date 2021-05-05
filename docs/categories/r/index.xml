@@ -475,15 +475,6 @@
     </item>
     
     <item>
-      <title>gargammel</title>
-      <link>https://open-archaeo.info/post/gargammel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/gargammel/</guid>
-      <description>Gargammel is a set of programs aimed at simulating ancient DNA fragments. For ancient hominin samples our program can also simulate various levels of present-day human contamination and microbial contamination.</description>
-    </item>
-    
-    <item>
       <title>GeoChronR</title>
       <link>https://open-archaeo.info/post/geochronr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -823,6 +814,15 @@
       
       <guid>https://open-archaeo.info/post/pathaar/</guid>
       <description>R Package to reconstruct paths using archaeological monuments, model parameters of infrastructure and evaluate those parameters, model parameters of infrastructure and evaluate those parameters.</description>
+    </item>
+    
+    <item>
+      <title>pathPhynder</title>
+      <link>https://open-archaeo.info/post/pathphynder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pathphynder/</guid>
+      <description>A workflow for integrating ancient lineages into present-day phylogenies.</description>
     </item>
     
     <item>

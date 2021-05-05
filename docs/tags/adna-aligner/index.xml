@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aDNA aligner on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/adna-aligner/</link>
+    <description>Recent content in aDNA aligner on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/adna-aligner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anfo</title>
+      <link>https://open-archaeo.info/post/anfo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/anfo/</guid>
+      <description>The ANFO ancient DNA mapper.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python / R on open-archaeo</title>
+    <link>https://open-archaeo.info/categories/python-/-r/</link>
+    <description>Recent content in Python / R on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/categories/python-/-r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ContamLD</title>
+      <link>https://open-archaeo.info/post/contamld/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/contamld/</guid>
+      <description>Software designed to estimate autosomal contamination in ancient DNA samples.</description>
+    </item>
+    
+  </channel>
+</rss>

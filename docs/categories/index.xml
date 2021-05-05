@@ -25,6 +25,15 @@
     </item>
     
     <item>
+      <title>C</title>
+      <link>https://open-archaeo.info/categories/c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>C&#43;&#43;</title>
       <link>https://open-archaeo.info/categories/c&#43;&#43;/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -79,6 +88,15 @@
     </item>
     
     <item>
+      <title>Haskell</title>
+      <link>https://open-archaeo.info/categories/haskell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/haskell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Java</title>
       <link>https://open-archaeo.info/categories/java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -115,11 +133,29 @@
     </item>
     
     <item>
+      <title>Nextflow</title>
+      <link>https://open-archaeo.info/categories/nextflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/nextflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ODK</title>
       <link>https://open-archaeo.info/categories/odk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/categories/odk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perl</title>
+      <link>https://open-archaeo.info/categories/perl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/perl/</guid>
       <description></description>
     </item>
     
@@ -138,6 +174,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python / R</title>
+      <link>https://open-archaeo.info/categories/python-/-r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/categories/python-/-r/</guid>
       <description></description>
     </item>
     
