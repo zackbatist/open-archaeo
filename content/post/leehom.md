@@ -1,5 +1,5 @@
 {
-  "title": "Leehom",
+  "title": "leeHom",
   "description": ["Bayesian reconstruction of ancient DNA fragments."],
   "links": {
     "GitHub": "https://github.com/grenaud/leeHom"

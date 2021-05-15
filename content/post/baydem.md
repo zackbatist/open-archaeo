@@ -3,7 +3,7 @@
   "description": ["Bayesian tools for reconstructing past demography."],
   "links": {
     "GitHub": "https://github.com/eehh-stanford/baydem",
-    "Website": "https://eehh-stanford.github.io/baydem/\n"
+    "Website": "https://eehh-stanford.github.io/baydem/"
   },
   "authors": ["MichaelHoltonPrice", "bocinsky"],
   "categories": ["R"],
