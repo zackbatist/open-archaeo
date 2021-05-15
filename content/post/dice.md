@@ -1,5 +1,5 @@
 {
-  "title": "DICE",
+  "title": "dice",
   "description": ["Joint estimate of demography and contamination for nuclear ancient DNA."],
   "links": {
     "GitHub": "https://github.com/grenaud/dice"

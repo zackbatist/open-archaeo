@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/stefaneichert/thanados",
     "Website": "https://thanados.net/"
   },
-  "authors": ["stefaneichert\n"],
+  "authors": ["stefaneichert"],
   "categories": ["Web apps"],
   "tags": ["API interfaces, scrapers and datasets"],
   "doi": null

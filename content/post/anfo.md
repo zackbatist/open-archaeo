@@ -1,5 +1,5 @@
 {
-  "title": "Anfo",
+  "title": "anfo",
   "description": ["The ANFO ancient DNA mapper."],
   "links": {
     "GitHub": "https://github.com/mpieva/anfo"

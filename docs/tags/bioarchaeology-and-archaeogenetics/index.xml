@@ -25,7 +25,7 @@
     </item>
     
     <item>
-      <title>Anfo</title>
+      <title>anfo</title>
       <link>https://open-archaeo.info/post/anfo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -88,6 +88,15 @@
     </item>
     
     <item>
+      <title>bioanth</title>
+      <link>https://open-archaeo.info/post/bioanth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/bioanth/</guid>
+      <description>An R package that provides datasets useful for biological and forensic anthropology.</description>
+    </item>
+    
+    <item>
       <title>Consensify</title>
       <link>https://open-archaeo.info/post/consensify/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -103,6 +112,15 @@
       
       <guid>https://open-archaeo.info/post/contamld/</guid>
       <description>Software designed to estimate autosomal contamination in ancient DNA samples.</description>
+    </item>
+    
+    <item>
+      <title>cuperdec</title>
+      <link>https://open-archaeo.info/post/cuperdec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/cuperdec/</guid>
+      <description>R package to generate &amp;lsquo;Cumulative Percent Decay&amp;rsquo; curves, with optional filtering functions, for microbial taxonomic profiles.</description>
     </item>
     
     <item>
@@ -133,7 +151,7 @@
     </item>
     
     <item>
-      <title>DICE</title>
+      <title>dice</title>
       <link>https://open-archaeo.info/post/dice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -205,7 +223,7 @@
     </item>
     
     <item>
-      <title>Leehom</title>
+      <title>leeHom</title>
       <link>https://open-archaeo.info/post/leehom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
