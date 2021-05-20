@@ -1,7 +1,6 @@
-# Tags
+Tags and categories used in open-archaeo. This list is subject to evolve over time.
 
-Tags used in open-archaeo.
-
+## Tags
 |Tag|Scope|
 |:--|:----|
 Statistical analysis|Identification and analysis of quantitative distribution patterns.|
@@ -66,3 +65,28 @@ Statistical analysis|Identification and analysis of quantitative distribution pa
 |aDNA aligner||
 |aDNA assembler||
 |aDNA toolkit||
+
+
+## Categories
+
+|Category|Kind|Scope|
+|:-------|:---|:----|
+|Packages and libraries|Software|Sets of functions assembled with clear purpose, and made accessible using standards established by an underlying platform.|
+|Standalone software|Software|Executable software.|
+|Web apps|Software|Accessed using a web browser.|
+|Scripts|Software|Sets of pragmatically assembled mutable functions, often lacking complete documentation or adherence to protocols that would otherwise facilitate secondary use outside their original contexts of creation.|
+|Specifications, protocols, templates and schemas|Documents|A formal data structure or framework intended to be used as a model.|
+|Products|Documents|An immutable creation.|
+|Gudes|Documents|An educational resource or documented protocol meant to instruct readers how to apply relevant tools or techniques.|
+|Lists and datasets|Documents|A series of consistently organized observations assembled with purpose.|
+
+## Platforms and lanaguages
+
+|Platform or Language|Reference|
+|:-------------------|:--|
+|R||
+|Python||
+|QGIS||
+|ArcGIS||
+|Lisp||
+|xxx||

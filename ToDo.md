@@ -8,7 +8,7 @@ General improvements to open-archaeo that would enhance the richness and utility
   - See the [clarity](https://github.com/zackbatist/open-archaeo/tree/clarity) branch
 - [ ] Draft a formal conceptual model
 - [x] Clean up and define scopes of tags
-- [ ] Clean up and define scopes of categories
+- [x] Clean up and define scopes of categories
 - [ ] Make author attributions more consistant (i.e. convert real names to usernames, where they exist)
 - [ ] GitHub action to build site when the dataset is updated
 - [ ] Update the data wrangling pathway so that the primary input is a series of TOML files
