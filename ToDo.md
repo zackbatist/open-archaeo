@@ -7,7 +7,8 @@ General improvements to open-archaeo that would enhance the richness and utility
 - [ ] Nicer theme
   - See the [clarity](https://github.com/zackbatist/open-archaeo/tree/clarity) branch
 - [ ] Draft a formal conceptual model
-- [ ] Clean up and define scopes of tags and categories
+- [x] Clean up and define scopes of tags
+- [ ] Clean up and define scopes of categories
 - [ ] Make author attributions more consistant (i.e. convert real names to usernames, where they exist)
 - [ ] GitHub action to build site when the dataset is updated
 - [ ] Update the data wrangling pathway so that the primary input is a series of TOML files
@@ -49,5 +50,3 @@ This is a list of tools or resources that are in demand, but which currently do 
   - Despite the obvious problem that correlation does not mean causation, for some contexts, like for example ritual architecture in the European Metal Ages, astronomical obervations seemed to be very relevant
   - This software package should allow the user to get a quick overview about possible relations like solstices, lunistice, planet rises, etc
 - [ ] R package to download data from open dendro data archives. Something like [c14bazAAR](https://github.com/ISAAKiel/c14bazAAR) but for dendro dates.
-
-
