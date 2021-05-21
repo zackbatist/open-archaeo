@@ -6,7 +6,7 @@
   },
   "authors": ["adreinhard"],
   "categories": ["Datasets"],
-  "tags": ["Other"],
+  "tags": ["Games"],
   "doi": null
 }
 

@@ -6,7 +6,7 @@
   },
   "authors": ["maxibor"],
   "categories": [null],
-  "tags": ["Bioarchaeology and archaeogenetics", "aDNA simulators", "Ancient DNA"],
+  "tags": ["Archaeogenetics", "aDNA simulators"],
   "doi": null
 }
 

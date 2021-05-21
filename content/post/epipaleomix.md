@@ -7,7 +7,7 @@
   },
   "authors": ["KHanghoj"],
   "categories": ["Python"],
-  "tags": ["Bioarchaeology and archaeogenetics", "Pipelines", "Ancient DNA"],
+  "tags": ["Archaeogenetics", "Pipelines"],
   "doi": null
 }
 

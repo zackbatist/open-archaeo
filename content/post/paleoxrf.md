@@ -6,7 +6,7 @@
   },
   "authors": ["paleolimbot"],
   "categories": ["R"],
-  "tags": ["Instrumental analysis", "XRF"],
+  "tags": ["X-Ray Fluorescence"],
   "doi": null
 }
 

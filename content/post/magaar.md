@@ -6,7 +6,7 @@
   },
   "authors": ["ISAAKiel"],
   "categories": ["R"],
-  "tags": ["Instrumental analysis", "Geophysics"],
+  "tags": ["Geophysical survey"],
   "doi": null
 }
 

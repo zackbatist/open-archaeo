@@ -6,7 +6,7 @@
   },
   "authors": ["dstreble"],
   "categories": ["Web apps"],
-  "tags": ["Instrumental analysis", "Luminescence"],
+  "tags": ["Luminescence dating"],
   "doi": null
 }
 

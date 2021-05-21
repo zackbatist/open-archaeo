@@ -6,7 +6,7 @@
   },
   "authors": ["benmarwick"],
   "categories": ["Tutorials"],
-  "tags": ["Instrumental analysis", "Radiocarbon", "Educational resources and practical guides"],
+  "tags": ["Radiocarbon dating, calibration and sequencing", "Educational resources and practical guides"],
   "doi": null
 }
 

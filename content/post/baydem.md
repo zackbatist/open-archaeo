@@ -7,7 +7,7 @@
   },
   "authors": ["MichaelHoltonPrice", "bocinsky"],
   "categories": ["R"],
-  "tags": ["Radiocarbon", "Chronological modelling"],
+  "tags": ["Radiocarbon dating, calibration and sequencing", "Palaeobotany"],
   "doi": null
 }
 

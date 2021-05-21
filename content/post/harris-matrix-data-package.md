@@ -6,7 +6,7 @@
   },
   "authors": ["steko"],
   "categories": ["?"],
-  "tags": [],
+  "tags": ["Harris Matrix", "Schemas and ontologies"],
   "doi": null
 }
 

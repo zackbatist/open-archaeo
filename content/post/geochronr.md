@@ -7,7 +7,7 @@
   },
   "authors": ["nickmckay", "CommonClimate", "khider"],
   "categories": ["R"],
-  "tags": ["Chronological modelling", "Palaeoenvironment and palaeobotany"],
+  "tags": ["Chronological modelling", "Palaeobotany"],
   "doi": null
 }
 

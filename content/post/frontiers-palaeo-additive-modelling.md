@@ -6,7 +6,7 @@
   },
   "authors": ["gavinsimpson"],
   "categories": ["R"],
-  "tags": ["Palaeoenvironment and palaeobotany"],
+  "tags": ["Palaeobotany"],
   "doi": null
 }
 

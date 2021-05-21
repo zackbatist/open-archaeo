@@ -6,7 +6,7 @@
   },
   "authors": ["ISAAKiel"],
   "categories": ["Web apps"],
-  "tags": ["Quantitative and statistical analysis"],
+  "tags": ["Statistical analysis"],
   "doi": null
 }
 

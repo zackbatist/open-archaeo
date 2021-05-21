@@ -7,7 +7,7 @@
   },
   "authors": ["Florian Thiery", "Allard Mees"],
   "categories": ["Web apps"],
-  "tags": ["Quantitative and statistical analysis", "Schema, ontologies and templates"],
+  "tags": ["Statistical analysis", "Schemas and ontologies"],
   "doi": null
 }
 

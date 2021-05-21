@@ -8,7 +8,7 @@
   },
   "authors": ["seanhaythorne"],
   "categories": ["Desktop apps"],
-  "tags": ["Palaeoenvironment and palaeobotany"],
+  "tags": ["Palaeobotany"],
   "doi": null
 }
 

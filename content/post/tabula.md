@@ -9,7 +9,7 @@
   },
   "authors": ["nfrerebeau"],
   "categories": ["R"],
-  "tags": ["Quantitative and statistical analysis", "Seriation"],
+  "tags": ["Statistical analysis", "Seriation"],
   "doi": "10.5281/zenodo.3716163"
 }
 

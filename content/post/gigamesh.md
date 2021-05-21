@@ -9,7 +9,7 @@
   },
   "authors": ["Hubert Mara", "Forensic Computational Geometry Laboratory"],
   "categories": ["?"],
-  "tags": [],
+  "tags": ["3D modelling", "Photogrammetry"],
   "doi": null
 }
 

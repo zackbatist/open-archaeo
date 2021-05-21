@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>API interfaces and web scrapers on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/api-interfaces-and-web-scrapers/</link>
+    <description>Recent content in API interfaces and web scrapers on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/api-interfaces-and-web-scrapers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>archaeology-data-service</title>
+      <link>https://open-archaeo.info/post/archaeology-data-service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeology-data-service/</guid>
+      <description>an app to collect data on archaeological objects.</description>
+    </item>
+    
+    <item>
+      <title>archaeology-grand-challenges.r</title>
+      <link>https://open-archaeo.info/post/archaeology-grand-challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeology-grand-challenges/</guid>
+      <description>Sketch of a look at the &amp;lsquo;grand challenges&amp;rsquo; of Kintigh et al. 2014</description>
+    </item>
+    
+    <item>
+      <title>benmarwickopencontext.r</title>
+      <link>https://open-archaeo.info/post/benmarwickopencontext/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/benmarwickopencontext/</guid>
+      <description>Experimenting with the opencontext.org API using R</description>
+    </item>
+    
+    <item>
+      <title>c14bazAAR</title>
+      <link>https://open-archaeo.info/post/c14bazaar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/c14bazaar/</guid>
+      <description>R package to query different openly accessible radiocarbon date databases, allowing for basic data cleaning, calibration and merging</description>
+    </item>
+    
+    <item>
+      <title>cawd</title>
+      <link>https://open-archaeo.info/post/cawd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/cawd/</guid>
+      <description>An R package that collects together data for the ancient world</description>
+    </item>
+    
+    <item>
+      <title>Ceramic_Dashboard</title>
+      <link>https://open-archaeo.info/post/ceramic-dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/ceramic-dashboard/</guid>
+      <description>Dashboard showing ceramic EDA and interaction network construction in the Late Prehistoric Central Illinois River Valley.</description>
+    </item>
+    
+    <item>
+      <title>idaifieldR</title>
+      <link>https://open-archaeo.info/post/idaifieldr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/idaifieldr/</guid>
+      <description>The goal of idaifieldR is to flexibly get data from the idaifield database into R.</description>
+    </item>
+    
+    <item>
+      <title>neolithicR</title>
+      <link>https://open-archaeo.info/post/neolithicr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/neolithicr/</guid>
+      <description>Shiny app to search and filter radiocarbon dates from various source databases, based on the R package c14bazAAR.</description>
+    </item>
+    
+    <item>
+      <title>neotoma</title>
+      <link>https://open-archaeo.info/post/neotoma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/neotoma/</guid>
+      <description>Programmatic R interface to the Neotoma Paleoecological Database</description>
+    </item>
+    
+    <item>
+      <title>opencontext</title>
+      <link>https://open-archaeo.info/post/opencontext/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/opencontext/</guid>
+      <description>An R API client for the Open Context archaeological data repository</description>
+    </item>
+    
+    <item>
+      <title>paleocoreR</title>
+      <link>https://open-archaeo.info/post/paleocorer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/paleocorer/</guid>
+      <description>R package for interacting with the Paleocore API</description>
+    </item>
+    
+    <item>
+      <title>paleofire</title>
+      <link>https://open-archaeo.info/post/paleofire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/paleofire/</guid>
+      <description>An R package to analyse sedimentary charcoal records from the Global Charcoal Database to reconstruct past biomass burning</description>
+    </item>
+    
+    <item>
+      <title>radiocarbon-scrapers</title>
+      <link>https://open-archaeo.info/post/radiocarbon-scrapers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/radiocarbon-scrapers/</guid>
+      <description>Scrapers for public radiocarbon databases</description>
+    </item>
+    
+    <item>
+      <title>rintchron</title>
+      <link>https://open-archaeo.info/post/rintchron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rintchron/</guid>
+      <description>rintchron provides an R interface to IntChron, an indexing service and exchange format for chronological data such as radiocarbon dates</description>
+    </item>
+    
+    <item>
+      <title>rpaleoclim</title>
+      <link>https://open-archaeo.info/post/rpaleoclim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rpaleoclim/</guid>
+      <description>R interface for open paleoclimate data</description>
+    </item>
+    
+    <item>
+      <title>shkrdata</title>
+      <link>https://open-archaeo.info/post/shkrdata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/shkrdata/</guid>
+      <description>Package for downloading and preparing shkr data for archaeological analysis</description>
+    </item>
+    
+    <item>
+      <title>tdar</title>
+      <link>https://open-archaeo.info/post/tdar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/tdar/</guid>
+      <description>R package that allows programmatic access to the Digital Archaeological Record (tDAR), a service of Digital Antiquity.</description>
+    </item>
+    
+    <item>
+      <title>THANADOS</title>
+      <link>https://open-archaeo.info/post/thanados/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/thanados/</guid>
+      <description>An open source, web application for the presentation of archaeological data especially for burial studies.</description>
+    </item>
+    
+    <item>
+      <title>The Southwestern Taphonomic Protocol</title>
+      <link>https://open-archaeo.info/post/the-southwestern-taphonomic-protocol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/the-southwestern-taphonomic-protocol/</guid>
+      <description>A set of analyses to control for variable taphonomic impacts on archaeological faunal datasets</description>
+    </item>
+    
+  </channel>
+</rss>

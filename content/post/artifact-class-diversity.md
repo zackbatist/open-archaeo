@@ -6,7 +6,7 @@
   },
   "authors": ["taphocoenose"],
   "categories": ["R"],
-  "tags": ["Geospatial analysis", "Locational analysis"],
+  "tags": ["Spatial analysis"],
   "doi": null
 }
 

@@ -7,7 +7,7 @@
   },
   "authors": ["R-Lum"],
   "categories": ["R"],
-  "tags": ["Instrumental analysis", "Luminescence"],
+  "tags": ["Luminescence dating"],
   "doi": null
 }
 

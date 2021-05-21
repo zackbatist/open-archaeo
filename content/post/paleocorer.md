@@ -7,7 +7,7 @@
   },
   "authors": ["paleocore"],
   "categories": ["R"],
-  "tags": ["API interfaces, scrapers and datasets"],
+  "tags": ["API interfaces and web scrapers"],
   "doi": null
 }
 

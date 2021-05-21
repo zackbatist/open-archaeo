@@ -6,7 +6,7 @@
   },
   "authors": ["ahb108"],
   "categories": ["R"],
-  "tags": ["Instrumental analysis", "Radiocarbon"],
+  "tags": ["Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }
 

@@ -7,7 +7,7 @@
   },
   "authors": ["hringbauer"],
   "categories": ["Python"],
-  "tags": ["Bioarchaeology and archaeogenetics", "Low-coverage adapted population-genetics tools", "Ancient DNA"],
+  "tags": ["Archaeogenetics", "Low-coverage adapted population-genetics tools"],
   "doi": null
 }
 

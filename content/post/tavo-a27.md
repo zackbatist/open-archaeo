@@ -6,7 +6,7 @@
   },
   "authors": ["joeroe"],
   "categories": ["Datasets"],
-  "tags": ["API interfaces, scrapers and datasets", "Palaeoenvironment and palaeobotany"],
+  "tags": ["Datasets", "Palaeobotany"],
   "doi": "10.5281/zenodo.3362929"
 }
 

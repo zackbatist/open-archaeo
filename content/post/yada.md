@@ -7,7 +7,7 @@
   },
   "authors": ["MichaelHoltonPrice"],
   "categories": ["R"],
-  "tags": ["Bioarchaeology and archaeogenetics"],
+  "tags": ["Archaeogenetics"],
   "doi": null
 }
 

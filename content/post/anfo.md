@@ -6,7 +6,7 @@
   },
   "authors": ["mpieva"],
   "categories": ["C++"],
-  "tags": ["Bioarchaeology and archaeogenetics", "aDNA aligner", "Ancient DNA"],
+  "tags": ["Archaeogenetics", "aDNA aligner"],
   "doi": null
 }
 

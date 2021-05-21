@@ -6,7 +6,7 @@
   },
   "authors": ["aejolene"],
   "categories": ["?"],
-  "tags": ["Schema, ontologies and templates"],
+  "tags": ["Schemas and ontologies"],
   "doi": null
 }
 

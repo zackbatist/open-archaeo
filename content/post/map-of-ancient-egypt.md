@@ -6,7 +6,7 @@
   },
   "authors": ["LSIND"],
   "categories": [null],
-  "tags": [],
+  "tags": ["Datasets"],
   "doi": null
 }
 

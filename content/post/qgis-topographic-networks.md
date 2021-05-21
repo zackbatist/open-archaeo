@@ -6,7 +6,7 @@
   },
   "authors": ["zoran-cuckovic"],
   "categories": ["QGIS"],
-  "tags": ["Geospatial analysis", "Spatial modelling and inference"],
+  "tags": ["Spatial analysis"],
   "doi": null
 }
 

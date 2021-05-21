@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photography on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/photography/</link>
+    <description>Recent content in Photography on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>expotime</title>
+      <link>https://open-archaeo.info/post/expotime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/expotime/</guid>
+      <description>What’s the correlation between the exposure time of your photographs and the time of the day?</description>
+    </item>
+    
+    <item>
+      <title>signboardr</title>
+      <link>https://open-archaeo.info/post/signboardr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/signboardr/</guid>
+      <description>Extract text from archaeological photos containing a sign board and tag as metadata</description>
+    </item>
+    
+  </channel>
+</rss>

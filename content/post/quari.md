@@ -6,7 +6,7 @@
   },
   "authors": ["Zack Batist", "Dan Contreras", "Ciara Zogheib"],
   "categories": ["Web apps"],
-  "tags": ["Data entry", "Data wrangling", "Lithic analysis", "R Shiny"],
+  "tags": ["Data collection", "Lithic analysis"],
   "doi": null
 }
 

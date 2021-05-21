@@ -6,7 +6,7 @@
   },
   "authors": ["fradeve"],
   "categories": ["Web apps"],
-  "tags": ["Communication and outreach"],
+  "tags": ["Public archaeology"],
   "doi": null
 }
 

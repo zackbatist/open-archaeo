@@ -6,7 +6,7 @@
   },
   "authors": ["subwaystation"],
   "categories": ["Java"],
-  "tags": ["Bioarchaeology and archaeogenetics", "aDNA toolkit", "Ancient DNA"],
+  "tags": ["Archaeogenetics", "aDNA toolkit"],
   "doi": null
 }
 

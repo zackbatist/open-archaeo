@@ -7,7 +7,7 @@
   },
   "authors": ["shawngraham"],
   "categories": ["?"],
-  "tags": ["Communication and outreach"],
+  "tags": ["Public archaeology"],
   "doi": null
 }
 

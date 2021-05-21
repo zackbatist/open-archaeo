@@ -6,7 +6,7 @@
   },
   "authors": ["stschiff"],
   "categories": ["Haskell"],
-  "tags": ["Bioarchaeology and archaeogenetics", "aDNA damage-aware genotypers", "Ancient DNA"],
+  "tags": ["Archaeogenetics", "aDNA damage-aware genotypers"],
   "doi": null
 }
 

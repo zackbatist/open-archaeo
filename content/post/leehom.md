@@ -6,7 +6,7 @@
   },
   "authors": ["grenaud"],
   "categories": ["C++"],
-  "tags": ["Bioarchaeology and archaeogenetics", "aDNA preprocessing", "Ancient DNA"],
+  "tags": ["Archaeogenetics", "aDNA preprocessing"],
   "doi": null
 }
 

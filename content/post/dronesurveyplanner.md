@@ -7,7 +7,7 @@
   },
   "authors": ["isaacullah"],
   "categories": ["Spreadsheets"],
-  "tags": ["Drones and satellite imagery"],
+  "tags": ["Drones", "Aerial and satellite imagery"],
   "doi": null
 }
 

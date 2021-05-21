@@ -8,7 +8,7 @@
   },
   "authors": ["f-silva-archaeo"],
   "categories": ["R"],
-  "tags": ["Spatial modelling and inference"],
+  "tags": ["Spatial analysis"],
   "doi": "10.5281/zenodo.1204397"
 }
 

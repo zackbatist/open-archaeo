@@ -6,7 +6,7 @@
   },
   "authors": ["ercrema", "Anne Kandler"],
   "categories": ["R"],
-  "tags": ["Cultural evolution"],
+  "tags": ["Statistical analysis", "Cultural evolution"],
   "doi": null
 }
 

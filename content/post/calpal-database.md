@@ -6,7 +6,7 @@
   },
   "authors": ["nevrome"],
   "categories": ["Datasets"],
-  "tags": ["API interfaces, scrapers and datasets", "Radiocarbon"],
+  "tags": ["Datasets", "Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }
 

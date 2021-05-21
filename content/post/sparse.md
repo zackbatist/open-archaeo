@@ -7,7 +7,7 @@
   },
   "authors": ["zheminzhou"],
   "categories": ["Python"],
-  "tags": ["Bioarchaeology and archaeogenetics", "Metagenomic classifers", "Ancient DNA"],
+  "tags": ["Archaeogenetics", "Metagenomic classifers"],
   "doi": null
 }
 

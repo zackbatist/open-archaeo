@@ -6,7 +6,7 @@
   },
   "authors": ["carlsun98"],
   "categories": ["Mobile apps"],
-  "tags": ["Virtual and augmented reality"],
+  "tags": ["Augmented reality"],
   "doi": null
 }
 

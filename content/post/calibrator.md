@@ -7,7 +7,7 @@
   },
   "authors": ["ISAAKiel"],
   "categories": ["Command line tools"],
-  "tags": ["Instrumental analysis", "Radiocarbon"],
+  "tags": ["Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }
 

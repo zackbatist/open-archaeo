@@ -6,7 +6,7 @@
   },
   "authors": ["demjanp"],
   "categories": ["Python"],
-  "tags": ["Geospatial analysis", "Spatial modelling and inference"],
+  "tags": ["Spatial analysis"],
   "doi": null
 }
 

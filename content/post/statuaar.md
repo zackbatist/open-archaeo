@@ -6,7 +6,7 @@
   },
   "authors": ["chrinne", "capsizingHR", "AnKaLoy", "FrankSiegmund"],
   "categories": ["R"],
-  "tags": ["Bioarchaeology and archaeogenetics"],
+  "tags": ["Archaeogenetics"],
   "doi": null
 }
 

@@ -7,7 +7,7 @@
   },
   "authors": ["aksel-blaise"],
   "categories": ["Web apps"],
-  "tags": ["API interfaces, scrapers and datasets", "Diagrams and visualizations", "Bibliography"],
+  "tags": ["Datasets", "Bibliography"],
   "doi": null
 }
 

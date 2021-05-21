@@ -6,7 +6,7 @@
   },
   "authors": ["gianmarcoalberti"],
   "categories": ["ArcGIS"],
-  "tags": ["Geospatial analysis", "Viewshed analysis"],
+  "tags": ["Spatial analysis", "Viewshed analysis"],
   "doi": null
 }
 

@@ -6,7 +6,7 @@
   },
   "authors": ["yesdavid", "nevrome", "nmueller18", "whamer", "dakni"],
   "categories": ["R"],
-  "tags": ["Quantitative and statistical analysis", "Spatial modelling and inference"],
+  "tags": ["Statistical analysis", "Spatial analysis"],
   "doi": null
 }
 

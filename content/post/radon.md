@@ -7,7 +7,7 @@
   },
   "authors": ["ISAAKiel"],
   "categories": ["Web apps"],
-  "tags": ["Instrumental analysis", "Radiocarbon"],
+  "tags": ["Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }
 

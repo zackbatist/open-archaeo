@@ -6,7 +6,7 @@
   },
   "authors": ["tschoonj"],
   "categories": ["Command line tools"],
-  "tags": ["Instrumental analysis", "XRF"],
+  "tags": ["X-Ray Fluorescence"],
   "doi": null
 }
 

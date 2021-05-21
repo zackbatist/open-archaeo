@@ -6,7 +6,7 @@
   },
   "authors": ["scikit-beam"],
   "categories": ["Python"],
-  "tags": ["Instrumental analysis", "XRF"],
+  "tags": ["X-Ray Fluorescence"],
   "doi": null
 }
 

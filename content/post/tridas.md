@@ -7,7 +7,7 @@
   },
   "authors": ["steko"],
   "categories": ["?"],
-  "tags": [],
+  "tags": ["Schemas and ontologies", "Dendrochronology"],
   "doi": null
 }
 

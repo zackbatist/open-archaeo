@@ -7,7 +7,7 @@
   },
   "authors": ["poseidon-framework"],
   "categories": ["?"],
-  "tags": ["Schema, ontologies and templates", "Ancient DNA", "Bioarchaeology and archaeogenetics"],
+  "tags": ["Schemas and ontologies", "Archaeogenetics"],
   "doi": null
 }
 

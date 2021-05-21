@@ -7,7 +7,7 @@
   },
   "authors": ["daiinst"],
   "categories": ["Desktop apps"],
-  "tags": ["Data collection and management"],
+  "tags": ["Data management"],
   "doi": null
 }
 

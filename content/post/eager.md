@@ -6,7 +6,7 @@
   },
   "authors": ["nf-core"],
   "categories": ["Nextflow"],
-  "tags": ["Bioarchaeology and archaeogenetics", "Ancient DNA", "Ancient DNA"],
+  "tags": ["Archaeogenetics"],
   "doi": null
 }
 

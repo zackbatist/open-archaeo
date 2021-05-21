@@ -6,7 +6,7 @@
   },
   "authors": ["frederic-santos"],
   "categories": ["R"],
-  "tags": [],
+  "tags": ["Cultural evolution", "Statistical analysis"],
   "doi": "10.1002/oa.2957"
 }
 

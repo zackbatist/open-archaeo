@@ -6,7 +6,7 @@
   },
   "authors": ["anatolian"],
   "categories": ["Web apps"],
-  "tags": ["API interfaces, scrapers and datasets"],
+  "tags": ["API interfaces and web scrapers"],
   "doi": null
 }
 

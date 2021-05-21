@@ -6,7 +6,7 @@
   },
   "authors": ["MoritzMennenga", "chrinne"],
   "categories": ["Schemas"],
-  "tags": ["Schema, ontologies and templates"],
+  "tags": ["Schemas and ontologies"],
   "doi": null
 }
 

@@ -8,7 +8,7 @@
   },
   "authors": ["iosa"],
   "categories": ["Python"],
-  "tags": ["Instrumental analysis", "Radiocarbon"],
+  "tags": ["Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }
 

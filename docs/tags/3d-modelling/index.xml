@@ -61,6 +61,15 @@
     </item>
     
     <item>
+      <title>GigaMesh</title>
+      <link>https://open-archaeo.info/post/gigamesh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/gigamesh/</guid>
+      <description>A modular software for display, editing and visualization of 3D-data typically acquired with structured light scanning (SLS) or structure from motion (SfM).</description>
+    </item>
+    
+    <item>
       <title>italy-3d-amphitheaters</title>
       <link>https://open-archaeo.info/post/italy-3d-amphitheaters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

@@ -6,7 +6,7 @@
   },
   "authors": ["benmarwick"],
   "categories": ["R"],
-  "tags": ["Drones and satellite imagery"],
+  "tags": ["Aerial and satellite imagery"],
   "doi": null
 }
 

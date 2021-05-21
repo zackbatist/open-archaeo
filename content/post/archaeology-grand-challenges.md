@@ -6,7 +6,7 @@
   },
   "authors": ["benmarwick"],
   "categories": ["Analyses"],
-  "tags": ["Other"],
+  "tags": ["API interfaces and web scrapers"],
   "doi": null
 }
 

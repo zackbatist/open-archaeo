@@ -6,7 +6,7 @@
   },
   "authors": ["Lise Bellanger", "Philippe Husi", "Arthur Coulon", "Bruno Desachy", "Benjamin Martineau"],
   "categories": ["R"],
-  "tags": ["Quantitative and statistical analysis"],
+  "tags": ["Statistical analysis"],
   "doi": null
 }
 

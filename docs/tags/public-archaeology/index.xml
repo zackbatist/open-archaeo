@@ -16,6 +16,15 @@
     </item>
     
     <item>
+      <title>archstopmo</title>
+      <link>https://open-archaeo.info/post/archstopmo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archstopmo/</guid>
+      <description>An Archaeology Stop Motion Movie Festival!</description>
+    </item>
+    
+    <item>
       <title>Day of Archaeology Archive</title>
       <link>https://open-archaeo.info/post/day-of-archaeology-archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -40,6 +49,15 @@
       
       <guid>https://open-archaeo.info/post/dayofarchaeology-drmattlaw/</guid>
       <description>export of posts from dayofarchaeology.com</description>
+    </item>
+    
+    <item>
+      <title>sipontomedievale</title>
+      <link>https://open-archaeo.info/post/sipontomedievale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/sipontomedievale/</guid>
+      <description>This repo contains the code for an interactive website created to illustrate historical background, findings and data of the Siponto excavation site (Manfredonia, Italy)</description>
     </item>
     
     <item>

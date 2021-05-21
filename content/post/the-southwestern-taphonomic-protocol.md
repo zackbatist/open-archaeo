@@ -6,7 +6,7 @@
   },
   "authors": ["bocinsky"],
   "categories": ["R"],
-  "tags": ["Schema, ontologies and templates", "API interfaces, scrapers and datasets"],
+  "tags": ["Schemas and ontologies", "API interfaces and web scrapers"],
   "doi": "10.5281/zenodo.4301001"
 }
 

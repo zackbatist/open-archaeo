@@ -7,7 +7,7 @@
   },
   "authors": ["ajupton"],
   "categories": ["Web apps"],
-  "tags": ["Other"],
+  "tags": ["API interfaces and web scrapers", "Data management"],
   "doi": null
 }
 

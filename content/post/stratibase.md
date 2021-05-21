@@ -6,7 +6,7 @@
   },
   "authors": ["Bruno Desachy"],
   "categories": ["Filemaker"],
-  "tags": ["Data collection and management"],
+  "tags": ["Data management"],
   "doi": null
 }
 

@@ -6,7 +6,7 @@
   },
   "authors": ["wegmannlab"],
   "categories": [null],
-  "tags": ["Bioarchaeology and archaeogenetics", "Pipelines", "Ancient DNA"],
+  "tags": ["Archaeogenetics", "Pipelines"],
   "doi": null
 }
 

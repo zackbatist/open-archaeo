@@ -6,7 +6,7 @@
   },
   "authors": ["benmarwick"],
   "categories": ["R"],
-  "tags": ["API interfaces, scrapers and datasets", "Cultural evolution"],
+  "tags": ["Datasets", "Cultural evolution"],
   "doi": null
 }
 

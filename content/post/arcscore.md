@@ -6,7 +6,7 @@
   },
   "authors": ["matrix-msu"],
   "categories": ["Schemas"],
-  "tags": ["Schema, ontologies and templates"],
+  "tags": ["Schemas and ontologies"],
   "doi": null
 }
 

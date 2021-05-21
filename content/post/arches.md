@@ -7,7 +7,7 @@
   },
   "authors": ["archesproject"],
   "categories": ["Web apps"],
-  "tags": ["Data collection and management"],
+  "tags": ["Data management"],
   "doi": null
 }
 

@@ -7,7 +7,7 @@
   },
   "authors": ["nevrome", "dirkseidensticker"],
   "categories": ["Web apps"],
-  "tags": ["API interfaces, scrapers and datasets", "Radiocarbon"],
+  "tags": ["API interfaces and web scrapers", "Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }
 

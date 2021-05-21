@@ -6,7 +6,7 @@
   },
   "authors": ["StephanePeyregne"],
   "categories": ["Python"],
-  "tags": ["Bioarchaeology and archaeogenetics", "Low-coverage contamination estimation", "Ancient DNA"],
+  "tags": ["Archaeogenetics", "Low-coverage contamination estimation"],
   "doi": null
 }
 

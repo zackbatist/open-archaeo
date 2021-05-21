@@ -6,7 +6,7 @@
   },
   "authors": ["gianmarcoalberti"],
   "categories": ["ArcGIS"],
-  "tags": ["Geospatial analysis", "Spatial modelling and inference"],
+  "tags": ["Spatial analysis"],
   "doi": null
 }
 

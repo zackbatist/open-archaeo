@@ -6,7 +6,7 @@
   },
   "authors": ["David L. Carlson", "Georg Roth"],
   "categories": ["R"],
-  "tags": ["API interfaces, scrapers and datasets"],
+  "tags": ["Datasets"],
   "doi": null
 }
 

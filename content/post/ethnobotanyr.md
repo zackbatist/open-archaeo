@@ -7,7 +7,7 @@
   },
   "authors": ["CWWhitney"],
   "categories": ["R"],
-  "tags": ["Palaeoenvironment and palaeobotany"],
+  "tags": ["Palaeobotany"],
   "doi": null
 }
 

@@ -6,7 +6,7 @@
   },
   "authors": ["gsnitker"],
   "categories": ["Desktop apps"],
-  "tags": ["Palaeoenvironment and palaeobotany"],
+  "tags": ["Palaeobotany"],
   "doi": null
 }
 

@@ -6,7 +6,7 @@
   },
   "authors": ["joeroe"],
   "categories": ["R"],
-  "tags": ["API interfaces, scrapers and datasets", "Palaeoenvironment and palaeobotany"],
+  "tags": ["API interfaces and web scrapers", "Palaeoenvironment and palaeobotany"],
   "doi": null
 }
 

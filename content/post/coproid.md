@@ -7,7 +7,7 @@
   },
   "authors": ["maxibor", "nf-core"],
   "categories": ["Nextflow"],
-  "tags": ["Palaeoenvironment and palaeobotany", "Pipelines", "Ancient DNA"],
+  "tags": ["Palaeobotany", "Archaeogenetics", "Pipelines"],
   "doi": null
 }
 

@@ -6,7 +6,7 @@
   },
   "authors": ["mpieva"],
   "categories": ["C"],
-  "tags": ["Bioarchaeology and archaeogenetics", "aDNA assembler", "Ancient DNA"],
+  "tags": ["Archaeogenetics", "aDNA assembler"],
   "doi": null
 }
 

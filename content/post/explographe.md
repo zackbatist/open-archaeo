@@ -6,7 +6,7 @@
   },
   "authors": ["Bruno Desachy"],
   "categories": ["Spreadsheets"],
-  "tags": ["Quantitative and statistical analysis"],
+  "tags": ["Statistical analysis"],
   "doi": null
 }
 

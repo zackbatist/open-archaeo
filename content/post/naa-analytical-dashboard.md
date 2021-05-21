@@ -7,7 +7,7 @@
   },
   "authors": ["mpeeples2008"],
   "categories": ["R"],
-  "tags": ["Instrumental analysis", "Neutron activation analysis"],
+  "tags": ["Instrumental Neutron activation analysis"],
   "doi": null
 }
 

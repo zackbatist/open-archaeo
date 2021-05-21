@@ -7,7 +7,7 @@
   },
   "authors": ["paleolimbot"],
   "categories": ["Web apps"],
-  "tags": ["Palaeoenvironment and palaeobotany"],
+  "tags": ["Palaeobotany"],
   "doi": null
 }
 

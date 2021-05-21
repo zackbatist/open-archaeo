@@ -6,7 +6,7 @@
   },
   "authors": ["sfsheath"],
   "categories": ["Datasets"],
-  "tags": ["API interfaces, scrapers and datasets"],
+  "tags": ["Datasets"],
   "doi": null
 }
 

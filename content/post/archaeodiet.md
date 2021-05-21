@@ -6,7 +6,7 @@
   },
   "authors": ["jfy133"],
   "categories": ["Nextflow"],
-  "tags": ["Bioarchaeology and archaeogenetics", "Ancient DNA"],
+  "tags": ["Archaeogenetics"],
   "doi": null
 }
 

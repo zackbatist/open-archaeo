@@ -7,7 +7,7 @@
   },
   "authors": ["stefaneichert"],
   "categories": ["Web apps"],
-  "tags": ["API interfaces, scrapers and datasets"],
+  "tags": ["API interfaces and web scrapers", "Data management"],
   "doi": null
 }
 

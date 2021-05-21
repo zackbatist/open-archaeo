@@ -6,7 +6,7 @@
   },
   "authors": ["JudithNeukamm", "apeltzer", "jfy133", "alexhbnr", "Integrative-Transcriptomics"],
   "categories": ["Java"],
-  "tags": ["Bioarchaeology and archaeogenetics", "Damage profilers", "Ancient DNA"],
+  "tags": ["Archaeogenetics", "Damage profilers"],
   "doi": null
 }
 

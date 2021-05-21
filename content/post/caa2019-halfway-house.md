@@ -6,7 +6,7 @@
   },
   "authors": ["joeroe"],
   "categories": ["Tutorials"],
-  "tags": ["Other"],
+  "tags": ["Data management"],
   "doi": null
 }
 

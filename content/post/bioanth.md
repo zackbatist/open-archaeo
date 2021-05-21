@@ -6,7 +6,7 @@
   },
   "authors": ["geanes"],
   "categories": ["R"],
-  "tags": ["Bioarchaeology and archaeogenetics", "Biological anthropology"],
+  "tags": ["Physical anthropology"],
   "doi": null
 }
 

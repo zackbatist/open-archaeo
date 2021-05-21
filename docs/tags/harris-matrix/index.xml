@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harris Matrix on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/harris-matrix/</link>
+    <description>Recent content in Harris Matrix on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/harris-matrix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>harris-matrix-data-package</title>
+      <link>https://open-archaeo.info/post/harris-matrix-data-package/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/harris-matrix-data-package/</guid>
+      <description>A Data Package specification for archaeological stratigraphy data following the Harris Matrix convention.</description>
+    </item>
+    
+  </channel>
+</rss>

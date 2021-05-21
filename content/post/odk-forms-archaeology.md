@@ -6,7 +6,7 @@
   },
   "authors": ["isaacullah"],
   "categories": ["ODK"],
-  "tags": [],
+  "tags": ["Templates", "Data collection"],
   "doi": null
 }
 

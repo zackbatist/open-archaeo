@@ -7,7 +7,7 @@
   },
   "authors": ["Rozenn Colleter", "Jean-Baptiste Romain", "Jean-Baptiste Barreau"],
   "categories": [null],
-  "tags": ["Zooarchaeology", "Data collection and management"],
+  "tags": ["Zooarchaeology", "Data management"],
   "doi": "10.4995/var.2020.13422"
 }
 

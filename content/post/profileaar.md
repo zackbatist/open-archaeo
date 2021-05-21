@@ -6,7 +6,7 @@
   },
   "authors": ["ISAAKiel"],
   "categories": ["QGIS"],
-  "tags": ["Data collection and management"],
+  "tags": ["Data management"],
   "doi": null
 }
 

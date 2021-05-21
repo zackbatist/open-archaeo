@@ -7,7 +7,7 @@
   },
   "authors": ["demjanp"],
   "categories": ["QGIS"],
-  "tags": ["Geospatial analysis", "Locational analysis"],
+  "tags": ["Spatial analysis"],
   "doi": null
 }
 

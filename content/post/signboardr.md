@@ -6,7 +6,7 @@
   },
   "authors": ["mrecos"],
   "categories": ["R"],
-  "tags": ["Other"],
+  "tags": ["Shape recognition", "Photography"],
   "doi": null
 }
 

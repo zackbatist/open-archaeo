@@ -6,7 +6,7 @@
   },
   "authors": ["adammertel"],
   "categories": ["Web apps"],
-  "tags": ["Data collection and management"],
+  "tags": ["Data management"],
   "doi": null
 }
 

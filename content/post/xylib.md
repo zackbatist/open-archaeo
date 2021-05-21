@@ -6,7 +6,7 @@
   },
   "authors": ["wojdyr"],
   "categories": ["Command line tools"],
-  "tags": ["Instrumental analysis", "Luminescence"],
+  "tags": ["Luminescence dating"],
   "doi": null
 }
 

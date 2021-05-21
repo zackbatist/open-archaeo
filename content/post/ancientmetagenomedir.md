@@ -6,7 +6,7 @@
   },
   "authors": ["SPAAM-community"],
   "categories": ["Lists"],
-  "tags": ["Bioarchaeology and archaeogenetics", "Lists", "Ancient DNA", "Palaeoenvironment and palaeobotany"],
+  "tags": ["Archaeogenetics", "Palaeobotany", "Lists"],
   "doi": null
 }
 

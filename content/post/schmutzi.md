@@ -6,7 +6,7 @@
   },
   "authors": ["grenaud"],
   "categories": ["R"],
-  "tags": ["Bioarchaeology and archaeogenetics", "Low-coverage contamination estimation", "Ancient DNA"],
+  "tags": ["Archaeogenetics", "Low-coverage contamination estimation"],
   "doi": null
 }
 

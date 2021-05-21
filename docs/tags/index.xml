@@ -70,6 +70,15 @@
     </item>
     
     <item>
+      <title>Aerial and satellite imagery</title>
+      <link>https://open-archaeo.info/tags/aerial-and-satellite-imagery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/aerial-and-satellite-imagery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ancient DNA</title>
       <link>https://open-archaeo.info/tags/ancient-dna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -79,11 +88,11 @@
     </item>
     
     <item>
-      <title>API interfaces, scrapers and datasets</title>
-      <link>https://open-archaeo.info/tags/api-interfaces-scrapers-and-datasets/</link>
+      <title>API interfaces and web scrapers</title>
+      <link>https://open-archaeo.info/tags/api-interfaces-and-web-scrapers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/tags/api-interfaces-scrapers-and-datasets/</guid>
+      <guid>https://open-archaeo.info/tags/api-interfaces-and-web-scrapers/</guid>
       <description></description>
     </item>
     
@@ -97,6 +106,15 @@
     </item>
     
     <item>
+      <title>Archaeogenetics</title>
+      <link>https://open-archaeo.info/tags/archaeogenetics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/archaeogenetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Artefact morphology</title>
       <link>https://open-archaeo.info/tags/artefact-morphology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -106,29 +124,20 @@
     </item>
     
     <item>
+      <title>Augmented reality</title>
+      <link>https://open-archaeo.info/tags/augmented-reality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/augmented-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bibliography</title>
       <link>https://open-archaeo.info/tags/bibliography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/tags/bibliography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bioarchaeology and archaeogenetics</title>
-      <link>https://open-archaeo.info/tags/bioarchaeology-and-archaeogenetics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/tags/bioarchaeology-and-archaeogenetics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biological anthropology</title>
-      <link>https://open-archaeo.info/tags/biological-anthropology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/tags/biological-anthropology/</guid>
       <description></description>
     </item>
     
@@ -151,15 +160,6 @@
     </item>
     
     <item>
-      <title>Communication and outreach</title>
-      <link>https://open-archaeo.info/tags/communication-and-outreach/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/tags/communication-and-outreach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cultural evolution</title>
       <link>https://open-archaeo.info/tags/cultural-evolution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -178,29 +178,38 @@
     </item>
     
     <item>
-      <title>Data collection and management</title>
-      <link>https://open-archaeo.info/tags/data-collection-and-management/</link>
+      <title>Data collection</title>
+      <link>https://open-archaeo.info/tags/data-collection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/tags/data-collection-and-management/</guid>
+      <guid>https://open-archaeo.info/tags/data-collection/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Data entry</title>
-      <link>https://open-archaeo.info/tags/data-entry/</link>
+      <title>Data management</title>
+      <link>https://open-archaeo.info/tags/data-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/tags/data-entry/</guid>
+      <guid>https://open-archaeo.info/tags/data-management/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Data wrangling</title>
-      <link>https://open-archaeo.info/tags/data-wrangling/</link>
+      <title>Datasets</title>
+      <link>https://open-archaeo.info/tags/datasets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/tags/data-wrangling/</guid>
+      <guid>https://open-archaeo.info/tags/datasets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dendrochronology</title>
+      <link>https://open-archaeo.info/tags/dendrochronology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/dendrochronology/</guid>
       <description></description>
     </item>
     
@@ -223,11 +232,11 @@
     </item>
     
     <item>
-      <title>Drones and satellite imagery</title>
-      <link>https://open-archaeo.info/tags/drones-and-satellite-imagery/</link>
+      <title>Drones</title>
+      <link>https://open-archaeo.info/tags/drones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/tags/drones-and-satellite-imagery/</guid>
+      <guid>https://open-archaeo.info/tags/drones/</guid>
       <description></description>
     </item>
     
@@ -250,20 +259,20 @@
     </item>
     
     <item>
-      <title>Geophysics</title>
-      <link>https://open-archaeo.info/tags/geophysics/</link>
+      <title>Geophysical survey</title>
+      <link>https://open-archaeo.info/tags/geophysical-survey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/tags/geophysics/</guid>
+      <guid>https://open-archaeo.info/tags/geophysical-survey/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Geospatial analysis</title>
-      <link>https://open-archaeo.info/tags/geospatial-analysis/</link>
+      <title>Harris Matrix</title>
+      <link>https://open-archaeo.info/tags/harris-matrix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/tags/geospatial-analysis/</guid>
+      <guid>https://open-archaeo.info/tags/harris-matrix/</guid>
       <description></description>
     </item>
     
@@ -286,20 +295,11 @@
     </item>
     
     <item>
-      <title>Imaging</title>
-      <link>https://open-archaeo.info/tags/imaging/</link>
+      <title>Instrumental Neutron activation analysis</title>
+      <link>https://open-archaeo.info/tags/instrumental-neutron-activation-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/tags/imaging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Instrumental analysis</title>
-      <link>https://open-archaeo.info/tags/instrumental-analysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/tags/instrumental-analysis/</guid>
+      <guid>https://open-archaeo.info/tags/instrumental-neutron-activation-analysis/</guid>
       <description></description>
     </item>
     
@@ -340,15 +340,6 @@
     </item>
     
     <item>
-      <title>Locational analysis</title>
-      <link>https://open-archaeo.info/tags/locational-analysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/tags/locational-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Low-coverage adapted population-genetics tools</title>
       <link>https://open-archaeo.info/tags/low-coverage-adapted-population-genetics-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -367,11 +358,11 @@
     </item>
     
     <item>
-      <title>Luminescence</title>
-      <link>https://open-archaeo.info/tags/luminescence/</link>
+      <title>Luminescence dating</title>
+      <link>https://open-archaeo.info/tags/luminescence-dating/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/tags/luminescence/</guid>
+      <guid>https://open-archaeo.info/tags/luminescence-dating/</guid>
       <description></description>
     </item>
     
@@ -394,20 +385,11 @@
     </item>
     
     <item>
-      <title>Neutron activation analysis</title>
-      <link>https://open-archaeo.info/tags/neutron-activation-analysis/</link>
+      <title>Palaeobotany</title>
+      <link>https://open-archaeo.info/tags/palaeobotany/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/tags/neutron-activation-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Other</title>
-      <link>https://open-archaeo.info/tags/other/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/tags/other/</guid>
+      <guid>https://open-archaeo.info/tags/palaeobotany/</guid>
       <description></description>
     </item>
     
@@ -426,6 +408,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/tags/photogrammetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>https://open-archaeo.info/tags/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical anthropology</title>
+      <link>https://open-archaeo.info/tags/physical-anthropology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/physical-anthropology/</guid>
       <description></description>
     </item>
     
@@ -466,38 +466,20 @@
     </item>
     
     <item>
-      <title>Quantitative and statistical analysis</title>
-      <link>https://open-archaeo.info/tags/quantitative-and-statistical-analysis/</link>
+      <title>Radiocarbon dating, calibration and sequencing</title>
+      <link>https://open-archaeo.info/tags/radiocarbon-dating-calibration-and-sequencing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/tags/quantitative-and-statistical-analysis/</guid>
+      <guid>https://open-archaeo.info/tags/radiocarbon-dating-calibration-and-sequencing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R Shiny</title>
-      <link>https://open-archaeo.info/tags/r-shiny/</link>
+      <title>Schemas and ontologies</title>
+      <link>https://open-archaeo.info/tags/schemas-and-ontologies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/tags/r-shiny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Radiocarbon</title>
-      <link>https://open-archaeo.info/tags/radiocarbon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/tags/radiocarbon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Schema, ontologies and templates</title>
-      <link>https://open-archaeo.info/tags/schema-ontologies-and-templates/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/tags/schema-ontologies-and-templates/</guid>
+      <guid>https://open-archaeo.info/tags/schemas-and-ontologies/</guid>
       <description></description>
     </item>
     
@@ -529,11 +511,29 @@
     </item>
     
     <item>
-      <title>Spatial modelling and inference</title>
-      <link>https://open-archaeo.info/tags/spatial-modelling-and-inference/</link>
+      <title>Spatial analysis</title>
+      <link>https://open-archaeo.info/tags/spatial-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/tags/spatial-modelling-and-inference/</guid>
+      <guid>https://open-archaeo.info/tags/spatial-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical analysis</title>
+      <link>https://open-archaeo.info/tags/statistical-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/statistical-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Templates</title>
+      <link>https://open-archaeo.info/tags/templates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/tags/templates/</guid>
       <description></description>
     </item>
     
@@ -547,15 +547,6 @@
     </item>
     
     <item>
-      <title>Virtual and augmented reality</title>
-      <link>https://open-archaeo.info/tags/virtual-and-augmented-reality/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/tags/virtual-and-augmented-reality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Writing</title>
       <link>https://open-archaeo.info/tags/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -565,11 +556,11 @@
     </item>
     
     <item>
-      <title>XRF</title>
-      <link>https://open-archaeo.info/tags/xrf/</link>
+      <title>X-Ray Fluorescence</title>
+      <link>https://open-archaeo.info/tags/x-ray-fluorescence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/tags/xrf/</guid>
+      <guid>https://open-archaeo.info/tags/x-ray-fluorescence/</guid>
       <description></description>
     </item>
     

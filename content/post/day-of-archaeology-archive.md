@@ -6,7 +6,7 @@
   },
   "authors": ["Archaeology Data Service"],
   "categories": ["Datasets"],
-  "tags": ["Public archaeology", "Communication and outreach"],
+  "tags": ["Public archaeology"],
   "doi": "10.5284/1048331"
 }
 

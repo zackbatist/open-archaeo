@@ -6,7 +6,7 @@
   },
   "authors": ["nevrome", "stschiff"],
   "categories": ["R"],
-  "tags": ["Spatial modelling and inference", "3D modelling"],
+  "tags": ["Spatial analysis", "3D modelling"],
   "doi": null
 }
 

@@ -6,7 +6,7 @@
   },
   "authors": ["demjanp"],
   "categories": ["Python"],
-  "tags": ["Radiocarbon"],
+  "tags": ["Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }
 

@@ -6,7 +6,7 @@
   },
   "authors": ["gianmarcoalberti"],
   "categories": ["R"],
-  "tags": ["Geospatial analysis", "Spatial modelling and inference"],
+  "tags": ["Spatial analysis"],
   "doi": null
 }
 

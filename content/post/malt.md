@@ -6,7 +6,7 @@
   },
   "authors": ["Daniel H. Huson"],
   "categories": ["Java"],
-  "tags": ["Bioarchaeology and archaeogenetics", "Metagenomic classifers", "Ancient DNA"],
+  "tags": ["Archaeogenetics", "Metagenomic classifers"],
   "doi": null
 }
 

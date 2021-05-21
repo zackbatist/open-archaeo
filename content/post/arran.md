@@ -6,7 +6,7 @@
   },
   "authors": ["ickramer"],
   "categories": ["Datasets"],
-  "tags": ["LiDAR", "Drones and satellite imagery"],
+  "tags": ["LiDAR", "Aerial and satellite imagery"],
   "doi": null
 }
 

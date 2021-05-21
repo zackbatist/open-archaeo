@@ -6,7 +6,7 @@
   },
   "authors": ["Integrative-Transcriptomics"],
   "categories": ["Java"],
-  "tags": ["Bioarchaeology and archaeogenetics", "aDNA assembler", "Ancient DNA"],
+  "tags": ["Archaeogenetics", "aDNA assembler"],
   "doi": null
 }
 

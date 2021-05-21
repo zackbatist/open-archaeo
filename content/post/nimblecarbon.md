@@ -6,7 +6,7 @@
   },
   "authors": ["ercrema"],
   "categories": ["R"],
-  "tags": ["Radiocarbon"],
+  "tags": ["Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }
 

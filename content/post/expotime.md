@@ -6,7 +6,7 @@
   },
   "authors": ["steko"],
   "categories": ["?"],
-  "tags": [],
+  "tags": ["Photography"],
   "doi": null
 }
 

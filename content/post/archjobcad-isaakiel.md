@@ -6,7 +6,7 @@
   },
   "authors": ["ISAAKiel"],
   "categories": ["Plugins"],
-  "tags": ["Data collection and management"],
+  "tags": ["Data management"],
   "doi": null
 }
 

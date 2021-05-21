@@ -7,7 +7,7 @@
   },
   "authors": ["nfrerebeau"],
   "categories": ["R"],
-  "tags": ["Quantitative and statistical analysis"],
+  "tags": ["Statistical analysis"],
   "doi": "10.5281/zenodo.4478531"
 }
 

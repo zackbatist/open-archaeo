@@ -8,7 +8,7 @@
   },
   "authors": ["joeroe"],
   "categories": ["R"],
-  "tags": ["Schema, ontologies and templates"],
+  "tags": ["Schemas and ontologies"],
   "doi": null
 }
 

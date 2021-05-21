@@ -6,7 +6,7 @@
   },
   "authors": ["MartinHinz", "nevrome", "dakni", "ctietze91"],
   "categories": ["R"],
-  "tags": ["Radiocarbon", "Chronological modelling"],
+  "tags": ["Radiocarbon dating, calibration and sequencing", "Chronological modelling"],
   "doi": null
 }
 

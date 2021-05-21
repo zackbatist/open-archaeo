@@ -7,7 +7,7 @@
   },
   "authors": ["ginolhac"],
   "categories": ["Python"],
-  "tags": ["Bioarchaeology and archaeogenetics", "Damage profilers", "Ancient DNA"],
+  "tags": ["Archaeogenetics", "Damage profilers"],
   "doi": null
 }
 

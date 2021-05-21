@@ -7,7 +7,7 @@
   },
   "authors": ["grenaud"],
   "categories": ["C++"],
-  "tags": ["Bioarchaeology and archaeogenetics", "aDNA Simulators", "Ancient DNA"],
+  "tags": ["Archaeogenetics", "aDNA Simulators"],
   "doi": null
 }
 

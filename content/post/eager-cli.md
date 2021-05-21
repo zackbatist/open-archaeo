@@ -6,7 +6,7 @@
   },
   "authors": ["apeltzer"],
   "categories": ["Java"],
-  "tags": ["Bioarchaeology and archaeogenetics", "Pipelines", "Ancient DNA"],
+  "tags": ["Archaeogenetics", "Pipelines"],
   "doi": null
 }
 

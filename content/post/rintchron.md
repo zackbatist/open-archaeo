@@ -6,7 +6,7 @@
   },
   "authors": ["joeroe"],
   "categories": ["R"],
-  "tags": ["Radiocarbon", "API interfaces, scrapers and datasets"],
+  "tags": ["Radiocarbon dating, calibration and sequencing", "API interfaces and web scrapers"],
   "doi": null
 }
 

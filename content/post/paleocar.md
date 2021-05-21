@@ -6,7 +6,7 @@
   },
   "authors": ["bocinsky"],
   "categories": ["R"],
-  "tags": ["Palaeoenvironment and palaeobotany", "Quantitative and statistical analysis"],
+  "tags": ["Palaeobotany", "Statistical analysis"],
   "doi": null
 }
 

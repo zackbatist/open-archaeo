@@ -7,7 +7,7 @@
   },
   "authors": ["kmartinez"],
   "categories": [null],
-  "tags": ["Imaging"],
+  "tags": ["Photogrammetry"],
   "doi": null
 }
 

@@ -88,15 +88,6 @@
     </item>
     
     <item>
-      <title>baydem</title>
-      <link>https://open-archaeo.info/post/baydem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/baydem/</guid>
-      <description>Bayesian tools for reconstructing past demography.</description>
-    </item>
-    
-    <item>
       <title>chronomodel</title>
       <link>https://open-archaeo.info/post/chronomodel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -157,6 +148,15 @@
       
       <guid>https://open-archaeo.info/post/stratigraphr/</guid>
       <description>R package for archaeological stratigraphy and chronological sequences.</description>
+    </item>
+    
+    <item>
+      <title>unstruwwel</title>
+      <link>https://open-archaeo.info/post/unstruwwel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/unstruwwel/</guid>
+      <description>Detect and Parse Historic Dates in R.</description>
     </item>
     
   </channel>

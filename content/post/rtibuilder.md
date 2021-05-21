@@ -6,7 +6,7 @@
   },
   "authors": ["culturalheritageimaging"],
   "categories": ["Desktop apps"],
-  "tags": ["Imaging"],
+  "tags": ["Photogrammetry"],
   "doi": null
 }
 

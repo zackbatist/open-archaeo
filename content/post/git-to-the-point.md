@@ -6,7 +6,7 @@
   },
   "authors": ["aksel-blaise"],
   "categories": ["Datasets"],
-  "tags": ["API interfaces, scrapers and datasets", "Communication and outreach"],
+  "tags": ["Schemas and ontologies"],
   "doi": null
 }
 

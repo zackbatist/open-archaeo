@@ -6,7 +6,7 @@
   },
   "authors": ["UNMOCA"],
   "categories": ["ODK"],
-  "tags": ["Data collection and management"],
+  "tags": ["Data management"],
   "doi": null
 }
 

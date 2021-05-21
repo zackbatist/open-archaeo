@@ -7,7 +7,7 @@
   },
   "authors": ["Johanna Monti", "Maria Pia di Buono", "Giulia Speranza", "Raffaele Manna"],
   "categories": [null],
-  "tags": ["Schema, ontologies and templates"],
+  "tags": ["Schemas and ontologies"],
   "doi": null
 }
 

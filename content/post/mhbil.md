@@ -7,7 +7,7 @@
   },
   "authors": ["dakni", "OliverNakoinz"],
   "categories": ["Tutorials"],
-  "tags": ["Educational resources and practical guides", "Spatial modelling and inference"],
+  "tags": ["Educational resources and practical guides", "Spatial analysis"],
   "doi": null
 }
 
