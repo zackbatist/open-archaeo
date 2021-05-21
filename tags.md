@@ -5,7 +5,6 @@ Tags and categories used in open-archaeo. This list is subject to evolve over ti
 |:--|:----|
 Statistical analysis|Identification and analysis of quantitative distribution patterns.|
 |Spatial analysis|Identification and analysis of patterns relating to spatial distributions or relationships.|
-|Spatial analysis|Identification and analysis of patterns relating to spatial distributions or relationships.|
 |Viewshed analysis|Techniques for considering localized spatial perspectives of landscapes.|
 |Site mapping|Techniques for illustrating archaeological sites.|
 |Harrix matrix|Representation of archaeological sites as series of connected abstract entities.|
@@ -68,6 +67,7 @@ Statistical analysis|Identification and analysis of quantitative distribution pa
 
 
 ## Categories
+_Not yet applied to the main list. Still under development._
 
 |Category|Kind|Scope|
 |:-------|:---|:----|
@@ -84,9 +84,9 @@ Statistical analysis|Identification and analysis of quantitative distribution pa
 
 |Platform or Language|Reference|
 |:-------------------|:--|
-|R||
-|Python||
-|QGIS||
-|ArcGIS||
-|Lisp||
-|xxx||
+|R|https://www.r-project.org/other-docs.html|
+|Python|https://docs.python.org/3/|
+|QGIS|https://plugins.qgis.org/|
+|ArcGIS|https://desktop.arcgis.com/en/arcmap/latest/extensions/main/about-arcgis-for-desktop-extensions.htm|
+|Lisp|https://common-lisp.net/|
+
