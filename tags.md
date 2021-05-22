@@ -21,7 +21,7 @@ Statistical analysis|Identification and analysis of quantitative distribution pa
 |Virtual reality|Simulating an environment in a 3D interactive virtual space.|
 |Augmented reality|Creating a composite view comprising computer-generated images superimposed on real world environments.|
 |Drones|Semi-automated machines used to capture data in environments that are unsuitable or unsafe for direct human presence.|
-|erial and satellite imagery|Techniques for capturing images of the earth from aerial perspectives.|
+|Aerial and satellite imagery|Techniques for capturing images of the earth from aerial perspectives.|
 |Luminescence dating|Absolute dating techniques that rely on measuring doses of ionizing radiation.|
 |X-Ray Fluorescence|Technique for identifying the elemental composition of physical objects by bombarding samples with high-energy radiation.|
 |Instrumental Neutron activation analysis|Technique for identifying the elemental composition of physical objects by bombarding samples with neutrons.|
@@ -77,7 +77,7 @@ _Not yet applied to the main list. Still under development._
 |Scripts|Software|Sets of pragmatically assembled mutable functions, often lacking complete documentation or adherence to protocols that would otherwise facilitate secondary use outside their original contexts of creation.|
 |Specifications, protocols, templates and schemas|Documents|A formal data structure or framework intended to be used as a model.|
 |Products|Documents|An immutable creation.|
-|Gudes|Documents|An educational resource or documented protocol meant to instruct readers how to apply relevant tools or techniques.|
+|Guides|Documents|An educational resource or documented protocol meant to instruct readers how to apply relevant tools or techniques.|
 |Lists and datasets|Documents|A series of consistently organized observations assembled with purpose.|
 
 ## Platforms and lanaguages
