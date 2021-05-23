@@ -53,6 +53,7 @@ Statistical analysis|Identification and analysis of quantitative distribution pa
 |Dendrochronology||
 |Photography||
 |Cultural evolution||
+|Simulation||
 |Pipelines||
 |Damage profilers||
 |Metagenomic classifers||
