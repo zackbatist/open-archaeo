@@ -88,6 +88,24 @@
     </item>
     
     <item>
+      <title>caribbean-14C</title>
+      <link>https://open-archaeo.info/post/caribbean-14c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/caribbean-14c/</guid>
+      <description>A compilation of anthropogenic radiocarbon dates for the Caribbean region.</description>
+    </item>
+    
+    <item>
+      <title>cleanc14</title>
+      <link>https://open-archaeo.info/post/cleanc14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/cleanc14/</guid>
+      <description>Provides some utility functions for cleaning radiocarbon data in R.</description>
+    </item>
+    
+    <item>
       <title>clustering_14C</title>
       <link>https://open-archaeo.info/post/clustering-14c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -121,6 +139,15 @@
       
       <guid>https://open-archaeo.info/post/neolithicr/</guid>
       <description>Shiny app to search and filter radiocarbon dates from various source databases, based on the R package c14bazAAR.</description>
+    </item>
+    
+    <item>
+      <title>NERD</title>
+      <link>https://open-archaeo.info/post/nerd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/nerd/</guid>
+      <description>Dataset of 10,647 radiocarbon dates from the Near East from the Late Pleistocene until the Late Holocene (ca. 14 - 2 kya BP).</description>
     </item>
     
     <item>

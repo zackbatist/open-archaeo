@@ -24,5 +24,14 @@
       <description>A database interface designed to facilitate the irregular, iterative, and non-linear workflows that are commonly employed in lithic analysis.</description>
     </item>
     
+    <item>
+      <title>Tachy2GIS_arch</title>
+      <link>https://open-archaeo.info/post/tachy2gis-arch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/tachy2gis-arch/</guid>
+      <description>QGIS plugin for documentation of archaeological features using Tachy2GIS.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -7,7 +7,7 @@
   },
   "authors": ["jfy133"],
   "categories": ["R"],
-  "tags": ["Archaeogenetics", "Ancient DNA"],
+  "tags": ["Archaeogenetics"],
   "doi": "10.5281/zenodo.4561901"
 }
 

@@ -43,6 +43,15 @@
     </item>
     
     <item>
+      <title>cltk</title>
+      <link>https://open-archaeo.info/post/cltk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/cltk/</guid>
+      <description>A Python library offering natural language processing (NLP) for pre-modern languages.</description>
+    </item>
+    
+    <item>
       <title>clustering_14C</title>
       <link>https://open-archaeo.info/post/clustering-14c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

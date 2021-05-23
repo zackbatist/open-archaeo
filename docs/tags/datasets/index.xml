@@ -79,6 +79,15 @@
     </item>
     
     <item>
+      <title>caribbean-14C</title>
+      <link>https://open-archaeo.info/post/caribbean-14c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/caribbean-14c/</guid>
+      <description>A compilation of anthropogenic radiocarbon dates for the Caribbean region.</description>
+    </item>
+    
+    <item>
       <title>Classical and ancient Linked Open Data</title>
       <link>https://open-archaeo.info/post/classical-and-ancient-linked-open-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -142,12 +151,39 @@
     </item>
     
     <item>
+      <title>NERD</title>
+      <link>https://open-archaeo.info/post/nerd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/nerd/</guid>
+      <description>Dataset of 10,647 radiocarbon dates from the Near East from the Late Pleistocene until the Late Holocene (ca. 14 - 2 kya BP).</description>
+    </item>
+    
+    <item>
+      <title>pe-dictionary</title>
+      <link>https://open-archaeo.info/post/pe-dictionary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pe-dictionary/</guid>
+      <description>Proto-Elamite sign list.</description>
+    </item>
+    
+    <item>
       <title>R-Scripts</title>
       <link>https://open-archaeo.info/post/r-scripts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/r-scripts/</guid>
       <description>This contains a set of data about human mobility, subsistance, population, and environmental productivity derived from the Standard Cross Cultural Sample</description>
+    </item>
+    
+    <item>
+      <title>racisminarchy</title>
+      <link>https://open-archaeo.info/post/racisminarchy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/racisminarchy/</guid>
+      <description>Contains data and R code for our article on computational text analysis of racism in archaeology.</description>
     </item>
     
     <item>
@@ -170,10 +206,19 @@
     
     <item>
       <title>roman-amphitheaters</title>
-      <link>https://open-archaeo.info/post/roman-amphitheaters/</link>
+      <link>https://open-archaeo.info/post/roman-amphitheaters-roman-amphitheaters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/roman-amphitheaters/</guid>
+      <guid>https://open-archaeo.info/post/roman-amphitheaters-roman-amphitheaters/</guid>
+      <description>A dataset of Roman amphitheaters.</description>
+    </item>
+    
+    <item>
+      <title>roman-amphitheaters</title>
+      <link>https://open-archaeo.info/post/roman-amphitheaters-sfsheath/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/roman-amphitheaters-sfsheath/</guid>
       <description>A dataset and discussion relating to Roman amphitheaters</description>
     </item>
     

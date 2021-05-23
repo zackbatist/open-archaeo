@@ -24,5 +24,14 @@
       <description>Climate Response and Virginia Archaeology: Maps from Different Points of View</description>
     </item>
     
+    <item>
+      <title>racisminarchy</title>
+      <link>https://open-archaeo.info/post/racisminarchy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/racisminarchy/</guid>
+      <description>Contains data and R code for our article on computational text analysis of racism in archaeology.</description>
+    </item>
+    
   </channel>
 </rss>
