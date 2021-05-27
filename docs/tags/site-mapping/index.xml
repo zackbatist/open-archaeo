@@ -61,6 +61,15 @@
     </item>
     
     <item>
+      <title>input</title>
+      <link>https://open-archaeo.info/post/input/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/input/</guid>
+      <description>Makes surveying geospatial data easy by designing your survey project in QGIS with custom forms.</description>
+    </item>
+    
+    <item>
       <title>simple-browser-gis-collector</title>
       <link>https://open-archaeo.info/post/simple-browser-gis-collector/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

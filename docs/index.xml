@@ -277,6 +277,15 @@
     </item>
     
     <item>
+      <title>Archaeological Ethics Database</title>
+      <link>https://open-archaeo.info/post/archaeological-ethics-database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeological-ethics-database/</guid>
+      <description>Brings together sources on archaeological ethics in a single place for the use of students, researchers, and professional archaeologists.</description>
+    </item>
+    
+    <item>
       <title>archaeological-object-sharing</title>
       <link>https://open-archaeo.info/post/archaeological-object-sharing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -916,6 +925,15 @@
     </item>
     
     <item>
+      <title>CeramicApportioning</title>
+      <link>https://open-archaeo.info/post/ceramicapportioning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/ceramicapportioning/</guid>
+      <description>A method for chronological apportioning of ceramic assemblages that considers site occupation dates, ceramic production dates, and popularity distribution curves.</description>
+    </item>
+    
+    <item>
       <title>CharTool</title>
       <link>https://open-archaeo.info/post/chartool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1321,6 +1339,24 @@
     </item>
     
     <item>
+      <title>ElementSourcing</title>
+      <link>https://open-archaeo.info/post/elementsourcing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/elementsourcing/</guid>
+      <description>Source archaeological artifacts using elemental composition.</description>
+    </item>
+    
+    <item>
+      <title>elemSource</title>
+      <link>https://open-archaeo.info/post/elemsource/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/elemsource/</guid>
+      <description>R Package for sourcing elements.</description>
+    </item>
+    
+    <item>
       <title>epiPALEOMIX</title>
       <link>https://open-archaeo.info/post/epipaleomix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1385,10 +1421,10 @@
     
     <item>
       <title>Fiche Stratigraphique Numérique (FSN)</title>
-      <link>https://open-archaeo.info/post/fiche-stratigraphique-nume%CC%81rique-fsn/</link>
+      <link>https://open-archaeo.info/post/fiche-stratigraphique-num%C3%A9rique-fsn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/fiche-stratigraphique-nume%CC%81rique-fsn/</guid>
+      <guid>https://open-archaeo.info/post/fiche-stratigraphique-num%C3%A9rique-fsn/</guid>
       <description>Fiche Stratigraphique Numérique (FSN) is an application project for field recording and management of archaeological operations data.</description>
     </item>
     
@@ -1417,6 +1453,15 @@
       
       <guid>https://open-archaeo.info/post/findpeaks/</guid>
       <description>A simple algorithm to find local maxima/minima in sequential data</description>
+    </item>
+    
+    <item>
+      <title>FISH Vocabularies</title>
+      <link>https://open-archaeo.info/post/fish-vocabularies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/fish-vocabularies/</guid>
+      <description>A suite of terminologies developed for indexing cultural heritage.</description>
     </item>
     
     <item>
@@ -1723,6 +1768,15 @@
       
       <guid>https://open-archaeo.info/post/inclusions/</guid>
       <description>Shortcodes to describe inclusions in ceramic bodies</description>
+    </item>
+    
+    <item>
+      <title>input</title>
+      <link>https://open-archaeo.info/post/input/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/input/</guid>
+      <description>Makes surveying geospatial data easy by designing your survey project in QGIS with custom forms.</description>
     </item>
     
     <item>
@@ -3203,10 +3257,10 @@
     
     <item>
       <title>Sériation de matrice en présence/absence</title>
-      <link>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</link>
+      <link>https://open-archaeo.info/post/s%C3%A9riation-de-matrice-en-pr%C3%A9sence-absence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</guid>
+      <guid>https://open-archaeo.info/post/s%C3%A9riation-de-matrice-en-pr%C3%A9sence-absence/</guid>
       <description>Excel file containing macro commands making it possible to transform a 1/0 table (presence / absence) into a graphic matrix treated by matrix permutations; it is possible to take into account the uncertain presence of a character. The instructions for use are contained in the file.</description>
     </item>
     

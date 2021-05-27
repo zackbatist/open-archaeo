@@ -16,6 +16,24 @@
     </item>
     
     <item>
+      <title>ElementSourcing</title>
+      <link>https://open-archaeo.info/post/elementsourcing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/elementsourcing/</guid>
+      <description>Source archaeological artifacts using elemental composition.</description>
+    </item>
+    
+    <item>
+      <title>elemSource</title>
+      <link>https://open-archaeo.info/post/elemsource/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/elemsource/</guid>
+      <description>R Package for sourcing elements.</description>
+    </item>
+    
+    <item>
       <title>paleoxrf</title>
       <link>https://open-archaeo.info/post/paleoxrf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
