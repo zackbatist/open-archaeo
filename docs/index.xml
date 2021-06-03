@@ -534,7 +534,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/arkhe/</guid>
-      <description>A Collection of R S4 Classes that Represent Archaeological Data</description>
+      <description>A Collection of R S4 Classes that Represent Archaeological Data.</description>
     </item>
     
     <item>
@@ -1421,10 +1421,10 @@
     
     <item>
       <title>Fiche Stratigraphique Numérique (FSN)</title>
-      <link>https://open-archaeo.info/post/fiche-stratigraphique-num%C3%A9rique-fsn/</link>
+      <link>https://open-archaeo.info/post/fiche-stratigraphique-nume%CC%81rique-fsn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/fiche-stratigraphique-num%C3%A9rique-fsn/</guid>
+      <guid>https://open-archaeo.info/post/fiche-stratigraphique-nume%CC%81rique-fsn/</guid>
       <description>Fiche Stratigraphique Numérique (FSN) is an application project for field recording and management of archaeological operations data.</description>
     </item>
     
@@ -1825,6 +1825,15 @@
     </item>
     
     <item>
+      <title>kairos</title>
+      <link>https://open-archaeo.info/post/kairos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/kairos/</guid>
+      <description>Analysis of Chronological Patterns from Archaeological Count Data.</description>
+    </item>
+    
+    <item>
       <title>khroma</title>
       <link>https://open-archaeo.info/post/khroma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2218,6 +2227,15 @@
       
       <guid>https://open-archaeo.info/post/nervia/</guid>
       <description>Management system for physical storage of archaeological finds</description>
+    </item>
+    
+    <item>
+      <title>nexus</title>
+      <link>https://open-archaeo.info/post/nexus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/nexus/</guid>
+      <description>Sourcing Archaeological Materials by Chemical Composition.</description>
     </item>
     
     <item>
@@ -3257,10 +3275,10 @@
     
     <item>
       <title>Sériation de matrice en présence/absence</title>
-      <link>https://open-archaeo.info/post/s%C3%A9riation-de-matrice-en-pr%C3%A9sence-absence/</link>
+      <link>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/s%C3%A9riation-de-matrice-en-pr%C3%A9sence-absence/</guid>
+      <guid>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</guid>
       <description>Excel file containing macro commands making it possible to transform a 1/0 table (presence / absence) into a graphic matrix treated by matrix permutations; it is possible to take into account the uncertain presence of a character. The instructions for use are contained in the file.</description>
     </item>
     
