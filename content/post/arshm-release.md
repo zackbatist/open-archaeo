@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/zacharyliu/arshm-release"
   },
   "authors": ["zacharyliu"],
-  "categories": ["Mobile apps"],
+  "categories": ["Standalone software"],
   "tags": ["Augmented reality"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/semerj/harris-matrix"
   },
   "authors": ["semerj"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Harrix matrix"],
   "doi": null
 }

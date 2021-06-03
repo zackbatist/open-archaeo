@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/geanes/bioanth"
   },
   "authors": ["geanes"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Physical anthropology"],
   "doi": null
 }

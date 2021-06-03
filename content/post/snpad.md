@@ -5,7 +5,7 @@
     "Website": "https://bioinf.eva.mpg.de/snpAD/"
   },
   "authors": ["Kay Prüfer"],
-  "categories": ["C++"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "aDNA damage-aware genotypers"],
   "doi": null
 }

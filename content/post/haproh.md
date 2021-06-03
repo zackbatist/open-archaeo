@@ -6,7 +6,7 @@
     "PyPi": "https://pypi.org/project/hapROH/"
   },
   "authors": ["hringbauer"],
-  "categories": ["Python"],
+  "categories": ["Packages and libraries"],
   "tags": ["Archaeogenetics", "Low-coverage adapted population-genetics tools"],
   "doi": null
 }

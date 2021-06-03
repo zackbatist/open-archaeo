@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/WiseLabCMU/totalstation-tools"
   },
   "authors": ["WiseLabCMU"],
-  "categories": ["Python"],
+  "categories": ["Packages and libraries"],
   "tags": ["Drivers and IO"],
   "doi": null
 }

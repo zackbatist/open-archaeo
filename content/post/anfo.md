@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/mpieva/anfo"
   },
   "authors": ["mpieva"],
-  "categories": ["C++"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "aDNA aligner"],
   "doi": null
 }

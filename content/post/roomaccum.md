@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/kintigh/RoomAccum"
   },
   "authors": ["kintigh"],
-  "categories": ["?"],
+  "categories": ["Standalone software"],
   "tags": ["Simulation", "Cultural evolution"],
   "doi": null
 }

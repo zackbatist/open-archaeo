@@ -6,7 +6,7 @@
     "Publication": "https://www.springer.com/en/book/9783319295367"
   },
   "authors": ["dakni", "OliverNakoinz"],
-  "categories": ["Tutorials"],
+  "categories": ["Guides"],
   "tags": ["Educational resources and practical guides", "Spatial analysis"],
   "doi": null
 }

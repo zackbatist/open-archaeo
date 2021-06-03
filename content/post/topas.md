@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/subwaystation/TOPAS"
   },
   "authors": ["subwaystation"],
-  "categories": ["Java"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "aDNA toolkit"],
   "doi": null
 }

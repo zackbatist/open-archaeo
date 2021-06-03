@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/anatolian/field-photographs"
   },
   "authors": ["anatolian"],
-  "categories": ["Mobile apps"],
+  "categories": ["Standalone software"],
   "tags": ["Site mapping"],
   "doi": null
 }

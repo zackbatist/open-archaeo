@@ -6,7 +6,7 @@
     "Website": "https://blasbenito.github.io/distantia/"
   },
   "authors": ["BlasBenito"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Palaeobotany"],
   "doi": null
 }

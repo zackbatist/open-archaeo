@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/shapAAR"
   },
   "authors": ["ISAAKiel"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Shape recognition"],
   "doi": null
 }

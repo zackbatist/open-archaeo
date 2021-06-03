@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/letreiro/c14-laboratory-code"
   },
   "authors": ["letreiro"],
-  "categories": ["Datasets"],
+  "categories": ["Lists and datasets"],
   "tags": ["Datasets", "Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }

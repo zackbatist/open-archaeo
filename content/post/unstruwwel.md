@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/stefanieschneider/unstruwwel"
   },
   "authors": ["stefanieschneider"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Chronological modelling"],
   "doi": null
 }

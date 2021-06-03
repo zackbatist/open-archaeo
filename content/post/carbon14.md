@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/paleolimbot/carbon14"
   },
   "authors": ["paleolimbot"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }

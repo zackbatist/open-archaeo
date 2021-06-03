@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ercrema/cTransmission"
   },
   "authors": ["ercrema", "Anne Kandler"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Statistical analysis", "Cultural evolution"],
   "doi": null
 }

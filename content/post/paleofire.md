@@ -6,7 +6,7 @@
     "Website": "https://www.gpwg.paleofire.org/"
   },
   "authors": ["oblarquez"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["API interfaces and web scrapers"],
   "doi": null
 }

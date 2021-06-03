@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/kacebe/AtlantGIS"
   },
   "authors": ["kacebe"],
-  "categories": ["Datasets"],
+  "categories": ["Lists and datasets"],
   "tags": ["Educational resources and practical guides"],
   "doi": null
 }

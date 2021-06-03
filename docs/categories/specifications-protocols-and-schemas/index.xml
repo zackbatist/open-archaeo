@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Specifications, protocols and schemas on open-archaeo</title>
+    <link>https://open-archaeo.info/categories/specifications-protocols-and-schemas/</link>
+    <description>Recent content in Specifications, protocols and schemas on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/categories/specifications-protocols-and-schemas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archaeo-Term</title>
+      <link>https://open-archaeo.info/post/archaeo-term/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeo-term/</guid>
+      <description>Multilingual glossary designed to enhance access to archaeological data.</description>
+    </item>
+    
+    <item>
+      <title>archvocab</title>
+      <link>https://open-archaeo.info/post/archvocab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archvocab/</guid>
+      <description>The ArchVocab ontologies by Leif Isaksen</description>
+    </item>
+    
+    <item>
+      <title>ARCSCore</title>
+      <link>https://open-archaeo.info/post/arcscore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/arcscore/</guid>
+      <description>ARCSCore is a metadata standard for organizing and sharing digital versions of non-digital documents created during the course of an archaeological investigation</description>
+    </item>
+    
+    <item>
+      <title>FISH Vocabularies</title>
+      <link>https://open-archaeo.info/post/fish-vocabularies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/fish-vocabularies/</guid>
+      <description>A suite of terminologies developed for indexing cultural heritage.</description>
+    </item>
+    
+    <item>
+      <title>harris-matrix-data-package</title>
+      <link>https://open-archaeo.info/post/harris-matrix-data-package/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/harris-matrix-data-package/</guid>
+      <description>A Data Package specification for archaeological stratigraphy data following the Harris Matrix convention.</description>
+    </item>
+    
+    <item>
+      <title>inclusions</title>
+      <link>https://open-archaeo.info/post/inclusions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/inclusions/</guid>
+      <description>Shortcodes to describe inclusions in ceramic bodies.</description>
+    </item>
+    
+    <item>
+      <title>nonekXML</title>
+      <link>https://open-archaeo.info/post/nonekxml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/nonekxml/</guid>
+      <description>Exchange data format (XML) for NoNeK (Nordmitteleuropäische Neolithische Keramik).</description>
+    </item>
+    
+    <item>
+      <title>NRHP_Metadata_Scheme</title>
+      <link>https://open-archaeo.info/post/nrhp-metadata-scheme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/nrhp-metadata-scheme/</guid>
+      <description>Metadata scheme for National Register of Historic Places, transcribed from the National Park Service NPS Bulletin 16</description>
+    </item>
+    
+    <item>
+      <title>rppsfs</title>
+      <link>https://open-archaeo.info/post/rppsfs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rppsfs/</guid>
+      <description>Roman Peasant Project Small Finds Ontology</description>
+    </item>
+    
+    <item>
+      <title>tridas</title>
+      <link>https://open-archaeo.info/post/tridas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/tridas/</guid>
+      <description>TRiDaS is a universal data exchange standard for the dendrochronology community. This project contains the data standard itself as well as libraries and tools useful for reading, writing and converting dendro data files.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,7 +6,7 @@
     "Publication": "https://doi.org/10.5194/gchron-2020-25"
   },
   "authors": ["nickmckay", "CommonClimate", "khider"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Chronological modelling", "Palaeobotany"],
   "doi": null
 }

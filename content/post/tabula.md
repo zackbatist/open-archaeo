@@ -8,7 +8,7 @@
     "Publication": "https://doi.org/10.21105/joss.01821"
   },
   "authors": ["nfrerebeau", "tesselle"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Statistical analysis", "Seriation"],
   "doi": "10.5281/zenodo.1489944"
 }

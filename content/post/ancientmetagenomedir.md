@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/SPAAM-community/AncientMetagenomeDir"
   },
   "authors": ["SPAAM-community"],
-  "categories": ["Lists"],
+  "categories": ["Lists and datasets"],
   "tags": ["Archaeogenetics", "Palaeobotany", "Lists"],
   "doi": null
 }

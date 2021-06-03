@@ -6,7 +6,7 @@
     "Website": "https://alessandrobattisti.github.io/Vessel-Measuring-Tool/#/"
   },
   "authors": ["alessandrobattisti"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Artefact morphology"],
   "doi": null
 }

@@ -75,7 +75,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/archeofrag/</guid>
-      <description>R package for the analysis of the fragmentation of archeological objects</description>
+      <description>R package for the analysis of the fragmentation of archeological objects.</description>
     </item>
     
     <item>
@@ -147,7 +147,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/oxcaar/</guid>
-      <description>A collection of functions that can be used to execute OxCal from within R</description>
+      <description>A collection of functions that can be used to execute OxCal from within R.</description>
     </item>
     
     <item>

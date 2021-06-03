@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ahb108/rtefact"
   },
   "authors": ["ahb108"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Artefact morphology"],
   "doi": null
 }

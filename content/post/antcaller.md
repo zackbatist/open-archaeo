@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/BoyanZhou/AntCaller"
   },
   "authors": ["BoyanZhou"],
-  "categories": ["Python"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "aDNA damage-aware genotypers"],
   "doi": null
 }

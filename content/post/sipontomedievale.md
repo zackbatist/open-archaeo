@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/fradeve/sipontomedievale"
   },
   "authors": ["fradeve"],
-  "categories": ["Web apps"],
+  "categories": ["Products"],
   "tags": ["Public archaeology"],
   "doi": null
 }

@@ -6,7 +6,7 @@
     "Website": "https://field.dainst.org/#/"
   },
   "authors": ["daiinst"],
-  "categories": ["Desktop apps"],
+  "categories": ["Standalone software"],
   "tags": ["Data management"],
   "doi": null
 }

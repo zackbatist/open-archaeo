@@ -5,7 +5,7 @@
     "CRAN": "https://cran.r-project.org/web/packages/zooaRch/"
   },
   "authors": ["Erik Otarola-Castillo", "Jesse Wolfhagen", "Max D. Price", "zooaRch"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Zooarchaeology"],
   "doi": null
 }

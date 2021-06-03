@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/Integrative-Transcriptomics/DamageProfiler"
   },
   "authors": ["JudithNeukamm", "apeltzer", "jfy133", "alexhbnr", "Integrative-Transcriptomics"],
-  "categories": ["Java"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "Damage profilers"],
   "doi": null
 }

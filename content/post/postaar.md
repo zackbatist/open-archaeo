@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/postAAR"
   },
   "authors": ["nmueller18", "chrinne"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Shape recognition"],
   "doi": null
 }

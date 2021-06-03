@@ -6,7 +6,7 @@
     "Website": "https://www.max.gwi.uni-muenchen.de/"
   },
   "authors": ["stefanieschneider", "Hubertus Kohle", "Severin Burg", "Helmut Küchenhoff"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Museums"],
   "doi": null
 }

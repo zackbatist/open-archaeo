@@ -6,7 +6,7 @@
     "Codeberg": "https://codeberg.org/steko/tipom"
   },
   "authors": ["iosa"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Artefact morphology"],
   "doi": null
 }

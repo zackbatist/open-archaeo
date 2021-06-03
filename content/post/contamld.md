@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/nathan-nakatsuka/ContamLD"
   },
   "authors": ["nathan-nakatsuka"],
-  "categories": ["Python / R"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "Low-coverage contamination estimation"],
   "doi": null
 }

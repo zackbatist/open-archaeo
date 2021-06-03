@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/scollinselliott/rppsf"
   },
   "authors": ["scollinselliott"],
-  "categories": ["?"],
+  "categories": ["Specifications, protocols and schemas"],
   "tags": ["Schemas and ontologies"],
   "doi": null
 }

@@ -6,7 +6,7 @@
     "Website": "https://java-dev.rgzm.de/webapp_alligator/"
   },
   "authors": ["Florian Thiery", "Allard Mees"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Statistical analysis", "Schemas and ontologies"],
   "doi": null
 }

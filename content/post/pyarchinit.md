@@ -5,7 +5,7 @@
     "Website": "https://sites.google.com/site/pyarchinit/"
   },
   "authors": [],
-  "categories": ["QGIS"],
+  "categories": ["Packages and libraries"],
   "tags": ["Data management"],
   "doi": null
 }

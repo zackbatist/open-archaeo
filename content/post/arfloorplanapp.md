@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/carlsun98/ARFloorPlanApp"
   },
   "authors": ["carlsun98"],
-  "categories": ["Mobile apps"],
+  "categories": ["Standalone software"],
   "tags": ["Augmented reality"],
   "doi": null
 }

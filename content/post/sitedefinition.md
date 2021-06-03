@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/SCSchmidt/sitedefinition"
   },
   "authors": ["SCSchmidt"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Site mapping"],
   "doi": null
 }

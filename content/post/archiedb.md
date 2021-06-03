@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/archiedb/archie"
   },
   "authors": ["archie"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Data management"],
   "doi": null
 }

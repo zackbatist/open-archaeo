@@ -6,7 +6,7 @@
     "blog post": "http://tsdye.online/tsdye/posts/allen-relations/"
   },
   "authors": ["tsdye"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Chronological modelling"],
   "doi": null
 }

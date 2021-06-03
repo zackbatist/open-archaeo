@@ -6,7 +6,7 @@
     "Website": "https://www.neolithicrc.de"
   },
   "authors": ["nevrome", "dirkseidensticker"],
-  "categories": ["Web apps"],
+  "categories": ["Scripts"],
   "tags": ["API interfaces and web scrapers", "Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }

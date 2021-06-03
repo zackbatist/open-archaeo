@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ArchaeoStat/ArchaeoChron"
   },
   "authors": ["ArchaeoStat"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Chronological modelling"],
   "doi": null
 }

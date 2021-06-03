@@ -6,7 +6,7 @@
     "Website": "https://www.archesproject.org/"
   },
   "authors": ["archesproject"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Data management"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/oblarquez/GCD"
   },
   "authors": ["oblarquez"],
-  "categories": ["Datasets"],
+  "categories": ["Lists and datasets"],
   "tags": ["Datasets"],
   "doi": null
 }

@@ -7,7 +7,7 @@
     "Publication": "https://doi.org/10.1016/j.jas.2014.04.021"
   },
   "authors": ["f-silva-archaeo"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Spatial analysis"],
   "doi": "10.5281/zenodo.1204397"
 }

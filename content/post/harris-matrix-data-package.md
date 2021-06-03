@@ -5,7 +5,7 @@
     "Codeberg": "https://codeberg.org/steko/harris-matrix-data-package"
   },
   "authors": ["steko"],
-  "categories": ["?"],
+  "categories": ["Specifications, protocols and schemas"],
   "tags": ["Harris Matrix", "Schemas and ontologies"],
   "doi": null
 }

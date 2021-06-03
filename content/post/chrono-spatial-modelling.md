@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/demjanp/chrono_spatial_modelling"
   },
   "authors": ["demjanp"],
-  "categories": ["Python"],
+  "categories": ["Guides"],
   "tags": ["Spatial analysis"],
   "doi": null
 }

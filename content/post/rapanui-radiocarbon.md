@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/clipo/rapanui-radiocarbon"
   },
   "authors": ["clipo", "rdinapoli"],
-  "categories": ["Datasets"],
+  "categories": ["Lists and datasets"],
   "tags": ["Datasets", "Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }

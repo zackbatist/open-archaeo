@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/rhuebler/HOPS"
   },
   "authors": ["rhuebler"],
-  "categories": ["Java"],
+  "categories": ["Packages and libraries"],
   "tags": ["Archaeogenetics", "Metagenomic classifers"],
   "doi": null
 }

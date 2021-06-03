@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/lecAAR"
   },
   "authors": ["yesdavid", "nevrome", "nmueller18", "whamer", "dakni"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Statistical analysis", "Spatial analysis"],
   "doi": null
 }

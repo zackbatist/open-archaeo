@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/nevrome/bleiglas"
   },
   "authors": ["nevrome", "stschiff"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Spatial analysis", "3D modelling"],
   "doi": null
 }

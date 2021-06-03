@@ -7,7 +7,7 @@
     "Website": "https://era.joeroe.io/"
   },
   "authors": ["joeroe"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Schemas and ontologies"],
   "doi": null
 }

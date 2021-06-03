@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/sfsheath/gorbit"
   },
   "authors": ["sfsheath"],
-  "categories": ["Datasets"],
+  "categories": ["Lists and datasets"],
   "tags": ["Datasets"],
   "doi": null
 }

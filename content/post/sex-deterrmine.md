@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/TCLamnidis/Sex.DetERRmine"
   },
   "authors": ["TCLamnidis"],
-  "categories": ["Python"],
+  "categories": ["Scripts"],
   "tags": ["Archaeogenetics", "Low-coverage adapted population-genetics tools"],
   "doi": null
 }

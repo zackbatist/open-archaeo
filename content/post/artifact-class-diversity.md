@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/taphocoenose/Artifact_Class_Diversity"
   },
   "authors": ["taphocoenose"],
-  "categories": ["R"],
+  "categories": ["Scripts"],
   "tags": ["Spatial analysis"],
   "doi": null
 }

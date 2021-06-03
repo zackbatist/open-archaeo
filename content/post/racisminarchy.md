@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/parkgayoung/racisminarchy"
   },
   "authors": ["parkgayoung"],
-  "categories": ["?"],
+  "categories": ["Products"],
   "tags": ["Datasets", "Ethics and professional development"],
   "doi": null
 }

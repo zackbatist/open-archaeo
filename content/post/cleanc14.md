@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/joeroe/cleanc14"
   },
   "authors": ["joeroe"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }

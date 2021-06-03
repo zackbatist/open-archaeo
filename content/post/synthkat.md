@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/scollinselliott/synthkat"
   },
   "authors": ["scollinselliott"],
-  "categories": ["Python"],
+  "categories": ["Scripts"],
   "tags": ["Shape recognition"],
   "doi": null
 }

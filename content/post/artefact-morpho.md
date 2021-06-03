@@ -5,7 +5,7 @@
     "gist": "https://gist.github.com/benmarwick/6260541"
   },
   "authors": ["benmarwick"],
-  "categories": ["R"],
+  "categories": ["Scripts"],
   "tags": ["Shape recognition"],
   "doi": null
 }

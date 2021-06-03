@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/josephlewis/leastcostpath"
   },
   "authors": ["josephlewis"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Spatial analysis"],
   "doi": null
 }

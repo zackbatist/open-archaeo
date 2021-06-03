@@ -6,7 +6,7 @@
     "CRAN": "https://cran.r-project.org/web/packages/ArchaeoPhases/index.html"
   },
   "authors": ["marieannevibet"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Chronological modelling"],
   "doi": null
 }

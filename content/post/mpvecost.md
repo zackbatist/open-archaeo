@@ -5,7 +5,7 @@
     "CRAN": "https://cran.r-project.org/web/packages/movecost/index.html"
   },
   "authors": ["gianmarcoalberti"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Spatial analysis"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/scikit-beam/scikit-beam"
   },
   "authors": ["scikit-beam"],
-  "categories": ["Python"],
+  "categories": ["Standalone software"],
   "tags": ["X-Ray Fluorescence"],
   "doi": null
 }

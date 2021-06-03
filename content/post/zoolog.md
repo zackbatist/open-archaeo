@@ -7,7 +7,7 @@
     "Website": "https://josempozo.github.io/zoolog/"
   },
   "authors": ["Jose M. Pozo", "Silvia Valenzuela-Lamas", "Angela Trentacoste", "Ariadne Nieto-Espinet", "Silvia Guimarães Chiarelli"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Zooarchaeology"],
   "doi": null
 }

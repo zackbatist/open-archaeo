@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/profileAAR"
   },
   "authors": ["ISAAKiel"],
-  "categories": ["QGIS"],
+  "categories": ["Packages and libraries"],
   "tags": ["Data management"],
   "doi": null
 }

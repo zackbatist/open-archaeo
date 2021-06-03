@@ -6,7 +6,7 @@
     "Publication": "https://dl.acm.org/doi/abs/10.1145/3208159.3208173"
   },
   "authors": ["Renato Hermoza", "Ivan Sipiran"],
-  "categories": [null],
+  "categories": ["Scripts"],
   "tags": ["3D modelling"],
   "doi": "10.1145/3208159.3208173"
 }

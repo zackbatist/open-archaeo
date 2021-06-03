@@ -6,7 +6,7 @@
     "Website": "https://mlell.github.io/tapas/"
   },
   "authors": ["mlell"],
-  "categories": [null],
+  "categories": ["Packages and libraries"],
   "tags": ["Archaeogenetics", "aDNA simulators"],
   "doi": null
 }

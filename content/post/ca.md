@@ -5,7 +5,7 @@
     "Website": "http://www.mattpeeples.net/ca.html"
   },
   "authors": ["Matt Peeples"],
-  "categories": ["R"],
+  "categories": ["Scripts"],
   "tags": ["Statistical analysis", "Seriation"],
   "doi": null
 }

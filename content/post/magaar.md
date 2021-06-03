@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/magAAR"
   },
   "authors": ["ISAAKiel"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Geophysical survey"],
   "doi": null
 }

@@ -6,7 +6,7 @@
     "Website": "http://www.popgen.dk/angsd/index.php/ANGSD"
   },
   "authors": ["ANGSD"],
-  "categories": ["C++"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "Low-coverage contamination estimation"],
   "doi": null
 }

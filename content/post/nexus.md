@@ -6,7 +6,7 @@
     "Website": "https://packages.tesselle.org/nexus/"
   },
   "authors": ["nfrerebeau", "Anne Philippe", "tesselle"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["X-Ray Fluorescence", "Instrumental Neutron activation analysis"],
   "doi": null
 }

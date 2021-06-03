@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/Camology/ArchaeologyAdventure"
   },
   "authors": ["Camology"],
-  "categories": ["Games"],
+  "categories": ["Products"],
   "tags": ["Games"],
   "doi": null
 }

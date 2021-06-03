@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/NSLS-II/PyXRF"
   },
   "authors": ["NSLS-II"],
-  "categories": ["Python"],
+  "categories": ["Packages and libraries"],
   "tags": ["X-Ray Fluorescence"],
   "doi": null
 }

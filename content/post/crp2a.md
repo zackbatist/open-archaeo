@@ -6,7 +6,7 @@
     "Website": "https://gamma.archaeo.science/"
   },
   "authors": ["gamma"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Luminescence dating"],
   "doi": null
 }

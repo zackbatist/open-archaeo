@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/jfy133/archaeodiet"
   },
   "authors": ["jfy133"],
-  "categories": ["Nextflow"],
+  "categories": ["Packages and libraries"],
   "tags": ["Archaeogenetics"],
   "doi": null
 }

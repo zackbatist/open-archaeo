@@ -6,7 +6,7 @@
     "Website": "https://aksel-blaise.github.io/caddonet/"
   },
   "authors": ["aksel-blaise"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Datasets", "Bibliography"],
   "doi": null
 }

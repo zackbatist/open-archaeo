@@ -6,7 +6,7 @@
     "Website": "https://packages.tesselle.org/kairos/"
   },
   "authors": ["nfrerebeau", "tesselle"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Chronological modelling"],
   "doi": null
 }

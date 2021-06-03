@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/yesdavid/outlineR"
   },
   "authors": ["yesdavid"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Artefact morphology"],
   "doi": "10.5281/zenodo.4527470"
 }

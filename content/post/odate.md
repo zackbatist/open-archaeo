@@ -6,7 +6,7 @@
     "Website": "https://o-date.github.io/"
   },
   "authors": ["o-date"],
-  "categories": ["Tutorials"],
+  "categories": ["Guides"],
   "tags": ["Educational resources and practical guides"],
   "doi": null
 }

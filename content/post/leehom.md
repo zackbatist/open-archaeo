@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/grenaud/leeHom"
   },
   "authors": ["grenaud"],
-  "categories": ["C++"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "aDNA preprocessing"],
   "doi": null
 }

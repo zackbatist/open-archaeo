@@ -5,7 +5,7 @@
     "BitBucket": "https://bitbucket.org/tguenther/read/src/master/"
   },
   "authors": ["tguenther"],
-  "categories": ["Python"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "Low-coverage adapted population-genetics tools"],
   "doi": null
 }

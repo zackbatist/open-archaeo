@@ -6,7 +6,7 @@
     "Website": "https://plugins.qgis.org/plugins/geoCore/"
   },
   "authors": ["Gerrit Bette", "Moritz Mennenga"],
-  "categories": ["QGIS"],
+  "categories": ["Packages and libraries"],
   "tags": ["Diagrams and visualizations"],
   "doi": "10.5281/zenodo.4548887"
 }

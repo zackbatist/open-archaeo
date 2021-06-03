@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/willismonroe/pe-dictionary"
   },
   "authors": ["willismonroe"],
-  "categories": ["Datasets"],
+  "categories": ["Lists and datasets"],
   "tags": ["Datasets", "Literary analysis and epigraphy"],
   "doi": null
 }

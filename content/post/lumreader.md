@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/dstreble/LumReader"
   },
   "authors": ["dstreble"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Luminescence dating"],
   "doi": null
 }

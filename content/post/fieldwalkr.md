@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/joeroe/fieldwalkr"
   },
   "authors": ["joeroe"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Site mapping"],
   "doi": null
 }

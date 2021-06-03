@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/alexherbig/MultiVCFAnalyzer"
   },
   "authors": ["alexherbig"],
-  "categories": ["Java"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "Low-coverage adapted population-genetics tools"],
   "doi": null
 }

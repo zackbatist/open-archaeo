@@ -6,7 +6,7 @@
     "Website": "https://grenaud.github.io/gargammel/"
   },
   "authors": ["grenaud"],
-  "categories": ["C++"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "aDNA Simulators"],
   "doi": null
 }

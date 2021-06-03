@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ahb108/rcarbon"
   },
   "authors": ["ahb108"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }

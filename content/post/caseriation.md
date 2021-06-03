@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/gianmarcoalberti/CAseriation"
   },
   "authors": ["gianmarcoalberti"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Statistical analysis", "Seriation"],
   "doi": null
 }

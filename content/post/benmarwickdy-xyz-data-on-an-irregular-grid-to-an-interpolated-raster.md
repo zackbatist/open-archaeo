@@ -5,7 +5,7 @@
     "gist": "https://gist.github.com/benmarwick/7331879"
   },
   "authors": ["benmarwick"],
-  "categories": ["R"],
+  "categories": ["Scripts"],
   "tags": ["Aerial and satellite imagery"],
   "doi": null
 }

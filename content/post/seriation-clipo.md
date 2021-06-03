@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/clipo/Seriation"
   },
   "authors": ["clipo"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Statistical analysis", "Seriation"],
   "doi": null
 }

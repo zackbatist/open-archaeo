@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/f-silva-archaeo/skyscapeR"
   },
   "authors": ["f-silva-archaeo"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Archaeoastronomy"],
   "doi": null
 }

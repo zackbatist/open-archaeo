@@ -6,7 +6,7 @@
     "Website": "http://www.archaide.eu/"
   },
   "authors": ["barak-itkin"],
-  "categories": [null],
+  "categories": ["Standalone software"],
   "tags": ["Shape recognition"],
   "doi": null
 }

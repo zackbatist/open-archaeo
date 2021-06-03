@@ -5,7 +5,7 @@
     "Website": "https://bitbucket.org/wegmannlab/atlas/wiki/Home"
   },
   "authors": ["wegmannlab"],
-  "categories": [null],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "Pipelines"],
   "doi": null
 }

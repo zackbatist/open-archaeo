@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/cltk/cltk"
   },
   "authors": ["cltk"],
-  "categories": ["Python"],
+  "categories": ["Packages and libraries"],
   "tags": ["Literary analysis and epigraphy"],
   "doi": null
 }

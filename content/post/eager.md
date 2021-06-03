@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/nf-core/eager"
   },
   "authors": ["nf-core"],
-  "categories": ["Nextflow"],
+  "categories": ["Packages and libraries"],
   "tags": ["Archaeogenetics"],
   "doi": null
 }

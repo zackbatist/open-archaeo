@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/nevrome/CalPal-Database"
   },
   "authors": ["nevrome"],
-  "categories": ["Datasets"],
+  "categories": ["Lists and datasets"],
   "tags": ["Datasets", "Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }

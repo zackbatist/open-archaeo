@@ -7,7 +7,7 @@
     "Website": "https://packages.tesselle.org/arkhe/"
   },
   "authors": ["nfrerebeau", "tesselle"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Schemas and ontologies"],
   "doi": "10.5281/zenodo.3526659"
 }

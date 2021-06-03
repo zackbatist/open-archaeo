@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/willismonroe/hammurabi-markov"
   },
   "authors": ["willismonroe"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Simulation", "Literary analysis and epigraphy"],
   "doi": null
 }

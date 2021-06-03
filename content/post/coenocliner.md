@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/gavinsimpson/coenocliner"
   },
   "authors": ["gavinsimpson"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Palaeobotany"],
   "doi": null
 }

@@ -7,7 +7,7 @@
     "Website": "https://packages.tesselle.org/khroma/"
   },
   "authors": ["nfrerebeau", "tesselle"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Diagrams and visualizations"],
   "doi": "10.5281/zenodo.1472077"
 }

@@ -6,7 +6,7 @@
     "CRAN": "https://cran.r-project.org/web/packages/cuperdec/index.html"
   },
   "authors": ["jfy133"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Archaeogenetics"],
   "doi": "10.5281/zenodo.4561901"
 }

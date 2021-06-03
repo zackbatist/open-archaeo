@@ -6,7 +6,7 @@
     "Website": "https://eehh-stanford.github.io/yada/"
   },
   "authors": ["MichaelHoltonPrice"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Archaeogenetics"],
   "doi": null
 }

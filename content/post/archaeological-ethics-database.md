@@ -5,7 +5,7 @@
     "Website": "https://archaeologicalethics.org/"
   },
   "authors": ["Register of Professional Archaeologists", "Chartered Institute for Archaeologists"],
-  "categories": ["Datasets"],
+  "categories": ["Lists and datasets"],
   "tags": ["Ethics and professional development"],
   "doi": null
 }

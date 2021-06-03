@@ -6,7 +6,7 @@
     "Website": "https://strativerse.org"
   },
   "authors": ["paleolimbot"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Palaeobotany"],
   "doi": null
 }

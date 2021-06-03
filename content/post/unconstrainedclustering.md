@@ -5,7 +5,7 @@
     "Website": "http://www.mattpeeples.net/modules/UnconstrainedClustering.html"
   },
   "authors": ["Matt Peeples"],
-  "categories": ["R"],
+  "categories": ["Scripts"],
   "tags": ["Statistical analysis"],
   "doi": null
 }

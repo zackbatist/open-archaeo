@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/willismonroe/babylonian-hours"
   },
   "authors": ["willismonroe"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Simulation"],
   "doi": null
 }

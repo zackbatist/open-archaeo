@@ -5,7 +5,7 @@
     "Website": "https://software-ab.informatik.uni-tuebingen.de/download/malt/welcome.html"
   },
   "authors": ["Daniel H. Huson"],
-  "categories": ["Java"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "Metagenomic classifers"],
   "doi": null
 }

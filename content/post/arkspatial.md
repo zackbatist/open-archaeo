@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/lparchaeology/ArkSpatial"
   },
   "authors": ["L-P Archaeology"],
-  "categories": ["QGIS"],
+  "categories": ["Packages and libraries"],
   "tags": ["Site mapping"],
   "doi": null
 }

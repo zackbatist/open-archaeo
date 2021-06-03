@@ -93,7 +93,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/postaar-python/</guid>
-      <description>Python implementation of postAAR</description>
+      <description>Python implementation of postAAR.</description>
     </item>
     
     <item>
@@ -111,7 +111,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/signboardr/</guid>
-      <description>Extract text from archaeological photos containing a sign board and tag as metadata</description>
+      <description>Extract text from archaeological photos containing a sign board and tag as metadata.</description>
     </item>
     
     <item>

@@ -5,7 +5,7 @@
     "BitBucket": "https://bitbucket.org/steko/mpi.r/src/default/"
   },
   "authors": ["Steko"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Statistical analysis"],
   "doi": null
 }

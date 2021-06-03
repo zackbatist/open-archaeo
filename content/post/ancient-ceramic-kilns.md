@@ -5,7 +5,7 @@
     "Codeberg": "https://codeberg.org/steko/ancient-ceramic-kilns"
   },
   "authors": ["steko"],
-  "categories": ["Datasets"],
+  "categories": ["Lists and datasets"],
   "tags": ["Datasets"],
   "doi": null
 }

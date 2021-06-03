@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/bocinsky/paleocar"
   },
   "authors": ["bocinsky"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Palaeobotany", "Statistical analysis"],
   "doi": null
 }

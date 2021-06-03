@@ -6,7 +6,7 @@
     "Website": "https://web.archive.org/web/20101229001934/http://archvocab.net/"
   },
   "authors": ["steko"],
-  "categories": ["?"],
+  "categories": ["Specifications, protocols and schemas"],
   "tags": ["Schemas and ontologies"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/davidcorton/osteoGIS"
   },
   "authors": ["davidcorton"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Diagrams and visualizations"],
   "doi": null
 }

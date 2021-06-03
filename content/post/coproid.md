@@ -6,7 +6,7 @@
     "Website": "https://coproid.readthedocs.io/en/latest/"
   },
   "authors": ["maxibor", "nf-core"],
-  "categories": ["Nextflow"],
+  "categories": ["Packages and libraries"],
   "tags": ["Palaeobotany", "Archaeogenetics", "Pipelines"],
   "doi": null
 }

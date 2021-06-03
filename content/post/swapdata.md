@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/joeroe/swapdata"
   },
   "authors": ["joeroe"],
-  "categories": ["R"],
+  "categories": ["Lists and datasets"],
   "tags": ["Datasets"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "Website": "http://awmc.unc.edu/wordpress/map-files/"
   },
   "authors": ["Ancient World Mapping Center"],
-  "categories": ["Datasets"],
+  "categories": ["Lists and datasets"],
   "tags": ["Datasets"],
   "doi": null
 }

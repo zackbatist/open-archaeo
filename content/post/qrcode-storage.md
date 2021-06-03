@@ -5,7 +5,7 @@
     "Codeberg": "https://codeberg.org/steko/qrcode-storage"
   },
   "authors": ["steko"],
-  "categories": ["?"],
+  "categories": ["Scripts"],
   "tags": ["Bits and bobs"],
   "doi": null
 }

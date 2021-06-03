@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ekansa/open-context-py"
   },
   "authors": ["Open Context"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Platforms and publications"],
   "doi": null
 }

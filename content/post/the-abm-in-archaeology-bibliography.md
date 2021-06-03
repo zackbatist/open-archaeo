@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ArchoLen/The-ABM-in-Archaeology-Bibliography"
   },
   "authors": ["izaromanowska", "ArchoLen"],
-  "categories": ["Lists"],
+  "categories": ["Lists and datasets"],
   "tags": ["Bibliography"],
   "doi": null
 }

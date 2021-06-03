@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/pontussk/PMDtools"
   },
   "authors": ["pontussk"],
-  "categories": ["Python"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "Low-coverage adapted population-genetics tools"],
   "doi": null
 }

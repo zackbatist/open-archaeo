@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/rkn2/Roman-material-database-info"
   },
   "authors": ["rkn2"],
-  "categories": ["Datasets"],
+  "categories": ["Lists and datasets"],
   "tags": ["Datasets"],
   "doi": null
 }

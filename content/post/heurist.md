@@ -6,7 +6,7 @@
     "Website": "http://heuristnetwork.org/"
   },
   "authors": ["HeuristNetwork"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Data management"],
   "doi": null
 }

@@ -6,7 +6,7 @@
     "Website": "https://chronomodel.com/"
   },
   "authors": ["Chronomodel"],
-  "categories": ["Desktop apps"],
+  "categories": ["Standalone software"],
   "tags": ["Chronological modelling"],
   "doi": null
 }

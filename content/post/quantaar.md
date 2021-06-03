@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/quantAAR"
   },
   "authors": ["ISAAKiel"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Statistical analysis"],
   "doi": null
 }

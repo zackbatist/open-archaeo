@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/priyamoorjani/DATES"
   },
   "authors": ["priyamoorjani"],
-  "categories": ["C"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "Low-coverage adapted population-genetics tools"],
   "doi": null
 }

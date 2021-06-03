@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/apalmisano82/NERD"
   },
   "authors": ["apalmisano82"],
-  "categories": ["Datasets"],
+  "categories": ["Lists and datasets"],
   "tags": ["Datasets", "Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/frederic-santos/rdss"
   },
   "authors": ["frederic-santos"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Cultural evolution", "Statistical analysis"],
   "doi": "10.1002/oa.2957"
 }

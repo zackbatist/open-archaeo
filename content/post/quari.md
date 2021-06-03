@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/zackbatist/QuARI"
   },
   "authors": ["Zack Batist", "Dan Contreras", "Ciara Zogheib"],
-  "categories": ["Web apps"],
+  "categories": ["Scripts"],
   "tags": ["Data collection", "Lithic analysis"],
   "doi": null
 }

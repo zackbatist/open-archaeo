@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/lparchaeology/ARK1"
   },
   "authors": ["L-P Archaeology"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Data management"],
   "doi": null
 }

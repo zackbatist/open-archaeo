@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/gbv/Tachy2GIS"
   },
   "authors": ["gbv", "Archaeological-Museum-Hamburg"],
-  "categories": [null],
+  "categories": ["Standalone software"],
   "tags": ["Drivers and IO"],
   "doi": null
 }

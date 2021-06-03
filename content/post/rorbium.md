@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/sfsheath/rorbium"
   },
   "authors": ["sfsheath"],
-  "categories": ["R"],
+  "categories": ["Lists and datasets"],
   "tags": ["Datasets"],
   "doi": null
 }

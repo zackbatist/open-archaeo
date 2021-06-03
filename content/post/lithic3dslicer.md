@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/kotdijian/lithic3dslicer"
   },
   "authors": ["kotdijian"],
-  "categories": ["R"],
+  "categories": ["Scripts"],
   "tags": ["Artefact morphology"],
   "doi": null
 }

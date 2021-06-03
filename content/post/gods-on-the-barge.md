@@ -6,7 +6,7 @@
     "Website": "http://www.coffeegnome.net/godsonthebarge/"
   },
   "authors": ["adammertel"],
-  "categories": ["Games"],
+  "categories": ["Products"],
   "tags": ["Games"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/joeroe/stratigraphr"
   },
   "authors": ["joeroe"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Chronological modelling"],
   "doi": null
 }

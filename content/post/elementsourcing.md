@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/bischrob/ElementSourcing"
   },
   "authors": ["bischrob"],
-  "categories": ["R"],
+  "categories": ["Scripts"],
   "tags": ["X-Ray Fluorescence"],
   "doi": null
 }

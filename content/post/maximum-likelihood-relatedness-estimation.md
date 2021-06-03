@@ -6,7 +6,7 @@
     "Website": "https://github.com/COMBINE-lab/maximum-likelihood-relatedness-estimation/wiki"
   },
   "authors": ["COMBINE-lab"],
-  "categories": ["C++"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "Low-coverage adapted population-genetics tools"],
   "doi": null
 }

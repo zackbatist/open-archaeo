@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/benmarwick/binford"
   },
   "authors": ["benmarwick"],
-  "categories": ["R"],
+  "categories": ["Lists and datasets"],
   "tags": ["Datasets"],
   "doi": null
 }

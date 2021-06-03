@@ -6,7 +6,7 @@
     "Website": "https://radon.ufg.uni-kiel.de/"
   },
   "authors": ["ISAAKiel"],
-  "categories": ["Web apps"],
+  "categories": ["Products"],
   "tags": ["Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }

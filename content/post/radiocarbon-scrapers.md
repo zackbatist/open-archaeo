@@ -5,7 +5,7 @@
     "Codeberg": "https://codeberg.org/steko/radiocarbon-scrapers"
   },
   "authors": ["steko"],
-  "categories": ["R"],
+  "categories": ["Scripts"],
   "tags": ["API interfaces and web scrapers"],
   "doi": null
 }

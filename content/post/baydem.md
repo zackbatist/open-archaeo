@@ -6,7 +6,7 @@
     "Website": "https://eehh-stanford.github.io/baydem/"
   },
   "authors": ["MichaelHoltonPrice", "bocinsky"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Radiocarbon dating, calibration and sequencing", "Palaeobotany"],
   "doi": null
 }

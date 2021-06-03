@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/dstreble/shiny_DRAC"
   },
   "authors": ["dstreble"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Luminescence dating"],
   "doi": null
 }

@@ -6,7 +6,7 @@
     "Website": "https://paleomix.readthedocs.io/en/latest/"
   },
   "authors": ["MikkelSchubert"],
-  "categories": ["Python"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "Pipelines"],
   "doi": null
 }

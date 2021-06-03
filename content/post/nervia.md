@@ -5,7 +5,7 @@
     "Codeberg": "https://codeberg.org/steko/nervia"
   },
   "authors": ["steko"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Data management"],
   "doi": null
 }

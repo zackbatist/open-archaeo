@@ -6,7 +6,7 @@
     "Website": "http://www.mattpeeples.net/caboot.html"
   },
   "authors": ["mpeeples2008"],
-  "categories": ["R"],
+  "categories": ["Scripts"],
   "tags": ["Statistical analysis"],
   "doi": null
 }

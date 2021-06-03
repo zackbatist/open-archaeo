@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/roman-amphitheaters/roman-amphitheaters"
   },
   "authors": ["roman-amphitheaters"],
-  "categories": ["Datasets"],
+  "categories": ["Lists and datasets"],
   "tags": ["Datasets"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/nonekXML"
   },
   "authors": ["MoritzMennenga", "chrinne"],
-  "categories": ["Schemas"],
+  "categories": ["Specifications, protocols and schemas"],
   "tags": ["Schemas and ontologies"],
   "doi": null
 }

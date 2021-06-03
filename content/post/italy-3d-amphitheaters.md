@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/sfsheath/italy-3d-amphitheaters"
   },
   "authors": ["sfsheath"],
-  "categories": ["Datasets"],
+  "categories": ["Lists and datasets"],
   "tags": ["3D modelling"],
   "doi": null
 }

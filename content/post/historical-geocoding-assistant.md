@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/adammertel/historical-geocoding-assistant"
   },
   "authors": ["adammertel"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Data management"],
   "doi": null
 }

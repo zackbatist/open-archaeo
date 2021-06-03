@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/maxibor/adrsm"
   },
   "authors": ["maxibor"],
-  "categories": [null],
+  "categories": ["Packages and libraries"],
   "tags": ["Archaeogenetics", "aDNA simulators"],
   "doi": null
 }

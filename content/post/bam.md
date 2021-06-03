@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/Big-Ancient-Mediterranean/BAM"
   },
   "authors": ["Big-Ancient-Mediterranean"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Literary analysis and epigraphy"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/c14bazAAR"
   },
   "authors": ["ISAAKiel"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["API interfaces and web scrapers"],
   "doi": null
 }

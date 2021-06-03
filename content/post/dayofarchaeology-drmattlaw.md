@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/drmattlaw/dayofarchaeology"
   },
   "authors": ["drmattlaw"],
-  "categories": ["Datasets"],
+  "categories": ["Lists and datasets"],
   "tags": ["Public archaeology"],
   "doi": null
 }

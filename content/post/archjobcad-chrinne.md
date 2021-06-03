@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/ArchJobCAD"
   },
   "authors": ["chrinne"],
-  "categories": ["Lisp"],
+  "categories": ["Packages and libraries"],
   "tags": ["Bits and bobs"],
   "doi": null
 }

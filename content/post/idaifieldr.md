@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/lsteinmann/idaifieldR"
   },
   "authors": ["lsteinmann"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["API interfaces and web scrapers"],
   "doi": null
 }

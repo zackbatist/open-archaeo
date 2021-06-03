@@ -6,7 +6,7 @@
     "Website": "https://sparse.readthedocs.io/en/latest/"
   },
   "authors": ["zheminzhou"],
-  "categories": ["Python"],
+  "categories": ["Packages and libraries"],
   "tags": ["Archaeogenetics", "Metagenomic classifers"],
   "doi": null
 }

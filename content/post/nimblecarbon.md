@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ercrema/nimbleCarbon"
   },
   "authors": ["ercrema"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }

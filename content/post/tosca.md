@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/tosca"
   },
   "authors": ["ISAAKiel"],
-  "categories": ["Web apps"],
+  "categories": ["Scripts"],
   "tags": ["Statistical analysis"],
   "doi": null
 }

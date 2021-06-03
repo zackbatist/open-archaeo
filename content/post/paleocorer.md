@@ -6,7 +6,7 @@
     "Website": "http://paleocore.github.io/paleocoreR/"
   },
   "authors": ["paleocore"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["API interfaces and web scrapers"],
   "doi": null
 }

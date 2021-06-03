@@ -6,7 +6,7 @@
     "Website": "https://thanados.net/"
   },
   "authors": ["stefaneichert"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["API interfaces and web scrapers", "Data management"],
   "doi": null
 }

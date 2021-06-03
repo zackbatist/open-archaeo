@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/gavinsimpson/frontiers-palaeo-additive-modelling"
   },
   "authors": ["gavinsimpson"],
-  "categories": ["R"],
+  "categories": ["Scripts"],
   "tags": ["Palaeobotany"],
   "doi": null
 }

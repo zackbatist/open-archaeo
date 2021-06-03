@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/benmarwick/outliner"
   },
   "authors": ["benmarwick"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Artefact morphology"],
   "doi": null
 }

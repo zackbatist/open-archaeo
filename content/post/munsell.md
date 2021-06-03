@@ -6,7 +6,7 @@
     "CRAN": "https://cran.r-project.org/web/packages/munsell/index.html"
   },
   "authors": ["cwickham"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Diagrams and visualizations"],
   "doi": null
 }

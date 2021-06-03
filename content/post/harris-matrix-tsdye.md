@@ -6,7 +6,7 @@
     "Website": "http://tsdye.online/harris-matrix/homepage/"
   },
   "authors": ["tsdye"],
-  "categories": ["Lisp"],
+  "categories": ["Packages and libraries"],
   "tags": ["Harrix matrix"],
   "doi": null
 }

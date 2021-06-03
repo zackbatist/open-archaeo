@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/Integrative-Transcriptomics/MADAM"
   },
   "authors": ["Integrative-Transcriptomics"],
-  "categories": ["Java"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "aDNA assembler"],
   "doi": null
 }

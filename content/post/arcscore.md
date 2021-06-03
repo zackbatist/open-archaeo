@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/matrix-msu/ARCSCore"
   },
   "authors": ["matrix-msu"],
-  "categories": ["Schemas"],
+  "categories": ["Specifications, protocols and schemas"],
   "tags": ["Schemas and ontologies"],
   "doi": null
 }

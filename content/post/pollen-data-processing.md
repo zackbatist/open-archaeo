@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/MartinHinz/pollen_data_processing"
   },
   "authors": ["MartinHinz"],
-  "categories": ["R"],
+  "categories": ["Scripts"],
   "tags": ["Palaeobotany"],
   "doi": null
 }

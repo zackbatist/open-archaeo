@@ -6,7 +6,7 @@
     "Website": "https://bitbucket.org/Glouvel/metabit/wiki/Home"
   },
   "authors": ["Glouvel"],
-  "categories": [null],
+  "categories": ["Packages and libraries"],
   "tags": ["Archaeogenetics", "Metagenomic classifers"],
   "doi": null
 }

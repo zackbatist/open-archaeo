@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/paleolimbot/xrf"
   },
   "authors": ["paleolimbot"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["X-Ray Fluorescence"],
   "doi": null
 }

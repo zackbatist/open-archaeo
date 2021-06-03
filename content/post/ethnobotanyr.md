@@ -6,7 +6,7 @@
     "Website": "http://htmlpreview.github.io/?https://github.com/CWWhitney/ethnobotanyR/blob/master/vignettes/ethnobotanyr_vignette.html"
   },
   "authors": ["CWWhitney"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Palaeobotany"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/recexcavAAR/"
   },
   "authors": ["ISAAKiel"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["3D modelling"],
   "doi": null
 }

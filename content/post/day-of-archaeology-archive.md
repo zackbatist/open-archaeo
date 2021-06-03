@@ -5,7 +5,7 @@
     "blog post": "https://archaeologydataservice.ac.uk/blog/2021/03/archiving-day-of-archaeology-2011-2017/"
   },
   "authors": ["Archaeology Data Service"],
-  "categories": ["Datasets"],
+  "categories": ["Lists and datasets"],
   "tags": ["Public archaeology"],
   "doi": "10.5284/1048331"
 }

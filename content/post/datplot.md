@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/lsteinmann/datplot"
   },
   "authors": ["lsteinmann", "Barbora Weissova"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Chronological modelling"],
   "doi": null
 }

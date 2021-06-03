@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/gianmarcoalberti/GmAMisc"
   },
   "authors": ["gianmarcoalberti"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Bits and bobs"],
   "doi": null
 }

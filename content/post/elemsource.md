@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/bischrob/elemSource"
   },
   "authors": ["bischrob"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["X-Ray Fluorescence"],
   "doi": null
 }

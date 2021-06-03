@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/grenaud/dice"
   },
   "authors": ["grenaud"],
-  "categories": ["C++"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "Low-coverage contamination estimation"],
   "doi": null
 }

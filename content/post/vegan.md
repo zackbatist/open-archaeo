@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/vegandevs/vegan"
   },
   "authors": ["vegandevs"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Palaeobotany"],
   "doi": null
 }

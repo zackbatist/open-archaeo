@@ -42,14 +42,5 @@
       <description>Platform for crowdsourcing the digital recreation of lost heritage</description>
     </item>
     
-    <item>
-      <title>svg-pottery-catalogo</title>
-      <link>https://open-archaeo.info/post/svg-pottery-catalogo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/svg-pottery-catalogo/</guid>
-      <description>A simple program that generates a catalogue of your pottery drawings ready for the Web</description>
-    </item>
-    
   </channel>
 </rss>

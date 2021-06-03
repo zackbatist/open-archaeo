@@ -21,7 +21,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/findpeaks/</guid>
-      <description>A simple algorithm to find local maxima/minima in sequential data</description>
+      <description>A simple algorithm to find local maxima/minima in sequential data.</description>
     </item>
     
     <item>
@@ -57,7 +57,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/missing/</guid>
-      <description>You have a sequence of numbered items and want to check if any are missing</description>
+      <description>You have a sequence of numbered items and want to check if any are missing.</description>
     </item>
     
     <item>
@@ -66,7 +66,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/mtreering/</guid>
-      <description>A tool for automatically measuring tree-ring width using image processing techniques</description>
+      <description>A tool for automatically measuring tree-ring width using image processing techniques.</description>
     </item>
     
     <item>
@@ -75,7 +75,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/mudata/</guid>
-      <description>The mudata2 package provides tools to read, write, and document multi-parameter spatiotemporal data</description>
+      <description>The mudata2 package provides tools to read, write, and document multi-parameter spatiotemporal data.</description>
     </item>
     
     <item>
@@ -111,7 +111,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/sparch/</guid>
-      <description>A set of extra utilities that extend the functionlaity provided by core packages for spatial data management and analysis in R</description>
+      <description>A set of extra utilities that extend the functionlaity provided by core packages for spatial data management and analysis in R.</description>
     </item>
     
     <item>

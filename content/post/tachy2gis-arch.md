@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/Landesamt-fuer-Archaeologie-Sachsen/Tachy2GIS_arch"
   },
   "authors": ["Landesamt-fuer-Archaeologie-Sachsen"],
-  "categories": ["QGIS"],
+  "categories": ["Packages and libraries"],
   "tags": ["Data collection", "Site mapping"],
   "doi": null
 }

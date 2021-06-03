@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/gianmarcoalberti/TRANSIT"
   },
   "authors": ["gianmarcoalberti"],
-  "categories": ["ArcGIS"],
+  "categories": ["Packages and libraries"],
   "tags": ["Spatial analysis"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/davidcorton/archSeries"
   },
   "authors": ["davidcorton"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Chronological modelling"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/grenaud/schmutzi"
   },
   "authors": ["grenaud"],
-  "categories": ["R"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "Low-coverage contamination estimation"],
   "doi": null
 }

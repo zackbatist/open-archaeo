@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/mpieva/mapping-iterative-assembler"
   },
   "authors": ["mpieva"],
-  "categories": ["C"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "aDNA assembler"],
   "doi": null
 }

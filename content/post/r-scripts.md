@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/isaacullah/R-Scripts"
   },
   "authors": ["isaacullah"],
-  "categories": ["R"],
+  "categories": ["Lists and datasets"],
   "tags": ["Datasets"],
   "doi": null
 }

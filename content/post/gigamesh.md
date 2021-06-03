@@ -8,7 +8,7 @@
     "Website": "https://gigamesh.eu/"
   },
   "authors": ["Hubert Mara", "Forensic Computational Geometry Laboratory"],
-  "categories": ["?"],
+  "categories": ["Standalone software"],
   "tags": ["3D modelling", "Photogrammetry"],
   "doi": null
 }

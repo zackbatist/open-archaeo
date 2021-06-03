@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/R-Lum/Luminescence"
   },
   "authors": ["R-Lum"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Luminescence dating"],
   "doi": null
 }

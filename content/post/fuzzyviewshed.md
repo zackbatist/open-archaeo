@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/gianmarcoalberti/FuzzyViewshed"
   },
   "authors": ["gianmarcoalberti"],
-  "categories": ["ArcGIS"],
+  "categories": ["Packages and libraries"],
   "tags": ["Spatial analysis", "Viewshed analysis"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/anatolian/archaeology-data-service"
   },
   "authors": ["anatolian"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["API interfaces and web scrapers"],
   "doi": null
 }

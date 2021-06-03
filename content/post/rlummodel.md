@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/R-Lum/RLumModel"
   },
   "authors": ["R-Lum"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Luminescence dating"],
   "doi": null
 }

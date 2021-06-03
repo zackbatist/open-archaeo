@@ -7,7 +7,7 @@
     "Website": "https://packages.tesselle.org/folio/"
   },
   "authors": ["nfrerebeau", "tesselle"],
-  "categories": ["R"],
+  "categories": ["Lists and datasets"],
   "tags": ["Educational resources and practical guides"],
   "doi": "10.5281/zenodo.4476182"
 }

@@ -6,7 +6,7 @@
     "Website": "http://emanuelhuber.github.io/RGPR/"
   },
   "authors": ["emanuelhuber"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Geophysical survey"],
   "doi": null
 }

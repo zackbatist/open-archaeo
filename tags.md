@@ -69,26 +69,34 @@ Statistical analysis|Identification and analysis of quantitative distribution pa
 
 
 ## Categories
-_Not yet applied to the main list. Still under development._
 
 |Category|Kind|Scope|
 |:-------|:---|:----|
 |Packages and libraries|Software|Sets of functions assembled with clear purpose, and made accessible using standards established by an underlying platform.|
-|Standalone software|Software|Executable software.|
-|Web apps|Software|Accessed using a web browser.|
+|Standalone software|Software|Software that may be operated without needing to first access an underlying platform.|
 |Scripts|Software|Sets of pragmatically assembled mutable functions, often lacking complete documentation or adherence to protocols that would otherwise facilitate secondary use outside their original contexts of creation.|
-|Specifications, protocols, templates and schemas|Documents|A formal data structure or framework intended to be used as a model.|
-|Products|Documents|An immutable creation.|
+|Specifications, protocols and schemas|Documents|A formal data structure or framework intended to be used as a model.|
+|Products|Documents|Stable outcomes of creative work.|
 |Guides|Documents|An educational resource or documented protocol meant to instruct readers how to apply relevant tools or techniques.|
 |Lists and datasets|Documents|A series of consistently organized observations assembled with purpose.|
 
-## Platforms and lanaguages
+## Platforms
 
-|Platform or Language|Reference|
+|Platform|Reference|
 |:-------------------|:--|
-|R|https://www.r-project.org/other-docs.html|
+|ArcGIS|https://desktop.arcgis.com/en/arcmap/latest/extensions/main/about-arcgis-for-desktop-extensions.htm|
+|AutoCAD|https://www.autodesk.ca/en/products/autocad/|
+|LibreOffice Calc|JavaScript|https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference|
+|https://extensions.libreoffice.org/en/home/|
+|Lisp|https://common-lisp.net/|
+|Meshlab|https://www.meshlab.net/|
+|Microsoft Excel|https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-overview|
+|Nextflow|https://www.nextflow.io/|
+|Open Data Kit|https://opendatakit.org/|
+|Piwigo|https://piwigo.org/ext/|
 |Python|https://docs.python.org/3/|
 |QGIS|https://plugins.qgis.org/|
-|ArcGIS|https://desktop.arcgis.com/en/arcmap/latest/extensions/main/about-arcgis-for-desktop-extensions.htm|
-|Lisp|https://common-lisp.net/|
+|R|https://www.r-project.org/other-docs.html|
+|Stellarium|https://stellarium.org/doc/0.20/plugins.html|
+
 

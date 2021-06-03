@@ -6,7 +6,7 @@
     "Website": "https://baylum.archaeo.science/"
   },
   "authors": ["R-Lum"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Luminescence dating"],
   "doi": null
 }

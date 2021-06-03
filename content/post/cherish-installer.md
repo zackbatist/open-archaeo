@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/vicrucann/cherish-installer"
   },
   "authors": ["vicrucann"],
-  "categories": ["Desktop apps"],
+  "categories": ["Standalone software"],
   "tags": ["3D modelling"],
   "doi": null
 }

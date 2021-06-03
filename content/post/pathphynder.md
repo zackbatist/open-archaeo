@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ruidlpm/pathPhynder/"
   },
   "authors": ["ruidlpm"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Archaeogenetics", "Low-coverage adapted population-genetics tools"],
   "doi": null
 }

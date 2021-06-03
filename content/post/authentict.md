@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/StephanePeyregne/AuthentiCT"
   },
   "authors": ["StephanePeyregne"],
-  "categories": ["Python"],
+  "categories": ["Packages and libraries"],
   "tags": ["Archaeogenetics", "Low-coverage contamination estimation"],
   "doi": null
 }

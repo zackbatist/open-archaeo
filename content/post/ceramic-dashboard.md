@@ -6,7 +6,7 @@
     "Website": "https://aupton.shinyapps.io/CeramicDashboard/"
   },
   "authors": ["ajupton"],
-  "categories": ["Web apps"],
+  "categories": ["Products"],
   "tags": ["API interfaces and web scrapers", "Data management"],
   "doi": null
 }

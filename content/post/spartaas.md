@@ -5,7 +5,7 @@
     "CRAN": "https://cran.r-project.org/package=SPARTAAS"
   },
   "authors": ["Lise Bellanger", "Philippe Husi", "Arthur Coulon", "Bruno Desachy", "Benjamin Martineau"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Statistical analysis"],
   "doi": null
 }

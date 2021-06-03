@@ -6,7 +6,7 @@
     "Website": "https://custom-imaging.co.uk/software/"
   },
   "authors": ["kmartinez"],
-  "categories": [null],
+  "categories": ["Scripts"],
   "tags": ["Photogrammetry"],
   "doi": null
 }

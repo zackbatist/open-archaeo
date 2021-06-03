@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://open-archaeo.info/tags/dendrochronology/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>MtreeRing</title>
+      <link>https://open-archaeo.info/post/mtreering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/mtreering/</guid>
+      <description>A tool for automatically measuring tree-ring width using image processing techniques.</description>
+    </item>
+    
+    <item>
       <title>tridas</title>
       <link>https://open-archaeo.info/post/tridas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

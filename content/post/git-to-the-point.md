@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/aksel-blaise/git-to-the-point"
   },
   "authors": ["aksel-blaise"],
-  "categories": ["Datasets"],
+  "categories": ["Lists and datasets"],
   "tags": ["Schemas and ontologies"],
   "doi": null
 }

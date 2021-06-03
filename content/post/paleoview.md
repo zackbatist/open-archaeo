@@ -7,7 +7,7 @@
     "Publication": "https://doi.org/10.1111/ecog.03031"
   },
   "authors": ["seanhaythorne"],
-  "categories": ["Desktop apps"],
+  "categories": ["Standalone software"],
   "tags": ["Palaeobotany"],
   "doi": null
 }

@@ -6,7 +6,7 @@
     "Website": "https://nevrome.shinyapps.io/neiman1995"
   },
   "authors": ["nevrome"],
-  "categories": ["R"],
+  "categories": ["Scripts"],
   "tags": ["Educational resources and practical guides", "Cultural evolution"],
   "doi": null
 }

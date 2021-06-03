@@ -6,7 +6,7 @@
     "Website": "https://sourceforge.net/projects/tridas/"
   },
   "authors": ["steko"],
-  "categories": ["?"],
+  "categories": ["Specifications, protocols and schemas"],
   "tags": ["Schemas and ontologies", "Dendrochronology"],
   "doi": null
 }

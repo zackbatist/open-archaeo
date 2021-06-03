@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/izaromanowska/ABM_tutorials"
   },
   "authors": ["izaromanowska"],
-  "categories": ["Lists"],
+  "categories": ["Lists and datasets"],
   "tags": ["Educational resources and practical guides"],
   "doi": null
 }

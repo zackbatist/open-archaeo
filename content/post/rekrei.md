@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/rekrei/rekrei"
   },
   "authors": ["rekrei"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Platforms and publications"],
   "doi": null
 }

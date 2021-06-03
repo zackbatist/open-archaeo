@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/dstreble/shiny_Tldating"
   },
   "authors": ["dstreble"],
-  "categories": ["Web apps"],
+  "categories": ["Scripts"],
   "tags": ["Luminescence dating"],
   "doi": null
 }

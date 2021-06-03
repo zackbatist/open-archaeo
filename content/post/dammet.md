@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/KHanghoj/DamMet"
   },
   "authors": ["KHanghoj"],
-  "categories": ["C++"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "Low-coverage adapted population-genetics tools"],
   "doi": null
 }

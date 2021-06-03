@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/RLumSK/Al2O3_AnalysisApp"
   },
   "authors": ["RLumSK"],
-  "categories": ["Web apps"],
+  "categories": ["Scripts"],
   "tags": ["Luminescence dating"],
   "doi": null
 }

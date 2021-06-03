@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/apalmisano82/Iraq_mortar"
   },
   "authors": ["apalmisano82"],
-  "categories": ["?"],
+  "categories": ["Packages and libraries"],
   "tags": ["3D modelling", "Shape recognition"],
   "doi": null
 }

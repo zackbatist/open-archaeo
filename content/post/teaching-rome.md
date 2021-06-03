@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/sfsheath/teaching-rome"
   },
   "authors": ["sfsheath"],
-  "categories": [null],
+  "categories": ["Guides"],
   "tags": ["Educational resources and practical guides"],
   "doi": null
 }

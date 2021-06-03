@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/mpeeples2008/Ford-Diagram"
   },
   "authors": ["mpeeples2008"],
-  "categories": ["R"],
+  "categories": ["Scripts"],
   "tags": ["Diagrams and visualizations", "Seriation"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/zackbatist/DObsiSS"
   },
   "authors": ["zackbatist"],
-  "categories": ["Datasets"],
+  "categories": ["Lists and datasets"],
   "tags": ["Datasets"],
   "doi": null
 }

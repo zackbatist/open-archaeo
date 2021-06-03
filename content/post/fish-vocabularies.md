@@ -5,7 +5,7 @@
     "Website": "http://www.heritage-standards.org.uk/fish-vocabularies/"
   },
   "authors": ["Forum on Information Standards in Heritage"],
-  "categories": [null],
+  "categories": ["Specifications, protocols and schemas"],
   "tags": ["Schemas and ontologies"],
   "doi": null
 }

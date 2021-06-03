@@ -5,7 +5,7 @@
     "gist": "https://gist.github.com/benmarwick/50aa4c39b7d955d0ec40"
   },
   "authors": ["benmarwick"],
-  "categories": ["R"],
+  "categories": ["Scripts"],
   "tags": ["API interfaces and web scrapers"],
   "doi": null
 }

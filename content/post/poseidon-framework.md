@@ -6,7 +6,7 @@
     "Website": "https://poseidon-framework.github.io/"
   },
   "authors": ["poseidon-framework"],
-  "categories": ["?"],
+  "categories": ["Standalone software"],
   "tags": ["Schemas and ontologies", "Archaeogenetics"],
   "doi": null
 }

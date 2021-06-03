@@ -6,7 +6,7 @@
     "Website": "https://www.survey-tools.org/"
   },
   "authors": ["survey2gis"],
-  "categories": [null],
+  "categories": ["Standalone software"],
   "tags": ["Drivers and IO"],
   "doi": null
 }

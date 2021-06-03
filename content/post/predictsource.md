@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/benmarwick/predictSource"
   },
   "authors": ["benmarwick"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Statistical analysis"],
   "doi": null
 }

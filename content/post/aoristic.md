@@ -6,7 +6,7 @@
     "CRAN": "https://CRAN.R-project.org/package=aoristic"
   },
   "authors": ["jerryratcliffe"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Chronological modelling"],
   "doi": null
 }

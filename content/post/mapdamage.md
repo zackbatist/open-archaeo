@@ -6,7 +6,7 @@
     "Website": "http://ginolhac.github.io/mapDamage/"
   },
   "authors": ["ginolhac"],
-  "categories": ["Python"],
+  "categories": ["Packages and libraries"],
   "tags": ["Archaeogenetics", "Damage profilers"],
   "doi": null
 }

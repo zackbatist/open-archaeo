@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/aoristAAR"
   },
   "authors": ["ISAAKiel"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Chronological modelling"],
   "doi": null
 }

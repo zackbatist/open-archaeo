@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/benmarwick/evoarchdata"
   },
   "authors": ["benmarwick"],
-  "categories": ["R"],
+  "categories": ["Lists and datasets"],
   "tags": ["Datasets", "Cultural evolution"],
   "doi": null
 }

@@ -6,7 +6,7 @@
     "Website": "https://bitbucket.org/khanghoj/epipaleomix/wiki/Home"
   },
   "authors": ["KHanghoj"],
-  "categories": ["Python"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "Pipelines"],
   "doi": null
 }

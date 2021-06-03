@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/mortAAR"
   },
   "authors": ["ISAAKiel"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Zooarchaeology"],
   "doi": null
 }

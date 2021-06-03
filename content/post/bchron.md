@@ -6,7 +6,7 @@
     "CRAN": "https://cran.rstudio.com/web/packages/Bchron/index.html"
   },
   "authors": ["andrewcparnell"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }

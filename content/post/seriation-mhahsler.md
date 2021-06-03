@@ -6,7 +6,7 @@
     "CRAN": "https://CRAN.R-project.org/package=seriation"
   },
   "authors": ["mhahsler", "Christian Buchta", "Kurt Hornik", "Fionn Murtagh", "Michael Brusco, Stephanie Stahl, and Hans-Friedrich Koehn"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Statistical analysis", "Seriation"],
   "doi": null
 }

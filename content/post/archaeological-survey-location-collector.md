@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/anatolian/archaeological-survey-location-collector"
   },
   "authors": ["anatolian"],
-  "categories": ["Mobile apps"],
+  "categories": ["Standalone software"],
   "tags": ["Site mapping"],
   "doi": null
 }

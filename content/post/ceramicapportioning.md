@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/mpeeples2008/CeramicApportioning"
   },
   "authors": ["mpeeples2008"],
-  "categories": ["R"],
+  "categories": ["Scripts"],
   "tags": ["Chronological modelling"],
   "doi": null
 }

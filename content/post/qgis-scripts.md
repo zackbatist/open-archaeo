@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/zoran-cuckovic/QGIS-scripts"
   },
   "authors": ["zoran-cuckovic"],
-  "categories": ["QGIS"],
+  "categories": ["Packages and libraries"],
   "tags": ["Bits and bobs"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/apeltzer/EAGER-CLI"
   },
   "authors": ["apeltzer"],
-  "categories": ["Java"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "Pipelines"],
   "doi": null
 }

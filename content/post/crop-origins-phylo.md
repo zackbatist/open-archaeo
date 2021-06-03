@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/rubenmilla/Crop_Origins_Phylo"
   },
   "authors": ["rubenmilla"],
-  "categories": ["Datasets"],
+  "categories": ["Lists and datasets"],
   "tags": ["Palaeobotany"],
   "doi": null
 }

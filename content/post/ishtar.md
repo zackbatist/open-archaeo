@@ -6,7 +6,7 @@
     "Website": "https://ishtar-archeo.net/en/"
   },
   "authors": ["iggdrasil"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Data management"],
   "doi": null
 }

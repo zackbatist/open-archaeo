@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/anatolian/photogrammetry-object-scannner"
   },
   "authors": ["anatolian"],
-  "categories": [null],
+  "categories": ["Standalone software"],
   "tags": ["Photogrammetry"],
   "doi": null
 }

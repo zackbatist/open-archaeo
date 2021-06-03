@@ -5,7 +5,7 @@
     "Codeberg": "https://codeberg.org/steko/fix-exif-artist"
   },
   "authors": ["steko"],
-  "categories": ["?"],
+  "categories": ["Scripts"],
   "tags": ["Bits and bobs"],
   "doi": null
 }

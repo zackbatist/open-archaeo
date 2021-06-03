@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/philriris/caribbean-14C"
   },
   "authors": ["philriris"],
-  "categories": ["Datasets"],
+  "categories": ["Lists and datasets"],
   "tags": ["Datasets", "Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }

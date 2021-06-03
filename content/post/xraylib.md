@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/tschoonj/xraylib"
   },
   "authors": ["tschoonj"],
-  "categories": ["Command line tools"],
+  "categories": ["Standalone software"],
   "tags": ["X-Ray Fluorescence"],
   "doi": null
 }

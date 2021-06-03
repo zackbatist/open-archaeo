@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/wojdyr/xylib"
   },
   "authors": ["wojdyr"],
-  "categories": ["Command line tools"],
+  "categories": ["Standalone software"],
   "tags": ["Luminescence dating"],
   "doi": null
 }

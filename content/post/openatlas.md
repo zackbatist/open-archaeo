@@ -6,7 +6,7 @@
     "Website": "https://openatlas.eu/"
   },
   "authors": ["CRAWS"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Data management"],
   "doi": null
 }

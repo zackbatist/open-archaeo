@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/statuAAR"
   },
   "authors": ["chrinne", "capsizingHR", "AnKaLoy", "FrankSiegmund"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Archaeogenetics"],
   "doi": null
 }

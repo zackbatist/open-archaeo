@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/LSIND/map-of-Ancient-Egypt"
   },
   "authors": ["LSIND"],
-  "categories": [null],
+  "categories": ["Lists and datasets"],
   "tags": ["Datasets"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/demjanp/clustering_14C"
   },
   "authors": ["demjanp"],
-  "categories": ["Python"],
+  "categories": ["Packages and libraries"],
   "tags": ["Radiocarbon dating, calibration and sequencing"],
   "doi": null
 }

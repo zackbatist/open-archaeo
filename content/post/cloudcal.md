@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/leedrake5/CloudCal"
   },
   "authors": ["leedrake5"],
-  "categories": ["R"],
+  "categories": ["Scripts"],
   "tags": ["X-Ray Fluorescence"],
   "doi": null
 }

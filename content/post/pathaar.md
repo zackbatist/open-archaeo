@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/ISAAKiel/pathAAR"
   },
   "authors": ["ISAAKiel"],
-  "categories": ["R"],
+  "categories": ["Packages and libraries"],
   "tags": ["Spatial analysis"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/stschiff/sequenceTools"
   },
   "authors": ["stschiff"],
-  "categories": ["Haskell"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "aDNA damage-aware genotypers"],
   "doi": null
 }

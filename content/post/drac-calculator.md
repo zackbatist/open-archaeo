@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/DRAC-calculator/DRAC-calculator"
   },
   "authors": ["DRAC-calculator"],
-  "categories": ["Web apps"],
+  "categories": ["Standalone software"],
   "tags": ["Luminescence dating"],
   "doi": null
 }

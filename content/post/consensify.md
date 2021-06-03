@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/jlapaijmans/Consensify"
   },
   "authors": ["jlapaijmans"],
-  "categories": ["perl"],
+  "categories": ["Standalone software"],
   "tags": ["Archaeogenetics", "Low-coverage adapted population-genetics tools"],
   "doi": null
 }

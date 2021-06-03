@@ -6,7 +6,7 @@
     "Publication": "https://unora.unior.it/handle/11574/195235"
   },
   "authors": ["Johanna Monti", "Maria Pia di Buono", "Giulia Speranza", "Raffaele Manna"],
-  "categories": [null],
+  "categories": ["Specifications, protocols and schemas"],
   "tags": ["Schemas and ontologies"],
   "doi": null
 }
