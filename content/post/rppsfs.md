@@ -2,7 +2,7 @@
   "title": "rppsfs",
   "description": ["Roman Peasant Project Small Finds Ontology"],
   "links": {
-    "GitHub": "https://github.com/scollinselliott/rppsfs"
+    "GitHub": "https://github.com/scollinselliott/rppsf"
   },
   "authors": ["scollinselliott"],
   "categories": ["?"],

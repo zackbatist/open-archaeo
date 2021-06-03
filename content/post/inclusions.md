@@ -2,7 +2,6 @@
   "title": "inclusions",
   "description": ["Shortcodes to describe inclusions in ceramic bodies"],
   "links": {
-    "GitHub": "https://github.com/steko/inclusions",
     "Codeberg": "https://codeberg.org/steko/inclusions"
   },
   "authors": ["steko"],
