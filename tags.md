@@ -86,8 +86,8 @@ Statistical analysis|Identification and analysis of quantitative distribution pa
 |:-------------------|:--|
 |ArcGIS|https://desktop.arcgis.com/en/arcmap/latest/extensions/main/about-arcgis-for-desktop-extensions.htm|
 |AutoCAD|https://www.autodesk.ca/en/products/autocad/|
-|LibreOffice Calc|JavaScript|https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference|
-|https://extensions.libreoffice.org/en/home/|
+|JavaScript|https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference|
+|LibreOffice Calc|https://extensions.libreoffice.org/en/home/|
 |Lisp|https://common-lisp.net/|
 |Meshlab|https://www.meshlab.net/|
 |Microsoft Excel|https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-overview|
