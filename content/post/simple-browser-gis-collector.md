@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/adammertel/simple-browser-gis-collector"
   },
   "authors": ["adammertel"],
-  "categories": ["Standalone software"],
+  "categories": ["Packages and libraries"],
   "tags": ["Site mapping"],
   "doi": null
 }

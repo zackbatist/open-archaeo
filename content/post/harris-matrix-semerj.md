@@ -6,7 +6,7 @@
   },
   "authors": ["semerj"],
   "categories": ["Standalone software"],
-  "tags": ["Harrix matrix"],
+  "tags": ["Harris matrix"],
   "doi": null
 }
 

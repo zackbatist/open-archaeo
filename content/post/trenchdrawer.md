@@ -4,7 +4,7 @@
   "links": {
     "GitHub": "https://github.com/MikeJJohnson/trenchdrawer"
   },
-  "authors": ["Mike J. Johnson"],
+  "authors": ["MikeJJohnson"],
   "categories": ["Packages and libraries"],
   "tags": ["Site mapping"],
   "doi": null

@@ -66,34 +66,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/archaeological-object-sharing/</guid>
-      <description>An online space for sharing data, 3d models, etc about archaeological objects to enable the comparison of these objects</description>
-    </item>
-    
-    <item>
-      <title>archaeological-survey-location-collector</title>
-      <link>https://open-archaeo.info/post/archaeological-survey-location-collector/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/archaeological-survey-location-collector/</guid>
-      <description>An app for use in archaeological field survey to collect high-accurate point locations, photographs, and other data.</description>
-    </item>
-    
-    <item>
-      <title>archaeology-data-service</title>
-      <link>https://open-archaeo.info/post/archaeology-data-service/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/archaeology-data-service/</guid>
-      <description>an app to collect data on archaeological objects.</description>
-    </item>
-    
-    <item>
-      <title>archaeology-object-data-collector-app</title>
-      <link>https://open-archaeo.info/post/archaeology-object-data-collector-app/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/archaeology-object-data-collector-app/</guid>
-      <description>archaeology-object-data-collector-app</description>
+      <description>An online space for sharing data, 3d models, etc about archaeological objects to enable the comparison of these objects.</description>
     </item>
     
     <item>
@@ -175,15 +148,6 @@
       
       <guid>https://open-archaeo.info/post/arkscan/</guid>
       <description>A simple gui app to simplify scanning single context plans.</description>
-    </item>
-    
-    <item>
-      <title>arshm-release</title>
-      <link>https://open-archaeo.info/post/arshm-release/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/arshm-release/</guid>
-      <description>Experimental mobile app demoing cultural heritage documentation tools in augmented reality. Supports capturing and annotating photos in 3D space. Proof-of-concept features in the app include image anchoring and surface drawing tools.</description>
     </item>
     
     <item>
@@ -304,15 +268,6 @@
     </item>
     
     <item>
-      <title>CuneiPainter</title>
-      <link>https://open-archaeo.info/post/cuneipainter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/cuneipainter/</guid>
-      <description>An App to recognize cuneiform characters on your Android phone.</description>
-    </item>
-    
-    <item>
       <title>DamageProfiler</title>
       <link>https://open-archaeo.info/post/damageprofiler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -412,15 +367,6 @@
     </item>
     
     <item>
-      <title>field-photographs</title>
-      <link>https://open-archaeo.info/post/field-photographs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/field-photographs/</guid>
-      <description>Android apps for archaeology that enable photography during field work.</description>
-    </item>
-    
-    <item>
       <title>gargammel</title>
       <link>https://open-archaeo.info/post/gargammel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -475,30 +421,12 @@
     </item>
     
     <item>
-      <title>HumanOS</title>
-      <link>https://open-archaeo.info/post/humanos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/humanos/</guid>
-      <description>A mobile application for the intuitive recording of human bones from archaeological sites.</description>
-    </item>
-    
-    <item>
       <title>iDAI.field</title>
       <link>https://open-archaeo.info/post/idai-field/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/idai-field/</guid>
       <description>The German Archaeological Institute’s (DAI) new take on a field research documentation system. Combining features of GIS, photo management, and database management systems in a unique and integrating manner, it aims at facilitating archaeological workflows by reducing the overhead of using multiple systems. Developed in-house by the DAI’s information technology department, it targets primarily the needs of the institute’s excavations, older ones as well as those to come. Yet, due to the nature of its adjustable data model and the fact it is open source software, any interested third party is free to reuse and adjust it to their needs.</description>
-    </item>
-    
-    <item>
-      <title>input</title>
-      <link>https://open-archaeo.info/post/input/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/input/</guid>
-      <description>Makes surveying geospatial data easy by designing your survey project in QGIS with custom forms.</description>
     </item>
     
     <item>
@@ -619,21 +547,12 @@
     </item>
     
     <item>
-      <title>outliner</title>
-      <link>https://open-archaeo.info/post/outliner-benmarwick/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/outliner-benmarwick/</guid>
-      <description>A simple app for tracing outlines of an irregular shape and exporting the coordinates of the outline.</description>
-    </item>
-    
-    <item>
       <title>paleocore</title>
       <link>https://open-archaeo.info/post/paleocore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/paleocore/</guid>
-      <description>Towards a data standard for paleoanthropology</description>
+      <description>Towards a data standard for paleoanthropology.</description>
     </item>
     
     <item>
@@ -688,15 +607,6 @@
       
       <guid>https://open-archaeo.info/post/poseidon-framework/</guid>
       <description>Poseidon is a framework that seeks to provide standardized ways to store and share archaeogenetic, and perhaps more broadly, molecular archaeological datasets.</description>
-    </item>
-    
-    <item>
-      <title>QField</title>
-      <link>https://open-archaeo.info/post/qfield/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/qfield/</guid>
-      <description>A simplified touch optimized interface for QGIS.</description>
     </item>
     
     <item>
@@ -772,15 +682,6 @@
     </item>
     
     <item>
-      <title>simple-browser-gis-collector</title>
-      <link>https://open-archaeo.info/post/simple-browser-gis-collector/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/simple-browser-gis-collector/</guid>
-      <description>Mobile-oriented browser based application that could be used for data collection.</description>
-    </item>
-    
-    <item>
       <title>snpAD</title>
       <link>https://open-archaeo.info/post/snpad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -849,7 +750,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/totalopenstation/</guid>
-      <description>Total Open Station downloads and exports survey data from your total station</description>
+      <description>Total Open Station downloads and exports survey data from your total station.</description>
     </item>
     
     <item>

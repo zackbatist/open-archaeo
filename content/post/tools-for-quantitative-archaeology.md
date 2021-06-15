@@ -4,7 +4,7 @@
   "links": {
     "Website": "http://tfqa.com/"
   },
-  "authors": ["Keith Kintigh"],
+  "authors": ["kintigh"],
   "categories": ["Lists and datasets"],
   "tags": ["Lists"],
   "doi": null

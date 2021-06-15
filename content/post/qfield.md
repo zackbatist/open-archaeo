@@ -6,7 +6,7 @@
     "Website": "https://qfield.org/"
   },
   "authors": ["openGIS"],
-  "categories": ["Standalone software"],
+  "categories": ["Packages and libraries"],
   "tags": ["Data management"],
   "doi": null
 }

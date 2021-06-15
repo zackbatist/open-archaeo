@@ -4,7 +4,7 @@
   "links": {
     "Website": "http://www.mattpeeples.net/modules/LISA.html"
   },
-  "authors": ["Matt Peeples"],
+  "authors": ["mpeeples2008"],
   "categories": ["Scripts"],
   "tags": ["Statistical analysis"],
   "doi": null

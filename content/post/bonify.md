@@ -4,7 +4,7 @@
   "links": {
     "Website": "https://www.digitalbones.eu"
   },
-  "authors": ["Gary Nobles", "Canan Cakirlar", "Nynke de Boer"],
+  "authors": ["garynobles", "Canan Cakirlar", "Nynke de Boer"],
   "categories": ["Standalone software"],
   "tags": ["3D modelling", "Zooarchaeology"],
   "doi": null

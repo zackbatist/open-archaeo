@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/joeroe/piwigo-3dhop"
   },
   "authors": ["joeroe"],
-  "categories": ["Plugins"],
+  "categories": ["Packages and libraries"],
   "tags": ["3D modelling"],
   "doi": null
 }

@@ -6,7 +6,7 @@
     "CRAN": "https://cloud.r-project.org/web/packages/zoolog/index.html",
     "Website": "https://josempozo.github.io/zoolog/"
   },
-  "authors": ["Jose M. Pozo", "Silvia Valenzuela-Lamas", "Angela Trentacoste", "Ariadne Nieto-Espinet", "Silvia Guimarães Chiarelli"],
+  "authors": ["josempozo", "Silvia Valenzuela-Lamas", "Angela Trentacoste", "Ariadne Nieto-Espinet", "Silvia Guimarães Chiarelli"],
   "categories": ["Packages and libraries"],
   "tags": ["Zooarchaeology"],
   "doi": null

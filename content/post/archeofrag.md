@@ -6,7 +6,7 @@
   },
   "authors": ["sebastien-plutniak"],
   "categories": ["Packages and libraries"],
-  "tags": ["Chronological modelling", "Harrix matrix"],
+  "tags": ["Chronological modelling", "Harris matrix"],
   "doi": null
 }
 

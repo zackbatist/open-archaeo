@@ -5,9 +5,9 @@
     "blog post": "https://codeberg.org/steko/harris-matrix-legacy",
     "Website": "https://www.iosa.it/2008/08/27/harris-matrix-with-graphviz-a-draft-application-with-python/"
   },
-  "authors": ["Stefano Costa", "iosa"],
+  "authors": ["steko", "iosa"],
   "categories": ["Packages and libraries"],
-  "tags": ["Harrix matrix"],
+  "tags": ["Harris matrix"],
   "doi": null
 }
 

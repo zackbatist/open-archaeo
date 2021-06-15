@@ -6,7 +6,7 @@
     "Website": "https://situx.github.io/CuneiPainter/"
   },
   "authors": ["situx"],
-  "categories": ["Standalone software"],
+  "categories": ["Packages and libraries"],
   "tags": ["Shape recognition"],
   "doi": null
 }

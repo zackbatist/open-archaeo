@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/zacharyliu/arshm-release"
   },
   "authors": ["zacharyliu"],
-  "categories": ["Standalone software"],
+  "categories": ["Packages and libraries"],
   "tags": ["Augmented reality"],
   "doi": null
 }

@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/lutraconsulting/input"
   },
   "authors": ["lutraconsulting"],
-  "categories": ["Standalone software"],
+  "categories": ["Packages and libraries"],
   "tags": ["Data collection", "Site mapping"],
   "doi": null
 }

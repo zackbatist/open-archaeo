@@ -6,7 +6,7 @@
   },
   "authors": ["L-P Archaeology"],
   "categories": ["Packages and libraries"],
-  "tags": ["Harrix matrix"],
+  "tags": ["Harris matrix"],
   "doi": null
 }
 

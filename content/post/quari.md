@@ -4,7 +4,7 @@
   "links": {
     "GitHub": "https://github.com/zackbatist/QuARI"
   },
-  "authors": ["Zack Batist", "Dan Contreras", "Ciara Zogheib"],
+  "authors": ["zackbatist", "dcontre", "Ciara Zogheib"],
   "categories": ["Scripts"],
   "tags": ["Data collection", "Lithic analysis"],
   "doi": null

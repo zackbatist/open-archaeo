@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/zoometh/iconr",
     "Website": "https://zoometh.github.io/iconr/articles/index.html"
   },
-  "authors": ["Thomas Huet", "Jose M. Pozo", "Craig Alexander"],
+  "authors": ["zoometh", "josempozo", "Craig Alexander"],
   "categories": ["Packages and libraries"],
   "tags": ["Iconography"],
   "doi": null

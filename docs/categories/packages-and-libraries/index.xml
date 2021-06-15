@@ -106,6 +106,33 @@
     </item>
     
     <item>
+      <title>archaeological-survey-location-collector</title>
+      <link>https://open-archaeo.info/post/archaeological-survey-location-collector/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeological-survey-location-collector/</guid>
+      <description>An app for use in archaeological field survey to collect high-accurate point locations, photographs, and other data.</description>
+    </item>
+    
+    <item>
+      <title>archaeology-data-service</title>
+      <link>https://open-archaeo.info/post/archaeology-data-service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeology-data-service/</guid>
+      <description>An app to collect data on archaeological objects.</description>
+    </item>
+    
+    <item>
+      <title>archaeology-object-data-collector-app</title>
+      <link>https://open-archaeo.info/post/archaeology-object-data-collector-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeology-object-data-collector-app/</guid>
+      <description>archaeology-object-data-collector-app</description>
+    </item>
+    
+    <item>
       <title>ArchaeoPhases</title>
       <link>https://open-archaeo.info/post/archaeophases-archaeostat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -202,6 +229,15 @@
       
       <guid>https://open-archaeo.info/post/arkspatial/</guid>
       <description>A QGIS plugin to simplfy digitization of archaeological plans drawn using the Museum of London Single Context Recording methodology.</description>
+    </item>
+    
+    <item>
+      <title>arshm-release</title>
+      <link>https://open-archaeo.info/post/arshm-release/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/arshm-release/</guid>
+      <description>Experimental mobile app demoing cultural heritage documentation tools in augmented reality. Supports capturing and annotating photos in 3D space. Proof-of-concept features in the app include image anchoring and surface drawing tools.</description>
     </item>
     
     <item>
@@ -394,6 +430,15 @@
     </item>
     
     <item>
+      <title>CuneiPainter</title>
+      <link>https://open-archaeo.info/post/cuneipainter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/cuneipainter/</guid>
+      <description>An App to recognize cuneiform characters on your Android phone.</description>
+    </item>
+    
+    <item>
       <title>cuperdec</title>
       <link>https://open-archaeo.info/post/cuperdec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -511,6 +556,15 @@
     </item>
     
     <item>
+      <title>field-photographs</title>
+      <link>https://open-archaeo.info/post/field-photographs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/field-photographs/</guid>
+      <description>Android apps for archaeology that enable photography during field work.</description>
+    </item>
+    
+    <item>
       <title>fieldwalkr</title>
       <link>https://open-archaeo.info/post/fieldwalkr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -619,6 +673,15 @@
     </item>
     
     <item>
+      <title>HumanOS</title>
+      <link>https://open-archaeo.info/post/humanos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/humanos/</guid>
+      <description>A mobile application for the intuitive recording of human bones from archaeological sites.</description>
+    </item>
+    
+    <item>
       <title>iconr</title>
       <link>https://open-archaeo.info/post/iconr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -634,6 +697,15 @@
       
       <guid>https://open-archaeo.info/post/idaifieldr/</guid>
       <description>The goal of idaifieldR is to flexibly get data from the idaifield database into R.</description>
+    </item>
+    
+    <item>
+      <title>input</title>
+      <link>https://open-archaeo.info/post/input/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/input/</guid>
+      <description>Makes surveying geospatial data easy by designing your survey project in QGIS with custom forms.</description>
     </item>
     
     <item>
@@ -889,6 +961,15 @@
     </item>
     
     <item>
+      <title>outliner</title>
+      <link>https://open-archaeo.info/post/outliner-benmarwick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/outliner-benmarwick/</guid>
+      <description>A simple app for tracing outlines of an irregular shape and exporting the coordinates of the outline.</description>
+    </item>
+    
+    <item>
       <title>oxcAAR</title>
       <link>https://open-archaeo.info/post/oxcaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -952,6 +1033,15 @@
     </item>
     
     <item>
+      <title>piwigo-3dhop</title>
+      <link>https://open-archaeo.info/post/piwigo-3dhop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/piwigo-3dhop/</guid>
+      <description>Piwigo plugin for viewing 3D models using 3DHOP.</description>
+    </item>
+    
+    <item>
       <title>postAAR</title>
       <link>https://open-archaeo.info/post/postaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1003,6 +1093,15 @@
       
       <guid>https://open-archaeo.info/post/pyxrf/</guid>
       <description>PyXRF is a python-based sophisticated fluorescence analysis package for fitting and visualizing X-ray fluorescence data</description>
+    </item>
+    
+    <item>
+      <title>QField</title>
+      <link>https://open-archaeo.info/post/qfield/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/qfield/</guid>
+      <description>A simplified touch optimized interface for QGIS.</description>
     </item>
     
     <item>
@@ -1201,6 +1300,15 @@
       
       <guid>https://open-archaeo.info/post/signboardr/</guid>
       <description>Extract text from archaeological photos containing a sign board and tag as metadata.</description>
+    </item>
+    
+    <item>
+      <title>simple-browser-gis-collector</title>
+      <link>https://open-archaeo.info/post/simple-browser-gis-collector/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/simple-browser-gis-collector/</guid>
+      <description>Mobile-oriented browser based application that could be used for data collection.</description>
     </item>
     
     <item>

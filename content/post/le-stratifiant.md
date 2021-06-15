@@ -6,7 +6,7 @@
   },
   "authors": ["Bruno Desachy"],
   "categories": ["Packages and libraries"],
-  "tags": ["Harrix matrix"],
+  "tags": ["Harris matrix"],
   "doi": null
 }
 
