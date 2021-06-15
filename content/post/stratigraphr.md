@@ -6,7 +6,7 @@
   },
   "authors": ["joeroe"],
   "categories": ["Packages and libraries"],
-  "tags": ["Chronological modelling"],
+  "tags": ["Chronological modelling", "Harris matrix"],
   "doi": null
 }
 

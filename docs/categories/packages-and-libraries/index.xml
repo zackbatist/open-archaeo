@@ -1492,6 +1492,15 @@
     </item>
     
     <item>
+      <title>TransmissionBias</title>
+      <link>https://open-archaeo.info/post/transmissionbias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/transmissionbias/</guid>
+      <description>Includes an agent-based model (ABM) of cultural transmission that simulates the three main forms of transmission bias: content bias, frequency bias, and demonstrator bias.</description>
+    </item>
+    
+    <item>
       <title>trenchdrawer</title>
       <link>https://open-archaeo.info/post/trenchdrawer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

@@ -15,5 +15,59 @@
       <description>An R package that provides datasets useful for biological and forensic anthropology.</description>
     </item>
     
+    <item>
+      <title>cranial-sex-estimation-code</title>
+      <link>https://open-archaeo.info/post/cranial-sex-estimation-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/cranial-sex-estimation-code/</guid>
+      <description>Data analysis implementation for evaluating a novel sex estimation method based on skullanalyzer data.</description>
+    </item>
+    
+    <item>
+      <title>long-bone-diaphyseal-CSG-Toolkit</title>
+      <link>https://open-archaeo.info/post/long-bone-diaphyseal-csg-toolkit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/long-bone-diaphyseal-csg-toolkit/</guid>
+      <description>A GNU Octave toolkit for analyzing diaphyseal long bone cross sectional geometry.</description>
+    </item>
+    
+    <item>
+      <title>non-metric-trait-analysis</title>
+      <link>https://open-archaeo.info/post/non-metric-trait-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/non-metric-trait-analysis/</guid>
+      <description>A set of GNU Octave functions for biodistance analysis based on non-metric traits.</description>
+    </item>
+    
+    <item>
+      <title>osteometric-sorting</title>
+      <link>https://open-archaeo.info/post/osteometric-sorting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/osteometric-sorting/</guid>
+      <description>Tools for osteometric sorting of human remains.</description>
+    </item>
+    
+    <item>
+      <title>skeletal-sex-estimation</title>
+      <link>https://open-archaeo.info/post/skeletal-sex-estimation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/skeletal-sex-estimation/</guid>
+      <description>A GNU Octave function for skeletal sex estimation.</description>
+    </item>
+    
+    <item>
+      <title>skullanalyzer</title>
+      <link>https://open-archaeo.info/post/skullanalyzer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/skullanalyzer/</guid>
+      <description>A concrete way of extracting cranial mophometric features.</description>
+    </item>
+    
   </channel>
 </rss>

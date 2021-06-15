@@ -78,5 +78,14 @@
       <description>Application for creating stratigraphic diagrams and checking the consistency of the chronostratigraphic recording.</description>
     </item>
     
+    <item>
+      <title>stratigraphr</title>
+      <link>https://open-archaeo.info/post/stratigraphr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/stratigraphr/</guid>
+      <description>R package for archaeological stratigraphy and chronological sequences.</description>
+    </item>
+    
   </channel>
 </rss>
