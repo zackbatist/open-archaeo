@@ -42,5 +42,14 @@
       <description>Proto-Elamite sign list.</description>
     </item>
     
+    <item>
+      <title>pta_data</title>
+      <link>https://open-archaeo.info/post/pta-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pta-data/</guid>
+      <description>An open access digital archive of antique Christian texts.</description>
+    </item>
+    
   </channel>
 </rss>

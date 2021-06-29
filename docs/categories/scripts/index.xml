@@ -151,6 +151,15 @@
     </item>
     
     <item>
+      <title>CSGR</title>
+      <link>https://open-archaeo.info/post/csgr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/csgr/</guid>
+      <description>Extracts and calculates from long bone cross sections, cortical thickness maps, and biomechanically pertinent cross-sectional geometric properties.</description>
+    </item>
+    
+    <item>
       <title>ElementSourcing</title>
       <link>https://open-archaeo.info/post/elementsourcing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -205,12 +214,30 @@
     </item>
     
     <item>
+      <title>Geostat</title>
+      <link>https://open-archaeo.info/post/geostat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/geostat/</guid>
+      <description>Code for Geostatistics in ethnographic contexts.</description>
+    </item>
+    
+    <item>
       <title>Kmeans</title>
       <link>https://open-archaeo.info/post/kmeans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/kmeans/</guid>
       <description>Script for conducting K-means cluster analysis using R. This script provides output designed to help the user select an appropriate cluster solution.</description>
+    </item>
+    
+    <item>
+      <title>kriging</title>
+      <link>https://open-archaeo.info/post/kriging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/kriging/</guid>
+      <description>Codes for performing kriging for ethnographic and archaeological data.</description>
     </item>
     
     <item>
@@ -286,6 +313,15 @@
     </item>
     
     <item>
+      <title>Near-Presence-Analysis</title>
+      <link>https://open-archaeo.info/post/near-presence-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/near-presence-analysis/</guid>
+      <description>R script for analyzing presence/absence data in irregularly distributed archaeological survey units.</description>
+    </item>
+    
+    <item>
       <title>neiman1995</title>
       <link>https://open-archaeo.info/post/neiman1995/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -328,6 +364,15 @@
       
       <guid>https://open-archaeo.info/post/osteometric-sorting/</guid>
       <description>Tools for osteometric sorting of human remains.</description>
+    </item>
+    
+    <item>
+      <title>p2pPerm</title>
+      <link>https://open-archaeo.info/post/p2pperm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/p2pperm/</guid>
+      <description>A function for retrieving metrics for resistance-resilience from rcarbon permTest objects.</description>
     </item>
     
     <item>

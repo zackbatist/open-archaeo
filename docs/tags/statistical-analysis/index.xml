@@ -124,12 +124,30 @@
     </item>
     
     <item>
+      <title>Geostat</title>
+      <link>https://open-archaeo.info/post/geostat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/geostat/</guid>
+      <description>Code for Geostatistics in ethnographic contexts.</description>
+    </item>
+    
+    <item>
       <title>Kmeans</title>
       <link>https://open-archaeo.info/post/kmeans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/kmeans/</guid>
       <description>Script for conducting K-means cluster analysis using R. This script provides output designed to help the user select an appropriate cluster solution.</description>
+    </item>
+    
+    <item>
+      <title>kriging</title>
+      <link>https://open-archaeo.info/post/kriging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/kriging/</guid>
+      <description>Codes for performing kriging for ethnographic and archaeological data.</description>
     </item>
     
     <item>
@@ -157,6 +175,24 @@
       
       <guid>https://open-archaeo.info/post/mean-ceramic-date-and-error-estimation/</guid>
       <description>Script for calculating mean ceramic dates based on tabular data. This script also estimates sampling error using a bootstrapping procedure.</description>
+    </item>
+    
+    <item>
+      <title>Near-Presence-Analysis</title>
+      <link>https://open-archaeo.info/post/near-presence-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/near-presence-analysis/</guid>
+      <description>R script for analyzing presence/absence data in irregularly distributed archaeological survey units.</description>
+    </item>
+    
+    <item>
+      <title>p2pPerm</title>
+      <link>https://open-archaeo.info/post/p2pperm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/p2pperm/</guid>
+      <description>A function for retrieving metrics for resistance-resilience from rcarbon permTest objects.</description>
     </item>
     
     <item>
@@ -247,6 +283,15 @@
       
       <guid>https://open-archaeo.info/post/spartaas/</guid>
       <description>Statistical pattern recognition and dating using archaeological artefacts assemblages.</description>
+    </item>
+    
+    <item>
+      <title>spDates</title>
+      <link>https://open-archaeo.info/post/spdates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/spdates/</guid>
+      <description>Analysis of spatial gradients in radiocarbon dates.</description>
     </item>
     
     <item>

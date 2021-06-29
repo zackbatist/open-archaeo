@@ -232,6 +232,15 @@
     </item>
     
     <item>
+      <title>Arothron</title>
+      <link>https://open-archaeo.info/post/arothron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/arothron/</guid>
+      <description>Tools of Virtual Anthropology to build virtual cavities as endocasts, to align two disarticulated models belonging to the same specimen, and functions to import and export format files into another format.</description>
+    </item>
+    
+    <item>
       <title>arshm-release</title>
       <link>https://open-archaeo.info/post/arshm-release/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -355,6 +364,15 @@
       
       <guid>https://open-archaeo.info/post/ceramatch/</guid>
       <description>Visual shape-matching of ceramics profiles.</description>
+    </item>
+    
+    <item>
+      <title>chronochrt</title>
+      <link>https://open-archaeo.info/post/chronochrt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/chronochrt/</guid>
+      <description>Building chronological charts easily with R.</description>
     </item>
     
     <item>
@@ -1372,6 +1390,15 @@
       
       <guid>https://open-archaeo.info/post/spartaas/</guid>
       <description>Statistical pattern recognition and dating using archaeological artefacts assemblages.</description>
+    </item>
+    
+    <item>
+      <title>spDates</title>
+      <link>https://open-archaeo.info/post/spdates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/spdates/</guid>
+      <description>Analysis of spatial gradients in radiocarbon dates.</description>
     </item>
     
     <item>

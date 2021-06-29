@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://open-archaeo.info/tags/physical-anthropology/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Arothron</title>
+      <link>https://open-archaeo.info/post/arothron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/arothron/</guid>
+      <description>Tools of Virtual Anthropology to build virtual cavities as endocasts, to align two disarticulated models belonging to the same specimen, and functions to import and export format files into another format.</description>
+    </item>
+    
+    <item>
       <title>bioanth</title>
       <link>https://open-archaeo.info/post/bioanth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -22,6 +31,15 @@
       
       <guid>https://open-archaeo.info/post/cranial-sex-estimation-code/</guid>
       <description>Data analysis implementation for evaluating a novel sex estimation method based on skullanalyzer data.</description>
+    </item>
+    
+    <item>
+      <title>CSGR</title>
+      <link>https://open-archaeo.info/post/csgr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/csgr/</guid>
+      <description>Extracts and calculates from long bone cross sections, cortical thickness maps, and biomechanically pertinent cross-sectional geometric properties.</description>
     </item>
     
     <item>

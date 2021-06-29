@@ -16,6 +16,15 @@
     </item>
     
     <item>
+      <title>Arothron</title>
+      <link>https://open-archaeo.info/post/arothron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/arothron/</guid>
+      <description>Tools of Virtual Anthropology to build virtual cavities as endocasts, to align two disarticulated models belonging to the same specimen, and functions to import and export format files into another format.</description>
+    </item>
+    
+    <item>
       <title>artefact-morpho.R</title>
       <link>https://open-archaeo.info/post/artefact-morpho/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -40,6 +49,15 @@
       
       <guid>https://open-archaeo.info/post/ceramic-computation/</guid>
       <description>R scripts for digitizing, processing, analyzing, and comparing archaeological ceramic 2d profile drawings, photographs, and other data.</description>
+    </item>
+    
+    <item>
+      <title>CSGR</title>
+      <link>https://open-archaeo.info/post/csgr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/csgr/</guid>
+      <description>Extracts and calculates from long bone cross sections, cortical thickness maps, and biomechanically pertinent cross-sectional geometric properties.</description>
     </item>
     
     <item>

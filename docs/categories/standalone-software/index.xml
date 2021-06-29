@@ -61,6 +61,15 @@
     </item>
     
     <item>
+      <title>ArboDat</title>
+      <link>https://open-archaeo.info/post/arbodat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/arbodat/</guid>
+      <description>A program package for registering and importing data of archaeobotanical analyses including contexts of samples as well as evaluation tools.</description>
+    </item>
+    
+    <item>
       <title>archaeological-object-sharing</title>
       <link>https://open-archaeo.info/post/archaeological-object-sharing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -430,6 +439,15 @@
     </item>
     
     <item>
+      <title>Image enhancement process tool</title>
+      <link>https://open-archaeo.info/post/image-enhancement-process-tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/image-enhancement-process-tool/</guid>
+      <description>This software implements five state of the art algorithms aimed to enhance the quality of underwater images.</description>
+    </item>
+    
+    <item>
       <title>IOSACal</title>
       <link>https://open-archaeo.info/post/iosacal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -445,6 +463,15 @@
       
       <guid>https://open-archaeo.info/post/ishtar/</guid>
       <description>Ishtar is a database project for managing archaeological data and documentation from archaeological operations, that prioritizes maximum traceability of the information. Designed to enable inter-database communication, the Ishtar project aims rather to a distributed information model than a centralized one: communication between the databases is favored.</description>
+    </item>
+    
+    <item>
+      <title>katun</title>
+      <link>https://open-archaeo.info/post/katun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/katun/</guid>
+      <description>Tools for converting between Maya and Western calendars.</description>
     </item>
     
     <item>
@@ -499,6 +526,15 @@
       
       <guid>https://open-archaeo.info/post/maximum-likelihood-relatedness-estimation/</guid>
       <description>Infer biological relatedness from low coverage 2nd generation sequencing data.</description>
+    </item>
+    
+    <item>
+      <title>maya-calendar</title>
+      <link>https://open-archaeo.info/post/maya-calendar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/maya-calendar/</guid>
+      <description>Tools for converting between Maya and Western calendars.</description>
     </item>
     
     <item>
@@ -733,6 +769,15 @@
       
       <guid>https://open-archaeo.info/post/thanados/</guid>
       <description>An open source, web application for the presentation of archaeological data especially for burial studies.</description>
+    </item>
+    
+    <item>
+      <title>tkgwv2</title>
+      <link>https://open-archaeo.info/post/tkgwv2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/tkgwv2/</guid>
+      <description>An ancient DNA relatedness pipeline for ultra-low coverage whole genome shotgun data.</description>
     </item>
     
     <item>

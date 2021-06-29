@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://open-archaeo.info/tags/datasets/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>3D libraries of ships</title>
+      <link>https://open-archaeo.info/post/3d-libraries-of-ships/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/3d-libraries-of-ships/</guid>
+      <description>A 3D library of ancient (classical era) ships.</description>
+    </item>
+    
+    <item>
       <title>aca_data_collection</title>
       <link>https://open-archaeo.info/post/aca-data-collection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -169,6 +178,15 @@
     </item>
     
     <item>
+      <title>pta_data</title>
+      <link>https://open-archaeo.info/post/pta-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pta-data/</guid>
+      <description>An open access digital archive of antique Christian texts.</description>
+    </item>
+    
+    <item>
       <title>R-Scripts</title>
       <link>https://open-archaeo.info/post/r-scripts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -256,6 +274,15 @@
       
       <guid>https://open-archaeo.info/post/rorbium/</guid>
       <description>Orbis data as an R package</description>
+    </item>
+    
+    <item>
+      <title>rxpand</title>
+      <link>https://open-archaeo.info/post/rxpand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rxpand/</guid>
+      <description>Radiocarbon dates for the spread of farming and ceramics in tropical South America.</description>
     </item>
     
     <item>

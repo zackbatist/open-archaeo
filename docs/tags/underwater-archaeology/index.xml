@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Underwater archaeology on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/underwater-archaeology/</link>
+    <description>Recent content in Underwater archaeology on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/underwater-archaeology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Image enhancement process tool</title>
+      <link>https://open-archaeo.info/post/image-enhancement-process-tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/image-enhancement-process-tool/</guid>
+      <description>This software implements five state of the art algorithms aimed to enhance the quality of underwater images.</description>
+    </item>
+    
+  </channel>
+</rss>

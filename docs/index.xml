@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://open-archaeo.info/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>3D libraries of ships</title>
+      <link>https://open-archaeo.info/post/3d-libraries-of-ships/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/3d-libraries-of-ships/</guid>
+      <description>A 3D library of ancient (classical era) ships.</description>
+    </item>
+    
+    <item>
       <title>3d-ceramics</title>
       <link>https://open-archaeo.info/post/3d-ceramics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -229,6 +238,15 @@
       
       <guid>https://open-archaeo.info/post/aoristic/</guid>
       <description>R package for aoristic analysis; the goal of aoristic is to make sense of temporally vague data.</description>
+    </item>
+    
+    <item>
+      <title>ArboDat</title>
+      <link>https://open-archaeo.info/post/arbodat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/arbodat/</guid>
+      <description>A program package for registering and importing data of archaeobotanical analyses including contexts of samples as well as evaluation tools.</description>
     </item>
     
     <item>
@@ -565,6 +583,15 @@
     </item>
     
     <item>
+      <title>Arothron</title>
+      <link>https://open-archaeo.info/post/arothron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/arothron/</guid>
+      <description>Tools of Virtual Anthropology to build virtual cavities as endocasts, to align two disarticulated models belonging to the same specimen, and functions to import and export format files into another format.</description>
+    </item>
+    
+    <item>
       <title>Arran</title>
       <link>https://open-archaeo.info/post/arran/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -799,6 +826,15 @@
     </item>
     
     <item>
+      <title>caa</title>
+      <link>https://open-archaeo.info/post/caa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/caa/</guid>
+      <description>Statistical methods for archaeological data analysis, course website repository.</description>
+    </item>
+    
+    <item>
       <title>caa2019_halfway_house</title>
       <link>https://open-archaeo.info/post/caa2019-halfway-house/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -970,6 +1006,15 @@
     </item>
     
     <item>
+      <title>chronochrt</title>
+      <link>https://open-archaeo.info/post/chronochrt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/chronochrt/</guid>
+      <description>Building chronological charts easily with R.</description>
+    </item>
+    
+    <item>
       <title>chronomodel</title>
       <link>https://open-archaeo.info/post/chronomodel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1102,6 +1147,15 @@
       
       <guid>https://open-archaeo.info/post/crp2a/</guid>
       <description>Dose Rate Estimation from In-Situ Gamma-Ray Spectrometry Measurements for Luminescence Dating</description>
+    </item>
+    
+    <item>
+      <title>CSGR</title>
+      <link>https://open-archaeo.info/post/csgr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/csgr/</guid>
+      <description>Extracts and calculates from long bone cross sections, cortical thickness maps, and biomechanically pertinent cross-sectional geometric properties.</description>
     </item>
     
     <item>
@@ -1555,6 +1609,15 @@
     </item>
     
     <item>
+      <title>Geostat</title>
+      <link>https://open-archaeo.info/post/geostat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/geostat/</guid>
+      <description>Code for Geostatistics in ethnographic contexts.</description>
+    </item>
+    
+    <item>
       <title>ggvegan</title>
       <link>https://open-archaeo.info/post/ggvegan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1771,6 +1834,15 @@
     </item>
     
     <item>
+      <title>Image enhancement process tool</title>
+      <link>https://open-archaeo.info/post/image-enhancement-process-tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/image-enhancement-process-tool/</guid>
+      <description>This software implements five state of the art algorithms aimed to enhance the quality of underwater images.</description>
+    </item>
+    
+    <item>
       <title>inclusions</title>
       <link>https://open-archaeo.info/post/inclusions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1843,6 +1915,15 @@
     </item>
     
     <item>
+      <title>katun</title>
+      <link>https://open-archaeo.info/post/katun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/katun/</guid>
+      <description>Tools for converting between Maya and Western calendars.</description>
+    </item>
+    
+    <item>
       <title>khroma</title>
       <link>https://open-archaeo.info/post/khroma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1867,6 +1948,15 @@
       
       <guid>https://open-archaeo.info/post/kotyle/</guid>
       <description>Calculate the capacity of a ceramic vessel, like an amphora.</description>
+    </item>
+    
+    <item>
+      <title>kriging</title>
+      <link>https://open-archaeo.info/post/kriging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/kriging/</guid>
+      <description>Codes for performing kriging for ethnographic and archaeological data.</description>
     </item>
     
     <item>
@@ -2068,6 +2158,15 @@
     </item>
     
     <item>
+      <title>maya-calendar</title>
+      <link>https://open-archaeo.info/post/maya-calendar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/maya-calendar/</guid>
+      <description>Tools for converting between Maya and Western calendars.</description>
+    </item>
+    
+    <item>
       <title>Mean-Ceramic-Date-and-Error-Estimation</title>
       <link>https://open-archaeo.info/post/mean-ceramic-date-and-error-estimation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2200,6 +2299,15 @@
       
       <guid>https://open-archaeo.info/post/naa-analytical-dashboard/</guid>
       <description>Analytical Dashboard for conducting various analysis to group and assess groupings for Neutron Activation Analytical chemical compositional data</description>
+    </item>
+    
+    <item>
+      <title>Near-Presence-Analysis</title>
+      <link>https://open-archaeo.info/post/near-presence-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/near-presence-analysis/</guid>
+      <description>R script for analyzing presence/absence data in irregularly distributed archaeological survey units.</description>
     </item>
     
     <item>
@@ -2425,6 +2533,15 @@
       
       <guid>https://open-archaeo.info/post/oxcaar/</guid>
       <description>A collection of functions that can be used to execute OxCal from within R.</description>
+    </item>
+    
+    <item>
+      <title>p2pPerm</title>
+      <link>https://open-archaeo.info/post/p2pperm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/p2pperm/</guid>
+      <description>A function for retrieving metrics for resistance-resilience from rcarbon permTest objects.</description>
     </item>
     
     <item>
@@ -2659,6 +2776,15 @@
       
       <guid>https://open-archaeo.info/post/profileaar/</guid>
       <description>python qgis plugin of recexcavAAR&amp;rsquo;s archprofile</description>
+    </item>
+    
+    <item>
+      <title>pta_data</title>
+      <link>https://open-archaeo.info/post/pta-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pta-data/</guid>
+      <description>An open access digital archive of antique Christian texts.</description>
     </item>
     
     <item>
@@ -3004,6 +3130,15 @@
     </item>
     
     <item>
+      <title>rxpand</title>
+      <link>https://open-archaeo.info/post/rxpand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rxpand/</guid>
+      <description>Radiocarbon dates for the spread of farming and ceramics in tropical South America.</description>
+    </item>
+    
+    <item>
       <title>rxylib</title>
       <link>https://open-archaeo.info/post/rxylib/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3247,6 +3382,15 @@
     </item>
     
     <item>
+      <title>spDates</title>
+      <link>https://open-archaeo.info/post/spdates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/spdates/</guid>
+      <description>Analysis of spatial gradients in radiocarbon dates.</description>
+    </item>
+    
+    <item>
       <title>statuAAR</title>
       <link>https://open-archaeo.info/post/statuaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3451,6 +3595,15 @@
       
       <guid>https://open-archaeo.info/post/tipom/</guid>
       <description>TIPOM is based on a methodology that was developed in the 1960s by Bernardino Bagolini. The basic idea is to use the three simple dimensions of length, width and thickness of each lithic artefact to classify them in discrete groups and infer their function.</description>
+    </item>
+    
+    <item>
+      <title>tkgwv2</title>
+      <link>https://open-archaeo.info/post/tkgwv2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/tkgwv2/</guid>
+      <description>An ancient DNA relatedness pipeline for ultra-low coverage whole genome shotgun data.</description>
     </item>
     
     <item>

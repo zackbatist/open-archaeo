@@ -169,6 +169,15 @@
     </item>
     
     <item>
+      <title>p2pPerm</title>
+      <link>https://open-archaeo.info/post/p2pperm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/p2pperm/</guid>
+      <description>A function for retrieving metrics for resistance-resilience from rcarbon permTest objects.</description>
+    </item>
+    
+    <item>
       <title>radon</title>
       <link>https://open-archaeo.info/post/radon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -202,6 +211,24 @@
       
       <guid>https://open-archaeo.info/post/rintchron/</guid>
       <description>rintchron provides an R interface to IntChron, an indexing service and exchange format for chronological data such as radiocarbon dates.</description>
+    </item>
+    
+    <item>
+      <title>rxpand</title>
+      <link>https://open-archaeo.info/post/rxpand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rxpand/</guid>
+      <description>Radiocarbon dates for the spread of farming and ceramics in tropical South America.</description>
+    </item>
+    
+    <item>
+      <title>spDates</title>
+      <link>https://open-archaeo.info/post/spdates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/spdates/</guid>
+      <description>Analysis of spatial gradients in radiocarbon dates.</description>
     </item>
     
   </channel>
