@@ -38,7 +38,7 @@
     left: 0
     position: absolute
     z-index: 20
-    border-radius: 0 0 0.5rem 0.5rem 
+    border-radius: 0 0 0.5rem 0.5rem
     top: 3rem
     transition: height 0.3s ease-in-out
     height: 0
@@ -145,7 +145,7 @@
   padding-top: 5rem
   @include content
 
-.footer 
+.footer
   // border-top: 1px solid $xhaze
   background: var(--footer-bg)
   margin-top: 2rem
@@ -172,7 +172,7 @@
     background-color: darken($theme, 20%)
     color: $light
     border: 1px solid darken($theme, 20%)
-    
+
   &_translucent
     background-color: rgba($theme, 0.15)
     color: $theme
@@ -181,6 +181,68 @@
     padding: 0 0.75rem
     border-radius: 0.5rem
     background-color: $theme
+    display: inline-flex
+    justify-content: center
+    align-items: center
+    color: $light
+    margin: 0.1rem 0 0.1rem 0.2rem
+    font-size: 0.7rem
+
+.button2
+  background-color: $theme2
+  color: $light
+  display: inline-flex
+  padding: 0.5rem 1.5rem
+  text-transform: uppercase
+  border: 1px solid $theme2
+  border-radius: 1.5rem
+  font-size: 0.9rem
+  align-items: center
+  user-select: none
+  &:hover, &:focus
+    background-color: darken($theme2, 20%)
+    color: $light
+    border: 1px solid darken($theme2, 20%)
+
+  &_translucent2
+    background-color: rgba($theme2, 0.15)
+    color: $theme2
+    border: 1px solid transparent
+  &_tally
+    padding: 0 0.75rem
+    border-radius: 0.5rem
+    background-color: $theme2
+    display: inline-flex
+    justify-content: center
+    align-items: center
+    color: $light
+    margin: 0.1rem 0 0.1rem 0.2rem
+    font-size: 0.7rem
+
+.button3
+  background-color: $theme3
+  color: $light
+  display: inline-flex
+  padding: 0.5rem 1.5rem
+  text-transform: uppercase
+  border: 1px solid $theme3
+  border-radius: 1.5rem
+  font-size: 0.9rem
+  align-items: center
+  user-select: none
+  &:hover, &:focus
+    background-color: darken($theme3, 20%)
+    color: $light
+    border: 1px solid darken($theme3, 20%)
+
+  &_translucent3
+    background-color: rgba($theme3, 0.15)
+    color: $theme3
+    border: 1px solid transparent
+  &_tally
+    padding: 0 0.75rem
+    border-radius: 0.5rem
+    background-color: $theme3
     display: inline-flex
     justify-content: center
     align-items: center
@@ -237,11 +299,59 @@
         cursor: pointer
   &_tag, &_share
     margin: 0.5rem
+  &_category
+    padding: 0.2rem 0.8rem
+    font-size: 0.8rem
+    &s
+      display: none
+      &.jswidgetopen
+        display: initial
+        position: fixed
+        top: 0
+        left: 0
+        height: 100vh
+        overflow-y: auto
+        width: 100vw
+        padding: 5rem 1.5rem
+        background: var(--translucent-light)
+        cursor: pointer
+        z-index: 999
+        overflow-y: auto
+      &_toggle
+        margin-top: 0.5rem
+        margin-left: 0.5rem
+        cursor: pointer
+  &_category, &_share
+    margin: 0.5rem
+  &_author
+    padding: 0.2rem 0.8rem
+    font-size: 0.8rem
+    &s
+      display: none
+      &.jswidgetopen
+        display: initial
+        position: fixed
+        top: 0
+        left: 0
+        height: 100vh
+        overflow-y: auto
+        width: 100vw
+        padding: 5rem 1.5rem
+        background: var(--translucent-light)
+        cursor: pointer
+        z-index: 999
+        overflow-y: auto
+      &_toggle
+        margin-top: 0.5rem
+        margin-left: 0.5rem
+        cursor: pointer
+  &_author, &_share
+      margin: 0.5rem
   &_share
     display: inline-flex
   &_meta
     align-items: stretch
-    &, span 
+    &, span
       display: inline-flex
       flex-flow: row wrap
     span
@@ -250,7 +360,23 @@
       &:last-of-type
         @media screen and (max-width: 667px)
           margin-top: -0.5rem
-        
+
+    .button
+      @media screen and (min-width: 667px)
+        margin: 0 0.1rem
+
+  &_author
+    align-items: stretch
+    &, span
+      display: inline-flex
+      flex-flow: row wrap
+    span
+      align-items: center
+      margin-bottom: 0rem
+      &:last-of-type
+        @media screen and (max-width: 667px)
+          margin-top: -0.5rem
+
     .button
       @media screen and (min-width: 667px)
         margin: 0 0.1rem
@@ -374,6 +500,154 @@
       border-radius: 15%
       font-size: 1.5rem
 
+.category
+  &s
+    &_list
+      cursor: initial
+      background: var(--choice-bg)
+      padding: 4.5rem 1.5rem 1.5rem 1.5rem
+      border-radius: 1rem
+      max-width: 720px
+      margin: 0 auto
+      box-shadow: 0 0.5rem 1.5rem rgba(0,0,0,0.12)
+      position: relative
+      display: flex
+      flex-flow: row wrap
+    &_nav
+      position: relative
+    &_hide
+      position: absolute
+      top: 1rem
+      right: 1.5rem
+      padding: 0.5rem
+      border-radius: 50%
+      cursor: pointer
+      @media screen and (min-width: 992px)
+        display: none
+    &_sort
+      font-size: 1rem
+      color: var(--light)
+      background: var(--theme)
+      position: absolute
+      top: 1.5rem
+      left: 1.5rem
+      border-radius: 1.5rem
+      padding: 0.1rem
+      &, span
+        user-select: none
+      span
+        display: inline-flex
+        justify-content: center
+        align-items: center
+        height: 2rem
+        position: relative
+        z-index: 5
+        cursor: pointer
+        width: 5rem
+        font-weight: 500
+      &::before
+        content: ""
+        position: absolute
+        width: 4.5rem
+        top: 0.25rem
+        bottom: 0.25rem
+        left: 0.25rem
+        z-index: 3
+        background: var(--bg)
+        opacity: 0.5
+        border-radius: 1.5rem
+        transition: 0.25s transform var(--ease)
+      &.sorted
+        &::before
+          transform: translateX(5rem)
+  &-title
+    border-bottom: none !important
+    display: inline-block !important
+    position: relative
+    font-size: 2rem
+    margin-bottom: -1rem
+    &::after
+      content: attr(data-count)
+      margin-left: 1.5rem
+      background-color: #eee
+      padding: 0.25rem 1rem
+      border-radius: 15%
+      font-size: 1.5rem
+
+.author
+  &s
+    &_list
+      cursor: initial
+      background: var(--choice-bg)
+      padding: 4.5rem 1.5rem 1.5rem 1.5rem
+      border-radius: 1rem
+      max-width: 720px
+      margin: 0 auto
+      box-shadow: 0 0.5rem 1.5rem rgba(0,0,0,0.12)
+      position: relative
+      display: flex
+      flex-flow: row wrap
+    &_nav
+      position: relative
+    &_hide
+      position: absolute
+      top: 1rem
+      right: 1.5rem
+      padding: 0.5rem
+      border-radius: 50%
+      cursor: pointer
+      @media screen and (min-width: 992px)
+        display: none
+    &_sort
+      font-size: 1rem
+      color: var(--light)
+      background: var(--theme)
+      position: absolute
+      top: 1.5rem
+      left: 1.5rem
+      border-radius: 1.5rem
+      padding: 0.1rem
+      &, span
+        user-select: none
+      span
+        display: inline-flex
+        justify-content: center
+        align-items: center
+        height: 2rem
+        position: relative
+        z-index: 5
+        cursor: pointer
+        width: 5rem
+        font-weight: 500
+      &::before
+        content: ""
+        position: absolute
+        width: 4.5rem
+        top: 0.25rem
+        bottom: 0.25rem
+        left: 0.25rem
+        z-index: 3
+        background: var(--bg)
+        opacity: 0.5
+        border-radius: 1.5rem
+        transition: 0.25s transform var(--ease)
+      &.sorted
+        &::before
+          transform: translateX(5rem)
+  &-title
+    border-bottom: none !important
+    display: inline-block !important
+    position: relative
+    font-size: 2rem
+    margin-bottom: -1rem
+    &::after
+      content: attr(data-count)
+      margin-left: 1.5rem
+      background-color: #eee
+      padding: 0.25rem 1rem
+      border-radius: 15%
+      font-size: 1.5rem
+
 .icon
   display: inline-flex
   justify-content: center
@@ -423,12 +697,12 @@
     min-height: 10rem
     display: none
     @media screen and (min-width: $mobile-menu-breakpoint)
-      display: block 
+      display: block
       border-radius: 0.5rem
   &_footer
     &.partition
       display: grid
-      @media screen and (min-width: $mobile-menu-breakpoint) 
+      @media screen and (min-width: $mobile-menu-breakpoint)
         grid-template-columns: 2fr 7fr
         grid-gap: 1rem
 .sidebar
@@ -481,7 +755,7 @@
   &_left
     float: left
     margin-right: 1rem
-    + p 
+    + p
       padding-top: 0
   &_right
     float: right
@@ -533,8 +807,8 @@
     &:hover svg
       opacity: 1
 
-.color 
-  &_mode 
+.color
+  &_mode
     // width: 3rem
     height: 1.5rem
     display: grid
