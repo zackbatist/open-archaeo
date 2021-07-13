@@ -14,6 +14,7 @@
     {{- $t := .Title }}
     <h1 class="post_title">{{ $t }}</h1>
     {{- partial "post-meta" . }}
+    {{- partial "post-author" . }}
     {{ with $p.featureImage }}
     <img src="{{ . }}" class="image_featured" alt="{{ $t }}">
     {{ end }}

@@ -5,6 +5,12 @@
         {{ .Title  }}
       </h3>
       {{ partial "post-meta" . }}
+      <br>
+      {{ partial "post-category" . }}
+      <br>
+      {{ partial "post-author" . }}
+      <br>
+      {{ partial "post-links" . }}
     </div>
     {{- with .Params.thumbnail }}
     <div class="excerpt_footer partition">

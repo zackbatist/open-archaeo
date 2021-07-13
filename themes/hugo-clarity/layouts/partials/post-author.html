@@ -1,0 +1,15 @@
+<div class="post_meta">
+<span>Authors:&nbsp;</span>
+  {{- with .Params.authors -}}
+     <span>
+       {{- range . }}
+         {{- $author := urlize . }}
+         <a href='{{ absLangURL (printf "authors/%s" $author) }}' title="{{ . }}" class="post_tag button button_translucent">
+           {{- . }}
+         </a>
+       {{- end }}
+     </span>
+  {{- end }}
+
+  <span class="page_only"> · {{ partial "share" . }}</span>
+</div>

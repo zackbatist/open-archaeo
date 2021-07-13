@@ -1,0 +1,15 @@
+<div class="post_meta">
+<span>Category:&nbsp;</span>
+  {{- with .Params.categories -}}
+     <span>
+       {{- range . }}
+         {{- $category := urlize . }}
+         <a href='{{ absLangURL (printf "categories/%s" $category) }}' title="{{ . }}" class="post_tag button button_translucent">
+           {{- . }}
+         </a>
+       {{- end }}
+     </span>
+  {{- end }}
+
+  <span class="page_only"> · {{ partial "share" . }}</span>
+</div>

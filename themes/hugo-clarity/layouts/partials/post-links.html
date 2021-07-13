@@ -1,0 +1,159 @@
+<div class="post_meta">
+<span>Links:&nbsp;</span>
+  {{- with .Params.githubs -}}
+     <span>
+       {{- range . }}
+         {{- $github := urlize . }}
+         <a href='{{- . }}' title="{{ . }}" class="post_tag button button_translucent">
+           GitHub
+         </a>
+       {{- end }}
+     </span>
+  {{- end }}
+
+  {{- with .Params.gists -}}
+     <span>
+       {{- range . }}
+         {{- $gist := urlize . }}
+         <a href='{{- . }}' title="{{ . }}" class="post_tag button button_translucent">
+           Gist
+         </a>
+       {{- end }}
+     </span>
+  {{- end }}
+
+  {{- with .Params.gitlabs -}}
+     <span>
+       {{- range . }}
+         {{- $gitlab := urlize . }}
+         <a href='{{- . }}' title="{{ . }}" class="post_tag button button_translucent">
+           GitLab
+         </a>
+       {{- end }}
+     </span>
+  {{- end }}
+
+  {{- with .Params.bitbuckets -}}
+     <span>
+       {{- range . }}
+         {{- $bitbucket := urlize . }}
+         <a href='{{- . }}' title="{{ . }}" class="post_tag button button_translucent">
+           BitBucket
+         </a>
+       {{- end }}
+     </span>
+  {{- end }}
+
+  {{- with .Params.codebergs -}}
+     <span>
+       {{- range . }}
+         {{- $codeberg := urlize . }}
+         <a href='{{- . }}' title="{{ . }}" class="post_tag button button_translucent">
+           Codeberg
+         </a>
+       {{- end }}
+     </span>
+  {{- end }}
+
+  {{- with .Params.launchpads -}}
+     <span>
+       {{- range . }}
+         {{- $launchpad := urlize . }}
+         <a href='{{- . }}' title="{{ . }}" class="post_tag button button_translucent">
+           Launchpad
+         </a>
+       {{- end }}
+     </span>
+  {{- end }}
+
+  {{- with .Params.crans -}}
+     <span>
+       {{- range . }}
+         {{- $cran := urlize . }}
+         <a href='{{- . }}' title="{{ . }}" class="post_tag button button_translucent">
+           CRAN
+         </a>
+       {{- end }}
+     </span>
+  {{- end }}
+
+  {{- with .Params.pypis -}}
+     <span>
+       {{- range . }}
+         {{- $pypi := urlize . }}
+         <a href='{{- . }}' title="{{ . }}" class="post_tag button button_translucent">
+           PyPi
+         </a>
+       {{- end }}
+     </span>
+  {{- end }}
+
+  {{- with .Params.blogposts -}}
+     <span>
+       {{- range . }}
+         {{- $blogpost := urlize . }}
+         <a href='{{- . }}' title="{{ . }}" class="post_tag button button_translucent">
+           Blog Post
+         </a>
+       {{- end }}
+     </span>
+  {{- end }}
+
+  {{- with .Params.twitters -}}
+     <span>
+       {{- range . }}
+         {{- $twitter := urlize . }}
+         <a href='{{- . }}' title="{{ . }}" class="post_tag button button_translucent">
+           Twitter
+         </a>
+       {{- end }}
+     </span>
+  {{- end }}
+
+  {{- with .Params.youtubes -}}
+     <span>
+       {{- range . }}
+         {{- $youtube := urlize . }}
+         <a href='{{- . }}' title="{{ . }}" class="post_tag button button_translucent">
+           YouTube
+         </a>
+       {{- end }}
+     </span>
+  {{- end }}
+
+  {{- with .Params.websites -}}
+     <span>
+       {{- range . }}
+         {{- $website := urlize . }}
+         <a href='{{- . }}' title="{{ . }}" class="post_tag button button_translucent">
+           Website
+         </a>
+       {{- end }}
+     </span>
+  {{- end }}
+
+  {{- with .Params.dois -}}
+     <span>
+       {{- range . }}
+         {{- $doi := urlize . }}
+         <a href='{{- . }}' title="{{ . }}" class="post_tag button button_translucent">
+           DOI
+         </a>
+       {{- end }}
+     </span>
+  {{- end }}
+
+  {{- with .Params.ias -}}
+     <span>
+       {{- range . }}
+         {{- $ia := urlize . }}
+         <a href='{{- . }}' title="{{ . }}" class="post_tag button button_translucent">
+           Internet Archive
+         </a>
+       {{- end }}
+     </span>
+  {{- end }}
+
+
+  <span class="page_only"> · {{ partial "share" . }}</span>
+</div>

@@ -1,32 +1,10 @@
 <div class="post_meta">
-
-  {{- with .Params.categories -}}
-     <span>
-       {{- range . }}
-         {{- $category := urlize . }}
-         <a href='{{ absLangURL (printf "categories/%s" $category) }}' title="{{ . }}" class="post_category button2 button2_translucent2">
-           {{- . }}
-         </a>
-       {{- end }}
-     </span>
-  {{- end }}
-
+<span>Tags:&nbsp;</span>
   {{- with .Params.tags -}}
      <span>
        {{- range . }}
          {{- $tag := urlize . }}
          <a href='{{ absLangURL (printf "tags/%s" $tag) }}' title="{{ . }}" class="post_tag button button_translucent">
-           {{- . }}
-         </a>
-       {{- end }}
-     </span>
-  {{- end }}
-
-  {{- with .Params.authors -}}
-     <span>
-       {{- range . }}
-         {{- $author := urlize . }}
-         <a href='{{ absLangURL (printf "authors/%s" $author) }}' title="{{ . }}" class="post_author button3 button3_translucent3">
            {{- . }}
          </a>
        {{- end }}
