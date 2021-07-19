@@ -6,14 +6,15 @@ General improvements to open-archaeo that would enhance the richness and utility
 
 - [ ] Nicer theme
   - See the [clarity](https://github.com/zackbatist/open-archaeo/tree/clarity) branch
-- [ ] Draft a formal conceptual model
+- [x] Draft a formal conceptual model
 - [x] Clean up and define scopes of tags
 - [x] Clean up and define scopes of categories
-- [ ] Make author attributions more consistant (i.e. convert real names to usernames, where they exist)
+- [x] Make author attributions more consistent (i.e. convert real names to usernames, where they exist)
 - [ ] GitHub action to build site when the dataset is updated
 - [ ] Update the data wrangling pathway so that the primary input is a series of TOML files
   - TOML files are better than CSV for storing extensible and nested data
   - Automatically generate csv, readme, markdown and hugo-generated html files using GitHub actions
+- [x] Link entries to items backed up on the [open-archaeo internet archive collection](https://archive.org/details/open-archaeo)
 
 
 ## Deep dives
