@@ -142,6 +142,15 @@
     </item>
     
     <item>
+      <title>IsoArcH</title>
+      <link>https://open-archaeo.info/post/isoarch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/isoarch/</guid>
+      <description>Open access and collaborative isotope database for bioarcheological samples.</description>
+    </item>
+    
+    <item>
       <title>Map Files</title>
       <link>https://open-archaeo.info/post/map-files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -301,6 +310,15 @@
       
       <guid>https://open-archaeo.info/post/tavo-a27/</guid>
       <description>Ancient animal occurrence data from Uerpmann 1987, The Ancient Distribution of Ungulate Mammals in the Middle East, TAVO A27.</description>
+    </item>
+    
+    <item>
+      <title>xronos.R</title>
+      <link>https://open-archaeo.info/post/xronos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/xronos/</guid>
+      <description>A worldwide database of chronological information from archaeological contexts, including radiocarbon and dendrochronological data.</description>
     </item>
     
   </channel>

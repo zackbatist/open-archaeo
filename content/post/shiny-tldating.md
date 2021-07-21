@@ -2,7 +2,7 @@
   "title": "shiny_Tldating",
   "description": ["Shiny app for TL dating"],
   "links": {
-    "GitHub": "https://github.com/dstreble/shiny_Tldating"
+    "GitHub": "https://github.com/dstreble/shiny_TLdating"
   },
   "authors": ["dstreble"],
   "categories": ["Scripts"],

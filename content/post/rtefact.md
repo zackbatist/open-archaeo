@@ -2,7 +2,7 @@
   "title": "rtefact",
   "description": ["Brings together a range of methods for analysing the time series, shapes and other properties of archaeological artefacts."],
   "links": {
-    "GitHub": "https://github.com/ahb108/rtefact"
+    "GitHub": "https://github.com/ahb108/rtfact"
   },
   "authors": ["ahb108"],
   "categories": ["Packages and libraries"],

@@ -2,7 +2,7 @@
   "title": "BayLum",
   "description": ["An R package for chronological Bayesian models integrated for Optically Stimulated OSL, Luminescence Dating"],
   "links": {
-    "GitHub": "https://github.com/R-Lum/BayLum",
+    "GitHub": "https://github.com/crp2a/BayLum",
     "Website": "https://baylum.archaeo.science/"
   },
   "authors": ["R-Lum"],

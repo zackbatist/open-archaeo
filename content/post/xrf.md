@@ -2,7 +2,7 @@
   "title": "xrf",
   "description": ["The goal of xrf is to provide tools to read, plot, and interpret X-Ray fluorescence spectra"],
   "links": {
-    "GitHub": "https://github.com/paleolimbot/xrf"
+    "GitHub": "https://github.com/paleolimbot/xrftools"
   },
   "authors": ["paleolimbot"],
   "categories": ["Packages and libraries"],

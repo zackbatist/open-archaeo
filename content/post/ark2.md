@@ -2,7 +2,7 @@
   "title": "Ark2",
   "description": ["ARK (The Archaeological Recording Kit) 2.0 Development Repository. ARK (The Archaeological Recording Kit) is a web-based 'toolkit' for the collection, storage and dissemination of archaeological data. It includes data-editing, data-creation, data-viewing and data-sharing tools, all of which are delivered using a web-based front-end."],
   "links": {
-    "GitHub": "https://github.com/lparchaeology/ARK1"
+    "GitHub": "https://github.com/lparchaeology/ARK2"
   },
   "authors": ["L-P Archaeology"],
   "categories": ["Standalone software"],

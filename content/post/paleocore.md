@@ -2,7 +2,7 @@
   "title": "paleocore",
   "description": ["Towards a data standard for paleoanthropology."],
   "links": {
-    "GitHub": "https://github.com/paleocore/paleocore",
+    "GitHub": "https://github.com/paleocore/paleocore-retired",
     "Website": "https://paleocore.org/"
   },
   "authors": ["paleocore"],

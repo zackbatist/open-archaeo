@@ -2,7 +2,7 @@
   "title": "Tldating",
   "description": ["R package for TL dating"],
   "links": {
-    "GitHub": "https://github.com/dstreble/Tldating"
+    "GitHub": "https://github.com/dstreble/TLdating"
   },
   "authors": ["dstreble"],
   "categories": ["Packages and libraries"],

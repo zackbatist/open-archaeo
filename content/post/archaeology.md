@@ -2,7 +2,7 @@
   "title": "archaeology",
   "description": ["A directory of GitHub projects by OR for archaeologists."],
   "links": {
-    "GitHub": "https://github.com/steko/archaeology"
+    "GitHub": "https://github.com/archaeology/archaeology"
   },
   "authors": ["steko"],
   "categories": ["Lists and datasets"],

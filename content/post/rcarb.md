@@ -2,7 +2,7 @@
   "title": "Rcarb",
   "description": ["The R package 'RCarb' provides a collection of various R functions to model dose rates in carbonate-rich samples. The package is a translation of the 'MATLAB' program Carb by Roger P. Nathan"],
   "links": {
-    "GitHub": "https://github.com/R-Lum/Rcarb"
+    "GitHub": "https://github.com/R-Lum/RCarb"
   },
   "authors": ["R-Lum"],
   "categories": ["Packages and libraries"],

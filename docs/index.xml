@@ -52,6 +52,15 @@
     </item>
     
     <item>
+      <title>ABC of Archaeobotanical Open Science</title>
+      <link>https://open-archaeo.info/post/abc-of-archaeobotanical-open-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/abc-of-archaeobotanical-open-science/</guid>
+      <description>A list of terms related to open archaeobotanical science.</description>
+    </item>
+    
+    <item>
       <title>ABM tutorials</title>
       <link>https://open-archaeo.info/post/abm-tutorials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -322,6 +331,15 @@
     </item>
     
     <item>
+      <title>Archaeological_Catalogue_from_CSV_Spreadsheet</title>
+      <link>https://open-archaeo.info/post/archaeological-catalogue-from-csv-spreadsheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeological-catalogue-from-csv-spreadsheet/</guid>
+      <description>A template to create an archaeological catalogue from a spreadsheet using the LaTeX csvsimple package.</description>
+    </item>
+    
+    <item>
       <title>archaeology</title>
       <link>https://open-archaeo.info/post/archaeology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -440,19 +458,10 @@
     
     <item>
       <title>ArchJobCAD</title>
-      <link>https://open-archaeo.info/post/archjobcad-chrinne/</link>
+      <link>https://open-archaeo.info/post/archjobcad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/archjobcad-chrinne/</guid>
-      <description>Comprises three LISP-functions for repeated tasks in archaeological excavations. The aims are efficient work and a homogeneous structure for easy retrieval. This is achieved with standardised named layers for filtering and the extensive use of blocks with attributes including labels of features, finds and profiles. The detailed explanations are in German but the code includes German as well as English comments.</description>
-    </item>
-    
-    <item>
-      <title>ArchJobCAD</title>
-      <link>https://open-archaeo.info/post/archjobcad-isaakiel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/archjobcad-isaakiel/</guid>
+      <guid>https://open-archaeo.info/post/archjobcad/</guid>
       <description>Tasks for Excavations in AutoCAD</description>
     </item>
     
@@ -787,6 +796,15 @@
       
       <guid>https://open-archaeo.info/post/brainerd-robinson-similarity-coefficient-and-sampling-error-assessment/</guid>
       <description>Script for calculating Brainerd-Robinson coefficients based on tabular count or percent data. This script also estimates the probability that a given difference between two samples is the product of sampling error.</description>
+    </item>
+    
+    <item>
+      <title>Bridging the Gap ENCODE Database</title>
+      <link>https://open-archaeo.info/post/bridging-the-gap-encode-database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/bridging-the-gap-encode-database/</guid>
+      <description>Shared definitions of digital competences needed by graduate students in the programmes focusing on written cultural heritage.</description>
     </item>
     
     <item>
@@ -1402,6 +1420,15 @@
     </item>
     
     <item>
+      <title>Electronic Babylonian Literature Project</title>
+      <link>https://open-archaeo.info/post/electronic-babylonian-literature-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/electronic-babylonian-literature-project/</guid>
+      <description>Brings together ancient Near Eastern specialists and data scientists to revolutionize the way in which the literature of Iraq in the first millennium BCE is reconstructed and analyzed.</description>
+    </item>
+    
+    <item>
       <title>ElementSourcing</title>
       <link>https://open-archaeo.info/post/elementsourcing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1897,6 +1924,15 @@
     </item>
     
     <item>
+      <title>IsoArcH</title>
+      <link>https://open-archaeo.info/post/isoarch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/isoarch/</guid>
+      <description>Open access and collaborative isotope database for bioarcheological samples.</description>
+    </item>
+    
+    <item>
       <title>italy-3d-amphitheaters</title>
       <link>https://open-archaeo.info/post/italy-3d-amphitheaters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2020,6 +2056,15 @@
       
       <guid>https://open-archaeo.info/post/lisa/</guid>
       <description>Moran&amp;rsquo;s I and Getis-Ord G* Analysis.</description>
+    </item>
+    
+    <item>
+      <title>List of Resources for getting started with (teaching) digital methods</title>
+      <link>https://open-archaeo.info/post/list-of-resources-for-getting-started-with-teaching-digital-methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/list-of-resources-for-getting-started-with-teaching-digital-methods/</guid>
+      <description>A short list of introductory resources on DH.</description>
     </item>
     
     <item>
@@ -2452,6 +2497,15 @@
       
       <guid>https://open-archaeo.info/post/open-archaeo/</guid>
       <description>A list of open source archaeological software and resources.</description>
+    </item>
+    
+    <item>
+      <title>Open-Science-in-Phytolith-Research</title>
+      <link>https://open-archaeo.info/post/open-science-in-phytolith-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/open-science-in-phytolith-research/</guid>
+      <description>Project to create community awareness of open science practices, provide training and establish a working group for open science.</description>
     </item>
     
     <item>
@@ -3784,6 +3838,15 @@
       
       <guid>https://open-archaeo.info/post/xrf/</guid>
       <description>The goal of xrf is to provide tools to read, plot, and interpret X-Ray fluorescence spectra</description>
+    </item>
+    
+    <item>
+      <title>xronos.R</title>
+      <link>https://open-archaeo.info/post/xronos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/xronos/</guid>
+      <description>A worldwide database of chronological information from archaeological contexts, including radiocarbon and dendrochronological data.</description>
     </item>
     
     <item>

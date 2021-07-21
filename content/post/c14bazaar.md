@@ -2,7 +2,7 @@
   "title": "c14bazAAR",
   "description": ["R package to query different openly accessible radiocarbon date databases, allowing for basic data cleaning, calibration and merging"],
   "links": {
-    "GitHub": "https://github.com/ISAAKiel/c14bazAAR"
+    "GitHub": "https://github.com/ropensci/c14bazAAR"
   },
   "authors": ["ISAAKiel"],
   "categories": ["Packages and libraries"],

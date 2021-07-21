@@ -2,7 +2,7 @@
   "title": "archvocab",
   "description": ["The ArchVocab ontologies by Leif Isaksen"],
   "links": {
-    "GitHub": "https://github.com/steko/archvocab",
+    "GitHub": "https://github.com/archaeology/archvocab",
     "Website": "https://web.archive.org/web/20101229001934/http://archvocab.net/"
   },
   "authors": ["steko"],

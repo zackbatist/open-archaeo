@@ -2,7 +2,7 @@
   "title": "Arothron",
   "description": ["Tools of Virtual Anthropology to build virtual cavities as endocasts, to align two disarticulated models belonging to the same specimen, and functions to import and export format files into another format."],
   "links": {
-    "GitHub": "https://github.com/Arothron/Arothron"
+    "GitHub": "https://github.com/AProfico/Arothron"
   },
   "authors": ["Arothron"],
   "categories": ["Packages and libraries"],

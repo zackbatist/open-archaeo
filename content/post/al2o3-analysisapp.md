@@ -2,7 +2,7 @@
   "title": "Al2O3_AnalysisApp",
   "description": ["Shiny app to analyse Al2O3:C measurements"],
   "links": {
-    "GitHub": "https://github.com/RLumSK/Al2O3_AnalysisApp"
+    "GitHub": "https://github.com/crp2a/Al2O3_AnalysisApp"
   },
   "authors": ["RLumSK"],
   "categories": ["Scripts"],
