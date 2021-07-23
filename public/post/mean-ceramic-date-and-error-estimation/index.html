@@ -1,0 +1,1308 @@
+
+<!DOCTYPE html>
+<html lang="en" data-figures="" class="page">
+  <head>
+<title>Mean-Ceramic-Date-and-Error-Estimation | open-archaeo</title>
+<meta charset="utf-8">
+<meta name="generator" content="Hugo 0.85.0" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<script async src="https://www.googletagmanager.com/gtag/js?id=XXXXXXXXXX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'XXXXXXXXXX');
+</script>
+<meta property="og:locale" content="en" />
+
+<meta property="og:type" content="article">
+<meta name="description" content="Script for calculating mean ceramic dates based on tabular data. This script also estimates sampling error using a bootstrapping procedure.">
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="">
+<meta name="twitter:title" content="Mean-Ceramic-Date-and-Error-Estimation" />
+<meta property="og:url" content="https://open-archaeo.info/post/mean-ceramic-date-and-error-estimation/" />
+<meta property="og:title" content="Mean-Ceramic-Date-and-Error-Estimation" />
+<meta property="og:description" content="Script for calculating mean ceramic dates based on tabular data. This script also estimates sampling error using a bootstrapping procedure." />
+<meta property="og:image" content="https://open-archaeo.info/" />
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://open-archaeo.info/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://open-archaeo.info/icons/favicon-32x32.png">
+<link rel="manifest" href="https://open-archaeo.info/icons/site.webmanifest">
+
+<link rel="canonical" href="https://open-archaeo.info/post/mean-ceramic-date-and-error-estimation/">
+
+    
+
+    
+    
+    <link rel="preload" href="https://open-archaeo.info/css/styles.56c21e3b629dc82b08558073fa3e70d68f4d061620a10f75858c5d7b82e3ad20e6d9d4bb174baa0de24fc6ddd9ee1a404ff344c05502acebf7d30506be942734.css" integrity = "sha512-VsIeO2KdyCsIVYBz&#43;j5w1o9NBhYgoQ91hYxde4LjrSDm2dS7F0uqDeJPxt3Z7hpAT/NEwFUCrOv30wUGvpQnNA==" as="style" crossorigin="anonymous">
+    <link rel="preload" href="https://open-archaeo.info/js/bundle.min.75c9f18c92b570ff308c6bf17f4b2657a47c9a51bef6db33d53d320fe7b5c78756365a4cc669d671c455ef80b5fbf0cf2b33824ba01ce474b828ce5d101e4641.js" as="script" integrity=
+    "sha512-dcnxjJK1cP8wjGvxf0smV6R8mlG&#43;9tsz1T0yD&#43;e1x4dWNlpMxmnWccRV74C1&#43;/DPKzOCS6Ac5HS4KM5dEB5GQQ==" crossorigin="anonymous">
+
+    
+    <link rel="stylesheet" type="text/css" href="https://open-archaeo.info/css/styles.56c21e3b629dc82b08558073fa3e70d68f4d061620a10f75858c5d7b82e3ad20e6d9d4bb174baa0de24fc6ddd9ee1a404ff344c05502acebf7d30506be942734.css" integrity="sha512-VsIeO2KdyCsIVYBz&#43;j5w1o9NBhYgoQ91hYxde4LjrSDm2dS7F0uqDeJPxt3Z7hpAT/NEwFUCrOv30wUGvpQnNA==" crossorigin="anonymous">
+    
+  </head>
+  
+  
+    
+  
+  <body data-code="7" data-lines="false" id="documentTop">
+
+<header class="nav_header" >
+  <nav class="nav"><a href='https://open-archaeo.info/' class="nav_brand nav_item" title="open-archaeo">open-archaeo
+  <div class="nav_close">
+    <div><svg class="icon">
+  <use xlink:href="#open-menu"></use>
+</svg><svg class="icon">
+  <use xlink:href="#closeme"></use>
+</svg></div>
+  </div>
+</a>
+
+    <div class='nav_body nav_body_left'>
+      
+      
+      
+        
+
+  <div class="nav_parent">
+    <a href="https://open-archaeo.info/about/" class="nav_item" title="About">About </a>
+  </div>
+<div class='follow'>
+  <a href="https://github.com/#">
+    <svg class="icon">
+  <use xlink:href="#github"></use>
+</svg>
+  </a>
+    
+  <a href="https://open-archaeo.info/index.xml">
+    <svg class="icon">
+  <use xlink:href="#rss"></use>
+</svg>
+  </a>
+
+
+
+
+</div>
+
+    </div>
+  </nav>
+</header>
+
+    <main>
+  
+<div class="grid-inverse wrap content">
+  <article class="post_content">
+    <h1 class="post_title">Mean-Ceramic-Date-and-Error-Estimation</h1><div class="post_meta">
+<span>Tags:&nbsp;</span><span>
+         <a href='https://open-archaeo.info/tags/quantitative-and-statistical-analysis' title="Quantitative and statistical analysis" class="post_tag button button_translucent">Quantitative and statistical analysis
+         </a>
+     </span>
+
+  <span class="page_only"> · 
+  <div class="post_share">
+    Share on:
+    <a href="https://twitter.com/intent/tweet?text=Mean-Ceramic-Date-and-Error-Estimation&url=https%3a%2f%2fopen-archaeo.info%2fpost%2fmean-ceramic-date-and-error-estimation%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
+      <svg class="icon">
+  <use xlink:href="#twitter"></use>
+</svg>
+    </a>
+    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fopen-archaeo.info%2fpost%2fmean-ceramic-date-and-error-estimation%2f&t=Mean-Ceramic-Date-and-Error-Estimation" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
+      <svg class="icon">
+  <use xlink:href="#facebook"></use>
+</svg>
+    </a>
+    <a href="#linkedinshare" id = "linkedinshare" class="linkedin" title="Share on LinkedIn" rel="nofollow">
+      <svg class="icon">
+  <use xlink:href="#linkedin"></use>
+</svg>
+    </a>
+    <a href="https://open-archaeo.info/post/mean-ceramic-date-and-error-estimation/" title="Copy Link" class="link link_yank">
+      <svg class="icon">
+  <use xlink:href="#copy"></use>
+</svg>
+    </a>
+  </div>
+</span>
+</div>
+<div class="post_meta">
+<span>Authors:&nbsp;</span><span>
+         <a href='https://open-archaeo.info/authors/mpeeples2008' title="mpeeples2008" class="post_tag button button_translucent">mpeeples2008
+         </a>
+     </span>
+
+  <span class="page_only"> · 
+  <div class="post_share">
+    Share on:
+    <a href="https://twitter.com/intent/tweet?text=Mean-Ceramic-Date-and-Error-Estimation&url=https%3a%2f%2fopen-archaeo.info%2fpost%2fmean-ceramic-date-and-error-estimation%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
+      <svg class="icon">
+  <use xlink:href="#twitter"></use>
+</svg>
+    </a>
+    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fopen-archaeo.info%2fpost%2fmean-ceramic-date-and-error-estimation%2f&t=Mean-Ceramic-Date-and-Error-Estimation" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
+      <svg class="icon">
+  <use xlink:href="#facebook"></use>
+</svg>
+    </a>
+    <a href="#linkedinshare" id = "linkedinshare" class="linkedin" title="Share on LinkedIn" rel="nofollow">
+      <svg class="icon">
+  <use xlink:href="#linkedin"></use>
+</svg>
+    </a>
+    <a href="https://open-archaeo.info/post/mean-ceramic-date-and-error-estimation/" title="Copy Link" class="link link_yank">
+      <svg class="icon">
+  <use xlink:href="#copy"></use>
+</svg>
+    </a>
+  </div>
+</span>
+</div>
+
+    
+    <!-- Generated by csv2md.R – do not edit by hand -->
+<p>Script for calculating mean ceramic dates based on tabular data. This script also estimates sampling error using a bootstrapping procedure.</p>
+
+
+  </article>
+<aside class="sidebar">
+  <section class="sidebar_inner">
+    
+      <h2>open-archaeo</h2>
+      <div class="sidebar_description">
+        A list of open source archaeological software and resources
+      </div>
+    <div>
+      <h2 class="mt-4 taxonomy" id="authors-section"></h2>
+      <nav class="tags_nav">
+        <a href='https://open-archaeo.info/authors/steko/' class="post_tag button button_translucent" title="steko">
+          STEKO
+          <span class="button_tally">16</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/benmarwick/' class="post_tag button button_translucent" title="benmarwick">
+          BENMARWICK
+          <span class="button_tally">15</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/isaakiel/' class="post_tag button button_translucent" title="isaakiel">
+          ISAAKIEL
+          <span class="button_tally">14</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/sfsheath/' class="post_tag button button_translucent" title="sfsheath">
+          SFSHEATH
+          <span class="button_tally">9</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/anatolian/' class="post_tag button button_translucent" title="anatolian">
+          ANATOLIAN
+          <span class="button_tally">8</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/mpeeples2008/' class="post_tag button button_translucent" title="mpeeples2008">
+          MPEEPLES2008
+          <span class="button_tally">8</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/bruno-desachy/' class="post_tag button button_translucent" title="bruno-desachy">
+          BRUNO-DESACHY
+          <span class="button_tally">7</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/gianmarcoalberti/' class="post_tag button button_translucent" title="gianmarcoalberti">
+          GIANMARCOALBERTI
+          <span class="button_tally">6</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/isaacullah/' class="post_tag button button_translucent" title="isaacullah">
+          ISAACULLAH
+          <span class="button_tally">6</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/l-p-archaeology/' class="post_tag button button_translucent" title="l-p-archaeology">
+          L-P-ARCHAEOLOGY
+          <span class="button_tally">6</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/matt-peeples/' class="post_tag button button_translucent" title="matt-peeples">
+          MATT-PEEPLES
+          <span class="button_tally">6</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/demjanp/' class="post_tag button button_translucent" title="demjanp">
+          DEMJANP
+          <span class="button_tally">5</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/iosa/' class="post_tag button button_translucent" title="iosa">
+          IOSA
+          <span class="button_tally">5</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/joeroe/' class="post_tag button button_translucent" title="joeroe">
+          JOEROE
+          <span class="button_tally">5</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/paleolimbot/' class="post_tag button button_translucent" title="paleolimbot">
+          PALEOLIMBOT
+          <span class="button_tally">5</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/r-lum/' class="post_tag button button_translucent" title="r-lum">
+          R-LUM
+          <span class="button_tally">5</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/dstreble/' class="post_tag button button_translucent" title="dstreble">
+          DSTREBLE
+          <span class="button_tally">4</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/gavinsimpson/' class="post_tag button button_translucent" title="gavinsimpson">
+          GAVINSIMPSON
+          <span class="button_tally">4</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/zackbatist/' class="post_tag button button_translucent" title="zackbatist">
+          ZACKBATIST
+          <span class="button_tally">4</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/zoran-cuckovic/' class="post_tag button button_translucent" title="zoran-cuckovic">
+          ZORAN-CUCKOVIC
+          <span class="button_tally">4</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/adammertel/' class="post_tag button button_translucent" title="adammertel">
+          ADAMMERTEL
+          <span class="button_tally">3</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/aejolene/' class="post_tag button button_translucent" title="aejolene">
+          AEJOLENE
+          <span class="button_tally">3</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/ahb108/' class="post_tag button button_translucent" title="ahb108">
+          AHB108
+          <span class="button_tally">3</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/culturalheritageimaging/' class="post_tag button button_translucent" title="culturalheritageimaging">
+          CULTURALHERITAGEIMAGING
+          <span class="button_tally">3</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/fradeve/' class="post_tag button button_translucent" title="fradeve">
+          FRADEVE
+          <span class="button_tally">3</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/nfrerebeau/' class="post_tag button button_translucent" title="nfrerebeau">
+          NFREREBEAU
+          <span class="button_tally">3</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/ropensci/' class="post_tag button button_translucent" title="ropensci">
+          ROPENSCI
+          <span class="button_tally">3</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/stefano-costa/' class="post_tag button button_translucent" title="stefano-costa">
+          STEFANO-COSTA
+          <span class="button_tally">3</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/ajupton/' class="post_tag button button_translucent" title="ajupton">
+          AJUPTON
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/alessandrobattisti/' class="post_tag button button_translucent" title="alessandrobattisti">
+          ALESSANDROBATTISTI
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/archaeostat/' class="post_tag button button_translucent" title="archaeostat">
+          ARCHAEOSTAT
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/archca/' class="post_tag button button_translucent" title="archca">
+          ARCHCA
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/charles-e.-jones/' class="post_tag button button_translucent" title="charles-e.-jones">
+          CHARLES-E.-JONES
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/davidcorton/' class="post_tag button button_translucent" title="davidcorton">
+          DAVIDCORTON
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/johanna-mestorf-academy/' class="post_tag button button_translucent" title="johanna-mestorf-academy">
+          JOHANNA-MESTORF-ACADEMY
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/martinhinz/' class="post_tag button button_translucent" title="martinhinz">
+          MARTINHINZ
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/oblarquez/' class="post_tag button button_translucent" title="oblarquez">
+          OBLARQUEZ
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/paleocore/' class="post_tag button button_translucent" title="paleocore">
+          PALEOCORE
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/scollinselliott/' class="post_tag button button_translucent" title="scollinselliott">
+          SCOLLINSELLIOTT
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/tsdye/' class="post_tag button button_translucent" title="tsdye">
+          TSDYE
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/vegandevs/' class="post_tag button button_translucent" title="vegandevs">
+          VEGANDEVS
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/vicrucann/' class="post_tag button button_translucent" title="vicrucann">
+          VICRUCANN
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/adreinhard/' class="post_tag button button_translucent" title="adreinhard">
+          ADREINHARD
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/adrian-timpson/' class="post_tag button button_translucent" title="adrian-timpson">
+          ADRIAN-TIMPSON
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/ancient-world-mapping-center/' class="post_tag button button_translucent" title="ancient-world-mapping-center">
+          ANCIENT-WORLD-MAPPING-CENTER
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/andredebuisne/' class="post_tag button button_translucent" title="andredebuisne">
+          ANDREDEBUISNE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/andrewcparnell/' class="post_tag button button_translucent" title="andrewcparnell">
+          ANDREWCPARNELL
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/archesproject/' class="post_tag button button_translucent" title="archesproject">
+          ARCHESPROJECT
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/archie/' class="post_tag button button_translucent" title="archie">
+          ARCHIE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/arklab/' class="post_tag button button_translucent" title="arklab">
+          ARKLAB
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/big-ancient-mediterranean/' class="post_tag button button_translucent" title="big-ancient-mediterranean">
+          BIG-ANCIENT-MEDITERRANEAN
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/britishmuseum/' class="post_tag button button_translucent" title="britishmuseum">
+          BRITISHMUSEUM
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/camology/' class="post_tag button button_translucent" title="camology">
+          CAMOLOGY
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/carlsun98/' class="post_tag button button_translucent" title="carlsun98">
+          CARLSUN98
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/chronomodel/' class="post_tag button button_translucent" title="chronomodel">
+          CHRONOMODEL
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/ciara-zogheib/' class="post_tag button button_translucent" title="ciara-zogheib">
+          CIARA-ZOGHEIB
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/cornelmpop/' class="post_tag button button_translucent" title="cornelmpop">
+          CORNELMPOP
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/cwickham/' class="post_tag button button_translucent" title="cwickham">
+          CWICKHAM
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/cwwhitney/' class="post_tag button button_translucent" title="cwwhitney">
+          CWWHITNEY
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/c%C3%A9sar-m%C3%A9ndez/' class="post_tag button button_translucent" title="césar-méndez">
+          CÉSAR-MÉNDEZ
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/dan-contreras/' class="post_tag button button_translucent" title="dan-contreras">
+          DAN-CONTRERAS
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/david-l.-carlson/' class="post_tag button button_translucent" title="david-l.-carlson">
+          DAVID-L.-CARLSON
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/doug-rocks-macqueen/' class="post_tag button button_translucent" title="doug-rocks-macqueen">
+          DOUG-ROCKS-MACQUEEN
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/drac-calculator/' class="post_tag button button_translucent" title="drac-calculator">
+          DRAC-CALCULATOR
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/drmattlaw/' class="post_tag button button_translucent" title="drmattlaw">
+          DRMATTLAW
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/dtavern/' class="post_tag button button_translucent" title="dtavern">
+          DTAVERN
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/elton-barker/' class="post_tag button button_translucent" title="elton-barker">
+          ELTON-BARKER
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/emanuelhuber/' class="post_tag button button_translucent" title="emanuelhuber">
+          EMANUELHUBER
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/emma-oriordan/' class="post_tag button button_translucent" title="emma-oriordan">
+          EMMA-ORIORDAN
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/erik-otarola-castillo/' class="post_tag button button_translucent" title="erik-otarola-castillo">
+          ERIK-OTAROLA-CASTILLO
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/forensic-computational-geometry-laboratory/' class="post_tag button button_translucent" title="forensic-computational-geometry-laboratory">
+          FORENSIC-COMPUTATIONAL-GEOMETRY-LABORATORY
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/gabriel-bodard/' class="post_tag button button_translucent" title="gabriel-bodard">
+          GABRIEL-BODARD
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/gamma/' class="post_tag button button_translucent" title="gamma">
+          GAMMA
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/georg-roth/' class="post_tag button button_translucent" title="georg-roth">
+          GEORG-ROTH
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/gsnitker/' class="post_tag button button_translucent" title="gsnitker">
+          GSNITKER
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/hubert-mara/' class="post_tag button button_translucent" title="hubert-mara">
+          HUBERT-MARA
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/ickramer/' class="post_tag button button_translucent" title="ickramer">
+          ICKRAMER
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/iggdrasil/' class="post_tag button button_translucent" title="iggdrasil">
+          IGGDRASIL
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/jack-a.-biggs/' class="post_tag button button_translucent" title="jack-a.-biggs">
+          JACK-A.-BIGGS
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/jesse-wolfhagen/' class="post_tag button button_translucent" title="jesse-wolfhagen">
+          JESSE-WOLFHAGEN
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/josephlewis/' class="post_tag button button_translucent" title="josephlewis">
+          JOSEPHLEWIS
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/julienmoeys/' class="post_tag button button_translucent" title="julienmoeys">
+          JULIENMOEYS
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/kacebe/' class="post_tag button button_translucent" title="kacebe">
+          KACEBE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/katie-manning/' class="post_tag button button_translucent" title="katie-manning">
+          KATIE-MANNING
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/katrina-urban/' class="post_tag button button_translucent" title="katrina-urban">
+          KATRINA-URBAN
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/keith-kintigh/' class="post_tag button button_translucent" title="keith-kintigh">
+          KEITH-KINTIGH
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/kevincain/' class="post_tag button button_translucent" title="kevincain">
+          KEVINCAIN
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/klokantech/' class="post_tag button button_translucent" title="klokantech">
+          KLOKANTECH
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/kmartinez/' class="post_tag button button_translucent" title="kmartinez">
+          KMARTINEZ
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/kotdijian/' class="post_tag button button_translucent" title="kotdijian">
+          KOTDIJIAN
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/leadr-msu/' class="post_tag button button_translucent" title="leadr-msu">
+          LEADR-MSU
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/leedrake5/' class="post_tag button button_translucent" title="leedrake5">
+          LEEDRAKE5
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/leif-isaksen/' class="post_tag button button_translucent" title="leif-isaksen">
+          LEIF-ISAKSEN
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/lorna-richardson/' class="post_tag button button_translucent" title="lorna-richardson">
+          LORNA-RICHARDSON
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/marieannevibet/' class="post_tag button button_translucent" title="marieannevibet">
+          MARIEANNEVIBET
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/mark-g.-thomas/' class="post_tag button button_translucent" title="mark-g.-thomas">
+          MARK-G.-THOMAS
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/matrix-msu/' class="post_tag button button_translucent" title="matrix-msu">
+          MATRIX-MSU
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/max-d.-price/' class="post_tag button button_translucent" title="max-d.-price">
+          MAX-D.-PRICE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/maxibor/' class="post_tag button button_translucent" title="maxibor">
+          MAXIBOR
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/mike-j.-johnson/' class="post_tag button button_translucent" title="mike-j.-johnson">
+          MIKE-J.-JOHNSON
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/mrecos/' class="post_tag button button_translucent" title="mrecos">
+          MRECOS
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/msu-anthropology/' class="post_tag button button_translucent" title="msu-anthropology">
+          MSU-ANTHROPOLOGY
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/nsls-ii/' class="post_tag button button_translucent" title="nsls-ii">
+          NSLS-II
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/o-date/' class="post_tag button button_translucent" title="o-date">
+          O-DATE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/open-context/' class="post_tag button button_translucent" title="open-context">
+          OPEN-CONTEXT
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/openarchaeology/' class="post_tag button button_translucent" title="openarchaeology">
+          OPENARCHAEOLOGY
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/opengis/' class="post_tag button button_translucent" title="opengis">
+          OPENGIS
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/paula-granados-garc%C3%ADa/' class="post_tag button button_translucent" title="paula-granados-garcía">
+          PAULA-GRANADOS-GARCÍA
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/poseidon-framework/' class="post_tag button button_translucent" title="poseidon-framework">
+          POSEIDON-FRAMEWORK
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/ramiro-barberena/' class="post_tag button button_translucent" title="ramiro-barberena">
+          RAMIRO-BARBERENA
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/rekrei/' class="post_tag button button_translucent" title="rekrei">
+          REKREI
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/renderpci/' class="post_tag button button_translucent" title="renderpci">
+          RENDERPCI
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/rkn2/' class="post_tag button button_translucent" title="rkn2">
+          RKN2
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/rlumsk/' class="post_tag button button_translucent" title="rlumsk">
+          RLUMSK
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/sarah-middle/' class="post_tag button button_translucent" title="sarah-middle">
+          SARAH-MIDDLE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/sarahkansa/' class="post_tag button button_translucent" title="sarahkansa">
+          SARAHKANSA
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/scikit-beam/' class="post_tag button button_translucent" title="scikit-beam">
+          SCIKIT-BEAM
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/scschmidt/' class="post_tag button button_translucent" title="scschmidt">
+          SCSCHMIDT
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/sebastien-plutniak/' class="post_tag button button_translucent" title="sebastien-plutniak">
+          SEBASTIEN-PLUTNIAK
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/semerj/' class="post_tag button button_translucent" title="semerj">
+          SEMERJ
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/shawngraham/' class="post_tag button button_translucent" title="shawngraham">
+          SHAWNGRAHAM
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/situx/' class="post_tag button button_translucent" title="situx">
+          SITUX
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/spaam-community/' class="post_tag button button_translucent" title="spaam-community">
+          SPAAM-COMMUNITY
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/sslarch/' class="post_tag button button_translucent" title="sslarch">
+          SSLARCH
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/stas-g/' class="post_tag button button_translucent" title="stas-g">
+          STAS-G
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/stellarium/' class="post_tag button button_translucent" title="stellarium">
+          STELLARIUM
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/surf3s/' class="post_tag button button_translucent" title="surf3s">
+          SURF3S
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/taphocoenose/' class="post_tag button button_translucent" title="taphocoenose">
+          TAPHOCOENOSE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/taryn-bell/' class="post_tag button button_translucent" title="taryn-bell">
+          TARYN-BELL
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/tom-elliott/' class="post_tag button button_translucent" title="tom-elliott">
+          TOM-ELLIOTT
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/tschoonj/' class="post_tag button button_translucent" title="tschoonj">
+          TSCHOONJ
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/unmoca/' class="post_tag button button_translucent" title="unmoca">
+          UNMOCA
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/wiselabcmu/' class="post_tag button button_translucent" title="wiselabcmu">
+          WISELABCMU
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/wojdyr/' class="post_tag button button_translucent" title="wojdyr">
+          WOJDYR
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/zacharyliu/' class="post_tag button button_translucent" title="zacharyliu">
+          ZACHARYLIU
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/zack-batist/' class="post_tag button button_translucent" title="zack-batist">
+          ZACK-BATIST
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/zooarch/' class="post_tag button button_translucent" title="zooarch">
+          ZOOARCH
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/authors/zooarchgui/' class="post_tag button button_translucent" title="zooarchgui">
+          ZOOARCHGUI
+          <span class="button_tally">1</span>
+        </a>
+        
+        
+      </nav>
+    </div>
+    <div>
+      <h2 class="mt-4 taxonomy" id="categories-section">Categories</h2>
+      <nav class="tags_nav">
+        <a href='https://open-archaeo.info/categories/r/' class="post_tag button button_translucent" title="r">
+          R
+          <span class="button_tally">106</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/categories/web-apps/' class="post_tag button button_translucent" title="web-apps">
+          WEB-APPS
+          <span class="button_tally">27</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/categories/datasets/' class="post_tag button button_translucent" title="datasets">
+          DATASETS
+          <span class="button_tally">20</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/categories/tutorials/' class="post_tag button button_translucent" title="tutorials">
+          TUTORIALS
+          <span class="button_tally">14</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/categories/python/' class="post_tag button button_translucent" title="python">
+          PYTHON
+          <span class="button_tally">13</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/categories/desktop-apps/' class="post_tag button button_translucent" title="desktop-apps">
+          DESKTOP-APPS
+          <span class="button_tally">11</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/categories/qgis/' class="post_tag button button_translucent" title="qgis">
+          QGIS
+          <span class="button_tally">11</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/categories/lists/' class="post_tag button button_translucent" title="lists">
+          LISTS
+          <span class="button_tally">10</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/categories/mobile-apps/' class="post_tag button button_translucent" title="mobile-apps">
+          MOBILE-APPS
+          <span class="button_tally">8</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/categories/analyses/' class="post_tag button button_translucent" title="analyses">
+          ANALYSES
+          <span class="button_tally">6</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/categories/spreadsheets/' class="post_tag button button_translucent" title="spreadsheets">
+          SPREADSHEETS
+          <span class="button_tally">6</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/categories/command-line-tools/' class="post_tag button button_translucent" title="command-line-tools">
+          COMMAND-LINE-TOOLS
+          <span class="button_tally">5</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/categories/plugins/' class="post_tag button button_translucent" title="plugins">
+          PLUGINS
+          <span class="button_tally">3</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/categories/arcgis/' class="post_tag button button_translucent" title="arcgis">
+          ARCGIS
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/categories/filemaker/' class="post_tag button button_translucent" title="filemaker">
+          FILEMAKER
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/categories/games/' class="post_tag button button_translucent" title="games">
+          GAMES
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/categories/odk/' class="post_tag button button_translucent" title="odk">
+          ODK
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/categories/lisp/' class="post_tag button button_translucent" title="lisp">
+          LISP
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/categories/schemas/' class="post_tag button button_translucent" title="schemas">
+          SCHEMAS
+          <span class="button_tally">1</span>
+        </a>
+        
+        
+      </nav>
+    </div>
+    <div>
+      <h2 class="mt-4 taxonomy" id="github-section"></h2>
+      <nav class="tags_nav">
+        <a href='https://open-archaeo.info/github/https//github.com/archca/aca_data_collection/' class="post_tag button button_translucent" title="https//github.com/archca/aca_data_collection">
+          HTTPS//GITHUB.COM/ARCHCA/ACA_DATA_COLLECTION
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/github/https//github.com/sfsheath/3d-ceramics/' class="post_tag button button_translucent" title="https//github.com/sfsheath/3d-ceramics">
+          HTTPS//GITHUB.COM/SFSHEATH/3D-CERAMICS
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/github/https//github.com/ucl/admur/' class="post_tag button button_translucent" title="https//github.com/ucl/admur">
+          HTTPS//GITHUB.COM/UCL/ADMUR
+          <span class="button_tally">1</span>
+        </a>
+        
+        
+      </nav>
+    </div>
+    <div>
+      <h2 class="mt-4 taxonomy" id="tags-section">Tags</h2>
+      <nav class="tags_nav">
+        <a href='https://open-archaeo.info/tags/instrumental-analysis/' class="post_tag button button_translucent" title="instrumental-analysis">
+          INSTRUMENTAL-ANALYSIS
+          <span class="button_tally">31</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/api-interfaces-scrapers-and-datasets/' class="post_tag button button_translucent" title="api-interfaces-scrapers-and-datasets">
+          API-INTERFACES-SCRAPERS-AND-DATASETS
+          <span class="button_tally">27</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/quantitative-and-statistical-analysis/' class="post_tag button button_translucent" title="quantitative-and-statistical-analysis">
+          QUANTITATIVE-AND-STATISTICAL-ANALYSIS
+          <span class="button_tally">21</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/data-collection-and-management/' class="post_tag button button_translucent" title="data-collection-and-management">
+          DATA-COLLECTION-AND-MANAGEMENT
+          <span class="button_tally">20</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/educational-resources-and-practical-guides/' class="post_tag button button_translucent" title="educational-resources-and-practical-guides">
+          EDUCATIONAL-RESOURCES-AND-PRACTICAL-GUIDES
+          <span class="button_tally">16</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/luminescence/' class="post_tag button button_translucent" title="luminescence">
+          LUMINESCENCE
+          <span class="button_tally">14</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/lists/' class="post_tag button button_translucent" title="lists">
+          LISTS
+          <span class="button_tally">13</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/bits-and-bobs/' class="post_tag button button_translucent" title="bits-and-bobs">
+          BITS-AND-BOBS
+          <span class="button_tally">12</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/geospatial-analysis/' class="post_tag button button_translucent" title="geospatial-analysis">
+          GEOSPATIAL-ANALYSIS
+          <span class="button_tally">12</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/chronological-modelling/' class="post_tag button button_translucent" title="chronological-modelling">
+          CHRONOLOGICAL-MODELLING
+          <span class="button_tally">11</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/palaeoenvironment-and-palaeobotany/' class="post_tag button button_translucent" title="palaeoenvironment-and-palaeobotany">
+          PALAEOENVIRONMENT-AND-PALAEOBOTANY
+          <span class="button_tally">11</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/radiocarbon/' class="post_tag button button_translucent" title="radiocarbon">
+          RADIOCARBON
+          <span class="button_tally">10</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/site-mapping/' class="post_tag button button_translucent" title="site-mapping">
+          SITE-MAPPING
+          <span class="button_tally">9</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/schema-ontologies-and-templates/' class="post_tag button button_translucent" title="schema-ontologies-and-templates">
+          SCHEMA-ONTOLOGIES-AND-TEMPLATES
+          <span class="button_tally">8</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/shape-recognition/' class="post_tag button button_translucent" title="shape-recognition">
+          SHAPE-RECOGNITION
+          <span class="button_tally">8</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/3d-modelling/' class="post_tag button button_translucent" title="3d-modelling">
+          3D-MODELLING
+          <span class="button_tally">7</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/artefact-morphology/' class="post_tag button button_translucent" title="artefact-morphology">
+          ARTEFACT-MORPHOLOGY
+          <span class="button_tally">7</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/harrix-matrix/' class="post_tag button button_translucent" title="harrix-matrix">
+          HARRIX-MATRIX
+          <span class="button_tally">7</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/diagrams-and-visualizations/' class="post_tag button button_translucent" title="diagrams-and-visualizations">
+          DIAGRAMS-AND-VISUALIZATIONS
+          <span class="button_tally">6</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/spatial-modelling-and-inference/' class="post_tag button button_translucent" title="spatial-modelling-and-inference">
+          SPATIAL-MODELLING-AND-INFERENCE
+          <span class="button_tally">6</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/xrf/' class="post_tag button button_translucent" title="xrf">
+          XRF
+          <span class="button_tally">6</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/other/' class="post_tag button button_translucent" title="other">
+          OTHER
+          <span class="button_tally">5</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/platforms-and-publications/' class="post_tag button button_translucent" title="platforms-and-publications">
+          PLATFORMS-AND-PUBLICATIONS
+          <span class="button_tally">5</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/public-archaeology/' class="post_tag button button_translucent" title="public-archaeology">
+          PUBLIC-ARCHAEOLOGY
+          <span class="button_tally">4</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/viewshed-analysis/' class="post_tag button button_translucent" title="viewshed-analysis">
+          VIEWSHED-ANALYSIS
+          <span class="button_tally">4</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/zooarchaeology/' class="post_tag button button_translucent" title="zooarchaeology">
+          ZOOARCHAEOLOGY
+          <span class="button_tally">4</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/drivers-and-io/' class="post_tag button button_translucent" title="drivers-and-io">
+          DRIVERS-AND-IO
+          <span class="button_tally">3</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/drones-and-satellite-imagery/' class="post_tag button button_translucent" title="drones-and-satellite-imagery">
+          DRONES-AND-SATELLITE-IMAGERY
+          <span class="button_tally">3</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/imaging/' class="post_tag button button_translucent" title="imaging">
+          IMAGING
+          <span class="button_tally">3</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/photogrammetry/' class="post_tag button button_translucent" title="photogrammetry">
+          PHOTOGRAMMETRY
+          <span class="button_tally">3</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/communication-and-outreach/' class="post_tag button button_translucent" title="communication-and-outreach">
+          COMMUNICATION-AND-OUTREACH
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/games/' class="post_tag button button_translucent" title="games">
+          GAMES
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/geophysics/' class="post_tag button button_translucent" title="geophysics">
+          GEOPHYSICS
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/locational-analysis/' class="post_tag button button_translucent" title="locational-analysis">
+          LOCATIONAL-ANALYSIS
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/public-policy-and-civic-action/' class="post_tag button button_translucent" title="public-policy-and-civic-action">
+          PUBLIC-POLICY-AND-CIVIC-ACTION
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/virtual-and-augmented-reality/' class="post_tag button button_translucent" title="virtual-and-augmented-reality">
+          VIRTUAL-AND-AUGMENTED-REALITY
+          <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/data-entry/' class="post_tag button button_translucent" title="data-entry">
+          DATA-ENTRY
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/data-wrangling/' class="post_tag button button_translucent" title="data-wrangling">
+          DATA-WRANGLING
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/index/' class="post_tag button button_translucent" title="index">
+          INDEX
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/lidar/' class="post_tag button button_translucent" title="lidar">
+          LIDAR
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/literary-analysis-and-epigraphy/' class="post_tag button button_translucent" title="literary-analysis-and-epigraphy">
+          LITERARY-ANALYSIS-AND-EPIGRAPHY
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/lithic-analysis/' class="post_tag button button_translucent" title="lithic-analysis">
+          LITHIC-ANALYSIS
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/neutron-activation-analysis/' class="post_tag button button_translucent" title="neutron-activation-analysis">
+          NEUTRON-ACTIVATION-ANALYSIS
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/r-shiny/' class="post_tag button button_translucent" title="r-shiny">
+          R-SHINY
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://open-archaeo.info/tags/writing/' class="post_tag button button_translucent" title="writing">
+          WRITING
+          <span class="button_tally">1</span>
+        </a>
+        
+        
+      </nav>
+    </div>
+  </section>
+</aside>
+
+  
+</div>
+    </main><svg width="0" height="0" class="hidden">
+  <symbol viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" id="facebook">
+    <path d="M437 0H75C33.648 0 0 33.648 0 75v362c0 41.352 33.648 75 75 75h151V331h-60v-90h60v-61c0-49.629 40.371-90 90-90h91v90h-91v61h91l-15 90h-76v181h121c41.352 0 75-33.648 75-75V75c0-41.352-33.648-75-75-75zm0 0"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.001 18.001" id="twitter">
+    <path d="M15.891 4.013c.808-.496 1.343-1.173 1.605-2.034a8.68 8.68 0 0 1-2.351.861c-.703-.756-1.593-1.14-2.66-1.14-1.043 0-1.924.366-2.643 1.078a3.56 3.56 0 0 0-1.076 2.605c0 .309.039.585.117.819-3.076-.105-5.622-1.381-7.628-3.837-.34.601-.51 1.213-.51 1.846 0 1.301.549 2.332 1.645 3.089-.625-.053-1.176-.211-1.645-.47 0 .929.273 1.705.82 2.388a3.623 3.623 0 0 0 2.115 1.291c-.312.08-.641.118-.979.118-.312 0-.533-.026-.664-.083.23.757.664 1.371 1.291 1.841a3.652 3.652 0 0 0 2.152.743C4.148 14.173 2.625 14.69.902 14.69c-.422 0-.721-.006-.902-.038 1.697 1.102 3.586 1.649 5.676 1.649 2.139 0 4.029-.542 5.674-1.626 1.645-1.078 2.859-2.408 3.639-3.974a10.77 10.77 0 0 0 1.172-4.892v-.468a7.788 7.788 0 0 0 1.84-1.921 8.142 8.142 0 0 1-2.11.593z"
+      ></path>
+  </symbol>
+  <symbol aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="mail">
+    <path  d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="calendar">
+    <path d="M452 40h-24V0h-40v40H124V0H84v40H60C26.916 40 0 66.916 0 100v352c0 33.084 26.916 60 60 60h392c33.084 0 60-26.916 60-60V100c0-33.084-26.916-60-60-60zm20 412c0 11.028-8.972 20-20 20H60c-11.028 0-20-8.972-20-20V188h432v264zm0-304H40v-48c0-11.028 8.972-20 20-20h24v40h40V80h264v40h40V80h24c11.028 0 20 8.972 20 20v48z"></path>
+    <path d="M76 230h40v40H76zm80 0h40v40h-40zm80 0h40v40h-40zm80 0h40v40h-40zm80 0h40v40h-40zM76 310h40v40H76zm80 0h40v40h-40zm80 0h40v40h-40zm80 0h40v40h-40zM76 390h40v40H76zm80 0h40v40h-40zm80 0h40v40h-40zm80 0h40v40h-40zm80-80h40v40h-40z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="github">
+    <path d="M255.968 5.329C114.624 5.329 0 120.401 0 262.353c0 113.536 73.344 209.856 175.104 243.872 12.8 2.368 17.472-5.568 17.472-12.384 0-6.112-.224-22.272-.352-43.712-71.2 15.52-86.24-34.464-86.24-34.464-11.616-29.696-28.416-37.6-28.416-37.6-23.264-15.936 1.728-15.616 1.728-15.616 25.696 1.824 39.2 26.496 39.2 26.496 22.848 39.264 59.936 27.936 74.528 21.344 2.304-16.608 8.928-27.936 16.256-34.368-56.832-6.496-116.608-28.544-116.608-127.008 0-28.064 9.984-51.008 26.368-68.992-2.656-6.496-11.424-32.64 2.496-68 0 0 21.504-6.912 70.4 26.336 20.416-5.696 42.304-8.544 64.096-8.64 21.728.128 43.648 2.944 64.096 8.672 48.864-33.248 70.336-26.336 70.336-26.336 13.952 35.392 5.184 61.504 2.56 68 16.416 17.984 26.304 40.928 26.304 68.992 0 98.72-59.84 120.448-116.864 126.816 9.184 7.936 17.376 23.616 17.376 47.584 0 34.368-.32 62.08-.32 70.496 0 6.88 4.608 14.88 17.6 12.352C438.72 472.145 512 375.857 512 262.353 512 120.401 397.376 5.329 255.968 5.329z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 212 212" id="gitlab">
+    <path d="M12.3 74.7h54L43.3 3c-1-3.6-6.4-3.6-7.6 0L12.3 74.8z" />
+    <path d="M12.3 74.7L.5 111c-1 3.2 0 6.8 3 8.8l101.6 74-92.5-119z"/>
+    <path d="M105 193.7l-38.6-119h-54l92.7 119z"/>
+    <path d="M105 193.7l38.7-119H66.4l38.7 119z"/>
+    <path d="M105 193.7l38.7-119H198l-93 119z"/>
+    <path d="M198 74.7l11.6 36.2c1 3 0 6.6-3 8.6l-101.5 74 93-119z"/>
+    <path d="M198 74.7h-54.3L167 3c1.2-3.6 6.4-3.6 7.6 0L198 74.8z"/> 
+  </symbol>
+  <symbol viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" id="rss">
+    <circle cx="3.429" cy="20.571" r="3.429"></circle>
+    <path d="M11.429 24h4.57C15.999 15.179 8.821 8.001 0 8v4.572c6.302.001 11.429 5.126 11.429 11.428z"></path>
+    <path d="M24 24C24 10.766 13.234 0 0 0v4.571c10.714 0 19.43 8.714 19.43 19.429z"></path>
+  </symbol>
+  <symbol viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" id="linkedin">
+    <path d="M437 0H75C33.648 0 0 33.648 0 75v362c0 41.352 33.648 75 75 75h362c41.352 0 75-33.648 75-75V75c0-41.352-33.648-75-75-75zM181 406h-60V196h60zm0-240h-60v-60h60zm210 240h-60V286c0-16.54-13.46-30-30-30s-30 13.46-30 30v120h-60V196h60v11.309C286.719 202.422 296.93 196 316 196c40.691.043 75 36.547 75 79.688zm0 0"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 612 612" id="arrow">
+    <path d="M604.501 440.509L325.398 134.956c-5.331-5.357-12.423-7.627-19.386-7.27-6.989-.357-14.056 1.913-19.387 7.27L7.499 440.509c-9.999 10.024-9.999 26.298 0 36.323s26.223 10.024 36.222 0l262.293-287.164L568.28 476.832c9.999 10.024 26.222 10.024 36.221 0 9.999-10.023 9.999-26.298 0-36.323z"></path>
+  </symbol>
+  <symbol viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" id="carly">
+    <path d="M504.971 239.029L448 182.059V84c0-46.317-37.682-84-84-84h-44c-13.255 0-24 10.745-24 24s10.745 24 24 24h44c19.851 0 36 16.149 36 36v108c0 6.365 2.529 12.47 7.029 16.971L454.059 256l-47.029 47.029A24.002 24.002 0 0 0 400 320v108c0 19.851-16.149 36-36 36h-44c-13.255 0-24 10.745-24 24s10.745 24 24 24h44c46.318 0 84-37.683 84-84v-98.059l56.971-56.971c9.372-9.372 9.372-24.568 0-33.941zM112 192V84c0-19.851 16.149-36 36-36h44c13.255 0 24-10.745 24-24S205.255 0 192 0h-44c-46.318 0-84 37.683-84 84v98.059l-56.971 56.97c-9.373 9.373-9.373 24.568 0 33.941L64 329.941V428c0 46.317 37.682 84 84 84h44c13.255 0 24-10.745 24-24s-10.745-24-24-24h-44c-19.851 0-36-16.149-36-36V320c0-6.365-2.529-12.47-7.029-16.971L57.941 256l47.029-47.029A24.002 24.002 0 0 0 112 192z"></path>
+  </symbol>
+  <symbol viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" id="copy">
+    <path d="M23 2.75A2.75 2.75 0 0 0 20.25 0H8.75A2.75 2.75 0 0 0 6 2.75v13.5A2.75 2.75 0 0 0 8.75 19h11.5A2.75 2.75 0 0 0 23 16.25zM18.25 14.5h-7.5a.75.75 0 0 1 0-1.5h7.5a.75.75 0 0 1 0 1.5zm0-3h-7.5a.75.75 0 0 1 0-1.5h7.5a.75.75 0 0 1 0 1.5zm0-3h-7.5a.75.75 0 0 1 0-1.5h7.5a.75.75 0 0 1 0 1.5z"></path>
+    <path d="M8.75 20.5a4.255 4.255 0 0 1-4.25-4.25V2.75c0-.086.02-.166.025-.25H3.75A2.752 2.752 0 0 0 1 5.25v16A2.752 2.752 0 0 0 3.75 24h12a2.752 2.752 0 0 0 2.75-2.75v-.75z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512.001 512.001" id="closeme">
+    <path d="M284.286 256.002L506.143 34.144c7.811-7.811 7.811-20.475 0-28.285-7.811-7.81-20.475-7.811-28.285 0L256 227.717 34.143 5.859c-7.811-7.811-20.475-7.811-28.285 0-7.81 7.811-7.811 20.475 0 28.285l221.857 221.857L5.858 477.859c-7.811 7.811-7.811 20.475 0 28.285a19.938 19.938 0 0 0 14.143 5.857 19.94 19.94 0 0 0 14.143-5.857L256 284.287l221.857 221.857c3.905 3.905 9.024 5.857 14.143 5.857s10.237-1.952 14.143-5.857c7.811-7.811 7.811-20.475 0-28.285L284.286 256.002z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="open-menu">
+    <path d="M492 236H20c-11.046 0-20 8.954-20 20s8.954 20 20 20h472c11.046 0 20-8.954 20-20s-8.954-20-20-20zm0-160H20C8.954 76 0 84.954 0 96s8.954 20 20 20h472c11.046 0 20-8.954 20-20s-8.954-20-20-20zm0 320H20c-11.046 0-20 8.954-20 20s8.954 20 20 20h472c11.046 0 20-8.954 20-20s-8.954-20-20-20z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="instagram">
+    <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id=youtube>
+    <path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="stackoverflow">
+    <path d="M21 27v-8h3v11H0V19h3v8h18z"></path><path d="M17.1.2L15 1.8l7.9 10.6 2.1-1.6L17.1.2zm3.7 14.7L10.6 6.4l1.7-2 10.2 8.5-1.7 2zM7.2 12.3l12 5.6 1.1-2.4-12-5.6-1.1 2.4zm-1.8 6.8l13.56 1.96.17-2.38-13.26-2.55-.47 2.97zM19 25H5v-3h14v3z"></path>
+  </symbol>
+</svg>
+
+
+<footer class="footer">
+  <div class="footer_inner wrap pale">
+    <img src='https://open-archaeo.info/icons/apple-touch-icon.png' class="icon icon_2 transparent" alt="open-archaeo"><a class="to_top" href="#documentTop">
+  <svg class="icon">
+  <use xlink:href="#arrow"></use>
+</svg>
+</a>
+
+  </div>
+</footer>
+
+    <script type="text/javascript" src="https://open-archaeo.info/js/bundle.min.75c9f18c92b570ff308c6bf17f4b2657a47c9a51bef6db33d53d320fe7b5c78756365a4cc669d671c455ef80b5fbf0cf2b33824ba01ce474b828ce5d101e4641.js" integrity="sha512-dcnxjJK1cP8wjGvxf0smV6R8mlG&#43;9tsz1T0yD&#43;e1x4dWNlpMxmnWccRV74C1&#43;/DPKzOCS6Ac5HS4KM5dEB5GQQ==" crossorigin="anonymous"></script>
+    
+  </body>
+</html>
