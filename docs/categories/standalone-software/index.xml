@@ -565,6 +565,15 @@
     </item>
     
     <item>
+      <title>NgsRelate</title>
+      <link>https://open-archaeo.info/post/ngsrelate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/ngsrelate/</guid>
+      <description>Infer relatedness, inbreeding coefficients and many other summary statistics for pairs of individuals.</description>
+    </item>
+    
+    <item>
       <title>Open Context Python Code Repository</title>
       <link>https://open-archaeo.info/post/open-context-python-code-repository/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

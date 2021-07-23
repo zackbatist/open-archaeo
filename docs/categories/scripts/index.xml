@@ -232,6 +232,15 @@
     </item>
     
     <item>
+      <title>grups</title>
+      <link>https://open-archaeo.info/post/grups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/grups/</guid>
+      <description>A collection of Python and R scripts that can be used to simulate the pairwise genetic distances between human individuals in a provided test pedigree.</description>
+    </item>
+    
+    <item>
       <title>Kmeans</title>
       <link>https://open-archaeo.info/post/kmeans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

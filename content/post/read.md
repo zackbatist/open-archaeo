@@ -6,7 +6,7 @@
   },
   "authors": ["tguenther"],
   "categories": ["Standalone software"],
-  "tags": ["Archaeogenetics", "Low-coverage adapted population-genetics tools"],
+  "tags": ["Archaeogenetics", "Low-coverage adapted population-genetics tools", "aDNA kinship"],
   "doi": null
 }
 

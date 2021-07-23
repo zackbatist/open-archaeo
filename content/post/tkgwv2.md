@@ -6,7 +6,7 @@
   },
   "authors": ["danimfernandes"],
   "categories": ["Standalone software"],
-  "tags": ["Archaeogenetics"],
+  "tags": ["Archaeogenetics", "aDNA kinship"],
   "doi": null
 }
 
