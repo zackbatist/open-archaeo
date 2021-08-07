@@ -106,6 +106,15 @@
     </item>
     
     <item>
+      <title>AIDA</title>
+      <link>https://open-archaeo.info/post/aida/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/aida/</guid>
+      <description>Dataset of 4,010 radiocarbon dates from Italy from Late Mesolithic until Late Antiquity.</description>
+    </item>
+    
+    <item>
       <title>AIS</title>
       <link>https://open-archaeo.info/post/ais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1285,6 +1294,15 @@
     </item>
     
     <item>
+      <title>deeptime</title>
+      <link>https://open-archaeo.info/post/deeptime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/deeptime/</guid>
+      <description>Extends the functionality of other plotting packages like &amp;lsquo;ggplot2&amp;rsquo; and &amp;lsquo;lattice&amp;rsquo; to help facilitate the plotting of data over long time intervals, including, but not limited to, geological, evolutionary, and ecological data.</description>
+    </item>
+    
+    <item>
       <title>demjanp</title>
       <link>https://open-archaeo.info/post/demjanp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1894,6 +1912,15 @@
       
       <guid>https://open-archaeo.info/post/input/</guid>
       <description>Makes surveying geospatial data easy by designing your survey project in QGIS with custom forms.</description>
+    </item>
+    
+    <item>
+      <title>IntCal</title>
+      <link>https://open-archaeo.info/post/intcal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/intcal/</guid>
+      <description>The IntCal20 radiocarbon calibration curves are provided here in a single data package, together with previous IntCal curves and postbomb curves.</description>
     </item>
     
     <item>

@@ -4,7 +4,7 @@
   "links": {
     "PyPi": "https://pypi.org/project/iosacal/",
     "Codeberg": "https://codeberg.org/steko/iosacal",
-    "Website": "http://c14.iosa.it/"
+    "Website": "https://iosacal.readthedocs.io/en/latest/"
   },
   "authors": ["iosa"],
   "categories": ["Standalone software"],

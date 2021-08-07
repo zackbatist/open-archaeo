@@ -2,7 +2,8 @@
   "title": "chronochrt",
   "description": ["Building chronological charts easily with R."],
   "links": {
-    "GitLab": "https://gitlab.com/roset/chronochrt"
+    "GitLab": "https://gitlab.com/roset/chronochrt",
+    "CRAN": "https://cran.r-project.org/web/packages/chronochrt/index.html"
   },
   "authors": ["roset"],
   "categories": ["Packages and libraries"],

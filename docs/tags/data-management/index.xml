@@ -115,6 +115,15 @@
     </item>
     
     <item>
+      <title>deeptime</title>
+      <link>https://open-archaeo.info/post/deeptime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/deeptime/</guid>
+      <description>Extends the functionality of other plotting packages like &amp;lsquo;ggplot2&amp;rsquo; and &amp;lsquo;lattice&amp;rsquo; to help facilitate the plotting of data over long time intervals, including, but not limited to, geological, evolutionary, and ecological data.</description>
+    </item>
+    
+    <item>
       <title>E5</title>
       <link>https://open-archaeo.info/post/e5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

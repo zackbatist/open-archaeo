@@ -3,7 +3,7 @@
   "description": ["Manipulate log-ratios (also known as log size index (LSI) values) from measurements obtained on zooarchaeological material."],
   "links": {
     "GitHub": "https://github.com/josempozo/zoolog",
-    "CRAN": "https://cloud.r-project.org/web/packages/zoolog/index.html",
+    "CRAN": "https://cran.r-project.org/web/packages/zoolog/index.html",
     "Website": "https://josempozo.github.io/zoolog/"
   },
   "authors": ["josempozo", "Silvia Valenzuela-Lamas", "Angela Trentacoste", "Ariadne Nieto-Espinet", "Silvia Guimarães Chiarelli"],

@@ -16,6 +16,15 @@
     </item>
     
     <item>
+      <title>AIDA</title>
+      <link>https://open-archaeo.info/post/aida/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/aida/</guid>
+      <description>Dataset of 4,010 radiocarbon dates from Italy from Late Mesolithic until Late Antiquity.</description>
+    </item>
+    
+    <item>
       <title>Analysing-Archaeological-Radiocabon-Ages-Using-R</title>
       <link>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using-r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -121,6 +130,15 @@
       
       <guid>https://open-archaeo.info/post/demjanp/</guid>
       <description>Radiocarbon Dating Resolution Calculator.</description>
+    </item>
+    
+    <item>
+      <title>IntCal</title>
+      <link>https://open-archaeo.info/post/intcal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/intcal/</guid>
+      <description>The IntCal20 radiocarbon calibration curves are provided here in a single data package, together with previous IntCal curves and postbomb curves.</description>
     </item>
     
     <item>
