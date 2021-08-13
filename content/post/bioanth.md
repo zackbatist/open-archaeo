@@ -6,7 +6,7 @@
   },
   "authors": ["geanes"],
   "categories": ["Packages and libraries"],
-  "tags": ["Physical anthropology"],
+  "tags": ["Biological anthropology"],
   "doi": null
 }
 
