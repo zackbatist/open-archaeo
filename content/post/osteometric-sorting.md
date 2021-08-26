@@ -6,7 +6,7 @@
   },
   "authors": ["pr0m1th3as"],
   "categories": ["Scripts"],
-  "tags": ["Physical anthropology", "Zooarchaeology"],
+  "tags": ["Biological anthropology", "Zooarchaeology"],
   "doi": null
 }
 
