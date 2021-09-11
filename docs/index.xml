@@ -70,6 +70,15 @@
     </item>
     
     <item>
+      <title>ABMA</title>
+      <link>https://open-archaeo.info/post/abma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/abma/</guid>
+      <description>code repository and website for Agent-Based Modeling for Archaeology.</description>
+    </item>
+    
+    <item>
       <title>aca_data_collection</title>
       <link>https://open-archaeo.info/post/aca-data-collection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -166,6 +175,15 @@
       
       <guid>https://open-archaeo.info/post/analogue/</guid>
       <description>Analogue and weighted averaging methods for palaeoecology.</description>
+    </item>
+    
+    <item>
+      <title>Analysing Stable Isotope Data</title>
+      <link>https://open-archaeo.info/post/analysing-stable-isotope-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/analysing-stable-isotope-data/</guid>
+      <description>Tutorial on how to visualise, analyse and interpret stable isotope data</description>
     </item>
     
     <item>
@@ -328,6 +346,15 @@
       
       <guid>https://open-archaeo.info/post/archaeological-object-sharing/</guid>
       <description>An online space for sharing data, 3d models, etc about archaeological objects to enable the comparison of these objects.</description>
+    </item>
+    
+    <item>
+      <title>archaeological-SNA-R-demo</title>
+      <link>https://open-archaeo.info/post/archaeological-sna-r-demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeological-sna-r-demo/</guid>
+      <description>A quick demo of archaeological social network analysis in R</description>
     </item>
     
     <item>
@@ -997,6 +1024,15 @@
     </item>
     
     <item>
+      <title>charcoalhearths</title>
+      <link>https://open-archaeo.info/post/charcoalhearths/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/charcoalhearths/</guid>
+      <description>Work with geotifs to detect charcoal hearths</description>
+    </item>
+    
+    <item>
       <title>CharTool</title>
       <link>https://open-archaeo.info/post/chartool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1057,6 +1093,15 @@
       
       <guid>https://open-archaeo.info/post/chronophage/</guid>
       <description>Applications for obtaining chronograms (quantified chronology diagrams) and time distribution curves of archaeological or historical units from quantified dating indicators treated as inaccuracy intervals.</description>
+    </item>
+    
+    <item>
+      <title>chronup</title>
+      <link>https://open-archaeo.info/post/chronup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/chronup/</guid>
+      <description>NA</description>
     </item>
     
     <item>
@@ -1969,6 +2014,33 @@
     </item>
     
     <item>
+      <title>IsoDataVis</title>
+      <link>https://open-archaeo.info/post/isodatavis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/isodatavis/</guid>
+      <description>Data visualization guidelines for stable isotopes graphs, with examples</description>
+    </item>
+    
+    <item>
+      <title>IsoMapNL</title>
+      <link>https://open-archaeo.info/post/isomapnl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/isomapnl/</guid>
+      <description>Data and script to generate a map of the Netherlands for isotopic analyses</description>
+    </item>
+    
+    <item>
+      <title>Isotope-Visualisation</title>
+      <link>https://open-archaeo.info/post/isotope-visualisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/isotope-visualisation/</guid>
+      <description>Resources relevant to visualisation of isotopic results</description>
+    </item>
+    
+    <item>
       <title>italy-3d-amphitheaters</title>
       <link>https://open-archaeo.info/post/italy-3d-amphitheaters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2218,6 +2290,15 @@
       
       <guid>https://open-archaeo.info/post/mapping-iterative-assembler/</guid>
       <description>Consensus calling (or &amp;ldquo;reference assisted assembly&amp;rdquo;), chiefly of ancient mitochondria.</description>
+    </item>
+    
+    <item>
+      <title>marbleplan</title>
+      <link>https://open-archaeo.info/post/marbleplan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/marbleplan/</guid>
+      <description>Loading a Marble Plan fragment.</description>
     </item>
     
     <item>
@@ -2644,6 +2725,24 @@
     </item>
     
     <item>
+      <title>p3k14c</title>
+      <link>https://open-archaeo.info/post/p3k14c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/p3k14c/</guid>
+      <description>Global archaeological radiocarbon dataset</description>
+    </item>
+    
+    <item>
+      <title>p3k14c-data-scrubbing</title>
+      <link>https://open-archaeo.info/post/p3k14c-data-scrubbing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/p3k14c-data-scrubbing/</guid>
+      <description>Scrubbing program for the global archaeological radiocarbon dataset</description>
+    </item>
+    
+    <item>
       <title>paleocar</title>
       <link>https://open-archaeo.info/post/paleocar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2785,6 +2884,15 @@
       
       <guid>https://open-archaeo.info/post/plc/</guid>
       <description>Pure Locational Clustering.</description>
+    </item>
+    
+    <item>
+      <title>Plotting Dental Inventory with ggplot2</title>
+      <link>https://open-archaeo.info/post/plotting-dental-inventory-with-ggplot2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/plotting-dental-inventory-with-ggplot2/</guid>
+      <description>tutorial on an intuitive way to visualise a dental inventory in a sample</description>
     </item>
     
     <item>
@@ -3100,6 +3208,15 @@
       
       <guid>https://open-archaeo.info/post/rlummodel/</guid>
       <description>Solving Ordinary Differential Equations to Understand Luminescence</description>
+    </item>
+    
+    <item>
+      <title>rock-art-transfer-learning</title>
+      <link>https://open-archaeo.info/post/rock-art-transfer-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rock-art-transfer-learning/</guid>
+      <description>Reconstructing rock art chronology with transfer learning</description>
     </item>
     
     <item>
@@ -3829,6 +3946,15 @@
       
       <guid>https://open-archaeo.info/post/unconstrainedclustering/</guid>
       <description>Unconstrained Clustering.</description>
+    </item>
+    
+    <item>
+      <title>UniformProbabilityDensityAnalysis</title>
+      <link>https://open-archaeo.info/post/uniformprobabilitydensityanalysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/uniformprobabilitydensityanalysis/</guid>
+      <description>R implementation of the Uniform Probability Density Analysis approach</description>
     </item>
     
     <item>

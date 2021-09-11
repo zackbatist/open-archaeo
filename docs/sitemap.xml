@@ -18,6 +18,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/abm-tutorials/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/abma/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/aca-data-collection/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/admur/</loc>
@@ -55,6 +57,8 @@
     <loc>https://open-archaeo.info/post/alligator/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/analogue/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/analysing-stable-isotope-data/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using-r/</loc>
   </url><url>
@@ -97,6 +101,8 @@
     <loc>https://open-archaeo.info/post/archaeological-ethics-database/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/archaeological-object-sharing/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/archaeological-sna-r-demo/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/archaeological-survey-location-collector/</loc>
   </url><url>
@@ -256,6 +262,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/ceramicapportioning/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/charcoalhearths/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/chartool/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/cherish/</loc>
@@ -271,6 +279,8 @@
     <loc>https://open-archaeo.info/post/chronomodel/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/chronophage/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/chronup/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/classical-and-ancient-linked-open-data/</loc>
   </url><url>
@@ -508,6 +518,12 @@
   </url><url>
     <loc>https://open-archaeo.info/post/isoarch/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/isodatavis/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/isomapnl/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/isotope-visualisation/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/italy-3d-amphitheaters/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/kairos/</loc>
@@ -580,6 +596,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/mapping-iterative-assembler/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/marbleplan/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/max/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/maximum-likelihood-relatedness-estimation/</loc>
@@ -632,6 +650,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/nervia/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/tags/network-analysis/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/nexus/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/ngsrelate/</loc>
@@ -680,6 +700,10 @@
   </url><url>
     <loc>https://open-archaeo.info/post/p2pperm/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/p3k14c/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/p3k14c-data-scrubbing/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/categories/packages-and-libraries/</loc>
   </url><url>
     <loc>https://open-archaeo.info/tags/palaeobotany/</loc>
@@ -727,6 +751,8 @@
     <loc>https://open-archaeo.info/tags/platforms-and-publications/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/plc/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/plotting-dental-inventory-with-ggplot2/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/pmdtools/</loc>
   </url><url>
@@ -807,6 +833,8 @@
     <loc>https://open-archaeo.info/post/rintchron/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/rlummodel/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/rock-art-transfer-learning/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/roman-amphitheaters-roman-amphitheaters/</loc>
   </url><url>
@@ -997,6 +1025,8 @@
     <loc>https://open-archaeo.info/post/unconstrainedclustering/</loc>
   </url><url>
     <loc>https://open-archaeo.info/tags/underwater-archaeology/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/uniformprobabilitydensityanalysis/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/unstruwwel/</loc>
   </url><url>

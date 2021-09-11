@@ -358,6 +358,15 @@
     </item>
     
     <item>
+      <title>charcoalhearths</title>
+      <link>https://open-archaeo.info/post/charcoalhearths/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/charcoalhearths/</guid>
+      <description>Work with geotifs to detect charcoal hearths</description>
+    </item>
+    
+    <item>
       <title>chronochrt</title>
       <link>https://open-archaeo.info/post/chronochrt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -373,6 +382,15 @@
       
       <guid>https://open-archaeo.info/post/chronophage/</guid>
       <description>Applications for obtaining chronograms (quantified chronology diagrams) and time distribution curves of archaeological or historical units from quantified dating indicators treated as inaccuracy intervals.</description>
+    </item>
+    
+    <item>
+      <title>chronup</title>
+      <link>https://open-archaeo.info/post/chronup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/chronup/</guid>
+      <description>NA</description>
     </item>
     
     <item>
@@ -1006,6 +1024,15 @@
     </item>
     
     <item>
+      <title>p3k14c-data-scrubbing</title>
+      <link>https://open-archaeo.info/post/p3k14c-data-scrubbing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/p3k14c-data-scrubbing/</guid>
+      <description>Scrubbing program for the global archaeological radiocarbon dataset</description>
+    </item>
+    
+    <item>
       <title>paleocar</title>
       <link>https://open-archaeo.info/post/paleocar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1228,6 +1255,15 @@
       
       <guid>https://open-archaeo.info/post/rlummodel/</guid>
       <description>Solving Ordinary Differential Equations to Understand Luminescence</description>
+    </item>
+    
+    <item>
+      <title>rock-art-transfer-learning</title>
+      <link>https://open-archaeo.info/post/rock-art-transfer-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rock-art-transfer-learning/</guid>
+      <description>Reconstructing rock art chronology with transfer learning</description>
     </item>
     
     <item>
@@ -1552,6 +1588,15 @@
       
       <guid>https://open-archaeo.info/post/trenchdrawer/</guid>
       <description>Plugin for drawing trenches.</description>
+    </item>
+    
+    <item>
+      <title>UniformProbabilityDensityAnalysis</title>
+      <link>https://open-archaeo.info/post/uniformprobabilitydensityanalysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/uniformprobabilitydensityanalysis/</guid>
+      <description>R implementation of the Uniform Probability Density Analysis approach</description>
     </item>
     
     <item>

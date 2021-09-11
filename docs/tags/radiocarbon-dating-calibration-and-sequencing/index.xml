@@ -106,6 +106,15 @@
     </item>
     
     <item>
+      <title>chronup</title>
+      <link>https://open-archaeo.info/post/chronup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/chronup/</guid>
+      <description>NA</description>
+    </item>
+    
+    <item>
       <title>cleanc14</title>
       <link>https://open-archaeo.info/post/cleanc14/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -193,6 +202,24 @@
       
       <guid>https://open-archaeo.info/post/p2pperm/</guid>
       <description>A function for retrieving metrics for resistance-resilience from rcarbon permTest objects.</description>
+    </item>
+    
+    <item>
+      <title>p3k14c</title>
+      <link>https://open-archaeo.info/post/p3k14c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/p3k14c/</guid>
+      <description>Global archaeological radiocarbon dataset</description>
+    </item>
+    
+    <item>
+      <title>p3k14c-data-scrubbing</title>
+      <link>https://open-archaeo.info/post/p3k14c-data-scrubbing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/p3k14c-data-scrubbing/</guid>
+      <description>Scrubbing program for the global archaeological radiocarbon dataset</description>
     </item>
     
     <item>

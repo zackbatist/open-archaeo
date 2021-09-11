@@ -25,6 +25,24 @@
     </item>
     
     <item>
+      <title>ABMA</title>
+      <link>https://open-archaeo.info/post/abma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/abma/</guid>
+      <description>code repository and website for Agent-Based Modeling for Archaeology.</description>
+    </item>
+    
+    <item>
+      <title>Analysing Stable Isotope Data</title>
+      <link>https://open-archaeo.info/post/analysing-stable-isotope-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/analysing-stable-isotope-data/</guid>
+      <description>Tutorial on how to visualise, analyse and interpret stable isotope data</description>
+    </item>
+    
+    <item>
       <title>Analysing-Archaeological-Radiocabon-Ages-Using-R</title>
       <link>https://open-archaeo.info/post/analysing-archaeological-radiocabon-ages-using-r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -40,6 +58,15 @@
       
       <guid>https://open-archaeo.info/post/archaeo-db-workshop/</guid>
       <description>Information and guidelines for a workshop about managing archaeological databases</description>
+    </item>
+    
+    <item>
+      <title>archaeological-SNA-R-demo</title>
+      <link>https://open-archaeo.info/post/archaeological-sna-r-demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeological-sna-r-demo/</guid>
+      <description>A quick demo of archaeological social network analysis in R</description>
     </item>
     
     <item>
@@ -97,6 +124,24 @@
     </item>
     
     <item>
+      <title>IsoDataVis</title>
+      <link>https://open-archaeo.info/post/isodatavis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/isodatavis/</guid>
+      <description>Data visualization guidelines for stable isotopes graphs, with examples</description>
+    </item>
+    
+    <item>
+      <title>IsoMapNL</title>
+      <link>https://open-archaeo.info/post/isomapnl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/isomapnl/</guid>
+      <description>Data and script to generate a map of the Netherlands for isotopic analyses</description>
+    </item>
+    
+    <item>
       <title>List of Resources for getting started with (teaching) digital methods</title>
       <link>https://open-archaeo.info/post/list-of-resources-for-getting-started-with-teaching-digital-methods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -139,6 +184,15 @@
       
       <guid>https://open-archaeo.info/post/photogrammetry-data-collection/</guid>
       <description>Photogrammetry tutorial.</description>
+    </item>
+    
+    <item>
+      <title>Plotting Dental Inventory with ggplot2</title>
+      <link>https://open-archaeo.info/post/plotting-dental-inventory-with-ggplot2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/plotting-dental-inventory-with-ggplot2/</guid>
+      <description>tutorial on an intuitive way to visualise a dental inventory in a sample</description>
     </item>
     
     <item>
