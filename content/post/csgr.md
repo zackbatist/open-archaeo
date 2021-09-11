@@ -6,7 +6,7 @@
   },
   "authors": ["Arothron"],
   "categories": ["Scripts"],
-  "tags": ["Physical anthropology", "Zooarchaeology", "Shape recognition", "3D modelling"],
+  "tags": ["Biological anthropology", "Zooarchaeology", "Shape recognition", "3D modelling"],
   "doi": null
 }
 
