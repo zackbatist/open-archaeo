@@ -2,6 +2,7 @@
   "title": "nervia",
   "description": ["Management system for physical storage of archaeological finds"],
   "links": {
+    "GitHub": "https://github.com/steko/nervia",
     "Codeberg": "https://codeberg.org/steko/nervia"
   },
   "authors": ["steko"],

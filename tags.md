@@ -56,6 +56,7 @@ Statistical analysis|Identification and analysis of quantitative distribution pa
 |Ethics and professional development|Concerned with the social, moral and ethical frameworks that archaeologists adhere to or are impacted by as they go about their work.|
 |Simulation|Concerned with modelling archaeological processes in abstract terms.|
 |Stable isotope analysis|The identification of isotopic signatures relative abundance of chemical elements within organic and inorganic compounds to understand the flow of energy through a food web and to reconstruct past environmental and climatic conditions.|
+|Network analysis|Process of investigating social structures through the use of networks and graph theory.|
 |Pipelines||
 |Damage profilers||
 |Metagenomic classifers||
