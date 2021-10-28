@@ -70,6 +70,15 @@
     </item>
     
     <item>
+      <title>sdr33_triangulation</title>
+      <link>https://open-archaeo.info/post/sdr33-triangulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/sdr33-triangulation/</guid>
+      <description>Reads an SDR33 data logger file and using the angular observations recorded therein to triangulate the position of points of interest.</description>
+    </item>
+    
+    <item>
       <title>simple-browser-gis-collector</title>
       <link>https://open-archaeo.info/post/simple-browser-gis-collector/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

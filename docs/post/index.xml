@@ -772,6 +772,15 @@
     </item>
     
     <item>
+      <title>Bibliographic Database of African Scholarship on African Archaeology</title>
+      <link>https://open-archaeo.info/post/bibliographic-database-of-african-scholarship-on-african-archaeology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/bibliographic-database-of-african-scholarship-on-african-archaeology/</guid>
+      <description>An open-access database of African archaeology publications by African and Afrodescendant scholars.</description>
+    </item>
+    
+    <item>
       <title>binford</title>
       <link>https://open-archaeo.info/post/binford/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1105,6 +1114,15 @@
     </item>
     
     <item>
+      <title>clam</title>
+      <link>https://open-archaeo.info/post/clam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/clam/</guid>
+      <description>A package for classical age-depth modelling of cores from deposits.</description>
+    </item>
+    
+    <item>
       <title>Classical and ancient Linked Open Data</title>
       <link>https://open-archaeo.info/post/classical-and-ancient-linked-open-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1156,6 +1174,15 @@
       
       <guid>https://open-archaeo.info/post/coenocliner/</guid>
       <description>An R package to simulate species occurences and abundances counts, along gradient.</description>
+    </item>
+    
+    <item>
+      <title>coffee</title>
+      <link>https://open-archaeo.info/post/coffee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/coffee/</guid>
+      <description>Uses Bayesian methods to enforce the chronological ordering of radiocarbon and other dates.</description>
     </item>
     
     <item>
@@ -1750,6 +1777,24 @@
       
       <guid>https://open-archaeo.info/post/gitmuseum/</guid>
       <description>A repository listing Museums active on GitHub, written in Rstats.</description>
+    </item>
+    
+    <item>
+      <title>GlobaLID-App</title>
+      <link>https://open-archaeo.info/post/globalid-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/globalid-app/</guid>
+      <description>The GlobaLID web app</description>
+    </item>
+    
+    <item>
+      <title>GlobaLID-database</title>
+      <link>https://open-archaeo.info/post/globalid-database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/globalid-database/</guid>
+      <description>Facilitates the reconstruction of raw material provenances with lead isotopes.</description>
     </item>
     
     <item>
@@ -2896,6 +2941,15 @@
     </item>
     
     <item>
+      <title>Plum</title>
+      <link>https://open-archaeo.info/post/plum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/plum/</guid>
+      <description>Uses a Bayesian approach to construct age-depth models for 210Pb data.</description>
+    </item>
+    
+    <item>
       <title>PMDtools</title>
       <link>https://open-archaeo.info/post/pmdtools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2920,6 +2974,15 @@
       
       <guid>https://open-archaeo.info/post/pollen-data-processing/</guid>
       <description>some tools in respect to pollen data processing.</description>
+    </item>
+    
+    <item>
+      <title>pollencount</title>
+      <link>https://open-archaeo.info/post/pollencount/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pollencount/</guid>
+      <description>This simulation tool aims to help students and researchers to start to see what pollen looks like under the microscope, and start to identify common pollen grains.</description>
     </item>
     
     <item>
@@ -3001,6 +3064,15 @@
       
       <guid>https://open-archaeo.info/post/pyarchinit/</guid>
       <description>A python plugin for QGIS aimed at managing data from archaeological contexts on the GIS platform</description>
+    </item>
+    
+    <item>
+      <title>PyPlum</title>
+      <link>https://open-archaeo.info/post/pyplum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pyplum/</guid>
+      <description>Creates age-depth models using 210Pb data and autoregressive gamma process.</description>
     </item>
     
     <item>
@@ -3127,6 +3199,15 @@
       
       <guid>https://open-archaeo.info/post/rapanui-radiocarbon/</guid>
       <description>A repository of radiocarbon data for Rapa Nui.</description>
+    </item>
+    
+    <item>
+      <title>rbacon</title>
+      <link>https://open-archaeo.info/post/rbacon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rbacon/</guid>
+      <description>A package for Bayesian age-depth modelling of sediment cores, constrained by prior information on sedimentation rates and their variability.</description>
     </item>
     
     <item>
@@ -3388,6 +3469,15 @@
       
       <guid>https://open-archaeo.info/post/scikit-beam/</guid>
       <description>Data analysis tools for X-Ray, Neutron and Electron sciences</description>
+    </item>
+    
+    <item>
+      <title>sdr33_triangulation</title>
+      <link>https://open-archaeo.info/post/sdr33-triangulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/sdr33-triangulation/</guid>
+      <description>Reads an SDR33 data logger file and using the angular observations recorded therein to triangulate the position of points of interest.</description>
     </item>
     
     <item>
@@ -3886,6 +3976,15 @@
     </item>
     
     <item>
+      <title>totalopenstationToQgis</title>
+      <link>https://open-archaeo.info/post/totalopenstationtoqgis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/totalopenstationtoqgis/</guid>
+      <description>A plugin to connect with totalopenstation software developed as part of the IOSA project.</description>
+    </item>
+    
+    <item>
       <title>totalstation-tools</title>
       <link>https://open-archaeo.info/post/totalstation-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3964,6 +4063,15 @@
       
       <guid>https://open-archaeo.info/post/unstruwwel/</guid>
       <description>Detect and Parse Historic Dates in R.</description>
+    </item>
+    
+    <item>
+      <title>UThwigl</title>
+      <link>https://open-archaeo.info/post/uthwigl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/uthwigl/</guid>
+      <description>Compute closed- and open-system uranium-thorium (U-Th) ages of geological and archaeological samples.</description>
     </item>
     
     <item>

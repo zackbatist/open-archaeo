@@ -200,6 +200,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/benmarwickopencontext/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/bibliographic-database-of-african-scholarship-on-african-archaeology/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/tags/bibliography/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/binford/</loc>
@@ -207,6 +209,8 @@
     <loc>https://open-archaeo.info/post/binomial-co-occurrence-assessment/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/bioanth/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/tags/biological-anthropology/</loc>
   </url><url>
     <loc>https://open-archaeo.info/tags/bits-and-bobs/</loc>
   </url><url>
@@ -282,6 +286,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/chronup/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/clam/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/classical-and-ancient-linked-open-data/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/cleanc14/</loc>
@@ -293,6 +299,8 @@
     <loc>https://open-archaeo.info/post/clustering-14c/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/coenocliner/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/coffee/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/consensify/</loc>
   </url><url>
@@ -451,6 +459,10 @@
     <loc>https://open-archaeo.info/post/git-to-the-point/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/gitmuseum/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/globalid-app/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/globalid-database/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/gmamisc/</loc>
   </url><url>
@@ -740,8 +752,6 @@
   </url><url>
     <loc>https://open-archaeo.info/tags/photography/</loc>
   </url><url>
-    <loc>https://open-archaeo.info/tags/physical-anthropology/</loc>
-  </url><url>
     <loc>https://open-archaeo.info/post/pileupcaller/</loc>
   </url><url>
     <loc>https://open-archaeo.info/tags/pipelines/</loc>
@@ -754,11 +764,15 @@
   </url><url>
     <loc>https://open-archaeo.info/post/plotting-dental-inventory-with-ggplot2/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/plum/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/pmdtools/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/pointpattern/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/pollen-data-processing/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/pollencount/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/poseidon-framework/</loc>
   </url><url>
@@ -785,6 +799,8 @@
     <loc>https://open-archaeo.info/tags/public-policy-and-civic-action/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/pyarchinit/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/pyplum/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/pyxrf/</loc>
   </url><url>
@@ -815,6 +831,8 @@
     <loc>https://open-archaeo.info/post/ramphs/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/rapanui-radiocarbon/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/rbacon/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/rcarb/</loc>
   </url><url>
@@ -877,6 +895,8 @@
     <loc>https://open-archaeo.info/post/scikit-beam/</loc>
   </url><url>
     <loc>https://open-archaeo.info/categories/scripts/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/sdr33-triangulation/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/sdsanalysis/</loc>
   </url><url>
@@ -1010,6 +1030,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/totalopenstation/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/totalopenstationtoqgis/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/totalstation-tools/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/transit/</loc>
@@ -1029,6 +1051,8 @@
     <loc>https://open-archaeo.info/post/uniformprobabilitydensityanalysis/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/unstruwwel/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/uthwigl/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/vegan/</loc>
   </url><url>

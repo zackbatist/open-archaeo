@@ -43,6 +43,15 @@
     </item>
     
     <item>
+      <title>totalopenstationToQgis</title>
+      <link>https://open-archaeo.info/post/totalopenstationtoqgis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/totalopenstationtoqgis/</guid>
+      <description>A plugin to connect with totalopenstation software developed as part of the IOSA project.</description>
+    </item>
+    
+    <item>
       <title>totalstation-tools</title>
       <link>https://open-archaeo.info/post/totalstation-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

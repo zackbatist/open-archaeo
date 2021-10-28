@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://open-archaeo.info/tags/geophysical-survey/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>clam</title>
+      <link>https://open-archaeo.info/post/clam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/clam/</guid>
+      <description>A package for classical age-depth modelling of cores from deposits.</description>
+    </item>
+    
+    <item>
       <title>magAAR</title>
       <link>https://open-archaeo.info/post/magaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

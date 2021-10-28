@@ -124,6 +124,24 @@
     </item>
     
     <item>
+      <title>clam</title>
+      <link>https://open-archaeo.info/post/clam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/clam/</guid>
+      <description>A package for classical age-depth modelling of cores from deposits.</description>
+    </item>
+    
+    <item>
+      <title>coffee</title>
+      <link>https://open-archaeo.info/post/coffee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/coffee/</guid>
+      <description>Uses Bayesian methods to enforce the chronological ordering of radiocarbon and other dates.</description>
+    </item>
+    
+    <item>
       <title>datplot</title>
       <link>https://open-archaeo.info/post/datplot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -178,6 +196,33 @@
     </item>
     
     <item>
+      <title>Plum</title>
+      <link>https://open-archaeo.info/post/plum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/plum/</guid>
+      <description>Uses a Bayesian approach to construct age-depth models for 210Pb data.</description>
+    </item>
+    
+    <item>
+      <title>PyPlum</title>
+      <link>https://open-archaeo.info/post/pyplum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pyplum/</guid>
+      <description>Creates age-depth models using 210Pb data and autoregressive gamma process.</description>
+    </item>
+    
+    <item>
+      <title>rbacon</title>
+      <link>https://open-archaeo.info/post/rbacon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rbacon/</guid>
+      <description>A package for Bayesian age-depth modelling of sediment cores, constrained by prior information on sedimentation rates and their variability.</description>
+    </item>
+    
+    <item>
       <title>rock-art-transfer-learning</title>
       <link>https://open-archaeo.info/post/rock-art-transfer-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -211,6 +256,15 @@
       
       <guid>https://open-archaeo.info/post/unstruwwel/</guid>
       <description>Detect and Parse Historic Dates in R.</description>
+    </item>
+    
+    <item>
+      <title>UThwigl</title>
+      <link>https://open-archaeo.info/post/uthwigl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/uthwigl/</guid>
+      <description>Compute closed- and open-system uranium-thorium (U-Th) ages of geological and archaeological samples.</description>
     </item>
     
   </channel>

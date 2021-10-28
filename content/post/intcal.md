@@ -2,9 +2,10 @@
   "title": "IntCal",
   "description": ["The IntCal20 radiocarbon calibration curves are provided here in a single data package, together with previous IntCal curves and postbomb curves."],
   "links": {
+    "GitHub": "https://github.com/Maarten14C/IntCal",
     "CRAN": "https://cran.r-project.org/web/packages/IntCal/index.html"
   },
-  "authors": ["Maarten Blaauw"],
+  "authors": ["Maarten14C"],
   "categories": ["Packages and libraries"],
   "tags": ["Radiocarbon dating, calibration and sequencing"],
   "doi": null
