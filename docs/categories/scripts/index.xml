@@ -169,6 +169,15 @@
     </item>
     
     <item>
+      <title>DACORD</title>
+      <link>https://open-archaeo.info/post/dacord/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/dacord/</guid>
+      <description>Computer-Assisted Drawing of Archaeological Pottery.</description>
+    </item>
+    
+    <item>
       <title>ElementSourcing</title>
       <link>https://open-archaeo.info/post/elementsourcing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -238,6 +247,15 @@
       
       <guid>https://open-archaeo.info/post/grups/</guid>
       <description>A collection of Python and R scripts that can be used to simulate the pairwise genetic distances between human individuals in a provided test pedigree.</description>
+    </item>
+    
+    <item>
+      <title>kidstats</title>
+      <link>https://open-archaeo.info/post/kidstats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/kidstats/</guid>
+      <description>Shiny application that provides subadult age estimations based on dental and skeletal development and skeletal diaphyseal metrics using pre-optimized mixed cumulative probit models.</description>
     </item>
     
     <item>
@@ -439,6 +457,15 @@
     </item>
     
     <item>
+      <title>RACORD</title>
+      <link>https://open-archaeo.info/post/racord/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/racord/</guid>
+      <description>Computer-Assisted Shape Classification of Archaeological Pottery Fragments.</description>
+    </item>
+    
+    <item>
       <title>radiocarbon-scrapers</title>
       <link>https://open-archaeo.info/post/radiocarbon-scrapers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -535,6 +562,15 @@
       
       <guid>https://open-archaeo.info/post/tosca/</guid>
       <description>Tool for Online Seriation and Correspondence Analysis.</description>
+    </item>
+    
+    <item>
+      <title>tRauma</title>
+      <link>https://open-archaeo.info/post/trauma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/trauma/</guid>
+      <description>Interactive graphical user interface to aid in the interpretation of blunt-force rib trauma in forensic anthropology casework.</description>
     </item>
     
     <item>

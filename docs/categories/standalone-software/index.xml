@@ -439,6 +439,15 @@
     </item>
     
     <item>
+      <title>hsv-api</title>
+      <link>https://open-archaeo.info/post/hsv-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/hsv-api/</guid>
+      <description>Historical Street View API</description>
+    </item>
+    
+    <item>
       <title>iDAI.field</title>
       <link>https://open-archaeo.info/post/idai-field/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -598,6 +607,15 @@
       
       <guid>https://open-archaeo.info/post/open-context-python-code-repository/</guid>
       <description>This project represents the current evolution of Open Context. It&amp;rsquo;s intended to be an easier to maintain code-base, and to make the data published by Open Context easier to maintain.</description>
+    </item>
+    
+    <item>
+      <title>Open History Map</title>
+      <link>https://open-archaeo.info/post/open-history-map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/open-history-map/</guid>
+      <description>A web-GIS platform containing spatial historical and archaeological data.</description>
     </item>
     
     <item>

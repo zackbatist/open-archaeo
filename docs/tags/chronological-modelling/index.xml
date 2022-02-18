@@ -151,6 +151,15 @@
     </item>
     
     <item>
+      <title>dplR</title>
+      <link>https://open-archaeo.info/post/dplr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/dplr/</guid>
+      <description>Perform tree-ring analyses such as detrending, chronology building, and crossdating.</description>
+    </item>
+    
+    <item>
       <title>GeoChronR</title>
       <link>https://open-archaeo.info/post/geochronr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -265,6 +274,15 @@
       
       <guid>https://open-archaeo.info/post/uthwigl/</guid>
       <description>Compute closed- and open-system uranium-thorium (U-Th) ages of geological and archaeological samples.</description>
+    </item>
+    
+    <item>
+      <title>xDateR</title>
+      <link>https://open-archaeo.info/post/xdater/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/xdater/</guid>
+      <description>Shiny app for interactive crossdating of tree-ring data.</description>
     </item>
     
   </channel>

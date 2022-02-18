@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://open-archaeo.info/tags/dendrochronology/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>dplR</title>
+      <link>https://open-archaeo.info/post/dplr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/dplr/</guid>
+      <description>Perform tree-ring analyses such as detrending, chronology building, and crossdating.</description>
+    </item>
+    
+    <item>
       <title>MtreeRing</title>
       <link>https://open-archaeo.info/post/mtreering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -22,6 +31,15 @@
       
       <guid>https://open-archaeo.info/post/tridas/</guid>
       <description>TRiDaS is a universal data exchange standard for the dendrochronology community. This project contains the data standard itself as well as libraries and tools useful for reading, writing and converting dendro data files.</description>
+    </item>
+    
+    <item>
+      <title>xDateR</title>
+      <link>https://open-archaeo.info/post/xdater/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/xdater/</guid>
+      <description>Shiny app for interactive crossdating of tree-ring data.</description>
     </item>
     
   </channel>

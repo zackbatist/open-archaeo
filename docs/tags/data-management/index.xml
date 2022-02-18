@@ -106,6 +106,15 @@
     </item>
     
     <item>
+      <title>CHARM</title>
+      <link>https://open-archaeo.info/post/charm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/charm/</guid>
+      <description>Cultural heritage abstract reference model.</description>
+    </item>
+    
+    <item>
       <title>dedalo</title>
       <link>https://open-archaeo.info/post/dedalo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -202,6 +211,15 @@
       
       <guid>https://open-archaeo.info/post/odkarchforms/</guid>
       <description>Open Data Kit forms and conversion scripts used in archaeology. Including New Mexico LA Forms, photologs, etc</description>
+    </item>
+    
+    <item>
+      <title>OHM Data Index</title>
+      <link>https://open-archaeo.info/post/ohm-data-index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/ohm-data-index/</guid>
+      <description>The data index considers a collection of research areas that broadly stroke an idea of the level of completeness in the knowledge of a given period and timeframe.</description>
     </item>
     
     <item>

@@ -124,6 +124,15 @@
     </item>
     
     <item>
+      <title>nearpresence</title>
+      <link>https://open-archaeo.info/post/nearpresence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/nearpresence/</guid>
+      <description>Implements Near Presence Cluster Analysis, a statistical method for identifying spatial clustering within presence / absence data observed in irregularly distributed areal observation units.</description>
+    </item>
+    
+    <item>
       <title>pathAAR</title>
       <link>https://open-archaeo.info/post/pathaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

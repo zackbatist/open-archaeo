@@ -43,6 +43,15 @@
     </item>
     
     <item>
+      <title>kidstats</title>
+      <link>https://open-archaeo.info/post/kidstats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/kidstats/</guid>
+      <description>Shiny application that provides subadult age estimations based on dental and skeletal development and skeletal diaphyseal metrics using pre-optimized mixed cumulative probit models.</description>
+    </item>
+    
+    <item>
       <title>long-bone-diaphyseal-CSG-Toolkit</title>
       <link>https://open-archaeo.info/post/long-bone-diaphyseal-csg-toolkit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -85,6 +94,15 @@
       
       <guid>https://open-archaeo.info/post/skullanalyzer/</guid>
       <description>A concrete way of extracting cranial mophometric features.</description>
+    </item>
+    
+    <item>
+      <title>tRauma</title>
+      <link>https://open-archaeo.info/post/trauma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/trauma/</guid>
+      <description>Interactive graphical user interface to aid in the interpretation of blunt-force rib trauma in forensic anthropology casework.</description>
     </item>
     
   </channel>

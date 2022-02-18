@@ -538,6 +538,15 @@
     </item>
     
     <item>
+      <title>dplR</title>
+      <link>https://open-archaeo.info/post/dplr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/dplr/</guid>
+      <description>Perform tree-ring analyses such as detrending, chronology building, and crossdating.</description>
+    </item>
+    
+    <item>
       <title>DroneSurveyPlanner</title>
       <link>https://open-archaeo.info/post/dronesurveyplanner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -880,6 +889,15 @@
     </item>
     
     <item>
+      <title>Mask_UAV</title>
+      <link>https://open-archaeo.info/post/mask-uav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/mask-uav/</guid>
+      <description>Software to annotate, train, using deep learning, and segment imagery data from UAVs or other platforms.</description>
+    </item>
+    
+    <item>
       <title>measure3d</title>
       <link>https://open-archaeo.info/post/measure3d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -952,6 +970,15 @@
     </item>
     
     <item>
+      <title>nearpresence</title>
+      <link>https://open-archaeo.info/post/nearpresence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/nearpresence/</guid>
+      <description>Implements Near Presence Cluster Analysis, a statistical method for identifying spatial clustering within presence / absence data observed in irregularly distributed areal observation units.</description>
+    </item>
+    
+    <item>
       <title>neotoma</title>
       <link>https://open-archaeo.info/post/neotoma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1003,6 +1030,15 @@
       
       <guid>https://open-archaeo.info/post/opencontext/</guid>
       <description>An R API client for the Open Context archaeological data repository.</description>
+    </item>
+    
+    <item>
+      <title>OpenLidarToolbox</title>
+      <link>https://open-archaeo.info/post/openlidartoolbox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/openlidartoolbox/</guid>
+      <description>A QGIS plug-in that provides one-step-processing of airborne LiDAR data from point cloud to LiDAR visualisations.</description>
     </item>
     
     <item>
@@ -1168,6 +1204,15 @@
     </item>
     
     <item>
+      <title>pXRF</title>
+      <link>https://open-archaeo.info/post/pxrf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pxrf/</guid>
+      <description>R package for processing pXRF data.</description>
+    </item>
+    
+    <item>
       <title>pyArchInit</title>
       <link>https://open-archaeo.info/post/pyarchinit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1177,12 +1222,30 @@
     </item>
     
     <item>
+      <title>pygeoroc</title>
+      <link>https://open-archaeo.info/post/pygeoroc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pygeoroc/</guid>
+      <description>Python library to access data in the GEOROC database.</description>
+    </item>
+    
+    <item>
       <title>PyPlum</title>
       <link>https://open-archaeo.info/post/pyplum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/pyplum/</guid>
       <description>Creates age-depth models using 210Pb data and autoregressive gamma process.</description>
+    </item>
+    
+    <item>
+      <title>pypofatu</title>
+      <link>https://open-archaeo.info/post/pypofatu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pypofatu/</guid>
+      <description>A python package to curate Pofatu data.</description>
     </item>
     
     <item>
@@ -1696,6 +1759,15 @@
       
       <guid>https://open-archaeo.info/post/vegan3d/</guid>
       <description>Dynamic and static 3D plotting for vegan.</description>
+    </item>
+    
+    <item>
+      <title>xDateR</title>
+      <link>https://open-archaeo.info/post/xdater/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/xdater/</guid>
+      <description>Shiny app for interactive crossdating of tree-ring data.</description>
     </item>
     
     <item>
