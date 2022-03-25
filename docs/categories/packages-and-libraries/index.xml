@@ -79,6 +79,15 @@
     </item>
     
     <item>
+      <title>archaeo-CRF</title>
+      <link>https://open-archaeo.info/post/archaeo-crf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeo-crf/</guid>
+      <description>Conditional Random Fields model for NER in Dutch Archaeology.</description>
+    </item>
+    
+    <item>
       <title>ArchaeoChron</title>
       <link>https://open-archaeo.info/post/archaeochron/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -148,6 +157,15 @@
       
       <guid>https://open-archaeo.info/post/archaeophases-marieannevibet/</guid>
       <description>Post-Processing of the Markov Chain Simulated by &amp;lsquo;ChronoModel&amp;rsquo;, &amp;lsquo;Oxcal&amp;rsquo; or &amp;lsquo;BCal&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>archchron</title>
+      <link>https://open-archaeo.info/post/archchron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archchron/</guid>
+      <description>For handling archaeological chronological data.</description>
     </item>
     
     <item>
@@ -787,6 +805,24 @@
       
       <guid>https://open-archaeo.info/post/iraq-mortar/</guid>
       <description>Enables the creation of a high quality 3D model of an archaeological artefact via process known as photo-masking.</description>
+    </item>
+    
+    <item>
+      <title>ithaca</title>
+      <link>https://open-archaeo.info/post/ithaca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/ithaca/</guid>
+      <description>Restoring and attributing ancient texts using deep neural networks.</description>
+    </item>
+    
+    <item>
+      <title>joint-disease-tool</title>
+      <link>https://open-archaeo.info/post/joint-disease-tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/joint-disease-tool/</guid>
+      <description>Interactively guides the user through a number of questions, ending in a specific pathology diagnosis.</description>
     </item>
     
     <item>
@@ -1465,6 +1501,15 @@
     </item>
     
     <item>
+      <title>SexEst</title>
+      <link>https://open-archaeo.info/post/sexest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/sexest/</guid>
+      <description>Uses machine learning models to predict the Sex of unknown skeletons based on their cranial and postcranial measurements.</description>
+    </item>
+    
+    <item>
       <title>shapAAR</title>
       <link>https://open-archaeo.info/post/shapaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1759,6 +1804,15 @@
       
       <guid>https://open-archaeo.info/post/vegan3d/</guid>
       <description>Dynamic and static 3D plotting for vegan.</description>
+    </item>
+    
+    <item>
+      <title>web_geochemistry</title>
+      <link>https://open-archaeo.info/post/web-geochemistry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/web-geochemistry/</guid>
+      <description>Visualizing XRF and NAA geochemistry concentrations.</description>
     </item>
     
     <item>

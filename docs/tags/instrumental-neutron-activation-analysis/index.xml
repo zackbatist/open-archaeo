@@ -24,5 +24,14 @@
       <description>Sourcing Archaeological Materials by Chemical Composition.</description>
     </item>
     
+    <item>
+      <title>web_geochemistry</title>
+      <link>https://open-archaeo.info/post/web-geochemistry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/web-geochemistry/</guid>
+      <description>Visualizing XRF and NAA geochemistry concentrations.</description>
+    </item>
+    
   </channel>
 </rss>

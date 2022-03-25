@@ -24,5 +24,23 @@
       <description>A template to create an archaeological catalogue from a spreadsheet using the LaTeX csvsimple package.</description>
     </item>
     
+    <item>
+      <title>c14-date-extractor</title>
+      <link>https://open-archaeo.info/post/c14-date-extractor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/c14-date-extractor/</guid>
+      <description>Script for extracting c14 dates from text.</description>
+    </item>
+    
+    <item>
+      <title>pdf-to-nested-xml</title>
+      <link>https://open-archaeo.info/post/pdf-to-nested-xml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pdf-to-nested-xml/</guid>
+      <description>Script to convert a folder of Dutch archaeological reports (PDFs) to XML files nested by section, chapter, heading.</description>
+    </item>
+    
   </channel>
 </rss>

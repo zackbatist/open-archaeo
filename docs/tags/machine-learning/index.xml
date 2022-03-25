@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine learning on open-archaeo</title>
+    <link>https://open-archaeo.info/tags/machine-learning/</link>
+    <description>Recent content in Machine learning on open-archaeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://open-archaeo.info/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>archaeo-CRF</title>
+      <link>https://open-archaeo.info/post/archaeo-crf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeo-crf/</guid>
+      <description>Conditional Random Fields model for NER in Dutch Archaeology.</description>
+    </item>
+    
+    <item>
+      <title>archeo-bertje</title>
+      <link>https://open-archaeo.info/post/archeo-bertje/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archeo-bertje/</guid>
+      <description>A Dutch BERT model for the Archaeology domain.</description>
+    </item>
+    
+  </channel>
+</rss>

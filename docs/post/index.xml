@@ -295,6 +295,15 @@
     </item>
     
     <item>
+      <title>archaeo-CRF</title>
+      <link>https://open-archaeo.info/post/archaeo-crf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeo-crf/</guid>
+      <description>Conditional Random Fields model for NER in Dutch Archaeology.</description>
+    </item>
+    
+    <item>
       <title>archaeo-db-workshop</title>
       <link>https://open-archaeo.info/post/archaeo-db-workshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -466,12 +475,30 @@
     </item>
     
     <item>
+      <title>archchron</title>
+      <link>https://open-archaeo.info/post/archchron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archchron/</guid>
+      <description>For handling archaeological chronological data.</description>
+    </item>
+    
+    <item>
       <title>archdata</title>
       <link>https://open-archaeo.info/post/archdata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/archdata/</guid>
       <description>The archdata package provides several types of data that are typically used in archaeological research</description>
+    </item>
+    
+    <item>
+      <title>archeo-bertje</title>
+      <link>https://open-archaeo.info/post/archeo-bertje/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archeo-bertje/</guid>
+      <description>A Dutch BERT model for the Archaeology domain.</description>
     </item>
     
     <item>
@@ -871,6 +898,15 @@
     </item>
     
     <item>
+      <title>c14-date-extractor</title>
+      <link>https://open-archaeo.info/post/c14-date-extractor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/c14-date-extractor/</guid>
+      <description>Script for extracting c14 dates from text.</description>
+    </item>
+    
+    <item>
       <title>c14-laboratory-code</title>
       <link>https://open-archaeo.info/post/c14-laboratory-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1237,6 +1273,15 @@
       
       <guid>https://open-archaeo.info/post/coproid/</guid>
       <description>CoproID helps you to identify the &amp;ldquo;true maker&amp;rdquo; of Illumina sequenced Coprolites/Paleofaeces by checking the microbiome composition and the endogenous DNA.</description>
+    </item>
+    
+    <item>
+      <title>Corallium Fabrica</title>
+      <link>https://open-archaeo.info/post/corallium-fabrica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/corallium-fabrica/</guid>
+      <description>Set of 3D models of coral skeletons, which may be used as a reference collection.</description>
     </item>
     
     <item>
@@ -1700,11 +1745,20 @@
     
     <item>
       <title>folio</title>
-      <link>https://open-archaeo.info/post/folio/</link>
+      <link>https://open-archaeo.info/post/folio-nfrerebeau/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/folio/</guid>
+      <guid>https://open-archaeo.info/post/folio-nfrerebeau/</guid>
       <description>Datasets for teaching quantitative approaches and modeling in archaeology and paleontology. This package provides several types of data related to broad topics (cultural evolution, radiocarbon dating, paleoenvironments, etc.), which can be used to illustrate statistical methods in the classroom (multivariate data analysis, compositional data analysis, diversity measurement, etc.).</description>
+    </item>
+    
+    <item>
+      <title>folio</title>
+      <link>https://open-archaeo.info/post/folio-tesselle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/folio-tesselle/</guid>
+      <description>Datasets for Teaching Archaeology and Palaeontology.</description>
     </item>
     
     <item>
@@ -2146,6 +2200,24 @@
       
       <guid>https://open-archaeo.info/post/italy-3d-amphitheaters/</guid>
       <description>3D amphitheatres.</description>
+    </item>
+    
+    <item>
+      <title>ithaca</title>
+      <link>https://open-archaeo.info/post/ithaca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/ithaca/</guid>
+      <description>Restoring and attributing ancient texts using deep neural networks.</description>
+    </item>
+    
+    <item>
+      <title>joint-disease-tool</title>
+      <link>https://open-archaeo.info/post/joint-disease-tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/joint-disease-tool/</guid>
+      <description>Interactively guides the user through a number of questions, ending in a specific pathology diagnosis.</description>
     </item>
     
     <item>
@@ -2977,6 +3049,15 @@
     </item>
     
     <item>
+      <title>pdf-to-nested-xml</title>
+      <link>https://open-archaeo.info/post/pdf-to-nested-xml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pdf-to-nested-xml/</guid>
+      <description>Script to convert a folder of Dutch archaeological reports (PDFs) to XML files nested by section, chapter, heading.</description>
+    </item>
+    
+    <item>
       <title>pe-dictionary</title>
       <link>https://open-archaeo.info/post/pe-dictionary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3697,6 +3778,15 @@
     </item>
     
     <item>
+      <title>SexEst</title>
+      <link>https://open-archaeo.info/post/sexest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/sexest/</guid>
+      <description>Uses machine learning models to predict the Sex of unknown skeletons based on their cranial and postcranial measurements.</description>
+    </item>
+    
+    <item>
       <title>shapAAR</title>
       <link>https://open-archaeo.info/post/shapaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -4192,6 +4282,15 @@
     </item>
     
     <item>
+      <title>tutorials</title>
+      <link>https://open-archaeo.info/post/tutorials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/tutorials/</guid>
+      <description>Tutorials on quantitative archaeology.</description>
+    </item>
+    
+    <item>
       <title>tweet-edits-to-archaeology-articles.R</title>
       <link>https://open-archaeo.info/post/tweet-edits-to-archaeology-articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -4270,6 +4369,15 @@
       
       <guid>https://open-archaeo.info/post/vitutr/</guid>
       <description>A page for video tutorials on R, specifically for archaeology</description>
+    </item>
+    
+    <item>
+      <title>web_geochemistry</title>
+      <link>https://open-archaeo.info/post/web-geochemistry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/web-geochemistry/</guid>
+      <description>Visualizing XRF and NAA geochemistry concentrations.</description>
     </item>
     
     <item>

@@ -86,6 +86,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/arbodat/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/archaeo-crf/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/archaeo-db-workshop/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/archaeo-term/</loc>
@@ -128,7 +130,11 @@
   </url><url>
     <loc>https://open-archaeo.info/post/archaide/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/archchron/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/archdata/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/archeo-bertje/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/archeofrag/</loc>
   </url><url>
@@ -228,6 +234,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/c14/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/c14-date-extractor/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/c14-laboratory-code/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/c14bazaar/</loc>
@@ -313,6 +321,8 @@
     <loc>https://open-archaeo.info/post/contamld/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/coproid/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/corallium-fabrica/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/cranial-sex-estimation-code/</loc>
   </url><url>
@@ -438,7 +448,9 @@
   </url><url>
     <loc>https://open-archaeo.info/post/fix-exif-artist/</loc>
   </url><url>
-    <loc>https://open-archaeo.info/post/folio/</loc>
+    <loc>https://open-archaeo.info/post/folio-nfrerebeau/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/folio-tesselle/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/ford-diagram/</loc>
   </url><url>
@@ -552,6 +564,10 @@
   </url><url>
     <loc>https://open-archaeo.info/post/italy-3d-amphitheaters/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/ithaca/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/joint-disease-tool/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/kairos/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/katun/</loc>
@@ -609,6 +625,8 @@
     <loc>https://open-archaeo.info/post/lumreader/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/maacgis/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/tags/machine-learning/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/madam/</loc>
   </url><url>
@@ -765,6 +783,8 @@
     <loc>https://open-archaeo.info/post/pathaar/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/pathphynder/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/pdf-to-nested-xml/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/pe-dictionary/</loc>
   </url><url>
@@ -950,6 +970,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/sex-deterrmine/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/sexest/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/shapaar/</loc>
   </url><url>
     <loc>https://open-archaeo.info/tags/shape-recognition/</loc>
@@ -1080,6 +1102,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/tridas/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/tutorials/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/tweet-edits-to-archaeology-articles/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/unconstrainedclustering/</loc>
@@ -1101,6 +1125,8 @@
     <loc>https://open-archaeo.info/tags/viewshed-analysis/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/vitutr/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/web-geochemistry/</loc>
   </url><url>
     <loc>https://open-archaeo.info/tags/writing/</loc>
   </url><url>

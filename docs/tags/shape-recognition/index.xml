@@ -106,6 +106,15 @@
     </item>
     
     <item>
+      <title>ithaca</title>
+      <link>https://open-archaeo.info/post/ithaca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/ithaca/</guid>
+      <description>Restoring and attributing ancient texts using deep neural networks.</description>
+    </item>
+    
+    <item>
       <title>murature</title>
       <link>https://open-archaeo.info/post/murature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -148,6 +157,15 @@
       
       <guid>https://open-archaeo.info/post/rock-art-transfer-learning/</guid>
       <description>Reconstructing rock art chronology with transfer learning</description>
+    </item>
+    
+    <item>
+      <title>SexEst</title>
+      <link>https://open-archaeo.info/post/sexest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/sexest/</guid>
+      <description>Uses machine learning models to predict the Sex of unknown skeletons based on their cranial and postcranial measurements.</description>
     </item>
     
     <item>
