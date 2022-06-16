@@ -151,6 +151,15 @@
     </item>
     
     <item>
+      <title>shootpoints-web-api</title>
+      <link>https://open-archaeo.info/post/shootpoints-web-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/shootpoints-web-api/</guid>
+      <description>Back-end and middleware for the ShootPoints Web total station surveying program.</description>
+    </item>
+    
+    <item>
       <title>tdar</title>
       <link>https://open-archaeo.info/post/tdar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

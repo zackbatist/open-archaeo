@@ -34,21 +34,21 @@
     </item>
     
     <item>
-      <title>Seriation</title>
-      <link>https://open-archaeo.info/post/seriation-clipo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/seriation-clipo/</guid>
-      <description>Algorithms, implementations, manuscripts, and test cases for iterative deterministic frequency seriation done by agglomeration.</description>
-    </item>
-    
-    <item>
       <title>seriation</title>
       <link>https://open-archaeo.info/post/seriation-mhahsler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/seriation-mhahsler/</guid>
       <description>R package that provides the infrastructure for ordering objects with an implementation of several seriation/sequencing/ordination techniques to reorder matrices, dissimilarity matrices, and dendrograms (see below for a full list). Also provides (optimally) reordered heatmaps, color images and clustering visualizations like dissimilarity plots, and visual assessment of cluster tendency plots (VAT and iVAT).</description>
+    </item>
+    
+    <item>
+      <title>Seriation</title>
+      <link>https://open-archaeo.info/post/seriation-clipo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/seriation-clipo/</guid>
+      <description>Algorithms, implementations, manuscripts, and test cases for iterative deterministic frequency seriation done by agglomeration.</description>
     </item>
     
     <item>

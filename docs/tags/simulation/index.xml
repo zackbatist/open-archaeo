@@ -51,5 +51,14 @@
       <description>Includes an agent-based model (ABM) of cultural transmission that simulates the three main forms of transmission bias: content bias, frequency bias, and demonstrator bias.</description>
     </item>
     
+    <item>
+      <title>villager</title>
+      <link>https://open-archaeo.info/post/villager/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/villager/</guid>
+      <description>A framework for creating and running agent based models in R. Its purpose is to provide an extensible framework where modeling can be done in native R.</description>
+    </item>
+    
   </channel>
 </rss>

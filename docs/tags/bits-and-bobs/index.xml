@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://open-archaeo.info/tags/bits-and-bobs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>anthroFun</title>
+      <link>https://open-archaeo.info/post/anthrofun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/anthrofun/</guid>
+      <description>Functions to help with the preprocessing steps in anthropological research.</description>
+    </item>
+    
+    <item>
       <title>c14-date-extractor</title>
       <link>https://open-archaeo.info/post/c14-date-extractor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -39,7 +48,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/gmamisc/</guid>
-      <description>A collection of functions that built in different points in time. The functions&#39; aim spans from univariate outlier detection, to permutation t test, permutation chi-square test, calculation of Brainerd-Robinson similarity coefficient, validation of logistic regression models, point pattern analysis, and more.</description>
+      <description>A collection of functions that built in different points in time. The functions&amp;rsquo; aim spans from univariate outlier detection, to permutation t test, permutation chi-square test, calculation of Brainerd-Robinson similarity coefficient, validation of logistic regression models, point pattern analysis, and more.</description>
+    </item>
+    
+    <item>
+      <title>juliandate</title>
+      <link>https://open-archaeo.info/post/juliandate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/juliandate/</guid>
+      <description>Simple conversions between Julian Dates and Julian/Gregorian calendar dates, supporting ancient dates.</description>
     </item>
     
     <item>
@@ -106,6 +124,15 @@
     </item>
     
     <item>
+      <title>Sériation de matrice en présence/absence</title>
+      <link>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</guid>
+      <description>Excel file containing macro commands making it possible to transform a 1/0 table (presence / absence) into a graphic matrix treated by matrix permutations; it is possible to take into account the uncertain presence of a character. The instructions for use are contained in the file.</description>
+    </item>
+    
+    <item>
       <title>soiltexture</title>
       <link>https://open-archaeo.info/post/soiltexture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -124,12 +151,12 @@
     </item>
     
     <item>
-      <title>Sériation de matrice en présence/absence</title>
-      <link>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</link>
+      <title>timeperiod2daterange</title>
+      <link>https://open-archaeo.info/post/timeperiod2daterange/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</guid>
-      <description>Excel file containing macro commands making it possible to transform a 1/0 table (presence / absence) into a graphic matrix treated by matrix permutations; it is possible to take into account the uncertain presence of a character. The instructions for use are contained in the file.</description>
+      <guid>https://open-archaeo.info/post/timeperiod2daterange/</guid>
+      <description>Converts time period entities to standardised date ranges.</description>
     </item>
     
   </channel>

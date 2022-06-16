@@ -76,6 +76,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/antcaller/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/anthrofun/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/anthropmmd/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/aoristaar/</loc>
@@ -104,23 +106,23 @@
   </url><url>
     <loc>https://open-archaeo.info/post/archaeological-ethics-database/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/archaeological-catalogue-from-csv-spreadsheet/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/archaeological-object-sharing/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/archaeological-sna-r-demo/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/archaeological-survey-location-collector/</loc>
   </url><url>
-    <loc>https://open-archaeo.info/post/archaeological-catalogue-from-csv-spreadsheet/</loc>
-  </url><url>
     <loc>https://open-archaeo.info/post/archaeology/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/archaeology-on-wikipedia/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/archaeology-data-service/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/archaeology-grand-challenges/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/archaeology-object-data-collector-app/</loc>
-  </url><url>
-    <loc>https://open-archaeo.info/post/archaeology-on-wikipedia/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/archaeologyadventure/</loc>
   </url><url>
@@ -139,6 +141,8 @@
     <loc>https://open-archaeo.info/post/archeofrag/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/arches/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/arches-via-docker/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/archiedb/</loc>
   </url><url>
@@ -228,6 +232,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/bootstrap-correspondence-analysis/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/bradypus/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/brainerd-robinson-similarity-coefficient-and-sampling-error-assessment/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/bridging-the-gap-encode-database/</loc>
@@ -268,11 +274,11 @@
   </url><url>
     <loc>https://open-archaeo.info/post/ceramatch/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/ceramic-dashboard/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/ceramic-computation/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/ceramic-frequency-date-plot/</loc>
-  </url><url>
-    <loc>https://open-archaeo.info/post/ceramic-dashboard/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/ceramicapportioning/</loc>
   </url><url>
@@ -436,6 +442,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/fastmarching/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/fellingdater/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/fiche-stratigraphique-nume%CC%81rique-fsn/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/field-photographs/</loc>
@@ -568,6 +576,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/joint-disease-tool/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/juliandate/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/kairos/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/katun/</loc>
@@ -639,6 +649,8 @@
     <loc>https://open-archaeo.info/post/map-of-ancient-egypt/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/mapdamage/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/mapofcomputationalarchaeology/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/mapping-iterative-assembler/</loc>
   </url><url>
@@ -748,9 +760,9 @@
   </url><url>
     <loc>https://open-archaeo.info/post/osteometric-sorting/</loc>
   </url><url>
-    <loc>https://open-archaeo.info/post/outliner-yesdavid/</loc>
-  </url><url>
     <loc>https://open-archaeo.info/post/outliner-benmarwick/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/outliner-yesdavid/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/oxcaar/</loc>
   </url><url>
@@ -790,11 +802,11 @@
   </url><url>
     <loc>https://open-archaeo.info/tags/photogrammetry/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/photogrammetry-datasets/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/photogrammetry-data-collection/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/photogrammetry-object-scannner/</loc>
-  </url><url>
-    <loc>https://open-archaeo.info/post/photogrammetry-datasets/</loc>
   </url><url>
     <loc>https://open-archaeo.info/tags/photography/</loc>
   </url><url>
@@ -870,6 +882,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/quantaar/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/quantatools/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/quari/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/r-scripts/</loc>
@@ -888,6 +902,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/rapanui-radiocarbon/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/rarcheo/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/rbacon/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/rcarb/</loc>
@@ -900,6 +916,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/recexcavaar/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/recmod/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/rekrei/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/rgpr/</loc>
@@ -907,6 +925,10 @@
     <loc>https://open-archaeo.info/post/rintchron/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/rlummodel/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/rock-art-radnet/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/rock-art-ratopoviz/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/rock-art-transfer-learning/</loc>
   </url><url>
@@ -960,11 +982,13 @@
   </url><url>
     <loc>https://open-archaeo.info/post/senscape/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/seriation-mhahsler/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/tags/seriation/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/seriation-clipo/</loc>
   </url><url>
-    <loc>https://open-archaeo.info/post/seriation-mhahsler/</loc>
+    <loc>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/seriographe-eppm/</loc>
   </url><url>
@@ -981,6 +1005,10 @@
     <loc>https://open-archaeo.info/post/shiny-tldating/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/shkrdata/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/shootpoints-web-api/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/shootpoints-web-frontend/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/signboardr/</loc>
   </url><url>
@@ -1040,8 +1068,6 @@
   </url><url>
     <loc>https://open-archaeo.info/post/synthkat/</loc>
   </url><url>
-    <loc>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</loc>
-  </url><url>
     <loc>https://open-archaeo.info/post/tabula/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/tachy2gis/</loc>
@@ -1071,6 +1097,8 @@
     <loc>https://open-archaeo.info/post/the-southwestern-taphonomic-protocol/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/tidypaleo/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/timeperiod2daterange/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/tipom/</loc>
   </url><url>
@@ -1123,6 +1151,8 @@
     <loc>https://open-archaeo.info/post/vessel-measuring-tool/</loc>
   </url><url>
     <loc>https://open-archaeo.info/tags/viewshed-analysis/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/villager/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/vitutr/</loc>
   </url><url>

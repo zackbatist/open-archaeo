@@ -133,6 +133,15 @@
     </item>
     
     <item>
+      <title>chronup</title>
+      <link>https://open-archaeo.info/post/chronup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/chronup/</guid>
+      <description>Tools for chronological uncertainty propagation.</description>
+    </item>
+    
+    <item>
       <title>clam</title>
       <link>https://open-archaeo.info/post/clam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -169,12 +178,30 @@
     </item>
     
     <item>
+      <title>fellingDateR</title>
+      <link>https://open-archaeo.info/post/fellingdater/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/fellingdater/</guid>
+      <description>Compute and combine felling date estimates for historical tree-ring series with (incomplete) sapwood.</description>
+    </item>
+    
+    <item>
       <title>GeoChronR</title>
       <link>https://open-archaeo.info/post/geochronr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/geochronr/</guid>
       <description>An integrated framework that allows scientists to generate state-of-the-art age models for their records, create time-uncertain ensembles of their data, analyze those ensembles with a number of commonly-used techniques, and visualize their results in an intuitive way.</description>
+    </item>
+    
+    <item>
+      <title>juliandate</title>
+      <link>https://open-archaeo.info/post/juliandate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/juliandate/</guid>
+      <description>Simple conversions between Julian Dates and Julian/Gregorian calendar dates, supporting ancient dates.</description>
     </item>
     
     <item>
@@ -241,6 +268,15 @@
     </item>
     
     <item>
+      <title>recmod</title>
+      <link>https://open-archaeo.info/post/recmod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/recmod/</guid>
+      <description>Tools for estimating parameters for Radiocarbon-dated Event Count (REC) Models.</description>
+    </item>
+    
+    <item>
       <title>rock-art-transfer-learning</title>
       <link>https://open-archaeo.info/post/rock-art-transfer-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -265,6 +301,15 @@
       
       <guid>https://open-archaeo.info/post/stratigraphr/</guid>
       <description>R package for archaeological stratigraphy and chronological sequences.</description>
+    </item>
+    
+    <item>
+      <title>timeperiod2daterange</title>
+      <link>https://open-archaeo.info/post/timeperiod2daterange/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/timeperiod2daterange/</guid>
+      <description>Converts time period entities to standardised date ranges.</description>
     </item>
     
     <item>

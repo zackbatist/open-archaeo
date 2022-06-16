@@ -25,6 +25,15 @@
     </item>
     
     <item>
+      <title>anthroFun</title>
+      <link>https://open-archaeo.info/post/anthrofun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/anthrofun/</guid>
+      <description>Functions to help with the preprocessing steps in anthropological research.</description>
+    </item>
+    
+    <item>
       <title>Archaeological_Catalogue_from_CSV_Spreadsheet</title>
       <link>https://open-archaeo.info/post/archaeological-catalogue-from-csv-spreadsheet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -256,6 +265,15 @@
       
       <guid>https://open-archaeo.info/post/grups/</guid>
       <description>A collection of Python and R scripts that can be used to simulate the pairwise genetic distances between human individuals in a provided test pedigree.</description>
+    </item>
+    
+    <item>
+      <title>juliandate</title>
+      <link>https://open-archaeo.info/post/juliandate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/juliandate/</guid>
+      <description>Simple conversions between Julian Dates and Julian/Gregorian calendar dates, supporting ancient dates.</description>
     </item>
     
     <item>
@@ -520,6 +538,15 @@
     </item>
     
     <item>
+      <title>Sériation de matrice en présence/absence</title>
+      <link>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</guid>
+      <description>Excel file containing macro commands making it possible to transform a 1/0 table (presence / absence) into a graphic matrix treated by matrix permutations; it is possible to take into account the uncertain presence of a character. The instructions for use are contained in the file.</description>
+    </item>
+    
+    <item>
       <title>Sex.DetERRmine</title>
       <link>https://open-archaeo.info/post/sex-deterrmine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -565,12 +592,12 @@
     </item>
     
     <item>
-      <title>Sériation de matrice en présence/absence</title>
-      <link>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</link>
+      <title>timeperiod2daterange</title>
+      <link>https://open-archaeo.info/post/timeperiod2daterange/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</guid>
-      <description>Excel file containing macro commands making it possible to transform a 1/0 table (presence / absence) into a graphic matrix treated by matrix permutations; it is possible to take into account the uncertain presence of a character. The instructions for use are contained in the file.</description>
+      <guid>https://open-archaeo.info/post/timeperiod2daterange/</guid>
+      <description>Converts time period entities to standardised date ranges.</description>
     </item>
     
     <item>

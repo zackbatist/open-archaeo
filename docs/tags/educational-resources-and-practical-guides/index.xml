@@ -264,7 +264,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/odate/</guid>
-      <description>An introduction to the issues, methods, and techniques of digital archaeology, integrated with working code and virtual computing environments or &amp;lsquo;notebooks&amp;rsquo; written in Python or R.</description>
+      <description>An introduction to the issues, methods, and techniques of digital archaeology, integrated with working code and virtual computing environments or &amp;rsquo;notebooks&amp;rsquo; written in Python or R.</description>
     </item>
     
     <item>
@@ -310,6 +310,15 @@
       
       <guid>https://open-archaeo.info/post/pred-map-tut/</guid>
       <description>A tutorial for (archaeological) predictive mapping using r</description>
+    </item>
+    
+    <item>
+      <title>rarcheo</title>
+      <link>https://open-archaeo.info/post/rarcheo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rarcheo/</guid>
+      <description>Online textbook about how tackle a wide range of problems using R.</description>
     </item>
     
     <item>

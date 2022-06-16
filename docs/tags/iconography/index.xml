@@ -16,6 +16,24 @@
     </item>
     
     <item>
+      <title>rock-art-radnet</title>
+      <link>https://open-archaeo.info/post/rock-art-radnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rock-art-radnet/</guid>
+      <description>Rock art object detection model.</description>
+    </item>
+    
+    <item>
+      <title>rock-art-ratopoviz</title>
+      <link>https://open-archaeo.info/post/rock-art-ratopoviz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rock-art-ratopoviz/</guid>
+      <description>Create visualizations from laserscans.</description>
+    </item>
+    
+    <item>
       <title>rock-art-transfer-learning</title>
       <link>https://open-archaeo.info/post/rock-art-transfer-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

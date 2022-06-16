@@ -84,7 +84,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/cainterprtools/</guid>
-      <description>R package to help interpreting Correspondence Analysis&#39; results.</description>
+      <description>R package to help interpreting Correspondence Analysis&amp;rsquo; results.</description>
     </item>
     
     <item>
@@ -111,7 +111,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/chronup/</guid>
-      <description>NA</description>
+      <description>Tools for chronological uncertainty propagation.</description>
     </item>
     
     <item>
@@ -268,6 +268,15 @@
     </item>
     
     <item>
+      <title>quantatools</title>
+      <link>https://open-archaeo.info/post/quantatools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/quantatools/</guid>
+      <description>Finding quantum in archaeological data using cosine quantogram and related statistical methods.</description>
+    </item>
+    
+    <item>
       <title>rdss</title>
       <link>https://open-archaeo.info/post/rdss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -277,21 +286,21 @@
     </item>
     
     <item>
-      <title>Seriation</title>
-      <link>https://open-archaeo.info/post/seriation-clipo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/seriation-clipo/</guid>
-      <description>Algorithms, implementations, manuscripts, and test cases for iterative deterministic frequency seriation done by agglomeration.</description>
-    </item>
-    
-    <item>
       <title>seriation</title>
       <link>https://open-archaeo.info/post/seriation-mhahsler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/seriation-mhahsler/</guid>
       <description>R package that provides the infrastructure for ordering objects with an implementation of several seriation/sequencing/ordination techniques to reorder matrices, dissimilarity matrices, and dendrograms (see below for a full list). Also provides (optimally) reordered heatmaps, color images and clustering visualizations like dissimilarity plots, and visual assessment of cluster tendency plots (VAT and iVAT).</description>
+    </item>
+    
+    <item>
+      <title>Seriation</title>
+      <link>https://open-archaeo.info/post/seriation-clipo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/seriation-clipo/</guid>
+      <description>Algorithms, implementations, manuscripts, and test cases for iterative deterministic frequency seriation done by agglomeration.</description>
     </item>
     
     <item>

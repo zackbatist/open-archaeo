@@ -16,6 +16,15 @@
     </item>
     
     <item>
+      <title>fellingDateR</title>
+      <link>https://open-archaeo.info/post/fellingdater/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/fellingdater/</guid>
+      <description>Compute and combine felling date estimates for historical tree-ring series with (incomplete) sapwood.</description>
+    </item>
+    
+    <item>
       <title>MtreeRing</title>
       <link>https://open-archaeo.info/post/mtreering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

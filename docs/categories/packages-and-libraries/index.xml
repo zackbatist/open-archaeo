@@ -336,7 +336,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/cainterprtools/</guid>
-      <description>R package to help interpreting Correspondence Analysis&#39; results.</description>
+      <description>R package to help interpreting Correspondence Analysis&amp;rsquo; results.</description>
     </item>
     
     <item>
@@ -408,7 +408,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/chronup/</guid>
-      <description>NA</description>
+      <description>Tools for chronological uncertainty propagation.</description>
     </item>
     
     <item>
@@ -525,7 +525,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/deeptime/</guid>
-      <description>Extends the functionality of other plotting packages like &amp;lsquo;ggplot2&amp;rsquo; and &amp;lsquo;lattice&amp;rsquo; to help facilitate the plotting of data over long time intervals, including, but not limited to, geological, evolutionary, and ecological data.</description>
+      <description>Extends the functionality of other plotting packages like &amp;lsquo;ggplot2&amp;rsquo; and &amp;rsquo;lattice&amp;rsquo; to help facilitate the plotting of data over long time intervals, including, but not limited to, geological, evolutionary, and ecological data.</description>
     </item>
     
     <item>
@@ -637,6 +637,15 @@
     </item>
     
     <item>
+      <title>fellingDateR</title>
+      <link>https://open-archaeo.info/post/fellingdater/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/fellingdater/</guid>
+      <description>Compute and combine felling date estimates for historical tree-ring series with (incomplete) sapwood.</description>
+    </item>
+    
+    <item>
       <title>field-photographs</title>
       <link>https://open-archaeo.info/post/field-photographs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -696,7 +705,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/gmamisc/</guid>
-      <description>A collection of functions that built in different points in time. The functions&#39; aim spans from univariate outlier detection, to permutation t test, permutation chi-square test, calculation of Brainerd-Robinson similarity coefficient, validation of logistic regression models, point pattern analysis, and more.</description>
+      <description>A collection of functions that built in different points in time. The functions&amp;rsquo; aim spans from univariate outlier detection, to permutation t test, permutation chi-square test, calculation of Brainerd-Robinson similarity coefficient, validation of logistic regression models, point pattern analysis, and more.</description>
     </item>
     
     <item>
@@ -1087,21 +1096,21 @@
     </item>
     
     <item>
-      <title>outlineR</title>
-      <link>https://open-archaeo.info/post/outliner-yesdavid/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/outliner-yesdavid/</guid>
-      <description>An R package to derive outline shapes from (multiple) artefacts on JPEG images.</description>
-    </item>
-    
-    <item>
       <title>outliner</title>
       <link>https://open-archaeo.info/post/outliner-benmarwick/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/outliner-benmarwick/</guid>
       <description>A simple app for tracing outlines of an irregular shape and exporting the coordinates of the outline.</description>
+    </item>
+    
+    <item>
+      <title>outlineR</title>
+      <link>https://open-archaeo.info/post/outliner-yesdavid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/outliner-yesdavid/</guid>
+      <description>An R package to derive outline shapes from (multiple) artefacts on JPEG images.</description>
     </item>
     
     <item>
@@ -1339,6 +1348,15 @@
     </item>
     
     <item>
+      <title>quantatools</title>
+      <link>https://open-archaeo.info/post/quantatools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/quantatools/</guid>
+      <description>Finding quantum in archaeological data using cosine quantogram and related statistical methods.</description>
+    </item>
+    
+    <item>
       <title>rbacon</title>
       <link>https://open-archaeo.info/post/rbacon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1384,6 +1402,15 @@
     </item>
     
     <item>
+      <title>recmod</title>
+      <link>https://open-archaeo.info/post/recmod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/recmod/</guid>
+      <description>Tools for estimating parameters for Radiocarbon-dated Event Count (REC) Models.</description>
+    </item>
+    
+    <item>
       <title>RGPR</title>
       <link>https://open-archaeo.info/post/rgpr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1408,6 +1435,24 @@
       
       <guid>https://open-archaeo.info/post/rlummodel/</guid>
       <description>Solving Ordinary Differential Equations to Understand Luminescence</description>
+    </item>
+    
+    <item>
+      <title>rock-art-radnet</title>
+      <link>https://open-archaeo.info/post/rock-art-radnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rock-art-radnet/</guid>
+      <description>Rock art object detection model.</description>
+    </item>
+    
+    <item>
+      <title>rock-art-ratopoviz</title>
+      <link>https://open-archaeo.info/post/rock-art-ratopoviz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rock-art-ratopoviz/</guid>
+      <description>Create visualizations from laserscans.</description>
     </item>
     
     <item>
@@ -1474,21 +1519,21 @@
     </item>
     
     <item>
-      <title>Seriation</title>
-      <link>https://open-archaeo.info/post/seriation-clipo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/seriation-clipo/</guid>
-      <description>Algorithms, implementations, manuscripts, and test cases for iterative deterministic frequency seriation done by agglomeration.</description>
-    </item>
-    
-    <item>
       <title>seriation</title>
       <link>https://open-archaeo.info/post/seriation-mhahsler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/seriation-mhahsler/</guid>
       <description>R package that provides the infrastructure for ordering objects with an implementation of several seriation/sequencing/ordination techniques to reorder matrices, dissimilarity matrices, and dendrograms (see below for a full list). Also provides (optimally) reordered heatmaps, color images and clustering visualizations like dissimilarity plots, and visual assessment of cluster tendency plots (VAT and iVAT).</description>
+    </item>
+    
+    <item>
+      <title>Seriation</title>
+      <link>https://open-archaeo.info/post/seriation-clipo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/seriation-clipo/</guid>
+      <description>Algorithms, implementations, manuscripts, and test cases for iterative deterministic frequency seriation done by agglomeration.</description>
     </item>
     
     <item>
@@ -1804,6 +1849,15 @@
       
       <guid>https://open-archaeo.info/post/vegan3d/</guid>
       <description>Dynamic and static 3D plotting for vegan.</description>
+    </item>
+    
+    <item>
+      <title>villager</title>
+      <link>https://open-archaeo.info/post/villager/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/villager/</guid>
+      <description>A framework for creating and running agent based models in R. Its purpose is to provide an extensible framework where modeling can be done in native R.</description>
     </item>
     
     <item>
