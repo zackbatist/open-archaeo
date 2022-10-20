@@ -789,6 +789,12 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
   * tags: [Data collection and management]
 ----
 
+* **idai-field**: Collaborative field research documentation system
+  * by: dainst (Deutsches Archäologisches Institut)
+  * links: [<a href='https://github.com/dainst/idai-field/wiki' target='_blank'>GitHub</a>]
+  * tags: [Data collection and management]
+----
+
 * **inclusions**: Shortcodes to describe inclusions in ceramic bodies
   * by: steko
   * links: [<a href='https://github.com/steko/inclusions' target='_blank'>GitHub</a>] [<a href='https://steko.github.io/inclusions/' target='_blank'>Website</a>]
