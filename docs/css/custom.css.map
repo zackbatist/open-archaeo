@@ -3,7 +3,7 @@
 	"file": "custom.css",
 	"sourceRoot": "/Users/zackbatist/Dropbox/open-archaeo",
 	"sources": [
-		"stdin"
+		"assets/css/custom.css"
 	],
 	"sourcesContent": [
 		"/* Sidebar menu */\n.sidebar {\n    overflow-y: scroll;\n}\n\n.sidebar-taxonomy ul {\n    display: flex;\n    flex-flow: row wrap;\n    justify-content: center;\n    margin: 0;\n}\n\n/* Entries */\n.openarchaeo-item {\n  margin: 0 0 2em 0;\n}\n\n.openarchaeo-item-name,\n.openarchaeo-item-description,\n.openarchaeo-item-description p {\n  display: inline;\n}\n\n.openarchaeo-item-name {\n  font-weight: bold;\n}\n\n.openarchaeo-item-name:after {\n  content: \":\";\n}\n"

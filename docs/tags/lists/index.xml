@@ -79,6 +79,15 @@
     </item>
     
     <item>
+      <title>Mastodon-Archaeology</title>
+      <link>https://open-archaeo.info/post/mastodon-archaeology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/mastodon-archaeology/</guid>
+      <description>Simple web app that helps to bulk follow archaeologists on the FOSS microblogging service Mastodon.</description>
+    </item>
+    
+    <item>
       <title>Open Access Archaeology</title>
       <link>https://open-archaeo.info/post/open-access-archaeology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
