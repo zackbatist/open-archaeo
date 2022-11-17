@@ -55,4 +55,6 @@ open_archaeo %>%
   pmap(generate_post_md, path = "content/post/") %>% 
   invisible()
 
+# Update readme
+source("R/csv2readme.R")
 
