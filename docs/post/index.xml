@@ -331,6 +331,15 @@
     </item>
     
     <item>
+      <title>ArchaeoAstroInsight</title>
+      <link>https://open-archaeo.info/post/archaeoastroinsight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeoastroinsight/</guid>
+      <description>QGIS Python script/plugin for computing azimuth, horizon altitude, and celestial declination of a specific bearing indicated by a line segment selected by a user.</description>
+    </item>
+    
+    <item>
       <title>ArchaeoChron</title>
       <link>https://open-archaeo.info/post/archaeochron/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3869,10 +3878,10 @@
     
     <item>
       <title>Sériation de matrice en présence/absence</title>
-      <link>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</link>
+      <link>https://open-archaeo.info/post/s%C3%A9riation-de-matrice-en-pr%C3%A9sence-absence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</guid>
+      <guid>https://open-archaeo.info/post/s%C3%A9riation-de-matrice-en-pr%C3%A9sence-absence/</guid>
       <description>Excel file containing macro commands making it possible to transform a 1/0 table (presence / absence) into a graphic matrix treated by matrix permutations; it is possible to take into account the uncertain presence of a character. The instructions for use are contained in the file.</description>
     </item>
     
