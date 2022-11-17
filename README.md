@@ -93,6 +93,12 @@ See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) fo
   * tags: [Educational resources and practical guides]
 ----
 
+* **ArchaeoAstroInsight**: QGIS Python script/plugin for computing azimuth, horizon altitude, and celestial declination of a specific bearing indicated by a line segment selected by a user.
+  * by: marcfrincu
+  * links: [<a href="https://github.com/marcfrincu/ArchaeoAstroInsight" target ="_blank">GitHub</a>]
+  * tags:  [QGIS, Archaeoastronomy]
+----
+
 * **ArchaeoChron**: Bayesian Modeling of Archaeological Chronologies.
   * by: ArchaeoStat
   * links: [<a href='https://github.com/ArchaeoStat/ArchaeoPhases' target='_blank'>GitHub</a>]
