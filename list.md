@@ -1,12 +1,3 @@
-# Open Archaeology Software & Resources
-A list of open source archaeological software and resources
-
-See [ToDo.md](https://github.com/zackbatist/open-archaeo/blob/master/ToDo.md) for a list of tools or resources that are in demand, but which currently do not exist or need to be significantly improved. See [tags.md](https://github.com/zackbatist/open-archaeo/blob/master/tags.md) for a description of all tags.
-
-This readme and the [web interface](https://open-archaeo.info) are automatically generated from data stored in [open-archaeo.csv](https://github.com/zackbatist/open-archaeo/blob/master/open-archaeo.csv). Please update the csv when submitting a pull request.
-
----
-
 * **3D libraries of ships**: A 3D library of ancient (classical era) ships.
   * by: iMare Culture
   * links: [Website](https://imareculture.eu/downloads/project-tools/3d-libraries-of-ships/)
@@ -3590,5 +3581,4 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * tags: [Zooarchaeology]
   
 ----
-
 
