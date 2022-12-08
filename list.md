@@ -1,3611 +1,3632 @@
 * **3D libraries of ships**: A 3D library of ancient (classical era) ships.
   * by: iMare Culture
-  * links: [GitHub]()           [Website](https://imareculture.eu/downloads/project-tools/3d-libraries-of-ships/)
+  * links: [Website](https://imareculture.eu/downloads/project-tools/3d-libraries-of-ships/)
   * tags: [3D modelling] and [Datasets]
   
 ----
 
 * **3d-ceramics**: 3d models of archaeological ceramics.
   * by: sfsheath
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/sfsheath/3d-ceramics)
   * tags: [3D modelling]
   
 ----
 
 * **3D-ORGAN**: 3D reconstruction of incomplete archaeological objects using a generative adversarial network (GAN).
   * by: Renato Hermoza and Ivan Sipiran
-  * links: [GitHub]()            [DOI](https://doi.org/10.1145/3208159.3208173)
+  * links: [GitHub](https://github.com/renato145/3D-ORGAN)            [DOI](https://doi.org/10.1145/3208159.3208173)
   * tags: [3D modelling]
   
 ----
 
 * **A bibliography of public archaeology and archaeological heritage management in the Mediterranean**: A collection of references about public archaeology and archaeological heritage management in/from the Mediterranean.
   * by: Jaime 	Almansa S�nchez
-  * links: [GitHub]()           [Website](https://digital.csic.es/handle/10261/223340)
+  * links: [Website](https://digital.csic.es/handle/10261/223340)
   * tags: [Bibliography] and [Public archaeology]
   
 ----
 
 * **A Mobile Data-Collection Workflow for Archaeologists**: A list of tools and resource for data collection and processing in the field.
   * by: isaacullah
-  * links: [GitHub]()       [Blog Post](http://isaacullah.github.io/A-mobile-field-data-collection-workflow/)
+  * links: [Blog Post](http://isaacullah.github.io/A-mobile-field-data-collection-workflow/)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **a-scientific-computing-environment-for-archaeology.txt**: Scientific Computing Environment for archaeology: Installing R, Rstudio and other things on a lightweight Linux in a VirtualBox virtual machine
   * by: benmarwick
-  * links: [GitHub]() [Gist](https://gist.github.com/benmarwick/11204658)
+  * links: [Gist](https://gist.github.com/benmarwick/11204658)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **ABC of Archaeobotanical Open Science**: A list of terms related to open archaeobotanical science.
   * by: ekaroune
-  * links: [GitHub]()       [Blog Post](https://ekaroune.github.io/The-Open-Archaeobotanist/abcofarchaeobotanicalopenscience/)
+  * links: [Blog Post](https://ekaroune.github.io/The-Open-Archaeobotanist/abcofarchaeobotanicalopenscience/)
   * tags: [Lists] and [Educational resources and practical guides]
   
 ----
 
 * **ABM tutorials**: A collection of tutorial on agent-based modelling for archaeologists.
   * by: izaromanowska
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/izaromanowska/ABM_tutorials)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **ABMA**: code repository and website for Agent-Based Modeling for Archaeology.
   * by: SantaFeInstitute
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/SantaFeInstitute/ABMA)
   * tags: [Educational resources and practical guides] and [Simulation]
   
 ----
 
 * **aca_data_collection**: collection of archaeological data for training purposes.
   * by: archca
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/archca/aca_data_collection)
   * tags: [Datasets]
   
 ----
 
 * **ADMUR**: Tools to directly model underlying population dynamics using chronological datasets (radiocarbon and other) with a variety of models, including Continuous Piecewise Linear (CPL) model framework, and model comparison framework using BIC. Package also calibrates 14C samples, and generates Summed Probability Distributions (SPD). CPL modelling directly estimates the most likely population trajectory given a dataset, using SPD simulation analysis to generate a Goodness-of-fit test for the best selected model.
   * by: Adrian Timpson, Ramiro Barberena, Mark G. Thomas, César Méndez and Katie Manning
-  * links: [GitHub]()            [DOI](https://doi.org/10.1098/rstb.2019.0723)
+  * links: [GitHub](https://github.com/UCL/ADMUR)            [DOI](https://doi.org/10.1098/rstb.2019.0723)
   * tags: [Chronological modelling]
   
 ----
 
 * **aDRAC**: The Archive des datations radiocarbones d'Afrique centrale (archive for radiocarbon datings from Central Africa, aDRAC) provides a catalogue of available radiocarbon dates from Central Africa. The data cover published radiocarbon dates and essential metadata for each date as well as available references.
   * by: dirkseidensticker
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/dirkseidensticker/aDRAC)
   * tags: [Datasets] and [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **adrsm**: A tool designed to simulate the paired-end sequencing of a metagenomic community.
   * by: maxibor
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/maxibor/adrsm)
   * tags: 
   
 ----
 
 * **AIDA**: Dataset of 4,010 radiocarbon dates from Italy from Late Mesolithic until Late Antiquity.
   * by: apalmisano82
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/apalmisano82/AIDA)
   * tags: [Radiocarbon dating, calibration and sequencing] and [Datasets]
   
 ----
 
 * **AIS**: Archaeological Information System
   * by: andredebuisne
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/andredebuisne/AIS)
   * tags: [Data management]
   
 ----
 
 * **Al2O3_AnalysisApp**: Shiny app to analyse Al2O3:C measurements
   * by: RLumSK
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/crp2a/Al2O3_AnalysisApp)
   * tags: [Luminescence dating]
   
 ----
 
 * **allen-relations**: Allen relations from Bayesian calibration: R function to compare two indefinite intervals produced by a Bayesian calibration using the Allen algebra.
   * by: tsdye
-  * links: [GitHub]()       [Blog Post](http://tsdye.online/tsdye/posts/allen-relations/)
+  * links: [GitHub](https://github.com/tsdye/allen-relations)       [Blog Post](http://tsdye.online/tsdye/posts/allen-relations/)
   * tags: [Chronological modelling]
   
 ----
 
 * **allen.archaeology**: Allen's Interval Algebra for Archaeologists.
   * by: tsdye
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/tsdye/allen.archaeology)
   * tags: [Statistical analysis]
   
 ----
 
 * **Alligator**: A Web tool for converting CAs with dating information to relative time intervals as RDF.
   * by: florianthiery and Allard Mees
-  * links: [GitHub]()           [Website](https://java-dev.rgzm.de/webapp_alligator/)
+  * links: [GitHub](https://github.com/RGZM/alligator)           [Website](https://java-dev.rgzm.de/webapp_alligator/)
   * tags: [Statistical analysis] and [Schemas and ontologies]
   
 ----
 
 * **analogue**: Analogue and weighted averaging methods for palaeoecology.
   * by: gavinsimpson
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/gavinsimpson/analogue)
   * tags: [Palaeobotany]
   
 ----
 
 * **Analysing Stable Isotope Data**: Tutorial on how to visualise, analyse and interpret  stable isotope data
   * by: Brian Hayden
-  * links: [GitHub]()           [Website](https://sites.google.com/view/brianhayden/teaching/analyzing-stable-isotope-data)
+  * links: [Website](https://sites.google.com/view/brianhayden/teaching/analyzing-stable-isotope-data)
   * tags: [Educational resources and practical guides], [Stable isotope analysis] and [Diagrams and visualizations]
   
 ----
 
 * **Analysing-Archaeological-Radiocabon-Ages-Using-R**: Practice some techniques for analysing archaeological radiocabon ages using R.
   * by: benmarwick
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/benmarwick/Analysing-Archaeological-Radiocabon-Ages-Using-R)
   * tags: [Radiocarbon dating, calibration and sequencing] and [Educational resources and practical guides]
   
 ----
 
 * **anatolia-bibliography-map**: The goal of this project is to spatially locate bibliographic resources regarding the archaeology of Anatolia (modern Turkey). This takes the bibliography of archaeology to the next level by showing not only the topics and authors, but where the archaeological research is being done.
   * by: anatolian
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/anatolian/anatolia-bibliography-map)
   * tags: [Writing]
   
 ----
 
 * **ancient-ceramic-kilns**: GeoJSON files for ceramic kilns of the ancient world, no chronological/spatial boundaries
   * by: steko
-  * links: [GitHub]()          [Codeberg](https://codeberg.org/steko/ancient-ceramic-kilns)
+  * links: [Codeberg](https://codeberg.org/steko/ancient-ceramic-kilns)
   * tags: [Datasets]
   
 ----
 
 * **AncientMetagenomeDir**: Repository containing lists of all published ancient metagenome samples (and related).
   * by: SPAAM-community
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/SPAAM-community/AncientMetagenomeDir)
   * tags: 
   
 ----
 
 * **anfo**: The ANFO ancient DNA mapper.
   * by: mpieva
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/mpieva/anfo)
   * tags: 
   
 ----
 
 * **angsd**: Program for analysing next generation sequencing data.
   * by: ANGSD
-  * links: [GitHub]()           [Website](http://www.popgen.dk/angsd/index.php/ANGSD)
+  * links: [GitHub](https://github.com/ANGSD/angsd)           [Website](http://www.popgen.dk/angsd/index.php/ANGSD)
   * tags: 
   
 ----
 
 * **AntCaller**: SNP calling and genotyping for damaged DNA.
   * by: BoyanZhou
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/BoyanZhou/AntCaller)
   * tags: 
   
 ----
 
 * **anthroFun**: Functions to help with the preprocessing steps in anthropological research.
   * by: ElaineYChu
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ElaineYChu/anthroFun)
   * tags: [Bits and bobs]
   
 ----
 
 * **anthropmmd**: An R package for Smith's Mean Measure of Divergence (MMD), with a graphical user interface, facilities for trait selection and graphical representations.
   * by: frederic-santos
-  * links: [GitHub]()            [DOI](https://doi.org/10.1002/ajpa.23336)
+  * links: [GitHub](https://github.com/frederic-santos/anthropmmd)            [DOI](https://doi.org/10.1002/ajpa.23336)
   * tags: [Cultural evolution] and [Statistical analysis]
   
 ----
 
 * **aoristAAR**: A R package for the aoristic analysis of archaeological data.
   * by: ISAAKiel
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ISAAKiel/aoristAAR)
   * tags: [Chronological modelling]
   
 ----
 
 * **aoristic**: R package for aoristic analysis; the goal of aoristic is to make sense of temporally vague data.
   * by: jerryratcliffe
-  * links: [GitHub]()        [CRAN](https://CRAN.R-project.org/package=aoristic)
+  * links: [GitHub](https://github.com/jerryratcliffe/aoristic)        [CRAN](https://CRAN.R-project.org/package=aoristic)
   * tags: [Chronological modelling]
   
 ----
 
 * **ArboDat**: A program package for registering and importing data of archaeobotanical analyses including contexts of samples as well as evaluation tools.
   * by: Angela Kreuz
-  * links: [GitHub]()           [Website](https://nihk.de/en/research/current-projects/arbodat-ape)
+  * links: [Website](https://nihk.de/en/research/current-projects/arbodat-ape)
   * tags: [Palaeobotany] and [Data management]
   
 ----
 
 * **archaeo-CRF**: Conditional Random Fields model for NER in Dutch Archaeology.
   * by: alexbrandsen
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/alexbrandsen/archaeo-CRF)
   * tags: [Machine learning] and [Schemas and ontologies]
   
 ----
 
 * **archaeo-db-workshop**: Information and guidelines for a workshop about managing archaeological databases
   * by: zackbatist
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/zackbatist/archaeo-db-workshop)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **Archaeo-Term**: Multilingual glossary designed to enhance access to archaeological data.
   * by: Johanna Monti, Maria Pia di Buono, Giulia Speranza and Raffaele Manna
-  * links: [GitHub]()           [Website](https://docs.google.com/spreadsheets/d/1KYh9UUZTsc7BWfXh7YTqQqRz84cnJl3Y/edit#gid=802915297)
+  * links: [Website](https://docs.google.com/spreadsheets/d/1KYh9UUZTsc7BWfXh7YTqQqRz84cnJl3Y/edit#gid=802915297)
   * tags: [Schemas and ontologies]
   
 ----
 
 * **ArchaeoAstroInsight**: QGIS Python script/plugin for computing azimuth, horizon altitude, and celestial declination of a specific bearing indicated by a line segment selected by a user.
   * by: marcfrincu
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/marcfrincu/ArchaeoAstroInsight)
   * tags: [Spatial analysis]
   
 ----
 
 * **ArchaeoChron**: Bayesian Modeling of Archaeological Chronologies.
   * by: ArchaeoStat
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ArchaeoStat/ArchaeoChron)
   * tags: [Chronological modelling]
   
 ----
 
 * **archaeodiet**: Pipeline for metagenomic identification and authentication of ancient dietary DNA from archaeological samples.
   * by: jfy133
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/jfy133/archaeodiet)
   * tags: 
   
 ----
 
 * **ArchaeoLines**: The ArchaeoLines plugin displays any combination of declination arcs most relevant to archaeo- or ethnoastronomical studies.
   * by: stellarium
-  * links: [GitHub]()           [Website](http://stellarium.sourceforge.net/wiki/index.php/ArchaeoLines_plugin)
+  * links: [GitHub](https://github.com/Stellarium/stellarium/tree/master/plugins/ArchaeoLines)           [Website](http://stellarium.sourceforge.net/wiki/index.php/ArchaeoLines_plugin)
   * tags: [Spatial analysis] and [Viewshed analysis]
   
 ----
 
 * **Archaeological Ethics Database**: Brings together sources on archaeological ethics in a single place for the use of students, researchers, and professional archaeologists.
   * by: Register of Professional Archaeologists and Chartered Institute for Archaeologists
-  * links: [GitHub]()           [Website](https://archaeologicalethics.org/)
+  * links: [Website](https://archaeologicalethics.org/)
   * tags: [Ethics and professional development]
   
 ----
 
 * **Archaeological_Catalogue_from_CSV_Spreadsheet**: A template to create an archaeological catalogue from a spreadsheet using the LaTeX csvsimple package.
   * by: latex-ninja
-  * links: [GitHub]()       [Blog Post](https://latex-ninja.com/2021/07/16/latex-for-archaeologists-an-archaeological-catalogue-from-a-spreadsheet/)
+  * links: [GitHub](https://github.com/latex-ninja/Archaeological_Catalogue_from_CSV_Spreadsheet)       [Blog Post](https://latex-ninja.com/2021/07/16/latex-for-archaeologists-an-archaeological-catalogue-from-a-spreadsheet/)
   * tags: [Writing] and [Templates]
   
 ----
 
 * **archaeological-object-sharing**: An online space for sharing data, 3d models, etc about archaeological objects to enable the comparison of these objects.
   * by: anatolian
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/anatolian/archaeological-object-sharing)
   * tags: [Platforms and publications]
   
 ----
 
 * **archaeological-SNA-R-demo**: A quick demo of archaeological social network analysis in R
   * by: deanthebox
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/deanthebox/archaeological-S-R-demo)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **archaeological-survey-location-collector**: An app for use in archaeological field survey to collect high-accurate point locations, photographs, and other data.
   * by: anatolian
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/anatolian/archaeological-survey-location-collector)
   * tags: [Site mapping]
   
 ----
 
 * **archaeology**: A directory of GitHub projects by OR for archaeologists.
   * by: steko
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/archaeology/archaeology)
   * tags: [Lists]
   
 ----
 
 * **archaeology_on_wikipedia.R**: How does wikipedia see archaeology?
   * by: benmarwick
-  * links: [GitHub]() [Gist](https://gist.github.com/benmarwick/0d5e6526604e755b556f)
+  * links: [Gist](https://gist.github.com/benmarwick/0d5e6526604e755b556f)
   * tags: [Public archaeology]
   
 ----
 
 * **archaeology-data-service**: An app to collect data on archaeological objects.
   * by: anatolian
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/anatolian/archaeology-data-service)
   * tags: 
   
 ----
 
 * **archaeology-grand-challenges.r**: Sketch of a look at the 'grand challenges' of Kintigh et al. 2014.
   * by: benmarwick
-  * links: [GitHub]()  [GitLab](https://gist.github.com/benmarwick/d3eb3167ccb2116197ca)
+  * links: [GitLab](https://gist.github.com/benmarwick/d3eb3167ccb2116197ca)
   * tags: 
   
 ----
 
 * **archaeology-object-data-collector-app**: archaeology-object-data-collector-app
   * by: anatolian
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/anatolian/archaeology-object-data-collector-app)
   * tags: [Data management]
   
 ----
 
 * **ArchaeologyAdventure**: A simple adventure game in Unity2D. Revolves around being an archaeologist exploring some ruin and digging up treasure/fossils
   * by: Camology
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/Camology/ArchaeologyAdventure)
   * tags: [Games]
   
 ----
 
 * **ArchaeoPhases**: Tools for the post-processing of the Markov Chain simulated by any software used for the construction of archeological chronologies.
   * by: ArchaeoStat
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ArchaeoStat/ArchaeoPhases)
   * tags: [Chronological modelling]
   
 ----
 
 * **ArchaeoPhases**: Post-Processing of the Markov Chain Simulated by 'ChronoModel', 'Oxcal' or 'BCal'.
   * by: marieannevibet
-  * links: [GitHub]()        [CRAN](https://cran.r-project.org/web/packages/ArchaeoPhases/index.html)
+  * links: [GitHub](https://github.com/marieannevibet/ArchaeoPhases)        [CRAN](https://cran.r-project.org/web/packages/ArchaeoPhases/index.html)
   * tags: [Chronological modelling]
   
 ----
 
 * **ArchAIDE**: Tool for the automatic recognition of archaeological pottery.
   * by: barak-itkin
-  * links: [GitHub]()           [Website](http://www.archaide.eu/)
+  * links: [GitHub](https://github.com/barak-itkin/archaide-software)           [Website](http://www.archaide.eu/)
   * tags: [Shape recognition]
   
 ----
 
 * **archchron**: For handling archaeological chronological data.
   * by: oliver.nakoinz
-  * links: [GitHub]()  [GitLab](https://gitlab.com/oliver.nakoinz/archchron)
+  * links: [GitLab](https://gitlab.com/oliver.nakoinz/archchron)
   * tags: [Chronological modelling]
   
 ----
 
 * **archdata**: The archdata package provides several types of data that are typically used in archaeological research
   * by: David L. Carlson and Georg Roth
-  * links: [GitHub]()        [CRAN](https://cran.rstudio.com/web/packages/archdata/index.html)
+  * links: [CRAN](https://cran.rstudio.com/web/packages/archdata/index.html)
   * tags: [Datasets]
   
 ----
 
 * **archeo-bertje**: A Dutch BERT model for the Archaeology domain.
   * by: alexbrandsen
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/alexbrandsen/archeo-bertje)
   * tags: [Machine learning] and [Schemas and ontologies]
   
 ----
 
 * **archeofrag**: R package for the analysis of the fragmentation of archeological objects.
   * by: sebastien-plutniak
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/sebastien-plutniak/archeofrag)
   * tags: [Chronological modelling] and [Harris matrix]
   
 ----
 
 * **arches**: Arches is a web platform for creating, managing, & visualizing geospatial data. Arches was inspired by the needs of the Cultural Heritage community, particularly the widespread need of organizations to build & manage cultural heritage inventories.
   * by: archesproject
-  * links: [GitHub]()           [Website](https://www.archesproject.org/)
+  * links: [GitHub](https://github.com/archesproject/arches)           [Website](https://www.archesproject.org/)
   * tags: [Data management]
   
 ----
 
 * **arches-via-docker**: Deployment of Arches via Docker for archaeology and related instruction.
   * by: opencontext
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/opencontext/arches-via-docker)
   * tags: [Drivers and IO]
   
 ----
 
 * **archiedb**: A light-weight database application designed to standardize and simplify data entry of archaeological or historical artifacts
   * by: archie
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/archiedb/archie)
   * tags: [Data management]
   
 ----
 
 * **ArchJobCAD**: Tasks for Excavations in AutoCAD
   * by: ISAAKiel
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ISAAKiel/ArchJobCAD)
   * tags: [Data management]
   
 ----
 
 * **archSeries**: Frequency time-series tools for archaeology.
   * by: davidcorton
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/davidcorton/archSeries)
   * tags: [Chronological modelling]
   
 ----
 
 * **archstopmo**: An Archaeology Stop Motion Movie Festival!
   * by: shawngraham
-  * links: [GitHub]()       [Blog Post](https://electricarchaeology.ca/2020/05/01/archstopmo-the-2020-edition/)
+  * links: [GitHub](https://github.com/shawngraham/archstopmo)       [Blog Post](https://electricarchaeology.ca/2020/05/01/archstopmo-the-2020-edition/)
   * tags: [Public archaeology]
   
 ----
 
 * **archvocab**: The ArchVocab ontologies by Leif Isaksen
   * by: steko
-  * links: [GitHub]()           [Website](https://web.archive.org/web/20101229001934/http://archvocab.net/)
+  * links: [GitHub](https://github.com/archaeology/archvocab)           [Website](https://web.archive.org/web/20101229001934/http://archvocab.net/)
   * tags: [Schemas and ontologies]
   
 ----
 
 * **ARCSCore**: ARCSCore is a metadata standard for organizing and sharing digital versions of non-digital documents created during the course of an archaeological investigation
   * by: matrix-msu
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/matrix-msu/ARCSCore)
   * tags: [Schemas and ontologies]
   
 ----
 
 * **ARFloorPlanApp**: Floor plan app using augmented reality.
   * by: carlsun98
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/carlsun98/ARFloorPlanApp)
   * tags: 
   
 ----
 
 * **ARIADNA**: Machine Learning Method for Ancient DNA Variant Discovery.
   * by: Joseph K. Kawash, Andrey Grigoriev and Sean Smith
-  * links: [GitHub]()           [Website](https://osf.io/5bph4/)
+  * links: [Website](https://osf.io/5bph4/)
   * tags: 
   
 ----
 
 * **ark-addons**: This is a Django project to obtain statistical information from an ARK project. It is aimed to mine data from archaeological databases and create customizable visualizations, querying both text and geographical data.
   * by: fradeve
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/fradeve/ark-addons)
   * tags: [Data management]
   
 ----
 
 * **ARK1**: The ARK v1.1.2 Stable Release. ARK (The Archaeological Recording Kit) is a web-based 'toolkit' for the collection, storage and dissemination of archaeological data. It includes data-editing, data-creation, data-viewing and data-sharing tools, all of which are delivered using a web-based front-end.
   * by: L-P Archaeology
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/lparchaeology/ARK1)
   * tags: [Data management]
   
 ----
 
 * **Ark2**: ARK (The Archaeological Recording Kit) 2.0 Development Repository. ARK (The Archaeological Recording Kit) is a web-based 'toolkit' for the collection, storage and dissemination of archaeological data. It includes data-editing, data-creation, data-viewing and data-sharing tools, all of which are delivered using a web-based front-end.
   * by: L-P Archaeology
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/lparchaeology/ARK2)
   * tags: [Data management]
   
 ----
 
 * **ArkGrid**: A QGIS plugin for local site grids.
   * by: L-P Archaeology
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/lparchaeology/ArkGrid)
   * tags: [Site mapping]
   
 ----
 
 * **arkhe**: A Collection of R S4 Classes that Represent Archaeological Data.
   * by: nfrerebeau and tesselle
-  * links: [GitHub]()        [CRAN](https://cloud.r-project.org/package=arkhe)   [Website](https://packages.tesselle.org/arkhe/) [DOI](https://doi.org/10.5281/zenodo.3526659)
+  * links: [GitHub](https://github.com/tesselle/arkhe)        [CRAN](https://cloud.r-project.org/package=arkhe)   [Website](https://packages.tesselle.org/arkhe/) [DOI](https://doi.org/10.5281/zenodo.3526659)
   * tags: [Schemas and ontologies]
   
 ----
 
 * **ArkMatrix**: A tool for creating and manipulating Harris Matrices, part of the Archaeological Recording Kit ARK.
   * by: arklab
-  * links: [GitHub]()  [GitLab](https://gitlab.com/arklab/ArkMatrix)
+  * links: [GitLab](https://gitlab.com/arklab/ArkMatrix)
   * tags: [Harris matrix]
   
 ----
 
 * **ArkScan**: A simple gui app to simplify scanning single context plans.
   * by: L-P Archaeology
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/lparchaeology/ArkScan)
   * tags: [Site mapping]
   
 ----
 
 * **ArkSpatial**: A QGIS plugin to simplfy digitization of archaeological plans drawn using the Museum of London Single Context Recording methodology.
   * by: L-P Archaeology
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/lparchaeology/ArkSpatial)
   * tags: [Site mapping]
   
 ----
 
 * **Arothron**: Tools of Virtual Anthropology to build virtual cavities as endocasts, to align two disarticulated models belonging to the same specimen, and functions to import and export format files into another format.
   * by: Arothron
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/AProfico/Arothron)
   * tags: [Biological anthropology], [Zooarchaeology], [Shape recognition] and [3D modelling]
   
 ----
 
 * **Arran**: A benchmark dataset for automated detection of archaeological sites on LiDAR data.
   * by: ickramer
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ickramer/Arran)
   * tags: 
   
 ----
 
 * **arshm-release**: Experimental mobile app demoing cultural heritage documentation tools in augmented reality. Supports capturing and annotating photos in 3D space. Proof-of-concept features in the app include image anchoring and surface drawing tools.
   * by: zacharyliu
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/zacharyliu/arshm-release)
   * tags: 
   
 ----
 
 * **artefact-morpho.R**: R code for converting B&W jpgs of artefact silhouettes to matrices and computing basic Elliptical Fourier statistics, including PCA and MANOVA.
   * by: benmarwick
-  * links: [GitHub]() [Gist](https://gist.github.com/benmarwick/6260541)
+  * links: [Gist](https://gist.github.com/benmarwick/6260541)
   * tags: [Shape recognition]
   
 ----
 
 * **Artifact_Class_Diversity**: Estimates artifact class diversity in multiple geographic regions.
   * by: taphocoenose
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/taphocoenose/Artifact_Class_Diversity)
   * tags: [Spatial analysis]
   
 ----
 
 * **AtlantGIS**: Faked GIS-Datasets, simulating an island in the Atlantic for educational purposes in using GIS in archaeology
   * by: kacebe
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/kacebe/AtlantGIS)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **atlas**: A set of tools that cover all programs necessary to obtain variant calls, estimates of heterozygosity and more from a BAM file.
   * by: wegmannlab
-  * links: [GitHub]()           [Website](https://bitbucket.org/wegmannlab/atlas/wiki/Home)
+  * links: [Website](https://bitbucket.org/wegmannlab/atlas/wiki/Home)
   * tags: 
   
 ----
 
 * **AuthentiCT**: Estimate the proportion of present-day DNA contamination in ancient DNA datasets generated from single-stranded libraries.
   * by: StephanePeyregne
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/StephanePeyregne/AuthentiCT)
   * tags: 
   
 ----
 
 * **babylonian-hours**: A digital clock which computes your local time in 'seasonal-hours'.
   * by: willismonroe
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/willismonroe/babylonian-hours)
   * tags: [Simulation]
   
 ----
 
 * **BAM**: A tool for the geospatial analysis, literary network visualization, and plot mapping of ancient texts.
   * by: Big-Ancient-Mediterranean
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/Big-Ancient-Mediterranean/BAM)
   * tags: [Literary analysis and epigraphy]
   
 ----
 
 * **BasicMapping**: Working with map data in R.
   * by: mpeeples2008
-  * links: [GitHub]()           [Website](http://www.mattpeeples.net/modules/BasicMapping.html)
+  * links: [Website](http://www.mattpeeples.net/modules/BasicMapping.html)
   * tags: [Statistical analysis]
   
 ----
 
 * **baydem**: Bayesian tools for reconstructing past demography.
   * by: MichaelHoltonPrice and bocinsky
-  * links: [GitHub]()           [Website](https://eehh-stanford.github.io/baydem/)
+  * links: [GitHub](https://github.com/eehh-stanford/baydem)           [Website](https://eehh-stanford.github.io/baydem/)
   * tags: [Radiocarbon dating, calibration and sequencing] and [Palaeobotany]
   
 ----
 
 * **BayLum**: An R package for chronological Bayesian models integrated for Optically Stimulated OSL, Luminescence Dating
   * by: R-Lum
-  * links: [GitHub]()           [Website](https://baylum.archaeo.science/)
+  * links: [GitHub](https://github.com/crp2a/BayLum)           [Website](https://baylum.archaeo.science/)
   * tags: [Luminescence dating]
   
 ----
 
 * **Bchron**: Radiocarbon Dating, Age-Depth Modelling, Relative Sea Level Rate Estimation, and Non-Parametric Phase Modelling
   * by: andrewcparnell
-  * links: [GitHub]()        [CRAN](https://cran.rstudio.com/web/packages/Bchron/index.html)
+  * links: [GitHub](https://github.com/andrewcparnell/Bchron)        [CRAN](https://cran.rstudio.com/web/packages/Bchron/index.html)
   * tags: [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **benmarwickDY-XYZ-data-on-an-irregular-grid-to-an-interpolated-raster.r**: Plotting remote sensing data, especially how to go from XYZ data on an irregular grid to an interpolated raster
   * by: benmarwick
-  * links: [GitHub]() [Gist](https://gist.github.com/benmarwick/7331879)
+  * links: [Gist](https://gist.github.com/benmarwick/7331879)
   * tags: 
   
 ----
 
 * **benmarwickopencontext.r**: Experimenting with the opencontext.org API using R
   * by: benmarwick
-  * links: [GitHub]() [Gist](https://gist.github.com/benmarwick/50aa4c39b7d955d0ec40)
+  * links: [Gist](https://gist.github.com/benmarwick/50aa4c39b7d955d0ec40)
   * tags: 
   
 ----
 
 * **Bibliographic Database of African Scholarship on African Archaeology**: An open-access database of African archaeology publications by African and Afrodescendant scholars.
   * by: J. Fleisher, M. Prendergast, K. Ranhorn and H. Woldekiros
-  * links: [GitHub]()           [Website](https://bibdaa.rice.edu/)
+  * links: [Website](https://bibdaa.rice.edu/)
   * tags: [Bibliography], [Ethics and professional development] and [Educational resources and practical guides]
   
 ----
 
 * **binford**: Datasets used in Binford's 2001 book "Constructing Frames of Reference: An Analytical Method for Archaeological Theory Building Using Ethnographic and Environmental Data Sets
   * by: benmarwick
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/benmarwick/binford)
   * tags: [Datasets]
   
 ----
 
 * **Binomial-Co-occurrence-Assessment**: R script that implements a means for statistically assessing the degree of co-occurrence between classes within a dataset.
   * by: mpeeples2008
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/mpeeples2008/Binomial-Co-occurrence-Assessment)
   * tags: [Statistical analysis]
   
 ----
 
 * **bioanth**: An R package that provides datasets useful for biological and forensic anthropology.
   * by: geanes
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/geanes/bioanth)
+  * tags: [Biological anthropology]
+  
+----
+
+* **BioArch_R**: Apps and functions for use in Bioarchaeology
+  * by: AlisJay
+  * links: [GitHub](https://github.com/AlisJay/BioArch_R)
+  * tags: [Biological anthropology]
+  
+----
+
+* **BioProfile**: A shiny app which uses the results of standard osteological methods to create a basic biological profile
+  * by: AlisJay
+  * links: [GitHub](https://github.com/AlisJay/BioProfile)           [Website](https://alisjay.shinyapps.io/BioProfile)
   * tags: [Biological anthropology]
   
 ----
 
 * **bleiglas**: An R package that provides functions for 3D tessellation with Voro++ and subsequent horizontal cutting of the resulting polygons for 2D plotting. It was developed for archaeological spatiotemporal data, but may as well be used for other three dimensional contexts.
   * by: nevrome and stschiff
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/nevrome/bleiglas)
   * tags: [Spatial analysis] and [3D modelling]
   
 ----
 
 * **Bonify**: Access and visualize 3D models of faunal remains.
   * by: garynobles, Canan Cakirlar and Nynke de Boer
-  * links: [GitHub]()           [Website](https://www.digitalbones.eu)
+  * links: [Website](https://www.digitalbones.eu)
   * tags: [3D modelling] and [Zooarchaeology]
   
 ----
 
 * **Bootstrap-Correspondence-Analysis**: R-script for conducting and evaluating bootstrapped correspondence analyses.
   * by: mpeeples2008
-  * links: [GitHub]()           [Website](http://www.mattpeeples.net/caboot.html)
+  * links: [GitHub](https://github.com/mpeeples2008/Bootstrap-Correspondence-Analysis)           [Website](http://www.mattpeeples.net/caboot.html)
   * tags: [Statistical analysis]
   
 ----
 
 * **BraDypUS**: Creating, impementing and publishing relational databases on the Web, especially for the archaeolgical domain.
   * by: lab-archeologia-digitale
-  * links: [GitHub]()            [DOI](https://doi.org/10.5281/zenodo.5577979.svg)
+  * links: [GitHub](https://github.com/lab-archeologia-digitale/BraDypUS)            [DOI](https://doi.org/10.5281/zenodo.5577979.svg)
   * tags: [Data management]
   
 ----
 
 * **Brainerd-Robinson-Similarity-Coefficient-and-Sampling-Error-Assessment**: Script for calculating Brainerd-Robinson coefficients based on tabular count or percent data. This script also estimates the probability that a given difference between two samples is the product of sampling error.
   * by: mpeeples2008
-  * links: [GitHub]()           [Website](http://www.mattpeeples.net/BR.html)
+  * links: [GitHub](https://github.com/mpeeples2008/Brainerd-Robinson-Similarity-Coefficient-and-Sampling-Error-Assessment)           [Website](http://www.mattpeeples.net/BR.html)
   * tags: [Statistical analysis]
   
 ----
 
 * **Bridging the Gap ENCODE Database**: Shared definitions of digital competences needed by graduate students in the programmes focusing on written cultural heritage.
   * by: Bridging the Gap ENCODE Database
-  * links: [GitHub]()           [Website](https://encode.uni-hamburg.de/index.html)
+  * links: [Website](https://encode.uni-hamburg.de/index.html)
   * tags: [Schemas and ontologies], [Educational resources and practical guides] and [Ethics and professional development]
   
 ----
 
 * **c14**: R package for tidy radiocarbon data.
   * by: joeroe
-  * links: [GitHub]()           [Website](https://c14.joeroe.io)
+  * links: [GitHub](https://github.com/joeroe/c14)           [Website](https://c14.joeroe.io)
   * tags: [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **c14-date-extractor**: Script for extracting c14 dates from text.
   * by: alexbrandsen
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/alexbrandsen/c14-date-extractor)
   * tags: [Bits and bobs], [Radiocarbon dating, calibration and sequencing] and [Writing]
   
 ----
 
 * **c14-laboratory-code**: List of all past and present radiocarbon laboratory codes known to have been used in published references.
   * by: letreiro
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/letreiro/c14-laboratory-code)
   * tags: [Datasets] and [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **c14bazAAR**: R package to query different openly accessible radiocarbon date databases, allowing for basic data cleaning, calibration and merging
   * by: ISAAKiel
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ropensci/c14bazAAR)
   * tags: 
   
 ----
 
 * **ca**: R Script for Seriation Using Correspondence Analysis.
   * by: mpeeples2008
-  * links: [GitHub]()           [Website](http://www.mattpeeples.net/ca.html)
+  * links: [Website](http://www.mattpeeples.net/ca.html)
   * tags: [Statistical analysis] and [Seriation]
   
 ----
 
 * **caa**: Statistical methods for archaeological data analysis, course website repository.
   * by: BernCoDALab
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/BernCoDALab/caa)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **caa2019_halfway_house**: This poster presents an approach that helps archaeological projects maintain an authoritative database, while retaining the flexibility and accessibility needed for ongoing research with multiple collaborators, by implementing a server-client architecture to maintain a single, consistent research database.
   * by: joeroe
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/joeroe/caa2019_halfway_house)
   * tags: [Data management]
   
 ----
 
 * **caddonet**: Peer reviewed and indexed articles published on Caddo archaeology since 2000.
   * by: aksel-blaise
-  * links: [GitHub]()           [Website](https://aksel-blaise.github.io/caddonet/)
+  * links: [GitHub](https://github.com/aksel-blaise/caddonet)           [Website](https://aksel-blaise.github.io/caddonet/)
   * tags: [Datasets] and [Bibliography]
   
 ----
 
 * **CAinterprTools**: R package to help interpreting Correspondence Analysis' results.
   * by: gianmarcoalberti
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/gianmarcoalberti/CAinterprTools)
   * tags: [Statistical analysis]
   
 ----
 
 * **calibrator**: Small command line tool for 14C calibration.
   * by: ISAAKiel
-  * links: [GitHub]()           [Website](https://isaakiel.github.io/calibrator/)
+  * links: [GitHub](https://github.com/ISAAKiel/calibrator)           [Website](https://isaakiel.github.io/calibrator/)
   * tags: [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **CalPal-Database**: CalPal 14C-Database created by Bernhard Weninger (Universität zu Köln) as part of the CalPal software package. This repository serves as an interface to access the data more easily.
   * by: nevrome
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/nevrome/CalPal-Database)
   * tags: [Datasets] and [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **carbon14**: The goal of carbon14 is to provide a tidy interface to radiocarbon dating, to promote its inclusion in reproducible manuscripts
   * by: paleolimbot
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/paleolimbot/carbon14)
   * tags: [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **caribbean-14C**: A compilation of anthropogenic radiocarbon dates for the Caribbean region.
   * by: philriris
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/philriris/caribbean-14C)
   * tags: [Datasets] and [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **CAseriation**: R Package for contingency tables seriation via Correspondence Analysis.
   * by: gianmarcoalberti
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/gianmarcoalberti/CAseriation)
   * tags: [Statistical analysis] and [Seriation]
   
 ----
 
 * **cawd**: An R package that collects together data for the ancient world
   * by: sfsheath
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/sfsheath/cawd)
   * tags: 
   
 ----
 
 * **cca**: Colossal Cave Adventure digital palaeography and epigraphy project.
   * by: adreinhard
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/adreinhard/cca)
   * tags: [Games]
   
 ----
 
 * **CeraMatch**: Visual shape-matching of ceramics profiles.
   * by: demjanp
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/demjanp/CeraMatch)
   * tags: [Shape recognition]
   
 ----
 
 * **Ceramic_Dashboard**: Dashboard showing ceramic EDA and interaction network construction in the Late Prehistoric Central Illinois River Valley.
   * by: ajupton
-  * links: [GitHub]()           [Website](https://aupton.shinyapps.io/CeramicDashboard/)
+  * links: [GitHub](https://github.com/ajupton/Ceramic_Dashboard)           [Website](https://aupton.shinyapps.io/CeramicDashboard/)
   * tags: 
   
 ----
 
 * **ceramic-computation**: R scripts for digitizing, processing, analyzing, and comparing archaeological ceramic 2d profile drawings, photographs, and other data.
   * by: anatolian
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/anatolian/ceramic-computation)
   * tags: [Shape recognition]
   
 ----
 
 * **Ceramic-Frequency-Date-Plot**: This R script produces a exploratory visual for assessing site date ranges originally suggested to me by Wesley Bernardini Redlands University
   * by: mpeeples2008
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/mpeeples2008/Ceramic-Frequency-Date-Plot)
   * tags: [Diagrams and visualizations]
   
 ----
 
 * **CeramicApportioning**: A method for chronological apportioning of ceramic assemblages that considers site occupation dates, ceramic production dates, and popularity distribution curves.
   * by: mpeeples2008
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/mpeeples2008/CeramicApportioning)
   * tags: [Chronological modelling]
   
 ----
 
 * **charcoalhearths**: Work with geotifs to detect charcoal hearths
   * by: jeffblackadar
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/jeffblackadar/charcoalhearths)
   * tags: 
   
 ----
 
 * **CHARM**: Cultural heritage abstract reference model.
   * by: CHARM
-  * links: [GitHub]()           [Website](http://www.charminfo.org/)
+  * links: [Website](http://www.charminfo.org/)
   * tags: [Data management] and [Schemas and ontologies]
   
 ----
 
 * **CharTool**: CharTool is a macro tool for quantifying charcoal particles for paleoecological research applications.
   * by: gsnitker
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/gsnitker/CharTool)
   * tags: [Palaeobotany]
   
 ----
 
 * **cherish**: Cherish is a tool that aids archaeologists and designers to represent historical, urban and archaeological structures and sites in 3D by means of image manipulation and sketching. Combine disparate data types such as photographs, illustrations, diagrams, text annotations, point cloud representation, etc, into a comprehensive 3D space, to make 3D sense of the data.
   * by: vicrucann
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/vicrucann/cherish)
   * tags: [3D modelling]
   
 ----
 
 * **cherish-installer**: Installer files for Cherish software.
   * by: vicrucann
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/vicrucann/cherish-installer)
   * tags: [3D modelling]
   
 ----
 
 * **chi-field-manual**: A bookdown powered manual for the small scale cultural heritage organization looking to leverage various chi techniques for their own collections.
   * by: XLabCU
-  * links: [GitHub]()           [Website](https://xlabcu.github.io/chi-field-manual)
+  * links: [GitHub](https://github.com/XLabCU/chi-field-manual)           [Website](https://xlabcu.github.io/chi-field-manual)
   * tags: [Educational resources and practical guides] and [Statistical analysis]
   
 ----
 
 * **chrono_spatial_modelling**: This is an example implementation of chrono-spatial modelling of settlement activities.
   * by: demjanp
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/demjanp/chrono_spatial_modelling)
   * tags: [Spatial analysis]
   
 ----
 
 * **chronochrt**: Building chronological charts easily with R.
   * by: roset
-  * links: [GitHub]()  [GitLab](https://gitlab.com/roset/chronochrt)      [CRAN](https://cran.r-project.org/web/packages/chronochrt/index.html)
+  * links: [GitLab](https://gitlab.com/roset/chronochrt)      [CRAN](https://cran.r-project.org/web/packages/chronochrt/index.html)
   * tags: [Chronological modelling]
   
 ----
 
 * **chronomodel**: Chronological Modelling of Archaeological Data using Bayesian Statistics.
   * by: Chronomodel
-  * links: [GitHub]()           [Website](https://chronomodel.com/)
+  * links: [GitHub](https://github.com/Chronomodel/chronomodel)           [Website](https://chronomodel.com/)
   * tags: [Chronological modelling]
   
 ----
 
 * **Chronophage**: Applications for obtaining chronograms (quantified chronology diagrams) and time distribution curves of archaeological or historical units from quantified dating indicators treated as inaccuracy intervals.
   * by: Bruno Desachy
-  * links: [GitHub]()           [Website](https://abp.hypotheses.org/4284)
+  * links: [Website](https://abp.hypotheses.org/4284)
   * tags: [Chronological modelling]
   
 ----
 
 * **chronup**: Tools for chronological uncertainty propagation.
   * by: wccarleton
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/wccarleton/chronup)
   * tags: [Chronological modelling] and [Statistical analysis]
   
 ----
 
 * **clam**: A package for classical age-depth modelling of cores from deposits.
   * by: Maarten14C
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/Maarten14C/clam)
   * tags: [Chronological modelling] and [Geophysical survey]
   
 ----
 
 * **Classical and ancient Linked Open Data**: A list of linked open data repositories relating to classics and ancient history.
   * by: Gabriel Bodard, Paula Granados García, Sarah Middle and Elton Barker
-  * links: [GitHub]()           [Website](https://docs.google.com/spreadsheets/d/1aAssGGswX2WNMllV4kMYexBGS8miCywbW5XdcIeE22c/edit#gid=1033348216)
+  * links: [Website](https://docs.google.com/spreadsheets/d/1aAssGGswX2WNMllV4kMYexBGS8miCywbW5XdcIeE22c/edit#gid=1033348216)
   * tags: [Lists] and [Datasets]
   
 ----
 
 * **cleanc14**: Provides some utility functions for cleaning radiocarbon data in R.
   * by: joeroe
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/joeroe/cleanc14)
   * tags: [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **CloudCal**: This app will allow you to build & apply calibrations for the Tracer & Artax series of XRF devices
   * by: leedrake5
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/leedrake5/CloudCal)
   * tags: [X-Ray Fluorescence]
   
 ----
 
 * **cltk**: A Python library offering natural language processing (NLP) for pre-modern languages.
   * by: cltk
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/cltk/cltk)
   * tags: [Literary analysis and epigraphy]
   
 ----
 
 * **clustering_14C**: A python implementation of the method of clustering radiocarbon dates in order to determine whether they represent separate events, or phases in time
   * by: demjanp
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/demjanp/clustering_14C)
   * tags: [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **coenocliner**: An R package to simulate species occurences and abundances counts, along gradient.
   * by: gavinsimpson
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/gavinsimpson/coenocliner)
   * tags: [Palaeobotany]
   
 ----
 
 * **coffee**: Uses Bayesian methods to enforce the chronological ordering of radiocarbon and other dates.
   * by: Maarten14C
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/Maarten14C/coffee)
   * tags: [Chronological modelling] and [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **Consensify**: Consensify method for error reduction in ancient DNA pseudohaploidisation.
   * by: jlapaijmans
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/jlapaijmans/Consensify)
   * tags: 
   
 ----
 
 * **ContamLD**: Software designed to estimate autosomal contamination in ancient DNA samples.
   * by: nathan-nakatsuka
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/nathan-nakatsuka/ContamLD)
   * tags: 
   
 ----
 
 * **coproID**: CoproID helps you to identify the "true maker" of Illumina sequenced Coprolites/Paleofaeces by checking the microbiome composition and the endogenous DNA.
   * by: maxibor and nf-core
-  * links: [GitHub]()           [Website](https://coproid.readthedocs.io/en/latest/)
+  * links: [GitHub](https://github.com/maxibor/coproID)           [Website](https://coproid.readthedocs.io/en/latest/)
   * tags: 
   
 ----
 
 * **Corallium Fabrica**: Set of 3D models of coral skeletons, which may be used as a reference collection.
   * by: Elise Rigot
-  * links: [GitHub]()           [Website](https://corallumfabrica.laas.fr/)
+  * links: [Website](https://corallumfabrica.laas.fr/)
   * tags: [3D modelling] and [Datasets]
   
 ----
 
 * **cranial-sex-estimation-code**: Data analysis implementation for evaluating a novel sex estimation method based on skullanalyzer data.
   * by: pr0m1th3as
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/pr0m1th3as/cranial-sex-estimation-code)
   * tags: [Biological anthropology] and [Zooarchaeology]
   
 ----
 
 * **Crop_Origins_Phylo**: Repository of Crop Origins database and Phylo Food phylogeny.
   * by: rubenmilla
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/rubenmilla/Crop_Origins_Phylo)
   * tags: [Palaeobotany]
   
 ----
 
 * **Crossbones**: Crossbones autogenerates 3D schematic skeletons, making rapid surveying and visualisation of dense skeletal assemblages a snap.
   * by: Leif Isaksen
-  * links: [GitHub]()           [Website](http://oadigital.net/software/xbones.html)
+  * links: [Website](http://oadigital.net/software/xbones.html)
   * tags: [Zooarchaeology]
   
 ----
 
 * **crp2a**: Dose Rate Estimation from In-Situ Gamma-Ray Spectrometry Measurements for Luminescence Dating
   * by: gamma
-  * links: [GitHub]()           [Website](https://gamma.archaeo.science/)
+  * links: [GitHub](https://github.com/crp2a/gamma)           [Website](https://gamma.archaeo.science/)
   * tags: [Luminescence dating]
   
 ----
 
 * **CSGR**: Extracts and calculates from long bone cross sections, cortical thickness maps, and biomechanically pertinent cross-sectional geometric properties.
   * by: Arothron
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/Arothron/CSGR)
   * tags: [Biological anthropology], [Zooarchaeology], [Shape recognition] and [3D modelling]
   
 ----
 
 * **cTransmission**: An Approximate Bayesian Computation Framework for inferring patterns of cultural transmission from frequency data.
   * by: ercrema and Anne Kandler
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ercrema/cTransmission)
   * tags: [Statistical analysis] and [Cultural evolution]
   
 ----
 
 * **ctv-archaeology**: This CRAN Task View contains a list of packages useful for scientific work in Archaeology.
   * by: benmarwick
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/benmarwick/ctv-archaeology)
   * tags: [Lists]
   
 ----
 
 * **CuneiPainter**: An App to recognize cuneiform characters on your Android phone.
   * by: situx
-  * links: [GitHub]()           [Website](https://situx.github.io/CuneiPainter/)
+  * links: [GitHub](https://github.com/situx/CuneiPainter)           [Website](https://situx.github.io/CuneiPainter/)
   * tags: [Shape recognition]
   
 ----
 
 * **cuperdec**: R package to generate 'Cumulative Percent Decay' curves, with optional filtering functions, for microbial taxonomic profiles.
   * by: jfy133
-  * links: [GitHub]()        [CRAN](https://cran.r-project.org/web/packages/cuperdec/index.html)    [DOI](https://doi.org/10.5281/zenodo.4561901)
+  * links: [GitHub](https://github.com/jfy133/cuperdec)        [CRAN](https://cran.r-project.org/web/packages/cuperdec/index.html)    [DOI](https://doi.org/10.5281/zenodo.4561901)
   * tags: 
   
 ----
 
 * **DACORD**: Computer-Assisted Drawing of Archaeological Pottery.
   * by: jwilczek-dotcom
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/jwilczek-dotcom/DACORD)
   * tags: [Shape recognition]
   
 ----
 
 * **DamageProfiler**: A Java based tool to determine damage patterns on ancient DNA as a replacement for mapDamage.
   * by: JudithNeukamm, apeltzer, jfy133, alexhbnr and Integrative-Transcriptomics
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/Integrative-Transcriptomics/DamageProfiler)
   * tags: 
   
 ----
 
 * **DamMet**: A full probabilistic model for mapping ancient methylomes.
   * by: KHanghoj
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/KHanghoj/DamMet)
   * tags: 
   
 ----
 
 * **DATES**: Method for dating admixture in ancient DNA specimens.
   * by: priyamoorjani
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/priyamoorjani/DATES)
   * tags: 
   
 ----
 
 * **datplot**: Converting date ranges into dating 'steps' eases the visualization of changes in e.g. pottery consumption, style and other variables over time. This package provides tools to process and prepare data for visualization.
   * by: lsteinmann and Barbora Weissova
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/lsteinmann/datplot)
   * tags: [Chronological modelling]
   
 ----
 
 * **Day of Archaeology Archive**: Archive of content shared during the annual Day of Archaeology from 2011-2017.
   * by: Archaeology Data Service
-  * links: [GitHub]()       [Blog Post](https://archaeologydataservice.ac.uk/blog/2021/03/archiving-day-of-archaeology-2011-2017/)     [DOI](https://doi.org/10.5284/1048331)
+  * links: [Blog Post](https://archaeologydataservice.ac.uk/blog/2021/03/archiving-day-of-archaeology-2011-2017/)     [DOI](https://doi.org/10.5284/1048331)
   * tags: [Public archaeology]
   
 ----
 
 * **dayofarchaeology**: A Distant Reading of the Day of Archaeology
   * by: benmarwick
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/benmarwick/dayofarchaeology)
   * tags: [Public archaeology]
   
 ----
 
 * **dayofarchaeology**: export of posts from dayofarchaeology.com
   * by: drmattlaw
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/drmattlaw/dayofarchaeology)
   * tags: [Public archaeology]
   
 ----
 
 * **dedalo**: Dedalo is a knowledge management system for Cultural Heritage (tangible and intangible), Natural Heritage and Oral History/Memory.
   * by: renderpci
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/renderpci/dedalo)
   * tags: [Data management]
   
 ----
 
 * **deeptime**: Extends the functionality of other plotting packages like 'ggplot2' and 'lattice' to help facilitate the plotting of data over long time intervals, including, but not limited to, geological, evolutionary, and ecological data.
   * by: willgearty
-  * links: [GitHub]()        [CRAN](https://cran.r-project.org/web/packages/deeptime/index.html)
+  * links: [GitHub](https://github.com/willgearty/deeptime)        [CRAN](https://cran.r-project.org/web/packages/deeptime/index.html)
   * tags: [Data management]
   
 ----
 
 * **demjanp**: Radiocarbon Dating Resolution Calculator.
   * by: demjanp
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/demjanp/Res14C)
   * tags: [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **dice**: Joint estimate of demography and contamination for nuclear ancient DNA.
   * by: grenaud
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/grenaud/dice)
   * tags: 
   
 ----
 
 * **Digital Encyclopedia of Archaeologists**: A webpage containing brief biographical information about some iconic archaeologists.
   * by: msu-anthropology
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/msu-anthropology/deoa)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **dimensio**: Simple Principal Components Analysis (PCA) and Correspondence Analysis (CA) based on the Singular Value Decomposition (SVD). This package provides S4 classes and methods to compute, extract, summarize and visualize results of multivariate data analysis. It also includes methods for partial bootstrap validation.
   * by: nfrerebeau and tesselle
-  * links: [GitHub]()           [Website](https://packages.tesselle.org/dimensio/) [DOI](https://doi.org/10.5281/zenodo.4478530)
+  * links: [GitHub](https://github.com/tesselle/dimensio)           [Website](https://packages.tesselle.org/dimensio/) [DOI](https://doi.org/10.5281/zenodo.4478530)
   * tags: [Statistical analysis]
   
 ----
 
 * **disastermap**: Proof of concept map for disaster response and archaeology
   * by: aejolene
-  * links: [GitHub]()           [Website](https://aejolene.github.io/disastermap/)
+  * links: [GitHub](https://github.com/aejolene/disastermap)           [Website](https://aejolene.github.io/disastermap/)
   * tags: [Public policy and civic action]
   
 ----
 
 * **distantia**: R package to compute dissimilarity between multivariate time series.
   * by: BlasBenito
-  * links: [GitHub]()           [Website](https://blasbenito.github.io/distantia/)
+  * links: [GitHub](https://github.com/BlasBenito/distantia)           [Website](https://blasbenito.github.io/distantia/)
   * tags: [Palaeobotany]
   
 ----
 
 * **DIYFieldworkDatabase**: Documenting and sharing my ad-hoc fieldwork database setup
   * by: zackbatist
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/zackbatist/DIYFieldworkDatabase)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **DObsiSS**: The Database of Obsidian Sourcing Studies
   * by: zackbatist
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/zackbatist/DObsiSS)
   * tags: [Datasets]
   
 ----
 
 * **dplR**: Perform tree-ring analyses such as detrending, chronology building, and crossdating.
   * by: AndyBunn
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/AndyBunn/dplR)
   * tags: [Dendrochronology] and [Chronological modelling]
   
 ----
 
 * **DRAC-calculator**: DRAC is a Dose Rate and Age Calculator which has been designed to calculate environmental dose rates (_) and ages for trapped charge dating applications
   * by: DRAC-calculator
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/DRAC-calculator/DRAC-calculator)
   * tags: [Luminescence dating]
   
 ----
 
 * **DroneSurveyPlanner**: This is a LibreOffice Calc spreadsheet designed to help you plan an aerial drone mapping survey mission.
   * by: isaacullah
-  * links: [GitHub]()           [Website](http://isaacullah.github.io/DroneSurveyPlanner/)
+  * links: [GitHub](https://github.com/isaacullah/DroneSurveyPlanner)           [Website](http://isaacullah.github.io/DroneSurveyPlanner/)
   * tags: [Drones]
   
 ----
 
 * **E5**: E5 is a generalized data entry program intended for archaeologists that works with a configuration file where the data entry fields are defined
   * by: surf3s
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/surf3s/E5)
   * tags: [Data management]
   
 ----
 
 * **eager**: A fully reproducible and state-of-the-art ancient DNA analysis pipeline.
   * by: nf-core
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/nf-core/eager)
   * tags: 
   
 ----
 
 * **EAGER-CLI**: A fully reproducible and state-of-the-art ancient DNA analysis pipeline.
   * by: apeltzer
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/apeltzer/EAGER-CLI)
   * tags: 
   
 ----
 
 * **EAGER-GUI**: A fully reproducible and state-of-the-art ancient DNA analysis pipeline.
   * by: apeltzer
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/apeltzer/EAGER-GUI)
   * tags: 
   
 ----
 
 * **ede_interpolation**: A QGIS 3 plugin for spatio-temporal interpolation of archaeological settlement evidence.
   * by: demjanp
-  * links: [GitHub]()           [Website](https://plugins.qgis.org/plugins/ede_interpolation/)
+  * links: [GitHub](https://github.com/demjanp/ede_interpolation)           [Website](https://plugins.qgis.org/plugins/ede_interpolation/)
   * tags: [Spatial analysis]
   
 ----
 
 * **Electronic Babylonian Literature Project**: Brings together ancient Near Eastern specialists and data scientists to revolutionize the way in which the literature of Iraq in the first millennium BCE is reconstructed and analyzed.
   * by: Electronic Babylonian Literature Project
-  * links: [GitHub]()           [Website](https://www.ebl.lmu.de/)
+  * links: [Website](https://www.ebl.lmu.de/)
   * tags: [Schemas and ontologies]
   
 ----
 
 * **ElementSourcing**: Source archaeological artifacts using elemental composition.
   * by: bischrob
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/bischrob/ElementSourcing)
   * tags: [X-Ray Fluorescence]
   
 ----
 
 * **elemSource**: R Package for sourcing elements.
   * by: bischrob
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/bischrob/elemSource)
   * tags: [X-Ray Fluorescence]
   
 ----
 
 * **epiPALEOMIX**: A fast, accurate, and automatic pipeline for generating nucleosome and methylation maps from high throughput sequencing data underlying ancient samples.
   * by: KHanghoj
-  * links: [GitHub]()           [Website](https://bitbucket.org/khanghoj/epipaleomix/wiki/Home)
+  * links: [GitHub](https://github.com/KHanghoj/epiPALEOMIX)           [Website](https://bitbucket.org/khanghoj/epipaleomix/wiki/Home)
   * tags: 
   
 ----
 
 * **era**: R package for year-based time scales
   * by: joeroe
-  * links: [GitHub]()        [CRAN](https://CRAN.R-project.org/package=era)   [Website](https://era.joeroe.io/)
+  * links: [GitHub](https://github.com/joeroe/era)        [CRAN](https://CRAN.R-project.org/package=era)   [Website](https://era.joeroe.io/)
   * tags: [Schemas and ontologies]
   
 ----
 
 * **ethnobotanyR**: R package for calculating quantitative ethnobotany indices.
   * by: CWWhitney
-  * links: [GitHub]()           [Website](http://htmlpreview.github.io/?https://github.com/CWWhitney/ethnobotanyR/blob/master/vignettes/ethnobotanyr_vignette.html)
+  * links: [GitHub](https://github.com/CWWhitney/ethnobotanyR)           [Website](http://htmlpreview.github.io/?https://github.com/CWWhitney/ethnobotanyR/blob/master/vignettes/ethnobotanyr_vignette.html)
   * tags: [Palaeobotany]
   
 ----
 
 * **evoarchdata**: Datasets from studies of cultural evolution in Archaeology
   * by: benmarwick
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/benmarwick/evoarchdata)
   * tags: [Datasets] and [Cultural evolution]
   
 ----
 
 * **Explographe**: Application (in LibreOffice Calc) for serializing a graphic matrix from counting tables. The application makes it possible to obtain either a serograph or a graph of the PVI matrograph type (visualization of the differences in independence from the percentages of independence values) which does not favor the vision of the variables over that of the lines and more suitable for non-chronological treatments.
   * by: Bruno Desachy
-  * links: [GitHub]()           [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/outils-danalyse-graphique-des-donnees)
+  * links: [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/outils-danalyse-graphique-des-donnees)
   * tags: [Statistical analysis]
   
 ----
 
 * **expotime**: What is the correlation between the exposure time of your photographs and the time of the day?
   * by: steko
-  * links: [GitHub]()          [Codeberg](https://codeberg.org/steko/expotime)
+  * links: [Codeberg](https://codeberg.org/steko/expotime)
   * tags: [Photography]
   
 ----
 
 * **fastmaRching**: An R implementation of the Fast Marching Method (FMM), first developed by Sethian (1996), with the modifications of Silva and Steele (2012, 2014). Also included is a spatial wrapper function that makes it easier to model dispersal scenarios in geospatial domains, as originally envisaged for the study and simulation of prehistoric dispersals
   * by: f-silva-archaeo
-  * links: [GitHub]()        [CRAN](https://CRAN.R-project.org/package=fastmaRching)    [DOI](https://doi.org/10.5281/zenodo.1204397)
+  * links: [GitHub](https://github.com/f-silva-archaeo/fastmaRching)        [CRAN](https://CRAN.R-project.org/package=fastmaRching)    [DOI](https://doi.org/10.5281/zenodo.1204397)
   * tags: [Spatial analysis]
   
 ----
 
 * **fellingDateR**: Compute and combine felling date estimates for historical tree-ring series with (incomplete) sapwood.
   * by: hanecakr
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/hanecakr/fellingDateR)
   * tags: [Chronological modelling] and [Dendrochronology]
   
 ----
 
 * **Fiche Stratigraphique Numérique (FSN)**: Fiche Stratigraphique Numerique (FSN) is an application project for field recording and management of archaeological operations data.
   * by: Bruno Desachy
-  * links: [GitHub]()           [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/fsn)
+  * links: [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/fsn)
   * tags: [Data management]
   
 ----
 
 * **field-photographs**: Android apps for archaeology that enable photography during field work.
   * by: anatolian
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/anatolian/field-photographs)
   * tags: [Site mapping]
   
 ----
 
 * **fieldwalkr**: Spatial Sampling and Survey Simulation Tools.
   * by: joeroe
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/joeroe/fieldwalkr)
   * tags: [Site mapping]
   
 ----
 
 * **findPeaks**: A simple algorithm to find local maxima/minima in sequential data.
   * by: stas-g
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/stas-g/findPeaks)
   * tags: [Bits and bobs]
   
 ----
 
 * **FISH Vocabularies**: A suite of terminologies developed for indexing cultural heritage.
   * by: Forum on Information Standards in Heritage
-  * links: [GitHub]()           [Website](http://www.heritage-standards.org.uk/fish-vocabularies/)
+  * links: [Website](http://www.heritage-standards.org.uk/fish-vocabularies/)
   * tags: [Schemas and ontologies]
   
 ----
 
 * **Fix-exif-artist**: Fix the Exif.Image.Artist tag based on user input depending from the camera model. Useful if you have a bunch of photographs from different people all mixed up.
   * by: steko
-  * links: [GitHub]()          [Codeberg](https://codeberg.org/steko/fix-exif-artist)
+  * links: [Codeberg](https://codeberg.org/steko/fix-exif-artist)
   * tags: [Bits and bobs]
   
 ----
 
 * **folio**: Datasets for teaching quantitative approaches and modeling in archaeology and paleontology. This package provides several types of data related to broad topics (cultural evolution, radiocarbon dating, paleoenvironments, etc.), which can be used to illustrate statistical methods in the classroom (multivariate data analysis, compositional data analysis, diversity measurement, etc.).
   * by: nfrerebeau and tesselle
-  * links: [GitHub]()        [CRAN](https://CRAN.R-project.org/package=folio)   [Website](https://packages.tesselle.org/folio/) [DOI](https://doi.org/10.5281/zenodo.4476182)
+  * links: [GitHub](https://github.com/tesselle/folio)        [CRAN](https://CRAN.R-project.org/package=folio)   [Website](https://packages.tesselle.org/folio/) [DOI](https://doi.org/10.5281/zenodo.4476182)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **folio**: Datasets for Teaching Archaeology and Palaeontology.
   * by: tesselle
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/tesselle/folio)
   * tags: [Datasets] and [Educational resources and practical guides]
   
 ----
 
 * **Ford-Diagram**: This R Function creates a simple Ford diagram for archaeological seriation with error bars determined based on sample size were count data are given
   * by: mpeeples2008
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/mpeeples2008/Ford-Diagram)
   * tags: [Diagrams and visualizations] and [Seriation]
   
 ----
 
 * **frontiers-palaeo-additive-modelling**: Modelling and feature detection in palaeoenvironmental time series using additive models.
   * by: gavinsimpson
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/gavinsimpson/frontiers-palaeo-additive-modelling)
   * tags: [Palaeobotany]
   
 ----
 
 * **FuzzyViewshed**: ArcGIS toolbox for fuzzy viewshed calculation.
   * by: gianmarcoalberti
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/gianmarcoalberti/FuzzyViewshed)
   * tags: [Spatial analysis] and [Viewshed analysis]
   
 ----
 
 * **gargammel**: A set of programs aimed at simulating ancient DNA fragments. For ancient hominin samples our program can also simulate various levels of present-day human contamination and microbial contamination.
   * by: grenaud
-  * links: [GitHub]()           [Website](https://grenaud.github.io/gargammel/)
+  * links: [GitHub](https://github.com/grenaud/gargammel)           [Website](https://grenaud.github.io/gargammel/)
   * tags: 
   
 ----
 
 * **GCD**: Global Charcoal Database
   * by: oblarquez
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/oblarquez/GCD)
   * tags: [Datasets]
   
 ----
 
 * **GeoChronR**: An integrated framework that allows scientists to generate state-of-the-art age models for their records, create time-uncertain ensembles of their data, analyze those ensembles with a number of commonly-used techniques, and visualize their results in an intuitive way.
   * by: nickmckay, CommonClimate and khider
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/nickmckay/GeoChronR)
   * tags: [Chronological modelling] and [Palaeobotany]
   
 ----
 
 * **geoCore**: Constructs a graphical representation of petrographic drilling profiles.
   * by: Gerrit Bette and Moritz Mennenga
-  * links: [GitHub]()           [Website](https://plugins.qgis.org/plugins/geoCore/) [DOI](https://doi.org/10.5281/zenodo.4548887)
+  * links: [GitHub](https://github.com/t-systems-on-site-services-gmbh/geoCore)           [Website](https://plugins.qgis.org/plugins/geoCore/) [DOI](https://doi.org/10.5281/zenodo.4548887)
   * tags: [Diagrams and visualizations]
   
 ----
 
 * **Geostat**: Code for Geostatistics in ethnographic contexts.
   * by: cl379
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/cl379/Geostat)
   * tags: [Statistical analysis] and [Spatial analysis]
   
 ----
 
 * **ggvegan**: ggplot-based plots for vegan.
   * by: gavinsimpson
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/gavinsimpson/ggvegan)
   * tags: [Palaeobotany]
   
 ----
 
 * **GigaMesh**: A modular software for display, editing and visualization of 3D-data typically acquired with structured light scanning (SLS) or structure from motion (SfM).
   * by: Hubert Mara and Forensic Computational Geometry Laboratory
-  * links: [GitHub]()  [GitLab](https://gitlab.com/fcgl/GigaMesh/)   [Twitter](https://twitter.com/MeshGiga/) [YouTube](https://www.youtube.com/channel/UCJSOsw9GX8DnkqnciyVwmLw)     [Website](https://gigamesh.eu/)
+  * links: [GitLab](https://gitlab.com/fcgl/GigaMesh/)   [Twitter](https://twitter.com/MeshGiga/) [YouTube](https://www.youtube.com/channel/UCJSOsw9GX8DnkqnciyVwmLw)     [Website](https://gigamesh.eu/)
   * tags: [3D modelling] and [Photogrammetry]
   
 ----
 
 * **GIS-Projects**: GIS Projects for teaching and learning about Computational Archaeology
   * by: isaacullah
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/isaacullah/GIS-Projects)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **Git-to-the-Point**: An open call to edit and revise current typological assignments and attributes associated with diagnostic artifacts found across the National Forests and Grasslands in Texas (NFGT).
   * by: aksel-blaise
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/aksel-blaise/git-to-the-point)
   * tags: [Schemas and ontologies]
   
 ----
 
 * **gitMuseum**: A repository listing Museums active on GitHub, written in Rstats.
   * by: BritishMuseum
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/BritishMuseum/gitMuseum)
   * tags: [Lists]
   
 ----
 
 * **GlobaLID-App**: The GlobaLID web app
   * by: archmetalDBM
-  * links: [GitHub]()           [Website](https://globalid.dmt-lb.de/)
+  * links: [GitHub](https://github.com/archmetalDBM/GlobaLID-App)           [Website](https://globalid.dmt-lb.de/)
   * tags: [Datasets], [Stable isotope analysis] and [Diagrams and visualizations]
   
 ----
 
 * **GlobaLID-database**: Facilitates the reconstruction of raw material provenances with lead isotopes.
   * by: archmetalDBM
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/archmetalDBM/GlobaLID-database)
   * tags: [Datasets] and [Stable isotope analysis]
   
 ----
 
 * **GmAMisc**: A collection of functions that built in different points in time. The functions' aim spans from univariate outlier detection, to permutation t test, permutation chi-square test, calculation of Brainerd-Robinson similarity coefficient, validation of logistic regression models, point pattern analysis, and more.
   * by: gianmarcoalberti
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/gianmarcoalberti/GmAMisc)
   * tags: [Bits and bobs]
   
 ----
 
 * **gods_on_the_barge**: Inspired by the research project of historiography of ancient Graeco-Roman religions, the main goal is to spread a selected cult successfully across the ancient Mediterranean
   * by: adammertel
-  * links: [GitHub]()           [Website](http://www.coffeegnome.net/godsonthebarge/)
+  * links: [GitHub](https://github.com/adammertel/gods-on-the-barge)           [Website](http://www.coffeegnome.net/godsonthebarge/)
   * tags: [Games]
   
 ----
 
 * **gorbit**: Making the freely available and excellent Orbis data just a little bit more easy to use.
   * by: sfsheath
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/sfsheath/gorbit)
   * tags: [Datasets]
   
 ----
 
 * **GPRsuite**: Shiny app for RGPR.
   * by: emanuelhuber
-  * links: [GitHub]()           [Website](http://emanuelhuber.github.io/RGPR/)
+  * links: [GitHub](https://github.com/emanuelhuber/RPGPRpy)           [Website](http://emanuelhuber.github.io/RGPR/)
   * tags: [Geophysical survey]
   
 ----
 
 * **grainsizeR**: This package contains all the tools necessary to extract grain sizes from images, digitally sieve grain size measurements, and gather descriptive statistics on sieved data.
   * by: dtavern
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/dtavern/grainsizeR)
   * tags: [Shape recognition]
   
 ----
 
 * **grass-arch**: A LaTeX textbook devoted to explain how archaeologists can work with GRASS GIS
   * by: fradeve
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/fradeve/grass-arch)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **grups**: A collection of Python and R scripts that can be used to simulate the pairwise genetic distances between human individuals in a provided test pedigree.
   * by: sameoldmike
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/sameoldmike/grups/)
   * tags: 
   
 ----
 
 * **hammurabi-markov**: Simple VueJS page generating fake laws of Hammurabi.
   * by: willismonroe
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/willismonroe/hammurabi-markov)
   * tags: [Simulation] and [Literary analysis and epigraphy]
   
 ----
 
 * **hapROH**: Software to call ROH from ancient and present-day DNA using reference haplotypes.
   * by: hringbauer
-  * links: [GitHub]()         [PyPi](https://pypi.org/project/hapROH/)
+  * links: [GitHub](https://github.com/hringbauer/hapROH)         [PyPi](https://pypi.org/project/hapROH/)
   * tags: 
   
 ----
 
 * **harris-matrix**: Write Graphviz dot files for archaeological sequence diagrams and Bayesian chronological models.
   * by: tsdye
-  * links: [GitHub]()           [Website](http://tsdye.online/harris-matrix/homepage/)
+  * links: [GitHub](https://github.com/tsdye/harris-matrix/)           [Website](http://tsdye.online/harris-matrix/homepage/)
   * tags: [Harris matrix]
   
 ----
 
 * **harris-matrix**: Harris Matrix Visualization for the web using D3 + KLayJS-D3.
   * by: semerj
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/semerj/harris-matrix)
   * tags: [Harris matrix]
   
 ----
 
 * **harris-matrix-data-package**: A Data Package specification for archaeological stratigraphy data following the Harris Matrix convention.
   * by: steko
-  * links: [GitHub]()          [Codeberg](https://codeberg.org/steko/harris-matrix-data-package)
+  * links: [Codeberg](https://codeberg.org/steko/harris-matrix-data-package)
   * tags: [Harris Matrix] and [Schemas and ontologies]
   
 ----
 
 * **Harris-matrix-legacy**: Create a Harris Matrix from archaeological stratigraphy data using Python and Graphviz.
   * by: steko and iosa
-  * links: [GitHub]()       [Blog Post](https://codeberg.org/steko/harris-matrix-legacy)    [Website](https://www.iosa.it/2008/08/27/harris-matrix-with-graphviz-a-draft-application-with-python/)
+  * links: [Blog Post](https://codeberg.org/steko/harris-matrix-legacy)    [Website](https://www.iosa.it/2008/08/27/harris-matrix-with-graphviz-a-draft-application-with-python/)
   * tags: [Harris matrix]
   
 ----
 
 * **harris2graph**: harris2graph is a script to help migrate data from the LST file format used by the BASP Harris, Stratify and ArchEd packages into modern graph file formats.
   * by: L-P Archaeology
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/lparchaeology/harris2graph/)
   * tags: [Harris matrix]
   
 ----
 
 * **heurist**: A web-based data management infrastructure that allows researchers to design, create, manage, analyse and publish their own richly-structured database(s) through a simple web interface, without the need for programmers or consultants.
   * by: HeuristNetwork
-  * links: [GitHub]()           [Website](http://heuristnetwork.org/)
+  * links: [GitHub](https://github.com/HeuristNetwork/heurist)           [Website](http://heuristnetwork.org/)
   * tags: [Data management]
   
 ----
 
 * **historical-geocoding-assistant**: Tool for assisted geocoding of historical datasets (something between a manual table editing and automated geocoding script)
   * by: adammertel
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/adammertel/historical-geocoding-assistant)
   * tags: [Data management]
   
 ----
 
 * **HOPS**: A pipeline which focuses on screening MALT data for the presence of a user-specified list of target species.
   * by: rhuebler
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/rhuebler/HOPS)
   * tags: 
   
 ----
 
 * **hsv-api**: Historical Street View API
   * by: openhistorymap
-  * links: [GitHub]()           [Website](https://visions.ofthepast.org/)
+  * links: [GitHub](https://github.com/openhistorymap/hsv-api)           [Website](https://visions.ofthepast.org/)
   * tags: [Site mapping], [Public archaeology] and [Drivers and IO]
   
 ----
 
 * **HumanOS**: A mobile application for the intuitive recording of human bones from archaeological sites.
   * by: Rozenn Colleter, Jean-Baptiste Romain and Jean-Baptiste Barreau
-  * links: [GitHub]()           [Website](https://www.humanos.cnrs.fr/) [DOI](https://doi.org/10.4995/var.2020.13422)
+  * links: [Website](https://www.humanos.cnrs.fr/) [DOI](https://doi.org/10.4995/var.2020.13422)
   * tags: [Zooarchaeology] and [Data management]
   
 ----
 
 * **iconr**: Set of formal methods for studying archaeological iconographic datasets (rock-art, pottery decoration, stelae, etc.) using network and spatial analysis.
   * by: zoometh, josempozo and Craig Alexander
-  * links: [GitHub]()           [Website](https://zoometh.github.io/iconr/articles/index.html)
+  * links: [GitHub](https://github.com/zoometh/iconr)           [Website](https://zoometh.github.io/iconr/articles/index.html)
   * tags: [Iconography]
   
 ----
 
 * **iDAI.field**: The German Archaeological Institute’s (DAI) new take on a field research documentation system. Combining features of GIS, photo management, and database management systems in a unique and integrating manner, it aims at facilitating archaeological workflows by reducing the overhead of using multiple systems. Developed in-house by the DAI’s information technology department, it targets primarily the needs of the institute’s excavations, older ones as well as those to come. Yet, due to the nature of its adjustable data model and the fact it is open source software, any interested third party is free to reuse and adjust it to their needs.
   * by: daiinst
-  * links: [GitHub]()           [Website](https://field.dainst.org/#/)
+  * links: [GitHub](https://github.com/dainst/idai-field)           [Website](https://field.dainst.org/#/)
   * tags: [Data management]
   
 ----
 
 * **idaifieldR**: The goal of idaifieldR is to flexibly get data from the idaifield database into R.
   * by: lsteinmann
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/lsteinmann/idaifieldR)
   * tags: 
   
 ----
 
 * **Image enhancement process tool**: This software implements five state of the art algorithms aimed to enhance the quality of underwater images.
   * by: iMare Culture
-  * links: [GitHub]()           [Website](https://imareculture.eu/downloads/project-tools/image-enhancement-process-tool/)
+  * links: [Website](https://imareculture.eu/downloads/project-tools/image-enhancement-process-tool/)
   * tags: [Underwater archaeology] and [Photography]
   
 ----
 
 * **inclusions**: Shortcodes to describe inclusions in ceramic bodies.
   * by: steko
-  * links: [GitHub]()          [Codeberg](https://codeberg.org/steko/inclusions)
+  * links: [Codeberg](https://codeberg.org/steko/inclusions)
   * tags: [Schemas and ontologies]
   
 ----
 
 * **input**: Makes surveying geospatial data easy by designing your survey project in QGIS with custom forms.
   * by: lutraconsulting
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/lutraconsulting/input)
   * tags: [Data collection] and [Site mapping]
   
 ----
 
 * **IntCal**: The IntCal20 radiocarbon calibration curves are provided here in a single data package, together with previous IntCal curves and postbomb curves.
   * by: Maarten14C
-  * links: [GitHub]()        [CRAN](https://cran.r-project.org/web/packages/IntCal/index.html)
+  * links: [GitHub](https://github.com/Maarten14C/IntCal)        [CRAN](https://cran.r-project.org/web/packages/IntCal/index.html)
   * tags: [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **IOSACal**: IOSACal is an open source tool for radiocarbon calibration
   * by: iosa
-  * links: [GitHub]()         [PyPi](https://pypi.org/project/iosacal/) [Codeberg](https://codeberg.org/steko/iosacal) [Website](https://iosacal.readthedocs.io/en/latest/) [DOI](https://doi.org/10.5281/zenodo.630455)
+  * links: [PyPi](https://pypi.org/project/iosacal/) [Codeberg](https://codeberg.org/steko/iosacal) [Website](https://iosacal.readthedocs.io/en/latest/) [DOI](https://doi.org/10.5281/zenodo.630455)
   * tags: [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **Iraq_mortar**: Enables the creation of a high quality 3D model of an archaeological artefact via process known as photo-masking.
   * by: apalmisano82
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/apalmisano82/Iraq_mortar)
   * tags: [3D modelling] and [Shape recognition]
   
 ----
 
 * **Isaac's List of FOSS tools for academics... and what to use them for!**: An annotated list of open source tools for academics.
   * by: isaacullah
-  * links: [GitHub]()       [Blog Post](http://isaacullah.github.io/List-of-FOSS-tools-for-academics/)
+  * links: [Blog Post](http://isaacullah.github.io/List-of-FOSS-tools-for-academics/)
   * tags: [Lists]
   
 ----
 
 * **ishtar**: Ishtar is a database project for managing archaeological data and documentation from archaeological operations, that prioritizes maximum traceability of the information. Designed to enable inter-database communication, the Ishtar project aims rather to a distributed information model than a centralized one: communication between the databases is favored.
   * by: iggdrasil
-  * links: [GitHub]()  [GitLab](https://gitlab.com/iggdrasil/ishtar)         [Website](https://ishtar-archeo.net/en/)
+  * links: [GitLab](https://gitlab.com/iggdrasil/ishtar)         [Website](https://ishtar-archeo.net/en/)
   * tags: [Data management]
   
 ----
 
 * **IsoArcH**: Open access and collaborative isotope database for bioarcheological samples.
   * by: IsoArcH
-  * links: [GitHub]()     [Twitter](https://twitter.com/isoarch_eu)      [Website](https://isoarch.eu/)
+  * links: [Twitter](https://twitter.com/isoarch_eu)      [Website](https://isoarch.eu/)
   * tags: [Datasets]
   
 ----
 
 * **IsoDataVis**: Data visualization guidelines for stable isotopes graphs, with examples
   * by: stantis
-  * links: [GitHub]()           [Website](https://stantis.github.io/IsoDataVis/)
+  * links: [GitHub](https://github.com/stantis/IsoDataVis)           [Website](https://stantis.github.io/IsoDataVis/)
   * tags: [Stable isotope analysis], [Educational resources and practical guides] and [Diagrams and visualizations]
   
 ----
 
 * **IsoMapNL**: Data and script to generate a map of the Netherlands for isotopic analyses
   * by: EstherPlomp
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/EstherPlomp/IsoMapNL)
   * tags: [Educational resources and practical guides], [Stable isotope analysis] and [Diagrams and visualizations]
   
 ----
 
 * **Isotope-Visualisation**: Resources relevant to visualisation of isotopic results
   * by: EstherPlomp
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/EstherPlomp/Isotope-Visualisation)
   * tags: [Stable isotope analysis], [Diagrams and visualizations] and [Educational resources and practical guides]
   
 ----
 
 * **italy-3d-amphitheaters**: 3D amphitheatres.
   * by: sfsheath
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/sfsheath/italy-3d-amphitheaters)
   * tags: [3D modelling]
   
 ----
 
 * **ithaca**: Restoring and attributing ancient texts using deep neural networks.
   * by: deepmind
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/deepmind/ithaca)
   * tags: [Literary analysis and epigraphy] and [Shape recognition]
   
 ----
 
 * **joint-disease-tool**: Interactively guides the user through a number of questions, ending in a specific pathology diagnosis.
   * by: alexbrandsen
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/alexbrandsen/joint-disease-tool)
   * tags: [Biological anthropology]
   
 ----
 
 * **juliandate**: Simple conversions between Julian Dates and Julian/Gregorian calendar dates, supporting ancient dates.
   * by: seanredmond
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/seanredmond/juliandate)
   * tags: [Chronological modelling] and [Bits and bobs]
   
 ----
 
 * **kairos**: Analysis of Chronological Patterns from Archaeological Count Data.
   * by: nfrerebeau and tesselle
-  * links: [GitHub]()           [Website](https://packages.tesselle.org/kairos/)
+  * links: [GitHub](https://github.com/tesselle/kairos)           [Website](https://packages.tesselle.org/kairos/)
   * tags: [Chronological modelling]
   
 ----
 
 * **katun**: Tools for converting between Maya and Western calendars.
   * by: jgregoriods
-  * links: [GitHub]()           [Website](https://jgregoriods.github.io/katun/)
+  * links: [GitHub](https://github.com/jgregoriods/katun)           [Website](https://jgregoriods.github.io/katun/)
   * tags: [Chronological modelling]
   
 ----
 
 * **khroma**: Colour Schemes for Archaeological Data Visualization
   * by: nfrerebeau and tesselle
-  * links: [GitHub]()        [CRAN](https://CRAN.R-project.org/package=khroma)   [Website](https://packages.tesselle.org/khroma/) [DOI](https://doi.org/10.5281/zenodo.1472077)
+  * links: [GitHub](https://github.com/tesselle/khroma)        [CRAN](https://CRAN.R-project.org/package=khroma)   [Website](https://packages.tesselle.org/khroma/) [DOI](https://doi.org/10.5281/zenodo.1472077)
   * tags: [Diagrams and visualizations]
   
 ----
 
 * **kidstats**: Shiny application that provides subadult age estimations based on dental and skeletal development and skeletal diaphyseal metrics using pre-optimized mixed cumulative probit models.
   * by: ElaineYChu
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ElaineYChu/kidstats)
   * tags: [Biological anthropology]
   
 ----
 
 * **Kmeans**: Script for conducting K-means cluster analysis using R. This script provides output designed to help the user select an appropriate cluster solution.
   * by: mpeeples2008
-  * links: [GitHub]()           [Website](http://www.mattpeeples.net/kmeans.html)
+  * links: [GitHub](https://github.com/mpeeples2008/Kmeans)           [Website](http://www.mattpeeples.net/kmeans.html)
   * tags: [Statistical analysis]
   
 ----
 
 * **kotyle**: Calculate the capacity of a ceramic vessel, like an amphora.
   * by: iosa
-  * links: [GitHub]()          [Codeberg](https://codeberg.org/steko/kotyle) [Website](https://kotyle.readthedocs.io/en/latest/)
+  * links: [Codeberg](https://codeberg.org/steko/kotyle) [Website](https://kotyle.readthedocs.io/en/latest/)
   * tags: 
   
 ----
 
 * **kriging**: Codes for performing kriging for ethnographic and archaeological data.
   * by: cl379
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/cl379/kriging)
   * tags: [Statistical analysis]
   
 ----
 
 * **LA_ICP_MS-Routines_FMNH**: Routines to read and analyze LA-ICP-MS data from the Field Museum's Elemental Analysis Facility
   * by: ajupton
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ajupton/LA_ICP_MS-Routines_FMNH)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **Le Stratifiant**: Application for creating stratigraphic diagrams and checking the consistency of the chronostratigraphic recording.
   * by: Bruno Desachy
-  * links: [GitHub]()           [Website](https://abp.hypotheses.org/3965)
+  * links: [Website](https://abp.hypotheses.org/3965)
   * tags: [Harris matrix]
   
 ----
 
 * **leastcostpath**: Provides the functionality to calculate Least Cost Paths (LCPs) which are often, but not exclusively, used in archaeological research. This package can be used to apply multiple cost functions when approximating the difficulty of moving across a landscape, as well as taking into account traversing across slope and other costs such as landscape features. This package also provides functionality to validate the accuracy of the computed LCP relative to another path.
   * by: josephlewis
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/josephlewis/leastcostpath)
   * tags: [Spatial analysis]
   
 ----
 
 * **lecAAR**: Tool for calculating the largest empty circles and estimation of archaeological sites theoretically to be expected in region of interest, an implementation of the method published by Andreas Zimmermann and Karl Peter Wendt (2003).
   * by: yesdavid, nevrome, nmueller18, whamer and dakni
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ISAAKiel/lecAAR)
   * tags: [Statistical analysis] and [Spatial analysis]
   
 ----
 
 * **leeHom**: Bayesian reconstruction of ancient DNA fragments.
   * by: grenaud
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/grenaud/leeHom)
   * tags: 
   
 ----
 
 * **levant-zooarch**: Table of faunal analyses from archaeological sites in the Levant.
   * by: sarahkansa
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/sarahkansa/levant-zooarch)
   * tags: [Lists]
   
 ----
 
 * **LISA**: Moran's I and Getis-Ord G* Analysis.
   * by: mpeeples2008
-  * links: [GitHub]()           [Website](http://www.mattpeeples.net/modules/LISA.html)
+  * links: [Website](http://www.mattpeeples.net/modules/LISA.html)
   * tags: [Statistical analysis]
   
 ----
 
 * **List of Resources for getting started with (teaching) digital methods**: A short list of introductory resources on DH.
   * by: latex-ninja
-  * links: [GitHub]()       [Blog Post](https://latex-ninja.com/2021/04/16/list-of-resources-for-getting-started-with-teaching-digital-methods/)
+  * links: [Blog Post](https://latex-ninja.com/2021/04/16/list-of-resources-for-getting-started-with-teaching-digital-methods/)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **lithic3dslicer**: .obj slicing for lithic 3d morphometrics.
   * by: kotdijian
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/kotdijian/lithic3dslicer)
   * tags: 
   
 ----
 
 * **Lithics3D**: An R package for processing and analyzing 3D scans of archaeological lithics.
   * by: cornelmpop
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/cornelmpop/Lithics3D)
   * tags: [3D modelling]
   
 ----
 
 * **long-bone-diaphyseal-CSG-Toolkit**: A GNU Octave toolkit for analyzing diaphyseal long bone cross sectional geometry.
   * by: pr0m1th3as
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/pr0m1th3as/long-bone-diaphyseal-CSG-Toolkit)
   * tags: [Biological anthropology] and [Zooarchaeology]
   
 ----
 
 * **Luminescence**: Development version of the R package 'Luminescence'. The R package 'Luminescence' by the R-Luminescence Group provides a collection of various R functions for luminescence dating data analysis.
   * by: R-Lum
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/R-Lum/Luminescence)
   * tags: [Luminescence dating]
   
 ----
 
 * **LumReader**: R package to simulate a Luminescence Reader
   * by: dstreble
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/dstreble/LumReader)
   * tags: [Luminescence dating]
   
 ----
 
 * **maacgis**: Climate Response and Virginia Archaeology: Maps from Different Points of View
   * by: aejolene
-  * links: [GitHub]()           [Website](https://aejolene.github.io/maacgis/)
+  * links: [GitHub](https://github.com/aejolene/maacgis)           [Website](https://aejolene.github.io/maacgis/)
   * tags: [Public policy and civic action]
   
 ----
 
 * **MADAM**: Two-level de novo assembly strategy for ancient bacterial genomes.
   * by: Integrative-Transcriptomics
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/Integrative-Transcriptomics/MADAM)
   * tags: 
   
 ----
 
 * **magAAR**: Analyse geomagnetic data from archaeological context
   * by: ISAAKiel
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ISAAKiel/magAAR)
   * tags: [Geophysical survey]
   
 ----
 
 * **MALT**: A sequence alignment and analysis tool designedfor processing high-throughput sequencing data, especially in the context of metagenomics.
   * by: Daniel H. Huson
-  * links: [GitHub]()           [Website](https://software-ab.informatik.uni-tuebingen.de/download/malt/welcome.html)
+  * links: [Website](https://software-ab.informatik.uni-tuebingen.de/download/malt/welcome.html)
   * tags: 
   
 ----
 
 * **Map Files**: This page presents an ever growing collection of resources for digital mapping.
   * by: Ancient World Mapping Center
-  * links: [GitHub]()           [Website](http://awmc.unc.edu/wordpress/map-files/)
+  * links: [Website](http://awmc.unc.edu/wordpress/map-files/)
   * tags: [Datasets]
   
 ----
 
 * **map-of-Ancient-Egypt**: Known pyramids of Ancient Egypt using python + OpenStreetMap.
   * by: LSIND
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/LSIND/map-of-Ancient-Egypt)
   * tags: [Datasets]
   
 ----
 
 * **mapDamage**: Tracking and quantifying damage patterns in ancient DNA sequences.
   * by: ginolhac
-  * links: [GitHub]()           [Website](http://ginolhac.github.io/mapDamage/)
+  * links: [GitHub](https://github.com/ginolhac/mapDamage)           [Website](http://ginolhac.github.io/mapDamage/)
   * tags: 
   
 ----
 
 * **MapofComputationalArchaeology**: Visualizes digital archaeology as a fantasy landscape.
   * by: sslarch
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/sslarch/MapofComputationalArchaeology)
   * tags: [Diagrams and visualizations]
   
 ----
 
 * **mapping-iterative-assembler**: Consensus calling (or "reference assisted assembly"), chiefly of ancient mitochondria.
   * by: mpieva
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/mpieva/mapping-iterative-assembler)
   * tags: 
   
 ----
 
 * **marbleplan**: Loading a Marble Plan fragment.
   * by: rybesh
-  * links: [GitHub]()           [Website](http://rybesh.github.io/marbleplan/)
+  * links: [GitHub](https://github.com/rybesh/marbleplan)           [Website](http://rybesh.github.io/marbleplan/)
   * tags: [3D modelling] and [Educational resources and practical guides]
   
 ----
 
 * **Mask_UAV**: Software to annotate, train, using deep learning, and segment imagery data from UAVs or other platforms.
   * by: maltaweel
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/maltaweel/Mask_UAV)
   * tags: 
   
 ----
 
 * **Mastodon-Archaeology**: Simple web app that helps to bulk follow archaeologists on the FOSS microblogging service Mastodon.
   * by: stark1tty
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/stark1tty/Mastodon-Archaeology)
   * tags: [Lists] and [Public archaeology]
   
 ----
 
 * **MAX**: An online tool for the comparative analysis of museum databases.
   * by: stefanieschneider, Hubertus Kohle, Severin Burg and Helmut Küchenhoff
-  * links: [GitHub]()           [Website](https://www.max.gwi.uni-muenchen.de/)
+  * links: [GitHub](https://github.com/stefanieschneider/MAX)           [Website](https://www.max.gwi.uni-muenchen.de/)
   * tags: [Museums]
   
 ----
 
 * **maximum-likelihood-relatedness-estimation**: Infer biological relatedness from low coverage 2nd generation sequencing data.
   * by: COMBINE-lab
-  * links: [GitHub]()           [Website](https://github.com/COMBINE-lab/maximum-likelihood-relatedness-estimation/wiki)
+  * links: [GitHub](https://github.com/COMBINE-lab/maximum-likelihood-relatedness-estimation)           [Website](https://github.com/COMBINE-lab/maximum-likelihood-relatedness-estimation/wiki)
   * tags: 
   
 ----
 
 * **maya-calendar**: Tools for converting between Maya and Western calendars.
   * by: jgregoriods
-  * links: [GitHub]()           [Website](https://jgregoriods.github.io/maya-calendar/dist/)
+  * links: [GitHub](https://github.com/jgregoriods/maya-calendar)           [Website](https://jgregoriods.github.io/maya-calendar/dist/)
   * tags: [Chronological modelling]
   
 ----
 
 * **Mean-Ceramic-Date-and-Error-Estimation**: Script for calculating mean ceramic dates based on tabular data. This script also estimates sampling error using a bootstrapping procedure.
   * by: mpeeples2008
-  * links: [GitHub]()           [Website](http://www.mattpeeples.net/mcd.html)
+  * links: [GitHub](https://github.com/mpeeples2008/Mean-Ceramic-Date-and-Error-Estimation)           [Website](http://www.mattpeeples.net/mcd.html)
   * tags: [Statistical analysis]
   
 ----
 
 * **measure3d**: A simple qgis plugin that measures the 3d distance between two selected points.
   * by: alessandrobattisti
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/alessandrobattisti/measure3d)
   * tags: [Bits and bobs]
   
 ----
 
 * **meshlab**: These tools are meant to help you render orthographic views of 3D models for archaeological publication by simplifying, segmenting, cleaning and rendering 3D meshes.
   * by: KevinCain
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/KevinCain/meshlab)
   * tags: [3D modelling]
   
 ----
 
 * **metabit**: An integrative and automated metagenomic pipeline for analysing microbial profiles from high-throughput sequencing shotgun data.
   * by: Glouvel
-  * links: [GitHub]()   [BitBucket](https://bitbucket.org/Glouvel/metabit/src/master/)        [Website](https://bitbucket.org/Glouvel/metabit/wiki/Home)
+  * links: [BitBucket](https://bitbucket.org/Glouvel/metabit/src/master/)        [Website](https://bitbucket.org/Glouvel/metabit/wiki/Home)
   * tags: 
   
 ----
 
 * **mhbil**: Code repository of the book by Oliver Nakoinz and Daniel Knitter "Modelling Human Behaviour in Landscapes -- Basic concepts and modelling elements".
   * by: dakni and OliverNakoinz
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/dakni/mhbil)
   * tags: [Educational resources and practical guides] and [Spatial analysis]
   
 ----
 
 * **missing**: You have a sequence of numbered items and want to check if any are missing.
   * by: steko
-  * links: [GitHub]()          [Codeberg](https://codeberg.org/steko/missing)
+  * links: [Codeberg](https://codeberg.org/steko/missing)
   * tags: [Bits and bobs]
   
 ----
 
 * **mortAAR**: Analysis of Archaeological Mortality Data.
   * by: ISAAKiel
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ISAAKiel/mortAAR)
   * tags: [Zooarchaeology]
   
 ----
 
 * **mpvecost**: Provides the facility to calculate non-isotropic accumulated cost surface and least-cost paths using a number of human-movement-related cost functions that can be selected by the user. It just requires a Digital Terrain Model, a start location and (optionally) destination locations.
   * by: gianmarcoalberti
-  * links: [GitHub]()        [CRAN](https://cran.r-project.org/web/packages/movecost/index.html)
+  * links: [CRAN](https://cran.r-project.org/web/packages/movecost/index.html)
   * tags: [Spatial analysis]
   
 ----
 
 * **MtreeRing**: A tool for automatically measuring tree-ring width using image processing techniques.
   * by: ropensci
-  * links: [GitHub]()           [Website](https://ropensci.github.io/MtreeRing/)
+  * links: [GitHub](https://github.com/ropensci/MtreeRing)           [Website](https://ropensci.github.io/MtreeRing/)
   * tags: [Bits and bobs] and [Dendrochronology]
   
 ----
 
 * **mudata**: The mudata2 package provides tools to read, write, and document multi-parameter spatiotemporal data.
   * by: paleolimbot
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/paleolimbot/mudata2)
   * tags: [Bits and bobs]
   
 ----
 
 * **MultiVCFAnalyzer**: A SNP filtering and SNP alignment generation tool, designed around (but not limited to) low coverage ancient DNA data.
   * by: alexherbig
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/alexherbig/MultiVCFAnalyzer)
   * tags: 
   
 ----
 
 * **munsell**: Provides easy access to, and manipulation of, the Munsell colours
   * by: cwickham
-  * links: [GitHub]()        [CRAN](https://cran.r-project.org/web/packages/munsell/index.html)
+  * links: [GitHub](https://github.com/cwickham/munsell/)        [CRAN](https://cran.r-project.org/web/packages/munsell/index.html)
   * tags: [Diagrams and visualizations]
   
 ----
 
 * **munsell-plot.R**: Make a stratigraphic-style plot-schematic of sediment colour using munsell values
   * by: benmarwick
-  * links: [GitHub]() [Gist](https://gist.github.com/benmarwick/f32cbc2fe7297ec9f276b52c118a249a)
+  * links: [Gist](https://gist.github.com/benmarwick/f32cbc2fe7297ec9f276b52c118a249a)
   * tags: [Diagrams and visualizations]
   
 ----
 
 * **murature**: This Python library was written as an help for the study of stone walls, mainly through the quantitative analysis of spatial dimensions of stones.
   * by: steko and iosa
-  * links: [GitHub]()          [Codeberg](https://codeberg.org/steko/murature)
+  * links: [Codeberg](https://codeberg.org/steko/murature)
   * tags: [Shape recognition]
   
 ----
 
 * **NAA analytical dashboard**: Analytical Dashboard for conducting various analysis to group and assess groupings for Neutron Activation Analytical chemical compositional data
   * by: mpeeples2008
-  * links: [GitHub]()           [Website](http://nsls-ii.github.io/PyXRF/)
+  * links: [GitHub](https://github.com/mpeeples2008/A_analytical_dashboard)           [Website](http://nsls-ii.github.io/PyXRF/)
   * tags: 
+  
+----
+
+* **NASSA-modules**: The modular library of the "Network for Agent-based modelling of Socio-ecological systems in Archaeology" (NASSA)
+  * by: Archaeology-ABM
+  * links: [GitHub](https://github.com/Archaeology-ABM/SSA-modules)           [Website](https://archaeology-abm.github.io/SSA-modules)
+  * tags: [Simulation] and [Lists]
   
 ----
 
 * **Near-Presence-Analysis**: R script for analyzing presence/absence data in irregularly distributed archaeological survey units.
   * by: eweaverdyck
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/eweaverdyck/Near-Presence-Analysis)
   * tags: [Statistical analysis] and [Spatial analysis]
   
 ----
 
 * **nearpresence**: Implements Near Presence Cluster Analysis, a statistical method for identifying spatial clustering within presence / absence data observed in irregularly distributed areal observation units.
   * by: eweaverdyck
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/eweaverdyck/nearpresence)
   * tags: [Statistical analysis] and [Spatial analysis]
   
 ----
 
 * **neiman1995**: R Shiny Document - Visualizing model functions in Neimans 'Stylistic variation in evolutionary perspective' with an interactive document.
   * by: nevrome
-  * links: [GitHub]()           [Website](https://nevrome.shinyapps.io/neiman1995)
+  * links: [GitHub](https://github.com/nevrome/neiman1995)           [Website](https://nevrome.shinyapps.io/neiman1995)
   * tags: [Educational resources and practical guides] and [Cultural evolution]
   
 ----
 
 * **neolithicR**: Shiny app to search and filter radiocarbon dates from various source databases, based on the R package c14bazAAR.
   * by: nevrome and dirkseidensticker
-  * links: [GitHub]()           [Website](https://www.neolithicrc.de)
+  * links: [GitHub](https://github.com/nevrome/neolithicR)           [Website](https://www.neolithicrc.de)
   * tags: 
   
 ----
 
 * **neotoma**: Programmatic R interface to the Neotoma Paleoecological Database
   * by: ropensci
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ropensci/neotoma)
   * tags: 
   
 ----
 
 * **NERD**: Dataset of 10,647 radiocarbon dates from the Near East from the Late Pleistocene until the Late Holocene (ca. 14 - 2 kya BP).
   * by: apalmisano82
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/apalmisano82/NERD)
   * tags: [Datasets] and [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **nervia**: Management system for physical storage of archaeological finds
   * by: steko
-  * links: [GitHub]()          [Codeberg](https://codeberg.org/steko/nervia)
+  * links: [GitHub](https://github.com/steko/nervia)          [Codeberg](https://codeberg.org/steko/nervia)
   * tags: [Data management]
   
 ----
 
 * **nexus**: Sourcing Archaeological Materials by Chemical Composition.
   * by: nfrerebeau, Anne Philippe and tesselle
-  * links: [GitHub]()           [Website](https://packages.tesselle.org/nexus/)
+  * links: [GitHub](https://github.com/tesselle/nexus)           [Website](https://packages.tesselle.org/nexus/)
   * tags: [X-Ray Fluorescence]
   
 ----
 
 * **NgsRelate**: Infer relatedness, inbreeding coefficients and many other summary statistics for pairs of individuals.
   * by: ANGSD
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ANGSD/NgsRelate)
   * tags: 
   
 ----
 
 * **nimbleCarbon**: The nimbleCarbon package provides utility functions and bespoke probability distributions for the Bayesian analyses of radiocarbon dates using the NIMBLE framework. The package is particularly dedicated to demographic inferences based on changing frequencies of radiocarbon dates.
   * by: ercrema
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ercrema/nimbleCarbon)
   * tags: [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **non-metric-trait-analysis**: A set of GNU Octave functions for biodistance analysis based on non-metric traits.
   * by: pr0m1th3as
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/pr0m1th3as/non-metric-trait-analysis)
   * tags: [Biological anthropology] and [Zooarchaeology]
   
 ----
 
 * **nonekXML**: Exchange data format (XML) for NoNeK (Nordmitteleuropäische Neolithische Keramik).
   * by: MoritzMennenga and chrinne
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ISAAKiel/nonekXML)
   * tags: [Schemas and ontologies]
   
 ----
 
 * **NRHP_Metadata_Scheme**: Metadata scheme for National Register of Historic Places, transcribed from the National Park Service NPS Bulletin 16
   * by: aejolene
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/aejolene/NRHP_Metadata_Scheme)
   * tags: [Schemas and ontologies]
   
 ----
 
 * **ODATE**: An introduction to the issues, methods, and techniques of digital archaeology, integrated with working code and virtual computing environments or 'notebooks' written in Python or R.
   * by: o-date
-  * links: [GitHub]()           [Website](https://o-date.github.io/)
+  * links: [GitHub](https://github.com/o-date/draft)           [Website](https://o-date.github.io/)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **ODK-forms-archaeology**: Forms for the Open Data Kit mobile data collection app.
   * by: isaacullah
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/isaacullah/ODK-forms-archaeology)
   * tags: [Templates] and [Data collection]
   
 ----
 
 * **ODKArchForms**: Open Data Kit forms and conversion scripts used in archaeology. Including New Mexico LA Forms, photologs, etc
   * by: UNMOCA
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/UNMOCA/ODKArchForms)
   * tags: [Data management]
   
 ----
 
 * **OHM Data Index**: The data index considers a collection of research areas that broadly stroke an idea of the level of completeness in the knowledge of a given period and timeframe.
   * by: openhistorymap
-  * links: [GitHub]()           [Website](https://index.openhistorymap.org/)
+  * links: [Website](https://index.openhistorymap.org/)
   * tags: [Site mapping], [Public archaeology] and [Data management]
   
 ----
 
 * **Open Access Archaeology**: OpenAccessArchaeology.org is dedicated to helping people discover and use Open Access resources in the field of Archaeology.
   * by: Doug Rocks-Macqueen, Lorna Richardson, Emma O'Riordan and Katrina Urban
-  * links: [GitHub]()     [Twitter](https://twitter.com/OpenAccessArch)      [Website](http://www.openaccessarchaeology.org/)
+  * links: [Twitter](https://twitter.com/OpenAccessArch)      [Website](http://www.openaccessarchaeology.org/)
   * tags: [Lists]
   
 ----
 
 * **Open Context Python Code Repository**: This project represents the current evolution of Open Context. It's intended to be an easier to maintain code-base, and to make the data published by Open Context easier to maintain.
   * by: Open Context
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ekansa/open-context-py)
   * tags: [Platforms and publications]
   
 ----
 
 * **Open History Map**: A web-GIS platform containing spatial historical and archaeological data.
   * by: openhistorymap
-  * links: [GitHub]()           [Website](http://www.openhistorymap.org/)
+  * links: [GitHub](https://github.com/openhistorymap)           [Website](http://www.openhistorymap.org/)
   * tags: [Site mapping] and [Public archaeology]
   
 ----
 
 * **open-archaeo**: A list of open source archaeological software and resources.
   * by: zackbatist
-  * links: [GitHub]()           [Website](https://zackbatist.github.io/open-archaeo/)
+  * links: [GitHub](https://github.com/zackbatist/open-archaeo)           [Website](https://zackbatist.github.io/open-archaeo/)
   * tags: [Lists]
   
 ----
 
 * **Open-Science-in-Phytolith-Research**: Project to create community awareness of open science practices, provide training and establish a working group for open science.
   * by: ekaroune
-  * links: [GitHub]()           [Website](https://ekaroune.github.io/Open-Science-in-Phytolith-Research/)
+  * links: [GitHub](https://github.com/EKaroune/Open-Science-in-Phytolith-Research)           [Website](https://ekaroune.github.io/Open-Science-in-Phytolith-Research/)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **OpenArchaeology.net**: Open Archaeology hosts a number of sub-projects that while functional at a component level are intended to interoperate creating a complete AIS (Archaeological Information System), including the components necessary to manage the organisation carrying out the archaeology.
   * by: openarchaeology
-  * links: [GitHub]()    [LaunchPad](https://launchpad.net/openarchaeology)
+  * links: [LaunchPad](https://launchpad.net/openarchaeology)
   * tags: [Lists]
   
 ----
 
 * **OpenAtlas**: An open source, web based database system for complex archaeological, historical and geospatial data.
   * by: CRAWS
-  * links: [GitHub]()           [Website](https://openatlas.eu/)
+  * links: [GitHub](https://github.com/craws/OpenAtlas)           [Website](https://openatlas.eu/)
   * tags: [Data management]
   
 ----
 
 * **opencontext**: An R API client for the Open Context archaeological data repository.
   * by: ropensci
-  * links: [GitHub]()           [Website](https://docs.ropensci.org/opencontext/)
+  * links: [GitHub](https://github.com/ropensci/opencontext)           [Website](https://docs.ropensci.org/opencontext/)
   * tags: 
   
 ----
 
 * **OpenLidarToolbox**: A QGIS plug-in that provides one-step-processing of airborne LiDAR data from point cloud to LiDAR visualisations.
   * by: stefaneichert
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/stefaneichert/OpenLidarToolbox)
   * tags: 
   
 ----
 
 * **osl_calibration.r**: osl_calibration
   * by: benmarwick
-  * links: [GitHub]() [Gist](https://gist.github.com/benmarwick/5f996a0f52ba1d92f76968119f941bd8)
+  * links: [Gist](https://gist.github.com/benmarwick/5f996a0f52ba1d92f76968119f941bd8)
   * tags: [Luminescence dating]
   
 ----
 
 * **osteoGIS**: Plot data on skeletal templates quickly
   * by: davidcorton
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/davidcorton/osteoGIS)
   * tags: [Diagrams and visualizations]
   
 ----
 
 * **osteometric-sorting**: Tools for osteometric sorting of human remains.
   * by: pr0m1th3as
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/pr0m1th3as/osteometric-sorting)
   * tags: [Biological anthropology] and [Zooarchaeology]
   
 ----
 
 * **outliner**: A simple app for tracing outlines of an irregular shape and exporting the coordinates of the outline.
   * by: benmarwick
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/benmarwick/outliner)
   * tags: 
   
 ----
 
 * **outlineR**: An R package to derive outline shapes from (multiple) artefacts on JPEG images.
   * by: yesdavid
-  * links: [GitHub]()            [DOI](https://doi.org/10.5281/zenodo.4527470)
+  * links: [GitHub](https://github.com/yesdavid/outlineR)            [DOI](https://doi.org/10.5281/zenodo.4527470)
   * tags: 
   
 ----
 
 * **oxcAAR**: A collection of functions that can be used to execute OxCal from within R.
   * by: MartinHinz, nevrome, dakni and ctietze91
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ISAAKiel/oxcAAR)
   * tags: [Radiocarbon dating, calibration and sequencing] and [Chronological modelling]
   
 ----
 
 * **p2pPerm**: A function for retrieving metrics for resistance-resilience from rcarbon permTest objects.
   * by: philriris
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/philriris/p2pPerm)
   * tags: [Radiocarbon dating, calibration and sequencing] and [Statistical analysis]
   
 ----
 
 * **p3k14c**: Global archaeological radiocarbon dataset
   * by: people3k
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/people3k/p3k14c)
   * tags: [Radiocarbon dating, calibration and sequencing] and [Datasets]
   
 ----
 
 * **p3k14c-data-scrubbing**: Scrubbing program for the global archaeological radiocarbon dataset
   * by: people3k
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/people3k/p3k14c-data-scrubbing)
   * tags: [Radiocarbon dating, calibration and sequencing] and [Data management]
   
 ----
 
 * **paleocar**: An R package implementing functions to perform spatio-temporal paleoclimate reconstruction from tree-rings using the CAR (Correlation Adjusted corRelation) approach of Zuber and Strimmer.
   * by: bocinsky
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/bocinsky/paleocar)
   * tags: [Palaeobotany] and [Statistical analysis]
   
 ----
 
 * **paleocore**: Towards a data standard for paleoanthropology.
   * by: paleocore
-  * links: [GitHub]()           [Website](https://paleocore.org/)
+  * links: [GitHub](https://github.com/paleocore/paleocore-retired)           [Website](https://paleocore.org/)
   * tags: [Platforms and publications]
   
 ----
 
 * **paleocoreR**: R package for interacting with the Paleocore API
   * by: paleocore
-  * links: [GitHub]()           [Website](http://paleocore.github.io/paleocoreR/)
+  * links: [GitHub](https://github.com/paleocore/paleocoreR)           [Website](http://paleocore.github.io/paleocoreR/)
   * tags: 
   
 ----
 
 * **paleofire**: An R package to analyse sedimentary charcoal records from the Global Charcoal Database to reconstruct past biomass burning
   * by: oblarquez
-  * links: [GitHub]()           [Website](https://www.gpwg.paleofire.org/)
+  * links: [GitHub](https://github.com/oblarquez/paleofire)           [Website](https://www.gpwg.paleofire.org/)
   * tags: 
   
 ----
 
 * **paleomix**: Pipelines and tools for the processing of ancient and modern High-Throughput Sequencing (HTS) data.
   * by: MikkelSchubert
-  * links: [GitHub]()           [Website](https://paleomix.readthedocs.io/en/latest/)
+  * links: [GitHub](https://github.com/MikkelSchubert/paleomix/)           [Website](https://paleomix.readthedocs.io/en/latest/)
   * tags: 
   
 ----
 
 * **PaleoView**: A visualization tool for paleoclimatic modeling data.
   * by: seanhaythorne
-  * links: [GitHub]()           [Website](https://www.fordhamlab.com/climate-geography)
+  * links: [GitHub](https://github.com/GlobalEcologyLab/PaleoView)           [Website](https://www.fordhamlab.com/climate-geography)
   * tags: [Palaeobotany]
   
 ----
 
 * **paleoxrf**: The goal of paleoxrf is to simplify reading data from Acadia's paleoenvironmental X-Ray Fluorescence laboratory
   * by: paleolimbot
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/paleolimbot/paleoxrf)
   * tags: [X-Ray Fluorescence]
   
 ----
 
 * **pathAAR**: R Package to reconstruct paths using archaeological monuments, model parameters of infrastructure and evaluate those parameters, model parameters of infrastructure and evaluate those parameters.
   * by: ISAAKiel
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ISAAKiel/pathAAR)
   * tags: [Spatial analysis]
   
 ----
 
 * **pathPhynder**: A workflow for integrating ancient lineages into present-day phylogenies.
   * by: ruidlpm
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ruidlpm/pathPhynder/)
   * tags: 
   
 ----
 
 * **pdf-to-nested-xml**: Script to convert a folder of Dutch archaeological reports (PDFs) to XML files nested by section, chapter, heading.
   * by: alexbrandsen
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/alexbrandsen/pdf-to-nested-xml)
   * tags: [Bits and bobs] and [Writing]
   
 ----
 
 * **pe-dictionary**: Proto-Elamite sign list.
   * by: willismonroe
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/willismonroe/pe-dictionary)
   * tags: [Datasets] and [Literary analysis and epigraphy]
   
 ----
 
 * **photogrammetry_datasets**: This is a collection of datasets for photogrammetry.
   * by: culturalheritageimaging
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/natowi/photogrammetry_datasets)
   * tags: [Photogrammetry]
   
 ----
 
 * **photogrammetry-data-collection**: Photogrammetry tutorial.
   * by: Jack A. Biggs and leadr-msu
-  * links: [GitHub]()           [Website](https://leadr-msu.github.io/photogrammetry-data-collection/)
+  * links: [GitHub](https://github.com/leadr-msu/photogrammetry-data-collection)           [Website](https://leadr-msu.github.io/photogrammetry-data-collection/)
   * tags: [Photogrammetry] and [Educational resources and practical guides]
   
 ----
 
 * **photogrammetry-object-scannner**: Created for the very-specific purpose of communicating via android with a raspberry pi running a scanner.
   * by: anatolian
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/anatolian/photogrammetry-object-scannner)
   * tags: [Photogrammetry]
   
 ----
 
 * **pileupcaller**: Sample alleles from low coverage sequence data.
   * by: stschiff
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/stschiff/sequenceTools)
   * tags: 
   
 ----
 
 * **piwigo-3dhop**: Piwigo plugin for viewing 3D models using 3DHOP.
   * by: joeroe
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/joeroe/piwigo-3dhop)
   * tags: [3D modelling]
   
 ----
 
 * **PLC**: Pure Locational Clustering.
   * by: mpeeples2008
-  * links: [GitHub]()           [Website](http://www.mattpeeples.net/modules/PLC.html)
+  * links: [Website](http://www.mattpeeples.net/modules/PLC.html)
   * tags: [Statistical analysis]
   
 ----
 
 * **PleistoDist**: Distance matrices between islands normalised over Pleistocene time.
   * by: g33k5p34k
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/g33k5p34k/PleistoDist)
   * tags: [Spatial analysis]
   
 ----
 
 * **PleistoDistR**: Distance matrices between islands normalised over Pleistocene time. A complete ground-up rebuild of PleistoDist for use with R.
   * by: g33k5p34k
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/g33k5p34k/PleistoDistR)
   * tags: [Spatial analysis]
   
 ----
 
 * **Plotting Dental Inventory with ggplot2**: tutorial on an intuitive way to visualise a dental inventory in a sample
   * by: bbartholdy
-  * links: [GitHub]()           [Website](https://bjorn.rbind.io/post/dental-inv-plot/)
+  * links: [Website](https://bjorn.rbind.io/post/dental-inv-plot/)
   * tags: [Educational resources and practical guides], [Stable isotope analysis] and [Diagrams and visualizations]
   
 ----
 
 * **Plum**: Uses a Bayesian approach to construct age-depth models for 210Pb data.
   * by: maquinolopez
-  * links: [GitHub]()        [CRAN](https://cran.r-project.org/web/packages/rplum/index.html)
+  * links: [GitHub](https://github.com/maquinolopez/Plum)        [CRAN](https://cran.r-project.org/web/packages/rplum/index.html)
   * tags: [Stable isotope analysis] and [Chronological modelling]
   
 ----
 
 * **PMDtools**: Compute postmortem damage patterns and decontaminate ancient genomes.
   * by: pontussk
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/pontussk/PMDtools)
   * tags: 
   
 ----
 
 * **Pofatu**: An open-access database for geochemical sourcing of archaeological materials.
   * by: pofatu
-  * links: [GitHub]()           [Website](https://pofatu.clld.org/)
+  * links: [GitHub](https://github.com/pofatu/pofatu-data)           [Website](https://pofatu.clld.org/)
   * tags: [Datasets] and [Geoarchaeology]
   
 ----
 
 * **PointPattern**: Point Pattern Analysis.
   * by: mpeeples2008
-  * links: [GitHub]()           [Website](http://www.mattpeeples.net/modules/PointPattern.html)
+  * links: [Website](http://www.mattpeeples.net/modules/PointPattern.html)
   * tags: [Statistical analysis]
   
 ----
 
 * **pollen_data_processing**: some tools in respect to pollen data processing.
   * by: MartinHinz
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/MartinHinz/pollen_data_processing)
   * tags: [Palaeobotany]
   
 ----
 
 * **pollencount**: This simulation tool aims to help students and researchers to start to see what pollen looks like under the microscope, and start to identify common pollen grains.
   * by: Maarten14C
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/Maarten14C/pollencount)
   * tags: [Palaeobotany] and [Educational resources and practical guides]
   
 ----
 
 * **poseidon-framework**: Poseidon is a framework that seeks to provide standardized ways to store and share archaeogenetic, and perhaps more broadly, molecular archaeological datasets.
   * by: poseidon-framework
-  * links: [GitHub]()           [Website](https://poseidon-framework.github.io/)
+  * links: [GitHub](https://github.com/poseidon-framework/poseidon-hs)           [Website](https://poseidon-framework.github.io/)
   * tags: [Schemas and ontologies]
   
 ----
 
 * **postAAR**: An automated process to detect buildings within large sets of postholes in multi-occupational sites, similar to the obsolete Windows-software "posthole" by Irwin Scollar.
   * by: nmueller18 and chrinne
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ISAAKiel/postAAR)
   * tags: [Shape recognition]
   
 ----
 
 * **postAAR-python**: Python implementation of postAAR.
   * by: chrinne and WerthersEchte
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ISAAKiel/postAAR-python)
   * tags: [Shape recognition]
   
 ----
 
 * **Potential datasets for PhD projects**: A Google Doc with different archaeological and anthropological datasets and resources for students who need to make changes to their project due to COVID-19
   * by: Taryn Bell
-  * links: [GitHub]()           [Website](https://docs.google.com/document/d/1BuIJ0ZXzzh838qvMOu59dLCCEz9xE3JnC76oHN-kMTU/edit)
+  * links: [Website](https://docs.google.com/document/d/1BuIJ0ZXzzh838qvMOu59dLCCEz9xE3JnC76oHN-kMTU/edit)
   * tags: [Lists]
   
 ----
 
 * **pred_map_tut**: A tutorial for (archaeological) predictive mapping using r
   * by: archca
-  * links: [GitHub]()           [Website](https://archca.github.io/pred_map_tut/index.html)
+  * links: [GitHub](https://github.com/archca/pred_map_tut)           [Website](https://archca.github.io/pred_map_tut/index.html)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **predictSource**: A package to analyze data used to determine whether samples from multiple sources can be separated, to predict the sources of samples from unknown sources, and to evaluation the validity of those predictions. Sample data can include both quantitative and qualitative data. The package includes functions for creating an analysis file from multiple files and exploratory data analysis, as well as multivariate statistical methods to determine source separation, predict sources of unknown samples, and evaluate the validity of the predictions (principal components, classification trees, and random forests).
   * by: benmarwick
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/benmarwick/predictSource)
   * tags: [Statistical analysis]
   
 ----
 
 * **profileAAR**: python qgis plugin of recexcavAAR's archprofile
   * by: ISAAKiel
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ISAAKiel/profileAAR)
   * tags: [Data management]
   
 ----
 
 * **pta_data**: An open access digital archive of antique Christian texts.
   * by: PatristicTextArchive
-  * links: [GitHub]()           [Website](https://pta.bbaw.de/pta/)
+  * links: [GitHub](https://github.com/PatristicTextArchive/pta_data)           [Website](https://pta.bbaw.de/pta/)
   * tags: [Literary analysis and epigraphy] and [Datasets]
   
 ----
 
 * **pXRF**: R package for processing pXRF data.
   * by: MartinHinz
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/MartinHinz/pXRF)
   * tags: [X-Ray Fluorescence]
   
 ----
 
 * **pyArchInit**: A python plugin for QGIS aimed at managing data from archaeological contexts on the GIS platform
   * by: NA
-  * links: [GitHub]()           [Website](https://sites.google.com/site/pyarchinit/)
+  * links: [Website](https://sites.google.com/site/pyarchinit/)
   * tags: [Data management]
   
 ----
 
 * **pygeoroc**: Python library to access data in the GEOROC database.
   * by: potafu
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/pofatu/pygeoroc)
   * tags: [Drivers and IO], [Geoarchaeology] and [Datasets]
   
 ----
 
 * **PyPlum**: Creates age-depth models using 210Pb data and autoregressive gamma process.
   * by: maquinolopez
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/maquinolopez/PyPlum)
   * tags: [Stable isotope analysis] and [Chronological modelling]
   
 ----
 
 * **pypofatu**: A python package to curate Pofatu data.
   * by: pofatu
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/pofatu/pypofatu)
   * tags: [Drivers and IO], [Geoarchaeology] and [Datasets]
   
 ----
 
 * **PyXRF**: PyXRF is a python-based sophisticated fluorescence analysis package for fitting and visualizing X-ray fluorescence data
   * by: NSLS-II
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/NSLS-II/PyXRF)
   * tags: [X-Ray Fluorescence]
   
 ----
 
 * **QField**: A simplified touch optimized interface for QGIS.
   * by: openGIS
-  * links: [GitHub]()           [Website](https://qfield.org/)
+  * links: [GitHub](https://github.com/opengisch/QField)           [Website](https://qfield.org/)
   * tags: [Data management]
   
 ----
 
 * **QGIS-scripts**: Some scripts that could be useful for QGIS users.
   * by: zoran-cuckovic
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/zoran-cuckovic/QGIS-scripts)
   * tags: [Bits and bobs]
   
 ----
 
 * **QGIS-topographic-networks**: Models relationships between elements in a terrain model, connecting pixels according to their height difference.
   * by: zoran-cuckovic
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/zoran-cuckovic/QGIS-topographic-networks)
   * tags: [Spatial analysis]
   
 ----
 
 * **QGIS-visibility-analysis**: Calculates visible surface from a given observer point over a digital elevation model. The plugin is intended for more complex modelling, such as the depth below the visible horizon or generation of intervisibilty networks between groups of points. It is particularly performant for multiple viewshed calculations form a set of fixed points.
   * by: zoran-cuckovic
-  * links: [GitHub]()           [Website](http://www.zoran-cuckovic.from.hr/QGIS-visibility-analysis/)
+  * links: [GitHub](https://github.com/zoran-cuckovic/QGIS-visibility-analysis)           [Website](http://www.zoran-cuckovic.from.hr/QGIS-visibility-analysis/)
   * tags: [Spatial analysis] and [Viewshed analysis]
   
 ----
 
 * **qrcode-storage**: Scripts to create QR-Code images for storage boxes. Each box has an associated web page describing its content, and the QR-Code serves as a short-link from the physical object to the web page.
   * by: steko
-  * links: [GitHub]()          [Codeberg](https://codeberg.org/steko/qrcode-storage)
+  * links: [Codeberg](https://codeberg.org/steko/qrcode-storage)
   * tags: [Bits and bobs]
   
 ----
 
 * **quantAAR**: R Library for Quantitative Analysis in Archaeology.
   * by: ISAAKiel
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ISAAKiel/quantAAR)
   * tags: [Statistical analysis]
   
 ----
 
 * **quantatools**: Finding quantum in archaeological data using cosine quantogram and related statistical methods.
   * by: maciejkasinski
-  * links: [GitHub]()            [DOI](https://doi.org/10.5281/zenodo.2566606.svg)
+  * links: [GitHub](https://github.com/maciejkasinski/quantatools)            [DOI](https://doi.org/10.5281/zenodo.2566606.svg)
   * tags: [Statistical analysis]
   
 ----
 
 * **QuARI**: A database interface designed to facilitate the irregular, iterative, and non-linear workflows that are commonly employed in lithic analysis.
   * by: zackbatist, dcontre and Ciara Zogheib
-  * links: [GitHub]()            [DOI](https://doi.org/10.1017/aap.2021.11)
+  * links: [GitHub](https://github.com/zackbatist/QuARI)            [DOI](https://doi.org/10.1017/aap.2021.11)
   * tags: [Data collection] and [Lithic analysis]
   
 ----
 
 * **R-Scripts**: This contains a set of data about human mobility, subsistance, population, and environmental productivity derived from the Standard Cross Cultural Sample
   * by: isaacullah
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/isaacullah/R-Scripts)
   * tags: [Datasets]
   
 ----
 
 * **racisminarchy**: Contains data and R code for our article on computational text analysis of racism in archaeology.
   * by: parkgayoung
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/parkgayoung/racisminarchy)
   * tags: [Datasets] and [Ethics and professional development]
   
 ----
 
 * **RACORD**: Computer-Assisted Shape Classification of Archaeological Pottery Fragments.
   * by: jwilczek-dotcom
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/jwilczek-dotcom/RACORD)
   * tags: [Shape recognition]
   
 ----
 
 * **radiocarbon-scrapers**: Scrapers for public radiocarbon databases
   * by: steko
-  * links: [GitHub]()          [Codeberg](https://codeberg.org/steko/radiocarbon-scrapers)
+  * links: [Codeberg](https://codeberg.org/steko/radiocarbon-scrapers)
   * tags: 
   
 ----
 
 * **radon**: Backend for one of the largest 14C-Database online.
   * by: ISAAKiel
-  * links: [GitHub]()           [Website](https://radon.ufg.uni-kiel.de/)
+  * links: [GitHub](https://github.com/ISAAKiel/radon)           [Website](https://radon.ufg.uni-kiel.de/)
   * tags: [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **ramphs**: Roman amphitheater data as R package
   * by: sfsheath
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/sfsheath/ramphs)
   * tags: [Datasets]
   
 ----
 
 * **rapanui-radiocarbon**: A repository of radiocarbon data for Rapa Nui.
   * by: clipo and rdinapoli
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/clipo/rapanui-radiocarbon)
   * tags: [Datasets] and [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **rarcheo**: Online textbook about how tackle a wide range of problems using R.
   * by: nfrerebeau
-  * links: [GitHub]()           [Website](https://rstats.archaeo.science/)
+  * links: [GitHub](https://github.com/nfrerebeau/rarcheo)           [Website](https://rstats.archaeo.science/)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **rbacon**: A package for Bayesian age-depth modelling of sediment cores, constrained by prior information on sedimentation rates and their variability.
   * by: Maarten14C
-  * links: [GitHub]()        [CRAN](https://cran.r-project.org/web/packages/rbacon/index.html)
+  * links: [GitHub](https://github.com/Maarten14C/rbacon)        [CRAN](https://cran.r-project.org/web/packages/rbacon/index.html)
   * tags: [Chronological modelling] and [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **Rcarb**: The R package 'RCarb' provides a collection of various R functions to model dose rates in carbonate-rich samples. The package is a translation of the 'MATLAB' program Carb by Roger P. Nathan
   * by: R-Lum
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/R-Lum/RCarb)
   * tags: [Luminescence dating]
   
 ----
 
 * **rcarbon**: Methods for calibrating and analysing radiocarbon dates
   * by: ahb108
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ahb108/rcarbon)
   * tags: [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **rdss**: An R package to facilitate the use of Murail et al.’s (1999) approach of sex estimation in past populations.
   * by: frederic-santos
-  * links: [GitHub]()            [DOI](https://doi.org/10.1002/oa.2957)
+  * links: [GitHub](https://github.com/frederic-santos/rdss)            [DOI](https://doi.org/10.1002/oa.2957)
   * tags: [Cultural evolution] and [Statistical analysis]
   
 ----
 
 * **READ**: A method to infer the degree of relationship (up to second degree, i.e. nephew/niece-uncle/aunt, grandparent-grandchild or half-siblings) for a pair of low-coverage individuals.
   * by: tguenther
-  * links: [GitHub]()   [BitBucket](https://bitbucket.org/tguenther/read/src/master/)
+  * links: [BitBucket](https://bitbucket.org/tguenther/read/src/master/)
   * tags: 
   
 ----
 
 * **recexcavAAR**: R package for 3D reconstruction of archaeological excavations.
   * by: ISAAKiel
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ISAAKiel/recexcavAAR/)
   * tags: [3D modelling]
   
 ----
 
 * **recmod**: Tools for estimating parameters for Radiocarbon-dated Event Count (REC) Models.
   * by: wccarleton
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/wccarleton/recmod)
   * tags: [Chronological modelling] and [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **rekrei**: Platform for crowdsourcing the digital recreation of lost heritage
   * by: rekrei
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/rekrei/rekrei)
   * tags: [Platforms and publications]
   
 ----
 
 * **RGPR**: RGPR is a free and open-source software package to read, export, analyse, process and visualise ground-penetrating radar (GPR) data
   * by: emanuelhuber
-  * links: [GitHub]()           [Website](http://emanuelhuber.github.io/RGPR/)
+  * links: [GitHub](https://github.com/emanuelhuber/RGPR)           [Website](http://emanuelhuber.github.io/RGPR/)
   * tags: [Geophysical survey]
   
 ----
 
 * **rintchron**: rintchron provides an R interface to IntChron, an indexing service and exchange format for chronological data such as radiocarbon dates.
   * by: joeroe
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/joeroe/rintchron)
   * tags: [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **RLumModel**: Solving Ordinary Differential Equations to Understand Luminescence
   * by: R-Lum
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/R-Lum/RLumModel)
   * tags: [Luminescence dating]
   
 ----
 
 * **rock-art-radnet**: Rock art object detection model.
   * by: Swedish-Rock-Art-Research-Archives
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/Swedish-Rock-Art-Research-Archives/rock-art-radnet)
   * tags: [Shape recognition] and [Iconography]
   
 ----
 
 * **rock-art-ratopoviz**: Create visualizations from laserscans.
   * by: Swedish-Rock-Art-Research-Archives
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/Swedish-Rock-Art-Research-Archives/rock-art-ratopoviz)
   * tags: [Shape recognition] and [Iconography]
   
 ----
 
 * **rock-art-transfer-learning**: Reconstructing rock art chronology with transfer learning
   * by: keeeal
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/keeeal/rock-art-transfer-learning)
   * tags: [Shape recognition], [Chronological modelling] and [Iconography]
   
 ----
 
 * **roman-amphitheaters**: A dataset and discussion relating to Roman amphitheaters
   * by: sfsheath
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/sfsheath/roman-amphitheaters)
   * tags: [Datasets]
   
 ----
 
 * **roman-amphitheaters**: A dataset of Roman amphitheaters.
   * by: roman-amphitheaters
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/roman-amphitheaters/roman-amphitheaters)
   * tags: [Datasets]
   
 ----
 
 * **roman-empire**: Map of the Roman Empire made with vector tiles
   * by: klokantech
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/klokantech/roman-empire)
   * tags: [Datasets]
   
 ----
 
 * **roman-maps**: These are geojson files relevant to Roman history. Initially they are all derived from the Ancient World Mapping Center's set of CC-BY-NC licensed shapefiles.
   * by: sfsheath
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/sfsheath/roman-maps)
   * tags: [Datasets]
   
 ----
 
 * **Roman-material-database-info**: An interactive database of construction materials used in antiquity meant to enable creation of 3D and virtual reality (VR) models of historic structures.
   * by: rkn2
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/rkn2/Roman-material-database-info)
   * tags: [Datasets]
   
 ----
 
 * **RoomAccum**: Room Accumulation Simulation ro estimate archaeological population growth rates.
   * by: kintigh
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/kintigh/RoomAccum)
   * tags: [Simulation] and [Cultural evolution]
   
 ----
 
 * **rorbium**: Orbis data as an R package
   * by: sfsheath
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/sfsheath/rorbium)
   * tags: [Datasets]
   
 ----
 
 * **Roundup of Resources on Ancient Geography**: Included in the following list are links to digital project dealing with geography and the ancient world.
   * by: Charles E. Jones
-  * links: [GitHub]()     [Twitter](https://twitter.com/AWOL_tweets)  [Blog Post](http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html)
+  * links: [Twitter](https://twitter.com/AWOL_tweets)  [Blog Post](http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html)
   * tags: [Lists]
   
 ----
 
 * **rpaleoclim**: R interface for open paleoclimate data.
   * by: joeroe
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/joeroe/rpaleoclim)
   * tags: 
   
 ----
 
 * **RPGPRpy**: Python wrapper for RGPR (ground-penetrating radar visualisation & processing).
   * by: emanuelhuber
-  * links: [GitHub]()           [Website](http://emanuelhuber.github.io/RGPR/)
+  * links: [GitHub](https://github.com/emanuelhuber/RPGPRpy)           [Website](http://emanuelhuber.github.io/RGPR/)
   * tags: [Geophysical survey]
   
 ----
 
 * **rppsfs**: Roman Peasant Project Small Finds Ontology
   * by: scollinselliott
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/scollinselliott/rppsf)
   * tags: [Schemas and ontologies]
   
 ----
 
 * **rtefact**: Brings together a range of methods for analysing the time series, shapes and other properties of archaeological artefacts.
   * by: ahb108
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ahb108/rtfact)
   * tags: 
   
 ----
 
 * **rti**: Series of common tols used by most Reflectance Transformation Imaging (RTI) projects, plus some custom programs to help with the workflow from the camera to the output.
   * by: kmartinez
-  * links: [GitHub]()           [Website](https://custom-imaging.co.uk/software/)
+  * links: [GitHub](https://github.com/kmartinez/rti)           [Website](https://custom-imaging.co.uk/software/)
   * tags: [Photogrammetry]
   
 ----
 
 * **RTIBuilder**: A software interface to a set of tools that process your captured image set to produce the final RTI files. The RTIBuilder download includes the Hemispherical Harmonics (HSH) fitter to create .rti files.
   * by: culturalheritageimaging
-  * links: [GitHub]()           [Website](http://culturalheritageimaging.org/What_We_Offer/Downloads/Process/index.html)
+  * links: [Website](http://culturalheritageimaging.org/What_We_Offer/Downloads/Process/index.html)
   * tags: [Photogrammetry]
   
 ----
 
 * **RTIViewer**: Enables you to view and explore Reflectance Transformation Imaging (RTI) files at very high resolution (Polynomial Texture Maps, Hemispherical Harmonics Map, and Multiview RTI). You can view image files stored on your local file system, and remote files through HTTP.
   * by: culturalheritageimaging
-  * links: [GitHub]()           [Website](http://culturalheritageimaging.org/What_We_Offer/Downloads/View/index.html)
+  * links: [Website](http://culturalheritageimaging.org/What_We_Offer/Downloads/View/index.html)
   * tags: [Photogrammetry]
   
 ----
 
 * **rxpand**: Radiocarbon dates for the spread of farming and ceramics in tropical South America.
   * by: jgregoriods
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/jgregoriods/rxpand)
   * tags: [Datasets] and [Radiocarbon dating, calibration and sequencing]
   
 ----
 
 * **rxylib**: R package: wrapper for the C+library xylib
   * by: R-Lum
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/R-Lum/rxylib)
   * tags: [Luminescence dating]
   
 ----
 
 * **SCEM**: Performs the Splitting-Coalescence-Estimation Method to model birth seasonality in studies of herd animals.
   * by: kserkcho, Hannah Chazin, Soudeep Deb, Joshua Falk and Arun Srinivasan
-  * links: [GitHub]()        [CRAN](https://cran.r-project.org/web/packages/SCEM/index.html)
+  * links: [GitHub](https://github.com/kserkcho/SCEM)        [CRAN](https://cran.r-project.org/web/packages/SCEM/index.html)
   * tags: [Zooarchaeology] and [Stable isotope analysis]
   
 ----
 
 * **schmutzi**: Maximum a posteriori estimate of contamination for ancient samples.
   * by: grenaud
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/grenaud/schmutzi)
   * tags: 
   
 ----
 
 * **scikit-beam**: Data analysis tools for X-Ray, Neutron and Electron sciences
   * by: scikit-beam
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/scikit-beam/scikit-beam)
   * tags: [X-Ray Fluorescence]
   
 ----
 
 * **sdr33_triangulation**: Reads an SDR33 data logger file and using the angular observations recorded therein to triangulate the position of points of interest.
   * by: r-barnes
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/Geo-Linux-Calculations/python-sdr33triangle)
   * tags: [Spatial analysis] and [Site mapping]
   
 ----
 
 * **sdsanalysis**: dsanalysis is the backbone of the sdsbrowser webapp, and can be employed to analyse SDS stone artefact data in R.
   * by: Johanna-Mestorf-Academy
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/Johanna-Mestorf-Academy/sdsanalysis)
   * tags: 
   
 ----
 
 * **sdsbrowser**: sdsbrowser is an R Shiny WebApp developed to make the available SDS datasets (following the Systematic and Digital Documentation of Stone Artefacts recording system) more accessible. It is designed to give you a quick overview on the spatial and temporal scope of sites previously analysed with SDS and the distribution of artefacts within these sites.
   * by: Johanna-Mestorf-Academy
-  * links: [GitHub]()           [Website](http://sds.ufg.uni-kiel.de/)
+  * links: [GitHub](https://github.com/Johanna-Mestorf-Academy/sdsbrowser)           [Website](http://sds.ufg.uni-kiel.de/)
   * tags: 
   
 ----
 
 * **senscape**: A toolbox for modelling human perception of topography for QGIS, based on QGIS viewshed module.
   * by: zoran-cuckovic
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/zoran-cuckovic/senscape)
   * tags: [Spatial analysis] and [Viewshed analysis]
   
 ----
 
 * **seriation**: R package that provides the infrastructure for ordering objects with an implementation of several seriation/sequencing/ordination techniques to reorder matrices, dissimilarity matrices, and dendrograms (see below for a full list). Also provides (optimally) reordered heatmaps, color images and clustering visualizations like dissimilarity plots, and visual assessment of cluster tendency plots (VAT and iVAT).
   * by: mhahsler, Christian Buchta, Kurt Hornik, Fionn Murtagh and Michael Brusco, Stephanie Stahl, and Hans-Friedrich Koehn
-  * links: [GitHub]()        [CRAN](https://CRAN.R-project.org/package=seriation)
+  * links: [GitHub](https://github.com/mhahsler/seriation)        [CRAN](https://CRAN.R-project.org/package=seriation)
   * tags: [Statistical analysis] and [Seriation]
   
 ----
 
 * **Seriation**: Algorithms, implementations, manuscripts, and test cases for iterative deterministic frequency seriation done by agglomeration.
   * by: clipo
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/clipo/Seriation)
   * tags: [Statistical analysis] and [Seriation]
   
 ----
 
 * **Sériation de matrice en présence/absence**: Excel file containing macro commands making it possible to transform a 1/0 table (presence / absence) into a graphic matrix treated by matrix permutations; it is possible to take into account the uncertain presence of a character. The instructions for use are contained in the file.
   * by: Bruno Desachy
-  * links: [GitHub]()           [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/outils-danalyse-graphique-des-donnees)
+  * links: [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/outils-danalyse-graphique-des-donnees)
   * tags: [Bits and bobs] and [Seriation]
   
 ----
 
 * **Seriographe EPPM**: The EPPM serograph is a graphical tool for chronological serialization of archaeological furniture counting tables.
   * by: Bruno Desachy
-  * links: [GitHub]()           [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/outils-danalyse-graphique-des-donnees)
+  * links: [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/outils-danalyse-graphique-des-donnees)
   * tags: [Chronological modelling]
   
 ----
 
 * **Sex.DetERRmine**: Calculate the relative coverage of X and Y chromosomes, and their associated error bars, from the depth of coverage at specified SNPs.
   * by: TCLamnidis
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/TCLamnidis/Sex.DetERRmine)
   * tags: 
   
 ----
 
 * **SexEst**: Uses machine learning models to predict the Sex of unknown skeletons based on their cranial and postcranial measurements.
   * by: cconsta1
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/cconsta1/SexEst)
   * tags: [Biological anthropology] and [Shape recognition]
   
 ----
 
 * **shapAAR**: This is an R package for the extraction, analysis and classification of (not only) archaeological objects derived from scanned images. Especially it aims at the analysis of the shapes/profiles of eg. ceramic vessels or arrow heads.
   * by: ISAAKiel
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ISAAKiel/shapAAR)
   * tags: [Shape recognition]
   
 ----
 
 * **shiny_DRAC**: graphical interface for DRAC
   * by: dstreble
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/dstreble/shiny_DRAC)
   * tags: [Luminescence dating]
   
 ----
 
 * **shiny_Tldating**: Shiny app for TL dating
   * by: dstreble
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/dstreble/shiny_TLdating)
   * tags: [Luminescence dating]
   
 ----
 
 * **shkrdata**: Package for downloading and preparing shkr data for archaeological analysis
   * by: ISAAKiel
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ISAAKiel/shkrdata)
   * tags: 
   
 ----
 
 * **shootpoints-web-api**: Back-end and middleware for the ShootPoints Web total station surveying program.
   * by: Lugal-PCZ
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/Lugal-PCZ/shootpoints-web-api)
   * tags: [Site mapping]
   
 ----
 
 * **shootpoints-web-frontend**: User interface to the ShootPoints Web total station surveying program.
   * by: Lugal-PCZ
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/Lugal-PCZ/shootpoints-web-frontend)
   * tags: [Site mapping] and [Data collection]
   
 ----
 
 * **signboardr**: Extract text from archaeological photos containing a sign board and tag as metadata.
   * by: mrecos
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/mrecos/signboardr)
   * tags: [Shape recognition] and [Photography]
   
 ----
 
 * **simple-browser-gis-collector**: Mobile-oriented browser based application that could be used for data collection.
   * by: adammertel
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/adammertel/simple-browser-gis-collector)
   * tags: [Site mapping]
   
 ----
 
 * **sindwem**: This R package contains exactly one function, that calculates the "sum of individual weighted means" according to a methodology that is quite common among archaeologists and was first published in 1988 by Elisabeth Fentress and Philip Perkins.
   * by: steko
-  * links: [GitHub]()   [BitBucket](https://bitbucket.org/steko/mpi.r/src/default/)
+  * links: [BitBucket](https://bitbucket.org/steko/mpi.r/src/default/)
   * tags: [Statistical analysis]
   
 ----
 
 * **sipontomedievale**: This repo contains the code for an interactive website created to illustrate historical background, findings and data of the Siponto excavation site (Manfredonia, Italy)
   * by: fradeve
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/fradeve/sipontomedievale)
   * tags: [Public archaeology]
   
 ----
 
 * **sitedefinition**: The goal of sitedefinition is to see how feature densities might be used for site definition.
   * by: SCSchmidt
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/SCSchmidt/sitedefinition)
   * tags: [Site mapping]
   
 ----
 
 * **skeletal-sex-estimation**: A GNU Octave function for skeletal sex estimation.
   * by: pr0m1th3as
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/pr0m1th3as/skeletal-sex-estimation)
   * tags: [Biological anthropology] and [Zooarchaeology]
   
 ----
 
 * **skullanalyzer**: A concrete way of extracting cranial mophometric features.
   * by: pr0m1th3as
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/pr0m1th3as/skullanalyzer)
   * tags: [Biological anthropology] and [Zooarchaeology]
   
 ----
 
 * **skyscapeR**: An R package for data reduction, visualization and analysis in skyscape archaeology, archaeoastronomy and cultural astronomy.
   * by: f-silva-archaeo
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/f-silva-archaeo/skyscapeR)
   * tags: 
   
 ----
 
 * **snpAD**: Implements an iterative method to jointly estimate error rates and genotypes frequencies from the data.
   * by: Kay Prüfer
-  * links: [GitHub]()           [Website](https://bioinf.eva.mpg.de/snpAD/)
+  * links: [Website](https://bioinf.eva.mpg.de/snpAD/)
   * tags: 
   
 ----
 
 * **soiltexture**: The Soil Texture Wizard is a set of R functions designed to produce texture triangles (also called texture plots, texture diagrams, texture ternary plots), classify and transform soil textures data
   * by: julienmoeys
-  * links: [GitHub]()        [CRAN](https://cran.r-project.org/web/packages/soiltexture/index.html)
+  * links: [GitHub](https://github.com/julienmoeys/soiltexture)        [CRAN](https://cran.r-project.org/web/packages/soiltexture/index.html)
   * tags: [Bits and bobs]
   
 ----
 
 * **sparch**: A set of extra utilities that extend the functionlaity provided by core packages for spatial data management and analysis in R.
   * by: ahb108
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ahb108/sparch)
   * tags: [Bits and bobs]
   
 ----
 
 * **SPARSE**: Indexes >100,000 reference genomes in public databases in to hierarchical clusters and uses it to predict origins of metagenomic reads.
   * by: zheminzhou
-  * links: [GitHub]()           [Website](https://sparse.readthedocs.io/en/latest/)
+  * links: [GitHub](https://github.com/zheminzhou/SPARSE)           [Website](https://sparse.readthedocs.io/en/latest/)
   * tags: 
   
 ----
 
 * **SPARTAAS**: Statistical pattern recognition and dating using archaeological artefacts assemblages.
   * by: Lise Bellanger, Philippe Husi, Arthur Coulon, Bruno Desachy and Benjamin Martineau
-  * links: [GitHub]()        [CRAN](https://cran.r-project.org/package=SPARTAAS)
+  * links: [CRAN](https://cran.r-project.org/package=SPARTAAS)
   * tags: [Statistical analysis]
   
 ----
 
 * **spDates**: Analysis of spatial gradients in radiocarbon dates.
   * by: jgregoriods
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/jgregoriods/spDates)
   * tags: [Radiocarbon dating, calibration and sequencing], [Spatial analysis] and [Statistical analysis]
   
 ----
 
 * **statuAAR**: Estimation of human stature from long bone measurements according to several well established estimation formula.
   * by: chrinne, capsizingHR, AnKaLoy and FrankSiegmund
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ISAAKiel/statuAAR)
   * tags: 
   
 ----
 
 * **Stratibase**: Stratibase is a minimal field recording database application (currently in FileMaker FP7 format software), aimed at the simplest structure possible to perform the basic functions of a stratigraphic recording.
   * by: Bruno Desachy
-  * links: [GitHub]()           [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/fsn)
+  * links: [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/fsn)
   * tags: [Data management]
   
 ----
 
 * **stratigraphr**: R package for archaeological stratigraphy and chronological sequences.
   * by: joeroe
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/joeroe/stratigraphr)
   * tags: [Chronological modelling] and [Harris matrix]
   
 ----
 
 * **strativerse**: A collection of time-stratigraphic publications.
   * by: paleolimbot
-  * links: [GitHub]()           [Website](https://strativerse.org)
+  * links: [GitHub](https://github.com/paleolimbot/strativerse-hugo)           [Website](https://strativerse.org)
   * tags: [Palaeobotany]
   
 ----
 
 * **survey2gis**: A little tool for processing survey data, such as produced by a GPS or total station, and export it as topologically cleaned data fit for use in GIS.
   * by: survey2gis
-  * links: [GitHub]()           [Website](https://www.survey-tools.org/)
+  * links: [GitHub](https://github.com/survey2gis/survey-tools)           [Website](https://www.survey-tools.org/)
   * tags: [Drivers and IO]
   
 ----
 
 * **svg-pottery**: A set of best practices, how-tos and implementations for publishing pottery drawings on the Web
   * by: steko
-  * links: [GitHub]()          [Codeberg](https://codeberg.org/steko/svg-pottery)
+  * links: [Codeberg](https://codeberg.org/steko/svg-pottery)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **swapdata**: A collection of archaeological datasets and tools related to the prehistory of Southwest Asia.
   * by: joeroe
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/joeroe/swapdata)
   * tags: [Datasets]
   
 ----
 
 * **synthkat**: Synthetic Categories for Archaeological Vessel Comparison.
   * by: scollinselliott
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/scollinselliott/synthkat)
   * tags: [Shape recognition]
   
 ----
 
 * **tabula**: Analysis, Seriation and Visualization of Archaeological Count Data.
   * by: nfrerebeau and tesselle
-  * links: [GitHub]()        [CRAN](https://CRAN.R-project.org/package=tabula)   [Website](https://packages.tesselle.org/tabula/) [DOI](https://doi.org/10.5281/zenodo.1489944)
+  * links: [GitHub](https://github.com/tesselle/tabula)        [CRAN](https://CRAN.R-project.org/package=tabula)   [Website](https://packages.tesselle.org/tabula/) [DOI](https://doi.org/10.5281/zenodo.1489944)
   * tags: [Statistical analysis] and [Seriation]
   
 ----
 
 * **Tachy2GIS**: Enables you to create geometries directly from tachymeter input while at the same time adding vertices manually.
   * by: gbv and Archaeological-Museum-Hamburg
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/gbv/Tachy2GIS)
   * tags: [Drivers and IO]
   
 ----
 
 * **Tachy2GIS_arch**: QGIS plugin for documentation of archaeological features using Tachy2GIS.
   * by: Landesamt-fuer-Archaeologie-Sachsen
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/Landesamt-fuer-Archaeologie-Sachsen/Tachy2GIS_arch)
   * tags: [Data collection] and [Site mapping]
   
 ----
 
 * **tapas**: Evaluate the effectiveness of any short read mapper and its parameters using artificially generated reads.
   * by: mlell
-  * links: [GitHub]()           [Website](https://mlell.github.io/tapas/)
+  * links: [GitHub](https://github.com/mlell/tapas)           [Website](https://mlell.github.io/tapas/)
   * tags: 
   
 ----
 
 * **tavo-a27**: Ancient animal occurrence data from Uerpmann 1987, *The Ancient Distribution of Ungulate Mammals in the Middle East*, TAVO A27.
   * by: joeroe
-  * links: [GitHub]()            [DOI](https://doi.org/10.5281/zenodo.3362929)
+  * links: [GitHub](https://github.com/joeroe/tavo-a27)            [DOI](https://doi.org/10.5281/zenodo.3362929)
   * tags: [Datasets] and [Palaeobotany]
   
 ----
 
 * **tdar**: R package that allows programmatic access to the Digital Archaeological Record (tDAR), a service of Digital Antiquity.
   * by: bocinsky
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/bocinsky/tdar)
   * tags: 
   
 ----
 
 * **teaching-rome**: A collection of texts, 3d models, and maybe other resources useful for teaching about the Roman Empire.
   * by: sfsheath
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/sfsheath/teaching-rome)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **tfqar**: Tools for Quantitative Archaeology - in R.
   * by: sslarch
-  * links: [GitHub]()           [Website](http://tfqa.com/)
+  * links: [GitHub](https://github.com/sslarch/tfqar)           [Website](http://tfqa.com/)
   * tags: [Statistical analysis]
   
 ----
 
 * **THANADOS**: An open source, web application for the presentation of archaeological data especially for burial studies.
   * by: stefaneichert
-  * links: [GitHub]()           [Website](https://thanados.net/)
+  * links: [GitHub](https://github.com/stefaneichert/thanados)           [Website](https://thanados.net/)
   * tags: 
   
 ----
 
 * **The ABM in Archaeology Bibliography**: A selected yet comprehensive list of literature and resources on Agent Based Models (ABM) in Archaeology.
   * by: izaromanowska and ArchoLen
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ArchoLen/The-ABM-in-Archaeology-Bibliography)
   * tags: [Bibliography]
   
 ----
 
 * **The AWOL Index**: This publication systematically describes ancient-world information resources on the world-wide web. The bibliographic data presented herein has been programmatically extracted from the content of AWOL - The Ancient World Online (ISSN 2156-2253) and formatted in accordance with a structured data model.
   * by: Charles E. Jones and Tom Elliott
-  * links: [GitHub]()           [Website](http://isaw.nyu.edu/publications/awol-index/)
+  * links: [Website](http://isaw.nyu.edu/publications/awol-index/)
   * tags: [Lists]
   
 ----
 
 * **The Southwestern Taphonomic Protocol**: A set of analyses to control for variable taphonomic impacts on archaeological faunal datasets.
   * by: bocinsky
-  * links: [GitHub]()            [DOI](https://doi.org/10.5281/zenodo.4301001)
+  * links: [GitHub](https://github.com/bocinsky/swtp)            [DOI](https://doi.org/10.5281/zenodo.4301001)
   * tags: [Schemas and ontologies]
   
 ----
 
 * **tidypaleo**: This package simplifies a few workflows when working with multi-proxy paleo-archive data
   * by: paleolimbot
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/paleolimbot/tidypaleo)
   * tags: [Data management]
   
 ----
 
 * **timeperiod2daterange**: Converts time period entities to standardised date ranges.
   * by: alexbrandsen
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/alexbrandsen/timeperiod2daterange)
   * tags: [Chronological modelling] and [Bits and bobs]
   
 ----
 
 * **tipom**: TIPOM is based on a methodology that was developed in the 1960s by Bernardino Bagolini. The basic idea is to use the three simple dimensions of length, width and thickness of each lithic artefact to classify them in discrete groups and infer their function.
   * by: iosa
-  * links: [GitHub]()        [CRAN](https://cran.r-project.org/web/packages/tipom/index.html)  [Codeberg](https://codeberg.org/steko/tipom)
+  * links: [CRAN](https://cran.r-project.org/web/packages/tipom/index.html)  [Codeberg](https://codeberg.org/steko/tipom)
   * tags: 
   
 ----
 
 * **tkgwv2**: An ancient DNA relatedness pipeline for ultra-low coverage whole genome shotgun data.
   * by: danimfernandes
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/danimfernandes/tkgwv2)
   * tags: 
   
 ----
 
 * **Tldating**: R package for TL dating
   * by: dstreble
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/dstreble/TLdating)
   * tags: [Luminescence dating]
   
 ----
 
 * **Tools for Quantitative Archaeology**: Keith KintighTools for Quantitative Archaeology TFQA, is a package of more than 45 PC programs developed to satisfy several unusual analytical needs of archaeologists.
   * by: kintigh
-  * links: [GitHub]()           [Website](http://tfqa.com/)
+  * links: [Website](http://tfqa.com/)
   * tags: [Lists]
   
 ----
 
 * **TOPAS**: A toolkit for efficient manipulation of sequence data in various ways.
   * by: subwaystation
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/subwaystation/TOPAS)
   * tags: 
   
 ----
 
 * **tosca**: Tool for Online Seriation and Correspondence Analysis.
   * by: ISAAKiel
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ISAAKiel/tosca)
   * tags: [Statistical analysis]
   
 ----
 
 * **total-station-manuals**: Manuals for total stations
   * by: steko
-  * links: [GitHub]()          [Codeberg](https://codeberg.org/steko/total-station-manuals)
+  * links: [Codeberg](https://codeberg.org/steko/total-station-manuals)
   * tags: [Drivers and IO]
   
 ----
 
 * **totalopenstation**: Total Open Station downloads and exports survey data from your total station.
   * by: steko
-  * links: [GitHub]()           [Website](https://tops.iosa.it/)
+  * links: [GitHub](https://github.com/steko/totalopenstation)           [Website](https://tops.iosa.it/)
   * tags: [Drivers and IO]
   
 ----
 
 * **totalopenstationToQgis**: A plugin to connect with totalopenstation software developed as part of the IOSA project.
   * by: enzococca
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/enzococca/totalopenstationToQgis)
   * tags: [Drivers and IO] and [Spatial analysis]
   
 ----
 
 * **totalstation-tools**: Tools to use and manipulate total station data
   * by: WiseLabCMU
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/WiseLabCMU/totalstation-tools)
   * tags: [Drivers and IO]
   
 ----
 
 * **TRANSIT**: GIS toolbox for estimating the duration of ancient sail-powered navigation.
   * by: gianmarcoalberti
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/gianmarcoalberti/TRANSIT)
   * tags: [Spatial analysis]
   
 ----
 
 * **TransmissionBias**: Includes an agent-based model (ABM) of cultural transmission that simulates the three main forms of transmission bias: content bias, frequency bias, and demonstrator bias.
   * by: masonyoungblood
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/masonyoungblood/TransmissionBias)
   * tags: [Simulation] and [Cultural evolution]
   
 ----
 
 * **tRauma**: Interactive graphical user interface to aid in the interpretation of blunt-force rib trauma in forensic anthropology casework.
   * by: ElaineYChu
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/ElaineYChu/tRauma)
   * tags: [Biological anthropology]
   
 ----
 
 * **trenchdrawer**: Plugin for drawing trenches.
   * by: MikeJJohnson
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/MikeJJohnson/trenchdrawer)
   * tags: [Site mapping]
   
 ----
 
 * **tridas**: TRiDaS is a universal data exchange standard for the dendrochronology community. This project contains the data standard itself as well as libraries and tools useful for reading, writing and converting dendro data files.
   * by: steko
-  * links: [GitHub]()          [Codeberg](https://codeberg.org/steko/tridas) [Website](https://sourceforge.net/projects/tridas/)
+  * links: [Codeberg](https://codeberg.org/steko/tridas) [Website](https://sourceforge.net/projects/tridas/)
   * tags: [Schemas and ontologies] and [Dendrochronology]
   
 ----
 
 * **tutorials**: Tutorials on quantitative archaeology.
   * by: oliver.nakoinz
-  * links: [GitHub]()  [GitLab](https://gitlab.com/oliver.nakoinz/tutorials)
+  * links: [GitLab](https://gitlab.com/oliver.nakoinz/tutorials)
   * tags: [Educational resources and practical guides] and [Statistical analysis]
   
 ----
 
 * **tweet-edits-to-archaeology-articles.R**: Using R with wikipedia for various things
   * by: benmarwick
-  * links: [GitHub]() [Gist](https://gist.github.com/benmarwick/ac394fd61f481393b0ae)
+  * links: [Gist](https://gist.github.com/benmarwick/ac394fd61f481393b0ae)
   * tags: [Public archaeology]
   
 ----
 
 * **UnconstrainedClustering**: Unconstrained Clustering.
   * by: mpeeples2008
-  * links: [GitHub]()           [Website](http://www.mattpeeples.net/modules/UnconstrainedClustering.html)
+  * links: [Website](http://www.mattpeeples.net/modules/UnconstrainedClustering.html)
   * tags: [Statistical analysis]
   
 ----
 
 * **UniformProbabilityDensityAnalysis**: R implementation of the Uniform Probability Density Analysis approach
   * by: mpeeples2008
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/mpeeples2008/UniformProbabilityDensityAnalysis)
   * tags: [Statistical analysis] and [Spatial analysis]
   
 ----
 
 * **unstruwwel**: Detect and Parse Historic Dates in R.
   * by: stefanieschneider
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/stefanieschneider/unstruwwel)
   * tags: [Chronological modelling]
   
 ----
 
 * **UThwigl**: Compute closed- and open-system uranium-thorium (U-Th) ages of geological and archaeological samples.
   * by: tonydoss
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/tonydoss/UThwigl)
   * tags: [Stable isotope analysis] and [Chronological modelling]
   
 ----
 
 * **vegan**: R package for community ecologists: popular ordination methods, ecological null models & diversity analysis.
   * by: vegandevs
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/vegandevs/vegan)
   * tags: [Palaeobotany]
   
 ----
 
 * **vegan3d**: Dynamic and static 3D plotting for vegan.
   * by: vegandevs
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/vegandevs/vegan3d)
   * tags: [Palaeobotany]
   
 ----
 
 * **Vessel-Measuring-Tool**: Digitize archeological drawings of vessels in order to calculate their capacity and weight.
   * by: alessandrobattisti
-  * links: [GitHub]()           [Website](https://alessandrobattisti.github.io/Vessel-Measuring-Tool/#/)
+  * links: [GitHub](https://github.com/alessandrobattisti/Vessel-Measuring-Tool)           [Website](https://alessandrobattisti.github.io/Vessel-Measuring-Tool/#/)
   * tags: 
   
 ----
 
 * **villager**: A framework for creating and running agent based models in R. Its purpose is to provide an extensible framework where modeling can be done in native R.
   * by: zizroc
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/zizroc/villager)
   * tags: [Simulation]
   
 ----
 
 * **vitutr**: A page for video tutorials on R, specifically for archaeology
   * by: MartinHinz
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/MartinHinz/vitutr)
   * tags: [Educational resources and practical guides]
   
 ----
 
 * **web_geochemistry**: Visualizing XRF and NAA geochemistry concentrations.
   * by: arf-berkeley
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/arf-berkeley/web_geochemistry)
   * tags: [X-Ray Fluorescence]
   
 ----
 
 * **xDateR**: Shiny app for interactive crossdating of tree-ring data.
   * by: AndyBunn
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/AndyBunn/xDateR)
   * tags: [Dendrochronology] and [Chronological modelling]
   
 ----
 
 * **xraylib**: xraylib is a library containing over 40 functions to be used to retrieve data from some of the most respected databases of physical data in the field of X-ray
   * by: tschoonj
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/tschoonj/xraylib)
   * tags: [X-Ray Fluorescence]
   
 ----
 
 * **xrf**: The goal of xrf is to provide tools to read, plot, and interpret X-Ray fluorescence spectra
   * by: paleolimbot
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/paleolimbot/xrftools)
   * tags: [X-Ray Fluorescence]
   
 ----
 
 * **xronos.R**: A worldwide database of chronological information from archaeological contexts, including radiocarbon and dendrochronological data.
   * by: xronos-ch
-  * links: [GitHub]()           [Website](https://xronos.ch)
+  * links: [GitHub](https://github.com/xronos-ch/xronos.R)           [Website](https://xronos.ch)
   * tags: [Radiocarbon dating, calibration and sequencing] and [Datasets]
   
 ----
 
 * **xylib**: ylib is a portable library for reading files with x-y data from powder diffraction, spectroscopy, or other experimental methods
   * by: wojdyr
-  * links: [GitHub]()
+  * links: [GitHub](https://github.com/wojdyr/xylib)
   * tags: [Luminescence dating]
   
 ----
 
 * **yada**: yada, which stands for Yet Another Demographic Analysis package, supports a variety of demographic tasks, with most applications drawn from forensic anthroplogy and archaeology.
   * by: MichaelHoltonPrice
-  * links: [GitHub]()           [Website](https://eehh-stanford.github.io/yada/)
+  * links: [GitHub](https://github.com/eehh-stanford/yada)           [Website](https://eehh-stanford.github.io/yada/)
   * tags: 
   
 ----
 
 * **zooaRch**: The zooaRch package provides analytical tools to make inferences on zooarchaeological data.
   * by: Erik Otarola-Castillo, Jesse Wolfhagen, Max D. Price and zooaRch
-  * links: [GitHub]()        [CRAN](https://cran.r-project.org/web/packages/zooaRch/)
+  * links: [CRAN](https://cran.r-project.org/web/packages/zooaRch/)
   * tags: [Zooarchaeology]
   
 ----
 
 * **zooaRchGUI**: The zooaRchGUI package provides a Graphical User Interface (GUI) to analytical tools for zooarchaeological data in the R package.
   * by: zooaRchGUI
-  * links: [GitHub]()           [Website](http://www.zooarchgui.org/)
+  * links: [GitHub](https://github.com/zooaRchGUI/zooaRchGUI)           [Website](http://www.zooarchgui.org/)
   * tags: [Zooarchaeology]
   
 ----
 
 * **zoolog**: Manipulate log-ratios (also known as log size index (LSI) values) from measurements obtained on zooarchaeological material.
   * by: josempozo, Silvia Valenzuela-Lamas, Angela Trentacoste, Ariadne Nieto-Espinet and Silvia Guimarães Chiarelli
-  * links: [GitHub]()        [CRAN](https://cran.r-project.org/web/packages/zoolog/index.html)   [Website](https://josempozo.github.io/zoolog/)
+  * links: [GitHub](https://github.com/josempozo/zoolog)        [CRAN](https://cran.r-project.org/web/packages/zoolog/index.html)   [Website](https://josempozo.github.io/zoolog/)
   * tags: [Zooarchaeology]
   
 ----
