@@ -16,6 +16,15 @@
     </item>
     
     <item>
+      <title>GPRsuite</title>
+      <link>https://open-archaeo.info/post/gprsuite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/gprsuite/</guid>
+      <description>Shiny app for RGPR.</description>
+    </item>
+    
+    <item>
       <title>magAAR</title>
       <link>https://open-archaeo.info/post/magaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -31,6 +40,15 @@
       
       <guid>https://open-archaeo.info/post/rgpr/</guid>
       <description>RGPR is a free and open-source software package to read, export, analyse, process and visualise ground-penetrating radar (GPR) data</description>
+    </item>
+    
+    <item>
+      <title>RPGPRpy</title>
+      <link>https://open-archaeo.info/post/rpgprpy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rpgprpy/</guid>
+      <description>Python wrapper for RGPR (ground-penetrating radar visualisation &amp;amp; processing).</description>
     </item>
     
   </channel>

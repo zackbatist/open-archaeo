@@ -871,6 +871,24 @@
     </item>
     
     <item>
+      <title>BioArch_R</title>
+      <link>https://open-archaeo.info/post/bioarch-r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/bioarch-r/</guid>
+      <description>Apps and functions for use in Bioarchaeology</description>
+    </item>
+    
+    <item>
+      <title>BioProfile</title>
+      <link>https://open-archaeo.info/post/bioprofile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/bioprofile/</guid>
+      <description>A shiny app which uses the results of standard osteological methods to create a basic biological profile</description>
+    </item>
+    
+    <item>
       <title>bleiglas</title>
       <link>https://open-archaeo.info/post/bleiglas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1969,6 +1987,15 @@
     </item>
     
     <item>
+      <title>GPRsuite</title>
+      <link>https://open-archaeo.info/post/gprsuite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/gprsuite/</guid>
+      <description>Shiny app for RGPR.</description>
+    </item>
+    
+    <item>
       <title>grainsizeR</title>
       <link>https://open-archaeo.info/post/grainsizer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2725,6 +2752,15 @@
     </item>
     
     <item>
+      <title>NASSA-modules</title>
+      <link>https://open-archaeo.info/post/nassa-modules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/nassa-modules/</guid>
+      <description>The modular library of the &amp;ldquo;Network for Agent-based modelling of Socio-ecological systems in Archaeology&amp;rdquo; (NASSA)</description>
+    </item>
+    
+    <item>
       <title>Near-Presence-Analysis</title>
       <link>https://open-archaeo.info/post/near-presence-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3190,6 +3226,24 @@
       
       <guid>https://open-archaeo.info/post/plc/</guid>
       <description>Pure Locational Clustering.</description>
+    </item>
+    
+    <item>
+      <title>PleistoDist</title>
+      <link>https://open-archaeo.info/post/pleistodist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pleistodist/</guid>
+      <description>Distance matrices between islands normalised over Pleistocene time.</description>
+    </item>
+    
+    <item>
+      <title>PleistoDistR</title>
+      <link>https://open-archaeo.info/post/pleistodistr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pleistodistr/</guid>
+      <description>Distance matrices between islands normalised over Pleistocene time. A complete ground-up rebuild of PleistoDist for use with R.</description>
     </item>
     
     <item>
@@ -3733,6 +3787,15 @@
     </item>
     
     <item>
+      <title>RPGPRpy</title>
+      <link>https://open-archaeo.info/post/rpgprpy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rpgprpy/</guid>
+      <description>Python wrapper for RGPR (ground-penetrating radar visualisation &amp;amp; processing).</description>
+    </item>
+    
+    <item>
       <title>rppsfs</title>
       <link>https://open-archaeo.info/post/rppsfs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3878,10 +3941,10 @@
     
     <item>
       <title>Sériation de matrice en présence/absence</title>
-      <link>https://open-archaeo.info/post/s%C3%A9riation-de-matrice-en-pr%C3%A9sence-absence/</link>
+      <link>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/s%C3%A9riation-de-matrice-en-pr%C3%A9sence-absence/</guid>
+      <guid>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</guid>
       <description>Excel file containing macro commands making it possible to transform a 1/0 table (presence / absence) into a graphic matrix treated by matrix permutations; it is possible to take into account the uncertain presence of a character. The instructions for use are contained in the file.</description>
     </item>
     

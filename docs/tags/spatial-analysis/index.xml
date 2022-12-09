@@ -151,6 +151,24 @@
     </item>
     
     <item>
+      <title>PleistoDist</title>
+      <link>https://open-archaeo.info/post/pleistodist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pleistodist/</guid>
+      <description>Distance matrices between islands normalised over Pleistocene time.</description>
+    </item>
+    
+    <item>
+      <title>PleistoDistR</title>
+      <link>https://open-archaeo.info/post/pleistodistr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pleistodistr/</guid>
+      <description>Distance matrices between islands normalised over Pleistocene time. A complete ground-up rebuild of PleistoDist for use with R.</description>
+    </item>
+    
+    <item>
       <title>QGIS-topographic-networks</title>
       <link>https://open-archaeo.info/post/qgis-topographic-networks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

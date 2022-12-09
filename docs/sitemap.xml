@@ -224,7 +224,11 @@
   </url><url>
     <loc>https://open-archaeo.info/post/bioanth/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/bioarch-r/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/tags/biological-anthropology/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/bioprofile/</loc>
   </url><url>
     <loc>https://open-archaeo.info/tags/bits-and-bobs/</loc>
   </url><url>
@@ -504,6 +508,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/gorbit/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/gprsuite/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/grainsizer/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/grass-arch/</loc>
@@ -702,6 +708,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/naa-analytical-dashboard/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/nassa-modules/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/near-presence-analysis/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/nearpresence/</loc>
@@ -823,6 +831,10 @@
     <loc>https://open-archaeo.info/tags/platforms-and-publications/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/plc/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/pleistodist/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/pleistodistr/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/plotting-dental-inventory-with-ggplot2/</loc>
   </url><url>
@@ -954,6 +966,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/rpaleoclim/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/rpgprpy/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/rppsfs/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/rtefact/</loc>
@@ -992,7 +1006,7 @@
   </url><url>
     <loc>https://open-archaeo.info/post/seriation-clipo/</loc>
   </url><url>
-    <loc>https://open-archaeo.info/post/s%C3%A9riation-de-matrice-en-pr%C3%A9sence-absence/</loc>
+    <loc>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/seriographe-eppm/</loc>
   </url><url>

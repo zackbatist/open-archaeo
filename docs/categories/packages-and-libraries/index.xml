@@ -313,6 +313,24 @@
     </item>
     
     <item>
+      <title>BioArch_R</title>
+      <link>https://open-archaeo.info/post/bioarch-r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/bioarch-r/</guid>
+      <description>Apps and functions for use in Bioarchaeology</description>
+    </item>
+    
+    <item>
+      <title>BioProfile</title>
+      <link>https://open-archaeo.info/post/bioprofile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/bioprofile/</guid>
+      <description>A shiny app which uses the results of standard osteological methods to create a basic biological profile</description>
+    </item>
+    
+    <item>
       <title>bleiglas</title>
       <link>https://open-archaeo.info/post/bleiglas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -715,6 +733,15 @@
       
       <guid>https://open-archaeo.info/post/gmamisc/</guid>
       <description>A collection of functions that built in different points in time. The functions&amp;rsquo; aim spans from univariate outlier detection, to permutation t test, permutation chi-square test, calculation of Brainerd-Robinson similarity coefficient, validation of logistic regression models, point pattern analysis, and more.</description>
+    </item>
+    
+    <item>
+      <title>GPRsuite</title>
+      <link>https://open-archaeo.info/post/gprsuite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/gprsuite/</guid>
+      <description>Shiny app for RGPR.</description>
     </item>
     
     <item>
@@ -1204,6 +1231,24 @@
     </item>
     
     <item>
+      <title>PleistoDist</title>
+      <link>https://open-archaeo.info/post/pleistodist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pleistodist/</guid>
+      <description>Distance matrices between islands normalised over Pleistocene time.</description>
+    </item>
+    
+    <item>
+      <title>PleistoDistR</title>
+      <link>https://open-archaeo.info/post/pleistodistr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pleistodistr/</guid>
+      <description>Distance matrices between islands normalised over Pleistocene time. A complete ground-up rebuild of PleistoDist for use with R.</description>
+    </item>
+    
+    <item>
       <title>Plum</title>
       <link>https://open-archaeo.info/post/plum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1480,6 +1525,15 @@
       
       <guid>https://open-archaeo.info/post/rpaleoclim/</guid>
       <description>R interface for open paleoclimate data.</description>
+    </item>
+    
+    <item>
+      <title>RPGPRpy</title>
+      <link>https://open-archaeo.info/post/rpgprpy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/rpgprpy/</guid>
+      <description>Python wrapper for RGPR (ground-penetrating radar visualisation &amp;amp; processing).</description>
     </item>
     
     <item>
