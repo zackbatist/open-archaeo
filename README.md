@@ -2016,6 +2016,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **Material Sources for Early Islam and Late Antique Near East**: A list of resources and materials for research on the history of Early Islam and the Late Antique Near East.
+  * by: Hagit Nol
+  * links: [Website](https://materialsourcesforearlyislamandlateantiqueneareast.hcommons.org/)
+  * tags: 
+  
+----
+
 * **MAX**: An online tool for the comparative analysis of museum databases.
   * by: stefanieschneider, Hubertus Kohle, Severin Burg and Helmut Küchenhoff
   * links: [GitHub](https://github.com/stefanieschneider/MAX)           [Website](https://www.max.gwi.uni-muenchen.de/)
