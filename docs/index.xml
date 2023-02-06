@@ -736,6 +736,15 @@
     </item>
     
     <item>
+      <title>Artifacts-Analyzer</title>
+      <link>https://open-archaeo.info/post/artifacts-analyzer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/artifacts-analyzer/</guid>
+      <description>Python script for analyzing data sets of archaeological artifacts containing only Boolean and categorical variables.</description>
+    </item>
+    
+    <item>
       <title>AtlantGIS</title>
       <link>https://open-archaeo.info/post/atlantgis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1201,6 +1210,15 @@
       
       <guid>https://open-archaeo.info/post/chronochrt/</guid>
       <description>Building chronological charts easily with R.</description>
+    </item>
+    
+    <item>
+      <title>ChronoLog</title>
+      <link>https://open-archaeo.info/post/chronolog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/chronolog/</guid>
+      <description>A tool for computer-assisted chronological research.</description>
     </item>
     
     <item>
@@ -2194,6 +2212,15 @@
     </item>
     
     <item>
+      <title>IntChron</title>
+      <link>https://open-archaeo.info/post/intchron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/intchron/</guid>
+      <description>An indexing service for chronological information. Information can be viewed as webpages or downloaded as data files in different formats.</description>
+    </item>
+    
+    <item>
       <title>IOSACal</title>
       <link>https://open-archaeo.info/post/iosacal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2766,7 +2793,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/nassa-modules/</guid>
-      <description>The modular library of the &amp;ldquo;Network for Agent-based modelling of Socio-ecological systems in Archaeology&amp;rdquo; (NASSA)</description>
+      <description>The modular library of the Network for Agent-based modelling of Socio-ecological systems in Archaeology</description>
     </item>
     
     <item>
@@ -3163,6 +3190,15 @@
       
       <guid>https://open-archaeo.info/post/pathphynder/</guid>
       <description>A workflow for integrating ancient lineages into present-day phylogenies.</description>
+    </item>
+    
+    <item>
+      <title>PAThs Simple Vectorization Protocol</title>
+      <link>https://open-archaeo.info/post/paths-simple-vectorization-protocol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/paths-simple-vectorization-protocol/</guid>
+      <description>Protocol to vecotorize archaeological or architectonic legacy data.</description>
     </item>
     
     <item>
@@ -4450,6 +4486,15 @@
       
       <guid>https://open-archaeo.info/post/totalstation-tools/</guid>
       <description>Tools to use and manipulate total station data</description>
+    </item>
+    
+    <item>
+      <title>TPQ-Composer</title>
+      <link>https://open-archaeo.info/post/tpq-composer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/tpq-composer/</guid>
+      <description>Utility for graphically displaying a set of termini post quem induced from stratified archaeological artifacts.</description>
     </item>
     
     <item>

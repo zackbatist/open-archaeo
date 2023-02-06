@@ -268,6 +268,15 @@
     </item>
     
     <item>
+      <title>Artifacts-Analyzer</title>
+      <link>https://open-archaeo.info/post/artifacts-analyzer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/artifacts-analyzer/</guid>
+      <description>Python script for analyzing data sets of archaeological artifacts containing only Boolean and categorical variables.</description>
+    </item>
+    
+    <item>
       <title>AuthentiCT</title>
       <link>https://open-archaeo.info/post/authentict/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1840,6 +1849,15 @@
       
       <guid>https://open-archaeo.info/post/totalstation-tools/</guid>
       <description>Tools to use and manipulate total station data</description>
+    </item>
+    
+    <item>
+      <title>TPQ-Composer</title>
+      <link>https://open-archaeo.info/post/tpq-composer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/tpq-composer/</guid>
+      <description>Utility for graphically displaying a set of termini post quem induced from stratified archaeological artifacts.</description>
     </item>
     
     <item>
