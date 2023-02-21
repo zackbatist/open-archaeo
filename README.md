@@ -560,6 +560,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **DIGSS**: A simulation tool to estimate the rate of success that surveys possessing user-specific characteristics have in identifying archaeological sites (or any groups of clouds of objects), given specific parameters of survey area, survey methods, and site properties.
+  * by: markhubbe
+  * links: [GitHub](https://github.com/markhubbe/DIGSS)        [CRAN](https://cran.rstudio.com/web/packages/DIGSS/index.html)
+  * tags: [Simulation] and [Statistical analysis]
+  
+----
+
 * **DIYFieldworkDatabase**: Documenting and sharing my ad-hoc fieldwork database setup
   * by: zackbatist
   * links: [GitHub](https://github.com/zackbatist/DIYFieldworkDatabase)
@@ -808,7 +815,7 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
 * **IntChron**: An indexing service for chronological information. Information can be viewed as webpages or downloaded as data files in different formats.
   * by: Christopher Bronk Ramsey
   * links: [Website](https://intchron.org/) [DOI](https://doi.org/10.1017/RDC.2019.21)
-  * tags: 
+  * tags: [Lists]
   
 ----
 
@@ -962,7 +969,7 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
 * **Material Sources for Early Islam and Late Antique Near East**: A list of resources and materials for research on the history of Early Islam and the Late Antique Near East.
   * by: Hagit Nol
   * links: [Website](https://materialsourcesforearlyislamandlateantiqueneareast.hcommons.org/)
-  * tags: 
+  * tags: [Lists]
   
 ----
 
@@ -1323,6 +1330,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **SEAHORS**: R Shiny application that allows easy and quick exploration of the spatial distribution of archaeological objects.
+  * by: AurelienRoyer
+  * links: [GitHub](https://github.com/AurelienRoyer/SEAHORS)
+  * tags: [Spatial analysis]
+  
+----
+
 * **SPARSE**: Indexes >100,000 reference genomes in public databases in to hierarchical clusters and uses it to predict origins of metagenomic reads.
   * by: zheminzhou
   * links: [GitHub](https://github.com/zheminzhou/SPARSE)           [Website](https://sparse.readthedocs.io/en/latest/)
@@ -1547,6 +1561,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **ancient-artifacts**: Dynamic image analysis to identify ancient artifacts in soil samples.
+  * by: vanderbilt-data-science
+  * links: [GitHub](https://github.com/vanderbilt-data-science/ancient-artifacts)
+  * tags: [Shape recognition] and [Spatial analysis]
+  
+----
+
 * **ancient-ceramic-kilns**: GeoJSON files for ceramic kilns of the ancient world, no chronological/spatial boundaries
   * by: steko
   * links: [Codeberg](https://codeberg.org/steko/ancient-ceramic-kilns)
@@ -1593,6 +1614,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: jerryratcliffe
   * links: [GitHub](https://github.com/jerryratcliffe/aoristic)        [CRAN](https://CRAN.R-project.org/package=aoristic)
   * tags: [Chronological modelling]
+  
+----
+
+* **aoristic-analysis**: Estimate probabilities of find numbers per period.
+  * by: LimesLimits
+  * links: [GitHub](https://github.com/LimesLimits/aoristic-analysis)            [DOI](https://doi.org/https://doi.org/10.1016/j.jasrep.2016.10.006)
+  * tags: [Statistical analysis]
   
 ----
 
@@ -1677,6 +1705,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: benmarwick
   * links: [Gist](https://gist.github.com/benmarwick/0d5e6526604e755b556f)
   * tags: [Public archaeology]
+  
+----
+
+* **archaeosrp**: Read PDFs with archaeological site report information and return the information in the forms as a dataframe.
+  * by: seanbergin
+  * links: [GitHub](https://github.com/seanbergin/archaeosrp)
+  * tags: [Writing]
   
 ----
 
@@ -3133,6 +3168,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: keeeal
   * links: [GitHub](https://github.com/keeeal/rock-art-transfer-learning)
   * tags: [Shape recognition], [Chronological modelling] and [Iconography]
+  
+----
+
+* **roev**: Functions for analysing and visualizing rates of evolution.
+  * by: benmarwick
+  * links: [GitHub](https://github.com/benmarwick/roev)
+  * tags: [Statistical analysis]
   
 ----
 

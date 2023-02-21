@@ -214,6 +214,15 @@
     </item>
     
     <item>
+      <title>ancient-artifacts</title>
+      <link>https://open-archaeo.info/post/ancient-artifacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/ancient-artifacts/</guid>
+      <description>Dynamic image analysis to identify ancient artifacts in soil samples.</description>
+    </item>
+    
+    <item>
       <title>ancient-ceramic-kilns</title>
       <link>https://open-archaeo.info/post/ancient-ceramic-kilns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -292,6 +301,15 @@
       
       <guid>https://open-archaeo.info/post/aoristic/</guid>
       <description>R package for aoristic analysis; the goal of aoristic is to make sense of temporally vague data.</description>
+    </item>
+    
+    <item>
+      <title>aoristic-analysis</title>
+      <link>https://open-archaeo.info/post/aoristic-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/aoristic-analysis/</guid>
+      <description>Estimate probabilities of find numbers per period.</description>
     </item>
     
     <item>
@@ -481,6 +499,15 @@
       
       <guid>https://open-archaeo.info/post/archaeophases-marieannevibet/</guid>
       <description>Post-Processing of the Markov Chain Simulated by &amp;lsquo;ChronoModel&amp;rsquo;, &amp;lsquo;Oxcal&amp;rsquo; or &amp;lsquo;BCal&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>archaeosrp</title>
+      <link>https://open-archaeo.info/post/archaeosrp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeosrp/</guid>
+      <description>Read PDFs with archaeological site report information and return the information in the forms as a dataframe.</description>
     </item>
     
     <item>
@@ -1552,6 +1579,15 @@
       
       <guid>https://open-archaeo.info/post/digital-encyclopedia-of-archaeologists/</guid>
       <description>A webpage containing brief biographical information about some iconic archaeologists.</description>
+    </item>
+    
+    <item>
+      <title>DIGSS</title>
+      <link>https://open-archaeo.info/post/digss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/digss/</guid>
+      <description>A simulation tool to estimate the rate of success that surveys possessing user-specific characteristics have in identifying archaeological sites (or any groups of clouds of objects), given specific parameters of survey area, survey methods, and site properties.</description>
     </item>
     
     <item>
@@ -3751,6 +3787,15 @@
     </item>
     
     <item>
+      <title>roev</title>
+      <link>https://open-archaeo.info/post/roev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/roev/</guid>
+      <description>Functions for analysing and visualizing rates of evolution.</description>
+    </item>
+    
+    <item>
       <title>roman-amphitheaters</title>
       <link>https://open-archaeo.info/post/roman-amphitheaters-roman-amphitheaters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3955,6 +4000,15 @@
       
       <guid>https://open-archaeo.info/post/sdsbrowser/</guid>
       <description>sdsbrowser is an R Shiny WebApp developed to make the available SDS datasets (following the Systematic and Digital Documentation of Stone Artefacts recording system) more accessible. It is designed to give you a quick overview on the spatial and temporal scope of sites previously analysed with SDS and the distribution of artefacts within these sites.</description>
+    </item>
+    
+    <item>
+      <title>SEAHORS</title>
+      <link>https://open-archaeo.info/post/seahors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/seahors/</guid>
+      <description>R Shiny application that allows easy and quick exploration of the spatial distribution of archaeological objects.</description>
     </item>
     
     <item>

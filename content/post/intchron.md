@@ -5,8 +5,8 @@
     "Website": "https://intchron.org/"
   },
   "authors": ["Christopher Bronk Ramsey"],
-  "categories": [null],
-  "tags": [],
+  "categories": ["Lists and datasets"],
+  "tags": ["Lists"],
   "doi": "10.1017/RDC.2019.21"
 }
 
