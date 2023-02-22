@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: open-archaeo
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Zachary
+    family-names: Batist
+    email: zacharybatist@gmail.com
+    orcid: 'https://orcid.org/0000-0003-0435-508X'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7666729
+repository-code: 'https://github.com/zackbatist/open-archaeo'
+url: 'https://open-archaeo.info'
+abstract: >-
+  A list of open source archaeological software and
+  resources.
+license: CC0-1.0
