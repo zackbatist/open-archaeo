@@ -2023,6 +2023,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **civ5-prehistoric**: Extends the game back millions years and multiple eras into the days when "man" first descended from the trees!
+  * by: carlosfhernandez
+  * links: [GitHub](https://github.com/carlosfhernandez/civ5-prehistoric)           [Website](https://github.com/carlosfhernandez/civ5-prehistoric/wiki/)
+  * tags: [Games]
+  
+----
+
 * **clam**: A package for classical age-depth modelling of cores from deposits.
   * by: Maarten14C
   * links: [GitHub](https://github.com/Maarten14C/clam)
@@ -2767,7 +2774,7 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
 
 * **open-archaeo**: A list of open source archaeological software and resources.
   * by: zackbatist
-  * links: [GitHub](https://github.com/zackbatist/open-archaeo)           [Website](https://zackbatist.github.io/open-archaeo/)
+  * links: [GitHub](https://github.com/zackbatist/open-archaeo)           [Website](https://open-archaeo.info/) [DOI](https://doi.org/10.5281/zenodo.7666730)
   * tags: [Lists]
   
 ----
@@ -3343,6 +3350,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: Lugal-PCZ
   * links: [GitHub](https://github.com/Lugal-PCZ/shootpoints-web-frontend)
   * tags: [Site mapping] and [Data collection]
+  
+----
+
+* **shoredate**: Offers methods to shoreline date Stone Age sites located along the Norwegian Skagerrak coast based on their present-day elevation and the trajectory of past relative sea-level change.
+  * by: isakro
+  * links: [GitHub](https://github.com/isakro/shoredate)        [CRAN](https://cran.r-project.org/web/packages/shoredate/index.html)
+  * tags: [Spatial analysis] and [Chronological modelling]
   
 ----
 
