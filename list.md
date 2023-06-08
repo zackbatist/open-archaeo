@@ -27,7 +27,7 @@
 ----
 
 * **A bibliography of public archaeology and archaeological heritage management in the Mediterranean**: A collection of references about public archaeology and archaeological heritage management in/from the Mediterranean.
-  * by: Jaime 	Almansa S�nchez
+  * by: Jaime 	Almansa Sï¿½nchez
   * links: [Website](https://digital.csic.es/handle/10261/223340)
   * tags: [Bibliography] and [Public archaeology]
   
@@ -55,7 +55,7 @@
 ----
 
 * **ADMUR**: Tools to directly model underlying population dynamics using chronological datasets (radiocarbon and other) with a variety of models, including Continuous Piecewise Linear (CPL) model framework, and model comparison framework using BIC. Package also calibrates 14C samples, and generates Summed Probability Distributions (SPD). CPL modelling directly estimates the most likely population trajectory given a dataset, using SPD simulation analysis to generate a Goodness-of-fit test for the best selected model.
-  * by: Adrian Timpson, Ramiro Barberena, Mark G. Thomas, César Méndez and Katie Manning
+  * by: Adrian Timpson, Ramiro Barberena, Mark G. Thomas, CÃ©sar MÃ©ndez and Katie Manning
   * links: [GitHub](https://github.com/UCL/ADMUR)            [DOI](https://doi.org/10.1098/rstb.2019.0723)
   * tags: [Chronological modelling]
   
@@ -425,7 +425,7 @@
   
 ----
 
-* **CalPal-Database**: CalPal 14C-Database created by Bernhard Weninger (Universität zu Köln) as part of the CalPal software package. This repository serves as an interface to access the data more easily.
+* **CalPal-Database**: CalPal 14C-Database created by Bernhard Weninger (UniversitÃ¤t zu KÃ¶ln) as part of the CalPal software package. This repository serves as an interface to access the data more easily.
   * by: nevrome
   * links: [GitHub](https://github.com/nevrome/CalPal-Database)
   * tags: [Datasets] and [Radiocarbon dating, calibration and sequencing]
@@ -468,7 +468,7 @@
 ----
 
 * **ChronoLog**: A tool for computer-assisted chronological research.
-  * by: Eythan Levy, Fr�d�ric Pluquet and Gilles Geeraerts
+  * by: Eythan Levy, Frdric Pluquet and Gilles Geeraerts
   * links: [Website](https://chrono.ulb.be/) [DOI](https://doi.org/10.1016/j.jas.2020.105225)
   * tags: [Chronological modelling]
   
@@ -482,7 +482,7 @@
 ----
 
 * **Classical and ancient Linked Open Data**: A list of linked open data repositories relating to classics and ancient history.
-  * by: Gabriel Bodard, Paula Granados García, Sarah Middle and Elton Barker
+  * by: Gabriel Bodard, Paula Granados GarcÃ­a, Sarah Middle and Elton Barker
   * links: [Website](https://docs.google.com/spreadsheets/d/1aAssGGswX2WNMllV4kMYexBGS8miCywbW5XdcIeE22c/edit#gid=1033348216)
   * tags: [Lists] and [Datasets]
   
@@ -663,7 +663,7 @@
   
 ----
 
-* **Fiche Stratigraphique Numérique (FSN)**: Fiche Stratigraphique Numerique (FSN) is an application project for field recording and management of archaeological operations data.
+* **Fiche Stratigraphique NumÃ©rique (FSN)**: Fiche Stratigraphique Numerique (FSN) is an application project for field recording and management of archaeological operations data.
   * by: Bruno Desachy
   * links: [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/fsn)
   * tags: [Data management]
@@ -923,7 +923,7 @@
 ----
 
 * **MAX**: An online tool for the comparative analysis of museum databases.
-  * by: stefanieschneider, Hubertus Kohle, Severin Burg and Helmut Küchenhoff
+  * by: stefanieschneider, Hubertus Kohle, Severin Burg and Helmut KÃ¼chenhoff
   * links: [GitHub](https://github.com/stefanieschneider/MAX)           [Website](https://www.max.gwi.uni-muenchen.de/)
   * tags: [Museums]
   
@@ -1377,7 +1377,7 @@
   
 ----
 
-* **Sériation de matrice en présence/absence**: Excel file containing macro commands making it possible to transform a 1/0 table (presence / absence) into a graphic matrix treated by matrix permutations; it is possible to take into account the uncertain presence of a character. The instructions for use are contained in the file.
+* **SÃ©riation de matrice en prÃ©sence/absence**: Excel file containing macro commands making it possible to transform a 1/0 table (presence / absence) into a graphic matrix treated by matrix permutations; it is possible to take into account the uncertain presence of a character. The instructions for use are contained in the file.
   * by: Bruno Desachy
   * links: [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/outils-danalyse-graphique-des-donnees)
   * tags: [Bits and bobs] and [Seriation]
@@ -1727,10 +1727,24 @@
   
 ----
 
+* **archeoViz**: A packaged R 'Shiny' application for the visualisation, interactive exploration, and web communication of archaeological spatial data.
+  * by: sebastien-plutniak
+  * links: [CRAN](https://cran.r-project.org/package=archeoViz)   [Website](https://github.com/sebastien-plutniak/archeoviz) [DOI](https://doi.org/10.5281/zenodo.7460193)
+  * tags: [Diagrams and visualizations], [Spatial analysis] and [Site mapping]
+  
+----
+
+* **archeoViz Portal**: An R Shiny application to gather and map datasets visualised using the archeoViz application
+  * by: sebastien-plutniak
+  * links: [GitHub](https://github.com/sebastien-plutniak/archeoviz-portal)           [Website](https://analytics.huma-num.fr/archeoviz/home/)
+  * tags: [Platforms and publications], [Data collection] and [Datasets]
+  
+----
+
 * **archeofrag**: R package for the analysis of the fragmentation of archeological objects.
   * by: sebastien-plutniak
-  * links: [GitHub](https://github.com/sebastien-plutniak/archeofrag)
-  * tags: [Chronological modelling] and [Harris matrix]
+  * links: [GitHub](https://github.com/sebastien-plutniak/archeofrag)        [CRAN](https://cran.r-project.org/package=archeofrag)   [Website](https://github.com/sebastien-plutniak/archeofrag)
+  * tags: [Spatial analysis], [Simulation] and [Statistical analysis]
   
 ----
 
@@ -2413,7 +2427,7 @@
   
 ----
 
-* **iDAI.field**: The German Archaeological Institute’s (DAI) new take on a field research documentation system. Combining features of GIS, photo management, and database management systems in a unique and integrating manner, it aims at facilitating archaeological workflows by reducing the overhead of using multiple systems. Developed in-house by the DAI’s information technology department, it targets primarily the needs of the institute’s excavations, older ones as well as those to come. Yet, due to the nature of its adjustable data model and the fact it is open source software, any interested third party is free to reuse and adjust it to their needs.
+* **iDAI.field**: The German Archaeological Instituteâs (DAI) new take on a field research documentation system. Combining features of GIS, photo management, and database management systems in a unique and integrating manner, it aims at facilitating archaeological workflows by reducing the overhead of using multiple systems. Developed in-house by the DAIâs information technology department, it targets primarily the needs of the instituteâs excavations, older ones as well as those to come. Yet, due to the nature of its adjustable data model and the fact it is open source software, any interested third party is free to reuse and adjust it to their needs.
   * by: daiinst
   * links: [GitHub](https://github.com/dainst/idai-field)           [Website](https://field.dainst.org/#/)
   * tags: [Data management]
@@ -2756,7 +2770,7 @@
   
 ----
 
-* **nonekXML**: Exchange data format (XML) for NoNeK (Nordmitteleuropäische Neolithische Keramik).
+* **nonekXML**: Exchange data format (XML) for NoNeK (NordmitteleuropÃ¤ische Neolithische Keramik).
   * by: MoritzMennenga and chrinne
   * links: [GitHub](https://github.com/ISAAKiel/nonekXML)
   * tags: [Schemas and ontologies]
@@ -3113,7 +3127,7 @@
   
 ----
 
-* **rdss**: An R package to facilitate the use of Murail et al.’s (1999) approach of sex estimation in past populations.
+* **rdss**: An R package to facilitate the use of Murail et al.âs (1999) approach of sex estimation in past populations.
   * by: frederic-santos
   * links: [GitHub](https://github.com/frederic-santos/rdss)            [DOI](https://doi.org/10.1002/oa.2957)
   * tags: [Cultural evolution] and [Statistical analysis]
@@ -3408,7 +3422,7 @@
 ----
 
 * **snpAD**: Implements an iterative method to jointly estimate error rates and genotypes frequencies from the data.
-  * by: Kay Prüfer
+  * by: Kay PrÃ¼fer
   * links: [Website](https://bioinf.eva.mpg.de/snpAD/)
   * tags: 
   
@@ -3723,7 +3737,7 @@
 ----
 
 * **zoolog**: Manipulate log-ratios (also known as log size index (LSI) values) from measurements obtained on zooarchaeological material.
-  * by: josempozo, Silvia Valenzuela-Lamas, Angela Trentacoste, Ariadne Nieto-Espinet and Silvia Guimarães Chiarelli
+  * by: josempozo, Silvia Valenzuela-Lamas, Angela Trentacoste, Ariadne Nieto-Espinet and Silvia GuimarÃ£es Chiarelli
   * links: [GitHub](https://github.com/josempozo/zoolog)        [CRAN](https://cran.r-project.org/web/packages/zoolog/index.html)   [Website](https://josempozo.github.io/zoolog/)
   * tags: [Zooarchaeology]
   

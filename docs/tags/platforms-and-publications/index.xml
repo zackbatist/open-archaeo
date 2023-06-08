@@ -16,6 +16,15 @@
     </item>
     
     <item>
+      <title>archeoViz Portal</title>
+      <link>https://open-archaeo.info/post/archeoviz-portal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archeoviz-portal/</guid>
+      <description>An R Shiny application to gather and map datasets visualised using the archeoViz application</description>
+    </item>
+    
+    <item>
       <title>Open Context Python Code Repository</title>
       <link>https://open-archaeo.info/post/open-context-python-code-repository/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

@@ -223,6 +223,15 @@
     </item>
     
     <item>
+      <title>archeoViz</title>
+      <link>https://open-archaeo.info/post/archeoviz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archeoviz/</guid>
+      <description>A packaged R &amp;lsquo;Shiny&amp;rsquo; application for the visualisation, interactive exploration, and web communication of archaeological spatial data.</description>
+    </item>
+    
+    <item>
       <title>ArchJobCAD</title>
       <link>https://open-archaeo.info/post/archjobcad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1488,7 +1497,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/rdss/</guid>
-      <description>An R package to facilitate the use of Murail et al.’s (1999) approach of sex estimation in past populations.</description>
+      <description>An R package to facilitate the use of Murail et al.âs (1999) approach of sex estimation in past populations.</description>
     </item>
     
     <item>

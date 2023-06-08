@@ -5,7 +5,7 @@
     "Website": "https://digital.csic.es/handle/10261/223340",
     "Publication": "10.20350/digitalCSIC/12720"
   },
-  "authors": ["Jaime \tAlmansa S�nchez"],
+  "authors": ["Jaime \tAlmansa Sï¿½nchez"],
   "categories": ["Lists and datasets"],
   "tags": ["Bibliography", "Public archaeology"],
   "doi": null

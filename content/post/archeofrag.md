@@ -2,11 +2,14 @@
   "title": "archeofrag",
   "description": ["R package for the analysis of the fragmentation of archeological objects."],
   "links": {
-    "GitHub": "https://github.com/sebastien-plutniak/archeofrag"
+    "GitHub": "https://github.com/sebastien-plutniak/archeofrag",
+    "CRAN": "https://cran.r-project.org/package=archeofrag",
+    "Website": "https://github.com/sebastien-plutniak/archeofrag",
+    "Publication": "10.1016/j.jas.2021.105501"
   },
   "authors": ["sebastien-plutniak"],
   "categories": ["Packages and libraries"],
-  "tags": ["Chronological modelling", "Harris matrix"],
+  "tags": ["Spatial analysis", "Simulation", "Statistical analysis"],
   "doi": null
 }
 

@@ -16,6 +16,15 @@
     </item>
     
     <item>
+      <title>archeofrag</title>
+      <link>https://open-archaeo.info/post/archeofrag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archeofrag/</guid>
+      <description>R package for the analysis of the fragmentation of archeological objects.</description>
+    </item>
+    
+    <item>
       <title>babylonian-hours</title>
       <link>https://open-archaeo.info/post/babylonian-hours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

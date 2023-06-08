@@ -34,6 +34,24 @@
     </item>
     
     <item>
+      <title>archeofrag</title>
+      <link>https://open-archaeo.info/post/archeofrag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archeofrag/</guid>
+      <description>R package for the analysis of the fragmentation of archeological objects.</description>
+    </item>
+    
+    <item>
+      <title>archeoViz</title>
+      <link>https://open-archaeo.info/post/archeoviz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archeoviz/</guid>
+      <description>A packaged R &amp;lsquo;Shiny&amp;rsquo; application for the visualisation, interactive exploration, and web communication of archaeological spatial data.</description>
+    </item>
+    
+    <item>
       <title>Artifact_Class_Diversity</title>
       <link>https://open-archaeo.info/post/artifact-class-diversity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

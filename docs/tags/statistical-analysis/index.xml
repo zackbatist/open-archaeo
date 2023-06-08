@@ -43,6 +43,15 @@
     </item>
     
     <item>
+      <title>archeofrag</title>
+      <link>https://open-archaeo.info/post/archeofrag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archeofrag/</guid>
+      <description>R package for the analysis of the fragmentation of archeological objects.</description>
+    </item>
+    
+    <item>
       <title>Artifacts-Analyzer</title>
       <link>https://open-archaeo.info/post/artifacts-analyzer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -309,7 +318,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/rdss/</guid>
-      <description>An R package to facilitate the use of Murail et al.’s (1999) approach of sex estimation in past populations.</description>
+      <description>An R package to facilitate the use of Murail et al.âs (1999) approach of sex estimation in past populations.</description>
     </item>
     
     <item>

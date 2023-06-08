@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://open-archaeo.info/tags/data-collection/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>archeoViz Portal</title>
+      <link>https://open-archaeo.info/post/archeoviz-portal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archeoviz-portal/</guid>
+      <description>An R Shiny application to gather and map datasets visualised using the archeoViz application</description>
+    </item>
+    
+    <item>
       <title>input</title>
       <link>https://open-archaeo.info/post/input/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
