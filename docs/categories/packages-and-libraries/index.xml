@@ -475,6 +475,15 @@
     </item>
     
     <item>
+      <title>chronos</title>
+      <link>https://open-archaeo.info/post/chronos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/chronos/</guid>
+      <description>Provides a system of classes and methods to represent and work with such time-series.</description>
+    </item>
+    
+    <item>
       <title>chronup</title>
       <link>https://open-archaeo.info/post/chronup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -697,6 +706,15 @@
       
       <guid>https://open-archaeo.info/post/ethnobotanyr/</guid>
       <description>R package for calculating quantitative ethnobotany indices.</description>
+    </item>
+    
+    <item>
+      <title>Excavation_data_viewer</title>
+      <link>https://open-archaeo.info/post/excavation-data-viewer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/excavation-data-viewer/</guid>
+      <description>R Shiny app for viewing archaeological excavation data in 3D.</description>
     </item>
     
     <item>

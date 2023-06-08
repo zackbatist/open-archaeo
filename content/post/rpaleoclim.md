@@ -2,7 +2,9 @@
   "title": "rpaleoclim",
   "description": ["R interface for open paleoclimate data."],
   "links": {
-    "GitHub": "https://github.com/joeroe/rpaleoclim"
+    "GitHub": "https://github.com/joeroe/rpaleoclim",
+    "CRAN": "https://cloud.r-project.org/web/packages/rpaleoclim/index.html",
+    "Website": "https://rpaleoclim.joeroe.io"
   },
   "authors": ["joeroe"],
   "categories": ["Packages and libraries"],

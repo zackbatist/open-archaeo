@@ -103,6 +103,13 @@
   
 ----
 
+* **ARchaeology**: View the AR models on your phone.
+  * by: lili0824
+  * links: [GitHub](https://github.com/lili0824/ARchaeology)
+  * tags: 
+  
+----
+
 * **Al2O3_AnalysisApp**: Shiny app to analyse Al2O3:C measurements
   * by: RLumSK
   * links: [GitHub](https://github.com/crp2a/Al2O3_AnalysisApp)
@@ -649,6 +656,13 @@
   
 ----
 
+* **Excavation_data_viewer**: R Shiny app for viewing archaeological excavation data in 3D.
+  * by: samclin
+  * links: [GitHub](https://github.com/samclin/Excavation_data_viewer)
+  * tags: [Data management] and [3D modelling]
+  
+----
+
 * **Explographe**: Application (in LibreOffice Calc) for serializing a graphic matrix from counting tables. The application makes it possible to obtain either a serograph or a graph of the PVI matrograph type (visualization of the differences in independence from the percentages of independence values) which does not favor the vision of the variables over that of the lines and more suitable for non-chronological treatments.
   * by: Bruno Desachy
   * links: [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/outils-danalyse-graphique-des-donnees)
@@ -903,7 +917,7 @@
 
 * **Luminescence**: Development version of the R package 'Luminescence'. The R package 'Luminescence' by the R-Luminescence Group provides a collection of various R functions for luminescence dating data analysis.
   * by: R-Lum
-  * links: [GitHub](https://github.com/R-Lum/Luminescence)
+  * links: [GitHub](https://github.com/R-Lum/Luminescence)        [CRAN](https://cloud.r-project.org/web/packages/Luminescence/index.html)   [Website](https://r-lum.github.io/Luminescence/)
   * tags: [Luminescence dating]
   
 ----
@@ -1367,6 +1381,13 @@
   * by: cconsta1
   * links: [GitHub](https://github.com/cconsta1/SexEst)
   * tags: [Biological anthropology] and [Shape recognition]
+  
+----
+
+* **StoneAdvisor**: Explore and share your favourite archaeological sites and itineraries.
+  * by: rbbristow
+  * links: [GitHub](https://github.com/rbbristow/StoneAdvisor)
+  * tags: [Public archaeology] and [Museums]
   
 ----
 
@@ -2017,6 +2038,13 @@
 * **chronomodel**: Chronological Modelling of Archaeological Data using Bayesian Statistics.
   * by: Chronomodel
   * links: [GitHub](https://github.com/Chronomodel/chronomodel)           [Website](https://chronomodel.com/)
+  * tags: [Chronological modelling]
+  
+----
+
+* **chronos**: Provides a system of classes and methods to represent and work with such time-series.
+  * by: tesselle
+  * links: [GitHub](https://github.com/tesselle/chronos)           [Website](https://packages.tesselle.org/chronos/)
   * tags: [Chronological modelling]
   
 ----
@@ -3227,7 +3255,7 @@
 
 * **rpaleoclim**: R interface for open paleoclimate data.
   * by: joeroe
-  * links: [GitHub](https://github.com/joeroe/rpaleoclim)
+  * links: [GitHub](https://github.com/joeroe/rpaleoclim)        [CRAN](https://cloud.r-project.org/web/packages/rpaleoclim/index.html)   [Website](https://rpaleoclim.joeroe.io)
   * tags: 
   
 ----

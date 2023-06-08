@@ -34,6 +34,15 @@
     </item>
     
     <item>
+      <title>ARchaeology</title>
+      <link>https://open-archaeo.info/post/archaeology-lili0824/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeology-lili0824/</guid>
+      <description>View the AR models on your phone.</description>
+    </item>
+    
+    <item>
       <title>Arothron</title>
       <link>https://open-archaeo.info/post/arothron/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -94,6 +103,15 @@
       
       <guid>https://open-archaeo.info/post/csgr/</guid>
       <description>Extracts and calculates from long bone cross sections, cortical thickness maps, and biomechanically pertinent cross-sectional geometric properties.</description>
+    </item>
+    
+    <item>
+      <title>Excavation_data_viewer</title>
+      <link>https://open-archaeo.info/post/excavation-data-viewer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/excavation-data-viewer/</guid>
+      <description>R Shiny app for viewing archaeological excavation data in 3D.</description>
     </item>
     
     <item>
