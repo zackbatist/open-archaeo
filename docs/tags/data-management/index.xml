@@ -151,6 +151,15 @@
     </item>
     
     <item>
+      <title>Excavation_data_viewer</title>
+      <link>https://open-archaeo.info/post/excavation-data-viewer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/excavation-data-viewer/</guid>
+      <description>R Shiny app for viewing archaeological excavation data in 3D.</description>
+    </item>
+    
+    <item>
       <title>Fiche Stratigraphique NumÃ©rique (FSN)</title>
       <link>https://open-archaeo.info/post/fiche-stratigraphique-numa%CC%83rique-fsn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

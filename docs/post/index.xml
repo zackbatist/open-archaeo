@@ -431,11 +431,20 @@
     
     <item>
       <title>archaeology</title>
-      <link>https://open-archaeo.info/post/archaeology/</link>
+      <link>https://open-archaeo.info/post/archaeology-steko/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/archaeology/</guid>
+      <guid>https://open-archaeo.info/post/archaeology-steko/</guid>
       <description>A directory of GitHub projects by OR for archaeologists.</description>
+    </item>
+    
+    <item>
+      <title>ARchaeology</title>
+      <link>https://open-archaeo.info/post/archaeology-lili0824/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeology-lili0824/</guid>
+      <description>View the AR models on your phone.</description>
     </item>
     
     <item>
@@ -1285,6 +1294,15 @@
     </item>
     
     <item>
+      <title>chronos</title>
+      <link>https://open-archaeo.info/post/chronos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/chronos/</guid>
+      <description>Provides a system of classes and methods to represent and work with such time-series.</description>
+    </item>
+    
+    <item>
       <title>chronup</title>
       <link>https://open-archaeo.info/post/chronup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1795,6 +1813,15 @@
       
       <guid>https://open-archaeo.info/post/evoarchdata/</guid>
       <description>Datasets from studies of cultural evolution in Archaeology</description>
+    </item>
+    
+    <item>
+      <title>Excavation_data_viewer</title>
+      <link>https://open-archaeo.info/post/excavation-data-viewer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/excavation-data-viewer/</guid>
+      <description>R Shiny app for viewing archaeological excavation data in 3D.</description>
     </item>
     
     <item>
@@ -4297,6 +4324,15 @@
       
       <guid>https://open-archaeo.info/post/statuaar/</guid>
       <description>Estimation of human stature from long bone measurements according to several well established estimation formula.</description>
+    </item>
+    
+    <item>
+      <title>StoneAdvisor</title>
+      <link>https://open-archaeo.info/post/stoneadvisor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/stoneadvisor/</guid>
+      <description>Explore and share your favourite archaeological sites and itineraries.</description>
     </item>
     
     <item>

@@ -2,7 +2,9 @@
   "title": "Luminescence",
   "description": ["Development version of the R package 'Luminescence'. The R package 'Luminescence' by the R-Luminescence Group provides a collection of various R functions for luminescence dating data analysis."],
   "links": {
-    "GitHub": "https://github.com/R-Lum/Luminescence"
+    "GitHub": "https://github.com/R-Lum/Luminescence",
+    "CRAN": "https://cloud.r-project.org/web/packages/Luminescence/index.html",
+    "Website": "https://r-lum.github.io/Luminescence/"
   },
   "authors": ["R-Lum"],
   "categories": ["Packages and libraries"],
