@@ -1101,7 +1101,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/calpal-database/</guid>
-      <description>CalPal 14C-Database created by Bernhard Weninger (UniversitÃ¤t zu KÃ¶ln) as part of the CalPal software package. This repository serves as an interface to access the data more easily.</description>
+      <description>CalPal 14C-Database created by Bernhard Weninger (Universität zu Köln) as part of the CalPal software package. This repository serves as an interface to access the data more easily.</description>
     </item>
     
     <item>
@@ -1861,11 +1861,11 @@
     </item>
     
     <item>
-      <title>Fiche Stratigraphique NumÃ©rique (FSN)</title>
-      <link>https://open-archaeo.info/post/fiche-stratigraphique-numa%CC%83rique-fsn/</link>
+      <title>Fiche Stratigraphique Numérique (FSN)</title>
+      <link>https://open-archaeo.info/post/fiche-stratigraphique-nume%CC%81rique-fsn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-archaeo.info/post/fiche-stratigraphique-numa%CC%83rique-fsn/</guid>
+      <guid>https://open-archaeo.info/post/fiche-stratigraphique-nume%CC%81rique-fsn/</guid>
       <description>Fiche Stratigraphique Numerique (FSN) is an application project for field recording and management of archaeological operations data.</description>
     </item>
     
@@ -2253,7 +2253,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/idai-field/</guid>
-      <description>The German Archaeological Instituteâs (DAI) new take on a field research documentation system. Combining features of GIS, photo management, and database management systems in a unique and integrating manner, it aims at facilitating archaeological workflows by reducing the overhead of using multiple systems. Developed in-house by the DAIâs information technology department, it targets primarily the needs of the instituteâs excavations, older ones as well as those to come. Yet, due to the nature of its adjustable data model and the fact it is open source software, any interested third party is free to reuse and adjust it to their needs.</description>
+      <description>The German Archaeological Institute&amp;rsquo;s (DAI) new take on a field research documentation system. Combining features of GIS, photo management, and database management systems in a unique and integrating manner, it aims at facilitating archaeological workflows by reducing the overhead of using multiple systems. Developed in-house by the DAI&amp;rsquo;s information technology department, it targets primarily the needs of the institute&amp;rsquo;s excavations, older ones as well as those to come. Yet, due to the nature of its adjustable data model and the fact it is open source software, any interested third party is free to reuse and adjust it to their needs.</description>
     </item>
     
     <item>
@@ -2991,7 +2991,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/nonekxml/</guid>
-      <description>Exchange data format (XML) for NoNeK (NordmitteleuropÃ¤ische Neolithische Keramik).</description>
+      <description>Exchange data format (XML) for NoNeK (Nordmitteleuropäische Neolithische Keramik).</description>
     </item>
     
     <item>
@@ -3747,7 +3747,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/rdss/</guid>
-      <description>An R package to facilitate the use of Murail et al.âs (1999) approach of sex estimation in past populations.</description>
+      <description>An R package to facilitate the use of Murail et al.&amp;rsquo;s (1999) approach of sex estimation in past populations.</description>
     </item>
     
     <item>
@@ -4003,15 +4003,6 @@
     </item>
     
     <item>
-      <title>SÃ©riation de matrice en prÃ©sence/absence</title>
-      <link>https://open-archaeo.info/post/sa%CC%83riation-de-matrice-en-pra%CC%83sence-absence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/sa%CC%83riation-de-matrice-en-pra%CC%83sence-absence/</guid>
-      <description>Excel file containing macro commands making it possible to transform a 1/0 table (presence / absence) into a graphic matrix treated by matrix permutations; it is possible to take into account the uncertain presence of a character. The instructions for use are contained in the file.</description>
-    </item>
-    
-    <item>
       <title>SCEM</title>
       <link>https://open-archaeo.info/post/scem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -4099,6 +4090,15 @@
       
       <guid>https://open-archaeo.info/post/seriation-clipo/</guid>
       <description>Algorithms, implementations, manuscripts, and test cases for iterative deterministic frequency seriation done by agglomeration.</description>
+    </item>
+    
+    <item>
+      <title>Sériation de matrice en présence/absence</title>
+      <link>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</guid>
+      <description>Excel file containing macro commands making it possible to transform a 1/0 table (presence / absence) into a graphic matrix treated by matrix permutations; it is possible to take into account the uncertain presence of a character. The instructions for use are contained in the file.</description>
     </item>
     
     <item>
