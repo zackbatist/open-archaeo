@@ -1,5 +1,5 @@
 {
-  "title": "SÃ©riation de matrice en prÃ©sence/absence",
+  "title": "Sériation de matrice en présence/absence",
   "description": ["Excel file containing macro commands making it possible to transform a 1/0 table (presence / absence) into a graphic matrix treated by matrix permutations; it is possible to take into account the uncertain presence of a character. The instructions for use are contained in the file."],
   "links": {
     "Website": "https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/outils-danalyse-graphique-des-donnees"

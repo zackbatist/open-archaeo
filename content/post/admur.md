@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/UCL/ADMUR",
     "Publication": "https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0723"
   },
-  "authors": ["Adrian Timpson", "Ramiro Barberena", "Mark G. Thomas", "CÃ©sar MÃ©ndez", "Katie Manning"],
+  "authors": ["Adrian Timpson", "Ramiro Barberena", "Mark G. Thomas", "César Méndez", "Katie Manning"],
   "categories": ["Packages and libraries"],
   "tags": ["Chronological modelling"],
   "doi": "10.1098/rstb.2019.0723"

@@ -1,5 +1,5 @@
 {
-  "title": "Fiche Stratigraphique NumÃ©rique (FSN)",
+  "title": "Fiche Stratigraphique Numérique (FSN)",
   "description": ["Fiche Stratigraphique Numerique (FSN) is an application project for field recording and management of archaeological operations data."],
   "links": {
     "Website": "https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/fsn"

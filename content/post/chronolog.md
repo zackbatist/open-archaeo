@@ -4,7 +4,7 @@
   "links": {
     "Website": "https://chrono.ulb.be/"
   },
-  "authors": ["Eythan Levy", "Frdric Pluquet", "Gilles Geeraerts"],
+  "authors": ["Eythan Levy", "Frédéric Pluquet", "Gilles Geeraerts"],
   "categories": ["Standalone software"],
   "tags": ["Chronological modelling"],
   "doi": "10.1016/j.jas.2020.105225"

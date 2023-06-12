@@ -5,7 +5,7 @@
     "GitHub": "https://github.com/stefanieschneider/MAX",
     "Website": "https://www.max.gwi.uni-muenchen.de/"
   },
-  "authors": ["stefanieschneider", "Hubertus Kohle", "Severin Burg", "Helmut KÃ¼chenhoff"],
+  "authors": ["stefanieschneider", "Hubertus Kohle", "Severin Burg", "Helmut Küchenhoff"],
   "categories": ["Standalone software"],
   "tags": ["Museums"],
   "doi": null
