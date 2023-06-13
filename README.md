@@ -21,6 +21,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **3D_EdgeAngle**: Semi-automated 3D digital method to systematically quantify stone tool edge angle and design.
+  * by: lschunk, Ivan Calandra and Konstantin Bob
+  * links: [GitHub](https://github.com/lschunk/3D_EdgeAngle)            [DOI](https://doi.org/10.5281/zenodo.7956767)
+  * tags: 
+  
+----
+
 * **3d-ceramics**: 3d models of archaeological ceramics.
   * by: sfsheath
   * links: [GitHub](https://github.com/sfsheath/3d-ceramics)
@@ -196,10 +203,24 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **ArchaeoCal**: An R Interface to OxCal.
+  * by: ArchaeoStat
+  * links: [GitHub](https://github.com/ArchaeoStat/ArchaeoCal)           [Website](https://archaeostat.github.io/ArchaeoCal/)
+  * tags: [Radiocarbon dating, calibration and sequencing]
+  
+----
+
 * **ArchaeoChron**: Bayesian Modeling of Archaeological Chronologies.
   * by: ArchaeoStat
   * links: [GitHub](https://github.com/ArchaeoStat/ArchaeoChron)
   * tags: [Chronological modelling]
+  
+----
+
+* **ArchaeoData**: Models and data to reproduce results from ArchaeoPhases examples and vignettes.
+  * by: ArchaeoStat
+  * links: [GitHub](https://github.com/ArchaeoStat/ArchaeoData)           [Website](https://archaeostat.github.io/ArchaeoData/)
+  * tags: [Radiocarbon dating, calibration and sequencing] and [Datasets]
   
 ----
 
@@ -1365,6 +1386,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **SediNet**: Deep learning framework for optical granulometry (estimation of sedimentological variables from sediment imagery).
+  * by: DigitalGrainSize and Daniel Buscombe
+  * links: [GitHub](https://github.com/DigitalGrainSize/SediNet)            [DOI](https://doi.org/10.1002/esp.4760)
+  * tags: [Shape recognition], [Machine learning] and [Geoarchaeology]
+  
+----
+
 * **Seriation**: Algorithms, implementations, manuscripts, and test cases for iterative deterministic frequency seriation done by agglomeration.
   * by: clipo
   * links: [GitHub](https://github.com/clipo/Seriation)
@@ -1526,6 +1554,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **ZooarchMixMod**: Produce mixture models of zooarchaeological measurement data to estimate the proportion of immature, adult-sized female, and adult-sized male specimens in an assemblage.
+  * by: wolfhagenj
+  * links: [GitHub](https://github.com/wolfhagenj/ZooarchMixMod)            [DOI](https://doi.org/10.1007/s10816-023-09611-y)
+  * tags: [Zooarchaeology]
+  
+----
+
 * **a-scientific-computing-environment-for-archaeology.txt**: Scientific Computing Environment for archaeology: Installing R, Rstudio and other things on a lightweight Linux in a VirtualBox virtual machine
   * by: benmarwick
   * links: [Gist](https://gist.github.com/benmarwick/11204658)
@@ -1551,6 +1586,20 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: maxibor
   * links: [GitHub](https://github.com/maxibor/adrsm)
   * tags: 
+  
+----
+
+* **aion**: Provides a system of classes and methods to represent and work with time-series.
+  * by: tesselle
+  * links: [GitHub](https://github.com/tesselle/aion)        [CRAN](https://cloud.r-project.org/web/packages/aion/index.html)   [Website](https://packages.tesselle.org/aion/)
+  * tags: [Chronological modelling]
+  
+----
+
+* **alkahest**: Pre-Processing XY Data from Experimental Methods.
+  * by: tesselle
+  * links: [GitHub](https://github.com/tesselle/alkahest)        [CRAN](https://cloud.r-project.org/web/packages/alkahest/index.html)   [Website](https://packages.tesselle.org/alkahest/)
+  * tags: [Statistical analysis]
   
 ----
 
@@ -1759,7 +1808,7 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
 
 * **archeoViz**: A packaged R 'Shiny' application for the visualisation, interactive exploration, and web communication of archaeological spatial data.
   * by: sebastien-plutniak
-  * links: [CRAN](https://cran.r-project.org/package=archeoViz)   [Website](https://github.com/sebastien-plutniak/archeoviz) [DOI](https://doi.org/10.5281/zenodo.7460193)
+  * links: [CRAN](https://cran.r-project.org/web/packages/archeoViz/index.html)   [Website](https://github.com/sebastien-plutniak/archeoviz) [DOI](https://doi.org/10.5281/zenodo.7460193)
   * tags: [Diagrams and visualizations], [Spatial analysis] and [Site mapping]
   
 ----
@@ -2503,6 +2552,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: iggdrasil
   * links: [GitLab](https://gitlab.com/iggdrasil/ishtar)         [Website](https://ishtar-archeo.net/en/)
   * tags: [Data management]
+  
+----
+
+* **isopleuros**: Ternary plots made simple.
+  * by: tesselle
+  * links: [GitHub](https://github.com/tesselle/isopleuros)        [CRAN](https://cran.r-project.org/web/packages/isopleuros/index.html)   [Website](https://packages.tesselle.org/isopleuros/)
+  * tags: [Diagrams and visualizations]
   
 ----
 
@@ -3336,6 +3392,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: Johanna-Mestorf-Academy
   * links: [GitHub](https://github.com/Johanna-Mestorf-Academy/sdsbrowser)           [Website](http://sds.ufg.uni-kiel.de/)
   * tags: 
+  
+----
+
+* **segmenteverygrain**: A SAM-based model for instance segmentation of images of grains.
+  * by: zsylvester
+  * links: [GitHub](https://github.com/zsylvester/segmenteverygrain)
+  * tags: [Shape recognition], [Machine learning] and [Geoarchaeology]
   
 ----
 

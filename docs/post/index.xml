@@ -16,6 +16,15 @@
     </item>
     
     <item>
+      <title>3D_EdgeAngle</title>
+      <link>https://open-archaeo.info/post/3d-edgeangle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/3d-edgeangle/</guid>
+      <description>Semi-automated 3D digital method to systematically quantify stone tool edge angle and design.</description>
+    </item>
+    
+    <item>
       <title>3d-ceramics</title>
       <link>https://open-archaeo.info/post/3d-ceramics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -133,6 +142,15 @@
     </item>
     
     <item>
+      <title>aion</title>
+      <link>https://open-archaeo.info/post/aion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/aion/</guid>
+      <description>Provides a system of classes and methods to represent and work with time-series.</description>
+    </item>
+    
+    <item>
       <title>AIS</title>
       <link>https://open-archaeo.info/post/ais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -148,6 +166,15 @@
       
       <guid>https://open-archaeo.info/post/al2o3-analysisapp/</guid>
       <description>Shiny app to analyse Al2O3:C measurements</description>
+    </item>
+    
+    <item>
+      <title>alkahest</title>
+      <link>https://open-archaeo.info/post/alkahest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/alkahest/</guid>
+      <description>Pre-Processing XY Data from Experimental Methods.</description>
     </item>
     
     <item>
@@ -358,12 +385,30 @@
     </item>
     
     <item>
+      <title>ArchaeoCal</title>
+      <link>https://open-archaeo.info/post/archaeocal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeocal/</guid>
+      <description>An R Interface to OxCal.</description>
+    </item>
+    
+    <item>
       <title>ArchaeoChron</title>
       <link>https://open-archaeo.info/post/archaeochron/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://open-archaeo.info/post/archaeochron/</guid>
       <description>Bayesian Modeling of Archaeological Chronologies.</description>
+    </item>
+    
+    <item>
+      <title>ArchaeoData</title>
+      <link>https://open-archaeo.info/post/archaeodata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeodata/</guid>
+      <description>Models and data to reproduce results from ArchaeoPhases examples and vignettes.</description>
     </item>
     
     <item>
@@ -2374,6 +2419,15 @@
     </item>
     
     <item>
+      <title>isopleuros</title>
+      <link>https://open-archaeo.info/post/isopleuros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/isopleuros/</guid>
+      <description>Ternary plots made simple.</description>
+    </item>
+    
+    <item>
       <title>Isotope-Visualisation</title>
       <link>https://open-archaeo.info/post/isotope-visualisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -4066,6 +4120,24 @@
     </item>
     
     <item>
+      <title>SediNet</title>
+      <link>https://open-archaeo.info/post/sedinet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/sedinet/</guid>
+      <description>Deep learning framework for optical granulometry (estimation of sedimentological variables from sediment imagery).</description>
+    </item>
+    
+    <item>
+      <title>segmenteverygrain</title>
+      <link>https://open-archaeo.info/post/segmenteverygrain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/segmenteverygrain/</guid>
+      <description>A SAM-based model for instance segmentation of images of grains.</description>
+    </item>
+    
+    <item>
       <title>senscape</title>
       <link>https://open-archaeo.info/post/senscape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -4846,6 +4918,15 @@
       
       <guid>https://open-archaeo.info/post/zooarchgui/</guid>
       <description>The zooaRchGUI package provides a Graphical User Interface (GUI) to analytical tools for zooarchaeological data in the R package.</description>
+    </item>
+    
+    <item>
+      <title>ZooarchMixMod</title>
+      <link>https://open-archaeo.info/post/zooarchmixmod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/zooarchmixmod/</guid>
+      <description>Produce mixture models of zooarchaeological measurement data to estimate the proportion of immature, adult-sized female, and adult-sized male specimens in an assemblage.</description>
     </item>
     
     <item>

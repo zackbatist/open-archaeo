@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://open-archaeo.info/tags/artefact-morphology/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>3D_EdgeAngle</title>
+      <link>https://open-archaeo.info/post/3d-edgeangle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/3d-edgeangle/</guid>
+      <description>Semi-automated 3D digital method to systematically quantify stone tool edge angle and design.</description>
+    </item>
+    
+    <item>
       <title>DACORD</title>
       <link>https://open-archaeo.info/post/dacord/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

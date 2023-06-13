@@ -52,6 +52,15 @@
     </item>
     
     <item>
+      <title>ArchaeoData</title>
+      <link>https://open-archaeo.info/post/archaeodata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeodata/</guid>
+      <description>Models and data to reproduce results from ArchaeoPhases examples and vignettes.</description>
+    </item>
+    
+    <item>
       <title>archdata</title>
       <link>https://open-archaeo.info/post/archdata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

@@ -187,6 +187,24 @@
     </item>
     
     <item>
+      <title>SediNet</title>
+      <link>https://open-archaeo.info/post/sedinet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/sedinet/</guid>
+      <description>Deep learning framework for optical granulometry (estimation of sedimentological variables from sediment imagery).</description>
+    </item>
+    
+    <item>
+      <title>segmenteverygrain</title>
+      <link>https://open-archaeo.info/post/segmenteverygrain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/segmenteverygrain/</guid>
+      <description>A SAM-based model for instance segmentation of images of grains.</description>
+    </item>
+    
+    <item>
       <title>SexEst</title>
       <link>https://open-archaeo.info/post/sexest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
