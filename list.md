@@ -117,6 +117,13 @@
   
 ----
 
+* **Akkademia**: Translating Akkadian signs to transcriptions using NLP techniques such as HMM, MEMM and BiLSTM neural networks.
+  * by: gaigutherz, arielazary, ARomach and ireman
+  * links: [GitHub](https://github.com/gaigutherz/Akkademia)
+  * tags: [Machine Learning] and [Literary analysis and epigraphy]
+  
+----
+
 * **Al2O3_AnalysisApp**: Shiny app to analyse Al2O3:C measurements
   * by: RLumSK
   * links: [GitHub](https://github.com/crp2a/Al2O3_AnalysisApp)
@@ -1680,7 +1687,7 @@
 
 * **aoristic-analysis**: Estimate probabilities of find numbers per period.
   * by: LimesLimits
-  * links: [GitHub](https://github.com/LimesLimits/aoristic-analysis)            [DOI](https://doi.org/https://doi.org/10.1016/j.jasrep.2016.10.006)
+  * links: [GitHub](https://github.com/LimesLimits/aoristic-analysis)            [DOI](https://doi.org/10.1016/j.jasrep.2016.10.006)
   * tags: [Statistical analysis]
   
 ----
@@ -2756,6 +2763,20 @@
   
 ----
 
+* **morphotype**: Provide a pipeline from shape data extraction to typological arrangement of pottery profiles.
+  * by: kafetzakid
+  * links: [GitHub](https://github.com/kafetzakid/morphotype)            [DOI](https://doi.org/10.5281/zenodo.8224882)
+  * tags: 
+  
+----
+
+* **morphotypeShiny**: Shiny implementation of morphotype.
+  * by: kafetzakid
+  * links: [GitHub](https://github.com/kafetzakid/morphotypeShiny)            [DOI](https://doi.org/10.5281/zenodo.6760607)
+  * tags: 
+  
+----
+
 * **mortAAR**: Analysis of Archaeological Mortality Data.
   * by: ISAAKiel
   * links: [GitHub](https://github.com/ISAAKiel/mortAAR)
@@ -3047,6 +3068,13 @@
   * by: joeroe
   * links: [GitHub](https://github.com/joeroe/piwigo-3dhop)
   * tags: [3D modelling]
+  
+----
+
+* **pleiades.datasets**: Platform-independent versions of Pleiades gazetteer data.
+  * by: isawnyu
+  * links: [GitHub](https://github.com/isawnyu/pleiades.datasets)           [Website](https://pleiades.stoa.org/) [DOI](https://doi.org/10.5281/zenodo.8206033)
+  * tags: [Datasets]
   
 ----
 
@@ -3628,6 +3656,13 @@
   * by: sfsheath
   * links: [GitHub](https://github.com/sfsheath/teaching-rome)
   * tags: [Educational resources and practical guides]
+  
+----
+
+* **teethr**: Calculate dental indices and lesion ratios.
+  * by: bbartholdy
+  * links: [GitHub](https://github.com/bbartholdy/teethr)
+  * tags: [Zooarchaeology]
   
 ----
 

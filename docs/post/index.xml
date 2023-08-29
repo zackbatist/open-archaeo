@@ -160,6 +160,15 @@
     </item>
     
     <item>
+      <title>Akkademia</title>
+      <link>https://open-archaeo.info/post/akkademia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/akkademia/</guid>
+      <description>Translating Akkadian signs to transcriptions using NLP techniques such as HMM, MEMM and BiLSTM neural networks.</description>
+    </item>
+    
+    <item>
       <title>Al2O3_AnalysisApp</title>
       <link>https://open-archaeo.info/post/al2o3-analysisapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2851,6 +2860,24 @@
     </item>
     
     <item>
+      <title>morphotype</title>
+      <link>https://open-archaeo.info/post/morphotype/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/morphotype/</guid>
+      <description>Provide a pipeline from shape data extraction to typological arrangement of pottery profiles.</description>
+    </item>
+    
+    <item>
+      <title>morphotypeShiny</title>
+      <link>https://open-archaeo.info/post/morphotypeshiny/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/morphotypeshiny/</guid>
+      <description>Shiny implementation of morphotype.</description>
+    </item>
+    
+    <item>
       <title>mortAAR</title>
       <link>https://open-archaeo.info/post/mortaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3415,6 +3442,15 @@
       
       <guid>https://open-archaeo.info/post/plc/</guid>
       <description>Pure Locational Clustering.</description>
+    </item>
+    
+    <item>
+      <title>pleiades.datasets</title>
+      <link>https://open-archaeo.info/post/pleiades-datasets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pleiades-datasets/</guid>
+      <description>Platform-independent versions of Pleiades gazetteer data.</description>
     </item>
     
     <item>
@@ -4531,6 +4567,15 @@
       
       <guid>https://open-archaeo.info/post/teaching-rome/</guid>
       <description>A collection of texts, 3d models, and maybe other resources useful for teaching about the Roman Empire.</description>
+    </item>
+    
+    <item>
+      <title>teethr</title>
+      <link>https://open-archaeo.info/post/teethr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/teethr/</guid>
+      <description>Calculate dental indices and lesion ratios.</description>
     </item>
     
     <item>
