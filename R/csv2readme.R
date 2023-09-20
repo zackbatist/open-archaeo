@@ -153,7 +153,7 @@ z <- glue("
 
 ")
 
-intro <- read_file("about.md")
+intro <- read_file("ABOUT.md")
 
 # export
 fileConn<-file("list.md")
