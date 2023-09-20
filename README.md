@@ -1,7 +1,7 @@
 <!-- about.md is automatically preprended to README.md in R/csv2readme.R -->
 # Open Archaeology Software & Resources
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8299652.svg)](https://doi.org/10.5281/zenodo.8299652)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8299651.svg)](https://doi.org/10.5281/zenodo.8299651)
 [![Paper](https://img.shields.io/badge/Paper-JOAD-green)](https://doi.org/10.5334/joad.111)
 
 A list of open source archaeological software and resources
