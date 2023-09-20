@@ -97,6 +97,24 @@
     </item>
     
     <item>
+      <title>ArcheOS</title>
+      <link>https://open-archaeo.info/post/archeos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archeos/</guid>
+      <description>Linux distribution with specialist software for archaeological purposes.</description>
+    </item>
+    
+    <item>
+      <title>ArcheoShape</title>
+      <link>https://open-archaeo.info/post/archeoshape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archeoshape/</guid>
+      <description>Analysis tools for geometric models of archaeological pieces.</description>
+    </item>
+    
+    <item>
       <title>arches</title>
       <link>https://open-archaeo.info/post/arches/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

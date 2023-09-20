@@ -12,6 +12,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
 
 ---
 
+* **14C-power-sensitivity**: How wrong is wrong and how good can it get? 14C chronological model power and sensitivity analyses with OxCal and R.
+  * by: pete-jacobsson
+  * links: [GitHub](https://github.com/pete-jacobsson/14C-power-sensitivity)
+  * tags: [Radiocarbon dating, calibration and sequencing]
+  
+----
+
 * **3D libraries of ships**: A 3D library of ancient (classical era) ships.
   * by: iMare Culture
   * links: [Website](https://imareculture.eu/downloads/project-tools/3d-libraries-of-ships/)
@@ -257,6 +264,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **ArchaeolPhytoliths**: Automated detection and classification of multi-cell phytoliths at genera and species-level using Deep Learning algorithm.
+  * by: iberganzo
+  * links: [GitHub](https://github.com/iberganzo/ArchaeolPhytoliths)
+  * tags: [Palaeobotany], [Machine learning] and [Shape recognition]
+  
+----
+
 * **Archaeological Ethics Database**: Brings together sources on archaeological ethics in a single place for the use of students, researchers, and professional archaeologists.
   * by: Register of Professional Archaeologists and Chartered Institute for Archaeologists
   * links: [Website](https://archaeologicalethics.org/)
@@ -275,6 +289,20 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: Camology
   * links: [GitHub](https://github.com/Camology/ArchaeologyAdventure)
   * tags: [Games]
+  
+----
+
+* **ArcheOS**: Linux distribution with specialist software for archaeological purposes.
+  * by: archeos
+  * links: [GitHub](https://github.com/archeos/ArcheOS)           [Website](https://distrowatch.com/table.php?distribution=archeos)
+  * tags: [Drivers and IO] and [Bits and bobs]
+  
+----
+
+* **ArcheoShape**: Analysis tools for geometric models of archaeological pieces.
+  * by: omendoza83
+  * links: [GitHub](https://github.com/omendoza83/ArcheoShape)
+  * tags: 
   
 ----
 
@@ -681,6 +709,20 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: apeltzer
   * links: [GitHub](https://github.com/apeltzer/EAGER-GUI)
   * tags: 
+  
+----
+
+* **EDM**: Configurable data collection program for archaeological survey and excavation.
+  * by: surf3s
+  * links: [GitHub](https://github.com/surf3s/EDM)
+  * tags: [Data collection] and [Data management]
+  
+----
+
+* **EDMWIN**: Configurable data collection program for archaeological survey and excavation.
+  * by: surf3s
+  * links: [GitHub](https://github.com/surf3s/EDMWIN)
+  * tags: [Data collection] and [Data management]
   
 ----
 
@@ -1157,6 +1199,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: stefaneichert
   * links: [GitHub](https://github.com/stefaneichert/OpenLidarToolbox)
   * tags: 
+  
+----
+
+* **Orientations**: R code for doing fabric analysis.
+  * by: surf3s
+  * links: [GitHub](https://github.com/surf3s/Orientations)
+  * tags: [Spatial analysis] and [Site mapping]
   
 ----
 
@@ -2630,6 +2679,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **klrfome**: Solve the distribution regression problem for noncontiguous geospatial features. The use case documented here is for modeling archaeological site locations.
+  * by: mrecos
+  * links: [GitHub](https://github.com/mrecos/klrfome)           [Website](https://mrecos.github.io/klrfome/) [DOI](https://doi.org/10.5281/zenodo.2598673)
+  * tags: [Spatial analysis] and [Site mapping]
+  
+----
+
 * **kotyle**: Calculate the capacity of a ceramic vessel, like an amphora.
   * by: iosa
   * links: [Codeberg](https://codeberg.org/steko/kotyle) [Website](https://kotyle.readthedocs.io/en/latest/)
@@ -2738,6 +2794,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
 * **maya-calendar**: Tools for converting between Maya and Western calendars.
   * by: jgregoriods
   * links: [GitHub](https://github.com/jgregoriods/maya-calendar)           [Website](https://jgregoriods.github.io/maya-calendar/dist/)
+  * tags: [Chronological modelling]
+  
+----
+
+* **measuRing**: Identification of ring borders on scanned image sections from dendrochronological samples.
+  * by: Wilson Lara, Carlos Sierra and Felipe Bravo
+  * links: [CRAN](https://cran.r-project.org/web/packages/measuRing/index.html)
   * tags: [Chronological modelling]
   
 ----
@@ -2898,7 +2961,7 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
 
 * **open-archaeo**: A list of open source archaeological software and resources.
   * by: zackbatist
-  * links: [GitHub](https://github.com/zackbatist/open-archaeo)           [Website](https://open-archaeo.info/) [DOI](https://doi.org/10.5281/zenodo.7666730)
+  * links: [GitHub](https://github.com/zackbatist/open-archaeo)           [Website](https://open-archaeo.info/) [DOI](https://doi.org/10.5281/zenodo.8299651)
   * tags: [Lists]
   
 ----
@@ -2907,6 +2970,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: ropensci
   * links: [GitHub](https://github.com/ropensci/opencontext)           [Website](https://docs.ropensci.org/opencontext/)
   * tags: 
+  
+----
+
+* **osa_orientations**: App to do some artifact orientations analysis.
+  * by: surf3s
+  * links: [GitHub](https://github.com/surf3s/osa_orientations)
+  * tags: [Spatial analysis]
   
 ----
 
@@ -3033,6 +3103,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: ruidlpm
   * links: [GitHub](https://github.com/ruidlpm/pathPhynder/)
   * tags: 
+  
+----
+
+* **pbot-client**: Integrative paleobotanical portal.
+  * by: paleobot
+  * links: [GitHub](https://github.com/paleobot/pbot-client)
+  * tags: [Datasets], [Data management] and [Palaeobotany]
   
 ----
 
@@ -3262,7 +3339,7 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
 
 * **recexcavAAR**: R package for 3D reconstruction of archaeological excavations.
   * by: ISAAKiel
-  * links: [GitHub](https://github.com/ISAAKiel/recexcavAAR/)
+  * links: [GitHub](https://github.com/ISAAKiel/recexcavAAR/)        [CRAN](https://cran.r-project.org/web/packages/recexcavAAR/index.html)
   * tags: [3D modelling]
   
 ----
@@ -3278,6 +3355,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: rekrei
   * links: [GitHub](https://github.com/rekrei/rekrei)
   * tags: [Platforms and publications]
+  
+----
+
+* **ringdater_pkg**: Statistical and visual crossdating annually resolved data (e.g. tree rings or mollusc and fish otolith growth increments).
+  * by: ringdater
+  * links: [GitHub](https://github.com/ringdater/ringdater_pkg)           [Website](https://ringdater.github.io/ringdater/index.html)
+  * tags: [Chronological modelling]
   
 ----
 

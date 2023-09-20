@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://open-archaeo.info/post/14c-power-sensitivity/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/3d-libraries-of-ships/</loc>
   </url><url>
     <loc>https://open-archaeo.info/tags/3d-modelling/</loc>
@@ -146,6 +148,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/archaeologyadventure/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/archaeolphytoliths/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/archaeophases-archaeostat/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/archaeophases-marieannevibet/</loc>
@@ -161,6 +165,10 @@
     <loc>https://open-archaeo.info/post/archeo-bertje/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/archeofrag/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/archeos/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/archeoshape/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/archeoviz/</loc>
   </url><url>
@@ -458,6 +466,10 @@
   </url><url>
     <loc>https://open-archaeo.info/post/ede-interpolation/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/edm/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/edmwin/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/tags/educational-resources-and-practical-guides/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/electronic-babylonian-literature-project/</loc>
@@ -634,6 +646,8 @@
   </url><url>
     <loc>https://open-archaeo.info/post/kidstats/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/klrfome/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/kmeans/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/kotyle/</loc>
@@ -719,6 +733,8 @@
     <loc>https://open-archaeo.info/post/mean-ceramic-date-and-error-estimation/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/measure3d/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/measuring/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/meshlab/</loc>
   </url><url>
@@ -812,6 +828,10 @@
   </url><url>
     <loc>https://open-archaeo.info/post/openlidartoolbox/</loc>
   </url><url>
+    <loc>https://open-archaeo.info/post/orientations/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/osa-orientations/</loc>
+  </url><url>
     <loc>https://open-archaeo.info/post/osl-calibration/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/osteogis/</loc>
@@ -855,6 +875,8 @@
     <loc>https://open-archaeo.info/post/pathphynder/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/paths-simple-vectorization-protocol/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/pbot-client/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/pdf-to-nested-xml/</loc>
   </url><url>
@@ -987,6 +1009,8 @@
     <loc>https://open-archaeo.info/post/rekrei/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/rgpr/</loc>
+  </url><url>
+    <loc>https://open-archaeo.info/post/ringdater-pkg/</loc>
   </url><url>
     <loc>https://open-archaeo.info/post/rintchron/</loc>
   </url><url>

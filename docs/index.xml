@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://open-archaeo.info/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>14C-power-sensitivity</title>
+      <link>https://open-archaeo.info/post/14c-power-sensitivity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/14c-power-sensitivity/</guid>
+      <description>How wrong is wrong and how good can it get? 14C chronological model power and sensitivity analyses with OxCal and R.</description>
+    </item>
+    
+    <item>
       <title>3D libraries of ships</title>
       <link>https://open-archaeo.info/post/3d-libraries-of-ships/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -547,6 +556,15 @@
     </item>
     
     <item>
+      <title>ArchaeolPhytoliths</title>
+      <link>https://open-archaeo.info/post/archaeolphytoliths/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archaeolphytoliths/</guid>
+      <description>Automated detection and classification of multi-cell phytoliths at genera and species-level using Deep Learning algorithm.</description>
+    </item>
+    
+    <item>
       <title>ArchaeoPhases</title>
       <link>https://open-archaeo.info/post/archaeophases-archaeostat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -616,6 +634,24 @@
       
       <guid>https://open-archaeo.info/post/archeofrag/</guid>
       <description>R package for the analysis of the fragmentation of archeological objects.</description>
+    </item>
+    
+    <item>
+      <title>ArcheOS</title>
+      <link>https://open-archaeo.info/post/archeos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archeos/</guid>
+      <description>Linux distribution with specialist software for archaeological purposes.</description>
+    </item>
+    
+    <item>
+      <title>ArcheoShape</title>
+      <link>https://open-archaeo.info/post/archeoshape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/archeoshape/</guid>
+      <description>Analysis tools for geometric models of archaeological pieces.</description>
     </item>
     
     <item>
@@ -1807,6 +1843,24 @@
     </item>
     
     <item>
+      <title>EDM</title>
+      <link>https://open-archaeo.info/post/edm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/edm/</guid>
+      <description>Configurable data collection program for archaeological survey and excavation.</description>
+    </item>
+    
+    <item>
+      <title>EDMWIN</title>
+      <link>https://open-archaeo.info/post/edmwin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/edmwin/</guid>
+      <description>Configurable data collection program for archaeological survey and excavation.</description>
+    </item>
+    
+    <item>
       <title>Electronic Babylonian Literature Project</title>
       <link>https://open-archaeo.info/post/electronic-babylonian-literature-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2518,6 +2572,15 @@
     </item>
     
     <item>
+      <title>klrfome</title>
+      <link>https://open-archaeo.info/post/klrfome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/klrfome/</guid>
+      <description>Solve the distribution regression problem for noncontiguous geospatial features. The use case documented here is for modeling archaeological site locations.</description>
+    </item>
+    
+    <item>
       <title>Kmeans</title>
       <link>https://open-archaeo.info/post/kmeans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2821,6 +2884,15 @@
       
       <guid>https://open-archaeo.info/post/measure3d/</guid>
       <description>A simple qgis plugin that measures the 3d distance between two selected points.</description>
+    </item>
+    
+    <item>
+      <title>measuRing</title>
+      <link>https://open-archaeo.info/post/measuring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/measuring/</guid>
+      <description>Identification of ring borders on scanned image sections from dendrochronological samples.</description>
     </item>
     
     <item>
@@ -3202,6 +3274,24 @@
     </item>
     
     <item>
+      <title>Orientations</title>
+      <link>https://open-archaeo.info/post/orientations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/orientations/</guid>
+      <description>R code for doing fabric analysis.</description>
+    </item>
+    
+    <item>
+      <title>osa_orientations</title>
+      <link>https://open-archaeo.info/post/osa-orientations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/osa-orientations/</guid>
+      <description>App to do some artifact orientations analysis.</description>
+    </item>
+    
+    <item>
       <title>osl_calibration.r</title>
       <link>https://open-archaeo.info/post/osl-calibration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3370,6 +3460,15 @@
       
       <guid>https://open-archaeo.info/post/paths-simple-vectorization-protocol/</guid>
       <description>Protocol to vecotorize archaeological or architectonic legacy data.</description>
+    </item>
+    
+    <item>
+      <title>pbot-client</title>
+      <link>https://open-archaeo.info/post/pbot-client/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/pbot-client/</guid>
+      <description>Integrative paleobotanical portal.</description>
     </item>
     
     <item>
@@ -3883,6 +3982,15 @@
       
       <guid>https://open-archaeo.info/post/rgpr/</guid>
       <description>RGPR is a free and open-source software package to read, export, analyse, process and visualise ground-penetrating radar (GPR) data</description>
+    </item>
+    
+    <item>
+      <title>ringdater_pkg</title>
+      <link>https://open-archaeo.info/post/ringdater-pkg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/ringdater-pkg/</guid>
+      <description>Statistical and visual crossdating annually resolved data (e.g. tree rings or mollusc and fish otolith growth increments).</description>
     </item>
     
     <item>

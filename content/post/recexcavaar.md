@@ -2,7 +2,8 @@
   "title": "recexcavAAR",
   "description": ["R package for 3D reconstruction of archaeological excavations."],
   "links": {
-    "GitHub": "https://github.com/ISAAKiel/recexcavAAR/"
+    "GitHub": "https://github.com/ISAAKiel/recexcavAAR/",
+    "CRAN": "https://cran.r-project.org/web/packages/recexcavAAR/index.html"
   },
   "authors": ["ISAAKiel"],
   "categories": ["Packages and libraries"],

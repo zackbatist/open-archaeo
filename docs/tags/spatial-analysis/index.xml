@@ -115,6 +115,15 @@
     </item>
     
     <item>
+      <title>klrfome</title>
+      <link>https://open-archaeo.info/post/klrfome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/klrfome/</guid>
+      <description>Solve the distribution regression problem for noncontiguous geospatial features. The use case documented here is for modeling archaeological site locations.</description>
+    </item>
+    
+    <item>
       <title>leastcostpath</title>
       <link>https://open-archaeo.info/post/leastcostpath/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -166,6 +175,24 @@
       
       <guid>https://open-archaeo.info/post/nearpresence/</guid>
       <description>Implements Near Presence Cluster Analysis, a statistical method for identifying spatial clustering within presence / absence data observed in irregularly distributed areal observation units.</description>
+    </item>
+    
+    <item>
+      <title>Orientations</title>
+      <link>https://open-archaeo.info/post/orientations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/orientations/</guid>
+      <description>R code for doing fabric analysis.</description>
+    </item>
+    
+    <item>
+      <title>osa_orientations</title>
+      <link>https://open-archaeo.info/post/osa-orientations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-archaeo.info/post/osa-orientations/</guid>
+      <description>App to do some artifact orientations analysis.</description>
     </item>
     
     <item>
