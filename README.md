@@ -1,3 +1,4 @@
+<!-- about.md is automatically preprended to README.md in R/csv2readme.R -->
 # Open Archaeology Software & Resources
 A list of open source archaeological software and resources
 
