@@ -5,24 +5,21 @@
     <link>https://open-archaeo.info/tags/adna-assembler/</link>
     <description>Recent content in aDNA assembler on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/tags/adna-assembler/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/tags/adna-assembler/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MADAM</title>
       <link>https://open-archaeo.info/post/madam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/madam/</guid>
       <description>Two-level de novo assembly strategy for ancient bacterial genomes.</description>
     </item>
-    
     <item>
       <title>mapping-iterative-assembler</title>
       <link>https://open-archaeo.info/post/mapping-iterative-assembler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/mapping-iterative-assembler/</guid>
       <description>Consensus calling (or &amp;ldquo;reference assisted assembly&amp;rdquo;), chiefly of ancient mitochondria.</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,8 +2,9 @@
   "title": "archeoViz",
   "description": ["A packaged R 'Shiny' application for the visualisation, interactive exploration, and web communication of archaeological spatial data."],
   "links": {
+    "GitHub": "https://github.com/sebastien-plutniak/archeoviz",
     "CRAN": "https://cran.r-project.org/web/packages/archeoViz/index.html",
-    "Website": "https://github.com/sebastien-plutniak/archeoviz"
+    "Website": "https://analytics.huma-num.fr/archeoviz/home/"
   },
   "authors": ["sebastien-plutniak"],
   "categories": ["Packages and libraries"],

@@ -5,204 +5,168 @@
     <link>https://open-archaeo.info/tags/3d-modelling/</link>
     <description>Recent content in 3D modelling on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/tags/3d-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/tags/3d-modelling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D libraries of ships</title>
       <link>https://open-archaeo.info/post/3d-libraries-of-ships/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/3d-libraries-of-ships/</guid>
       <description>A 3D library of ancient (classical era) ships.</description>
     </item>
-    
     <item>
       <title>3D_EdgeAngle</title>
       <link>https://open-archaeo.info/post/3d-edgeangle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/3d-edgeangle/</guid>
       <description>Semi-automated 3D digital method to systematically quantify stone tool edge angle and design.</description>
     </item>
-    
     <item>
       <title>3d-ceramics</title>
       <link>https://open-archaeo.info/post/3d-ceramics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/3d-ceramics/</guid>
       <description>3d models of archaeological ceramics.</description>
     </item>
-    
     <item>
       <title>3D-ORGAN</title>
       <link>https://open-archaeo.info/post/3d-organ/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/3d-organ/</guid>
       <description>3D reconstruction of incomplete archaeological objects using a generative adversarial network (GAN).</description>
     </item>
-    
     <item>
       <title>ARchaeology</title>
       <link>https://open-archaeo.info/post/archaeology-lili0824/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/archaeology-lili0824/</guid>
       <description>View the AR models on your phone.</description>
     </item>
-    
     <item>
       <title>Arothron</title>
       <link>https://open-archaeo.info/post/arothron/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/arothron/</guid>
       <description>Tools of Virtual Anthropology to build virtual cavities as endocasts, to align two disarticulated models belonging to the same specimen, and functions to import and export format files into another format.</description>
     </item>
-    
     <item>
       <title>bleiglas</title>
       <link>https://open-archaeo.info/post/bleiglas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/bleiglas/</guid>
       <description>An R package that provides functions for 3D tessellation with Voro++ and subsequent horizontal cutting of the resulting polygons for 2D plotting. It was developed for archaeological spatiotemporal data, but may as well be used for other three dimensional contexts.</description>
     </item>
-    
     <item>
       <title>Bonify</title>
       <link>https://open-archaeo.info/post/bonify/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/bonify/</guid>
       <description>Access and visualize 3D models of faunal remains.</description>
     </item>
-    
     <item>
       <title>cherish</title>
       <link>https://open-archaeo.info/post/cherish/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/cherish/</guid>
       <description>Cherish is a tool that aids archaeologists and designers to represent historical, urban and archaeological structures and sites in 3D by means of image manipulation and sketching. Combine disparate data types such as photographs, illustrations, diagrams, text annotations, point cloud representation, etc, into a comprehensive 3D space, to make 3D sense of the data.</description>
     </item>
-    
     <item>
       <title>cherish-installer</title>
       <link>https://open-archaeo.info/post/cherish-installer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/cherish-installer/</guid>
       <description>Installer files for Cherish software.</description>
     </item>
-    
     <item>
       <title>Corallium Fabrica</title>
       <link>https://open-archaeo.info/post/corallium-fabrica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/corallium-fabrica/</guid>
       <description>Set of 3D models of coral skeletons, which may be used as a reference collection.</description>
     </item>
-    
     <item>
       <title>CSGR</title>
       <link>https://open-archaeo.info/post/csgr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/csgr/</guid>
       <description>Extracts and calculates from long bone cross sections, cortical thickness maps, and biomechanically pertinent cross-sectional geometric properties.</description>
     </item>
-    
     <item>
       <title>Excavation_data_viewer</title>
       <link>https://open-archaeo.info/post/excavation-data-viewer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/excavation-data-viewer/</guid>
       <description>R Shiny app for viewing archaeological excavation data in 3D.</description>
     </item>
-    
     <item>
       <title>GigaMesh</title>
       <link>https://open-archaeo.info/post/gigamesh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/gigamesh/</guid>
       <description>A modular software for display, editing and visualization of 3D-data typically acquired with structured light scanning (SLS) or structure from motion (SfM).</description>
     </item>
-    
     <item>
       <title>Iraq_mortar</title>
       <link>https://open-archaeo.info/post/iraq-mortar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/iraq-mortar/</guid>
       <description>Enables the creation of a high quality 3D model of an archaeological artefact via process known as photo-masking.</description>
     </item>
-    
     <item>
       <title>italy-3d-amphitheaters</title>
       <link>https://open-archaeo.info/post/italy-3d-amphitheaters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/italy-3d-amphitheaters/</guid>
       <description>3D amphitheatres.</description>
     </item>
-    
     <item>
       <title>Lithics3D</title>
       <link>https://open-archaeo.info/post/lithics3d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/lithics3d/</guid>
       <description>An R package for processing and analyzing 3D scans of archaeological lithics.</description>
     </item>
-    
     <item>
       <title>marbleplan</title>
       <link>https://open-archaeo.info/post/marbleplan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/marbleplan/</guid>
       <description>Loading a Marble Plan fragment.</description>
     </item>
-    
     <item>
       <title>meshlab</title>
       <link>https://open-archaeo.info/post/meshlab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/meshlab/</guid>
       <description>These tools are meant to help you render orthographic views of 3D models for archaeological publication by simplifying, segmenting, cleaning and rendering 3D meshes.</description>
     </item>
-    
     <item>
       <title>PAThs Simple Vectorization Protocol</title>
       <link>https://open-archaeo.info/post/paths-simple-vectorization-protocol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/paths-simple-vectorization-protocol/</guid>
       <description>Protocol to vecotorize archaeological or architectonic legacy data.</description>
     </item>
-    
     <item>
       <title>piwigo-3dhop</title>
       <link>https://open-archaeo.info/post/piwigo-3dhop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/piwigo-3dhop/</guid>
       <description>Piwigo plugin for viewing 3D models using 3DHOP.</description>
     </item>
-    
     <item>
       <title>recexcavAAR</title>
       <link>https://open-archaeo.info/post/recexcavaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/recexcavaar/</guid>
       <description>R package for 3D reconstruction of archaeological excavations.</description>
     </item>
-    
+    <item>
+      <title>Scroll Viewer</title>
+      <link>https://open-archaeo.info/post/scroll-viewer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-archaeo.info/post/scroll-viewer/</guid>
+      <description>Viewer for the Herculaneum Papyri segments.</description>
+    </item>
   </channel>
 </rss>

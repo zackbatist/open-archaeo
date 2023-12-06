@@ -5,42 +5,35 @@
     <link>https://open-archaeo.info/tags/ethics-and-professional-development/</link>
     <description>Recent content in Ethics and professional development on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/tags/ethics-and-professional-development/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/tags/ethics-and-professional-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archaeological Ethics Database</title>
       <link>https://open-archaeo.info/post/archaeological-ethics-database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/archaeological-ethics-database/</guid>
       <description>Brings together sources on archaeological ethics in a single place for the use of students, researchers, and professional archaeologists.</description>
     </item>
-    
     <item>
       <title>Bibliographic Database of African Scholarship on African Archaeology</title>
       <link>https://open-archaeo.info/post/bibliographic-database-of-african-scholarship-on-african-archaeology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/bibliographic-database-of-african-scholarship-on-african-archaeology/</guid>
       <description>An open-access database of African archaeology publications by African and Afrodescendant scholars.</description>
     </item>
-    
     <item>
       <title>Bridging the Gap ENCODE Database</title>
       <link>https://open-archaeo.info/post/bridging-the-gap-encode-database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/bridging-the-gap-encode-database/</guid>
       <description>Shared definitions of digital competences needed by graduate students in the programmes focusing on written cultural heritage.</description>
     </item>
-    
     <item>
       <title>racisminarchy</title>
       <link>https://open-archaeo.info/post/racisminarchy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/racisminarchy/</guid>
       <description>Contains data and R code for our article on computational text analysis of racism in archaeology.</description>
     </item>
-    
   </channel>
 </rss>

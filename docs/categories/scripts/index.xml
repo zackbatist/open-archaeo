@@ -5,627 +5,511 @@
     <link>https://open-archaeo.info/categories/scripts/</link>
     <description>Recent content in Scripts on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/categories/scripts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/categories/scripts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3d_spatial_ripley_analyses</title>
+      <link>https://open-archaeo.info/post/3d-spatial-ripley-analyses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-archaeo.info/post/3d-spatial-ripley-analyses/</guid>
+      <description>Test spatial associations of objects in three dimensions by using the Ripley&amp;rsquo;s K function.</description>
+    </item>
     <item>
       <title>3D-ORGAN</title>
       <link>https://open-archaeo.info/post/3d-organ/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/3d-organ/</guid>
       <description>3D reconstruction of incomplete archaeological objects using a generative adversarial network (GAN).</description>
     </item>
-    
     <item>
       <title>Al2O3_AnalysisApp</title>
       <link>https://open-archaeo.info/post/al2o3-analysisapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/al2o3-analysisapp/</guid>
       <description>Shiny app to analyse Al2O3:C measurements</description>
     </item>
-    
     <item>
       <title>anthroFun</title>
       <link>https://open-archaeo.info/post/anthrofun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/anthrofun/</guid>
       <description>Functions to help with the preprocessing steps in anthropological research.</description>
     </item>
-    
     <item>
       <title>Archaeological_Catalogue_from_CSV_Spreadsheet</title>
       <link>https://open-archaeo.info/post/archaeological-catalogue-from-csv-spreadsheet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/archaeological-catalogue-from-csv-spreadsheet/</guid>
       <description>A template to create an archaeological catalogue from a spreadsheet using the LaTeX csvsimple package.</description>
     </item>
-    
     <item>
       <title>artefact-morpho.R</title>
       <link>https://open-archaeo.info/post/artefact-morpho/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/artefact-morpho/</guid>
       <description>R code for converting B&amp;amp;W jpgs of artefact silhouettes to matrices and computing basic Elliptical Fourier statistics, including PCA and MANOVA.</description>
     </item>
-    
     <item>
       <title>Artifact_Class_Diversity</title>
       <link>https://open-archaeo.info/post/artifact-class-diversity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/artifact-class-diversity/</guid>
       <description>Estimates artifact class diversity in multiple geographic regions.</description>
     </item>
-    
     <item>
       <title>BasicMapping</title>
       <link>https://open-archaeo.info/post/basicmapping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/basicmapping/</guid>
       <description>Working with map data in R.</description>
     </item>
-    
     <item>
       <title>benmarwickDY-XYZ-data-on-an-irregular-grid-to-an-interpolated-raster.r</title>
       <link>https://open-archaeo.info/post/benmarwickdy-xyz-data-on-an-irregular-grid-to-an-interpolated-raster/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/benmarwickdy-xyz-data-on-an-irregular-grid-to-an-interpolated-raster/</guid>
       <description>Plotting remote sensing data, especially how to go from XYZ data on an irregular grid to an interpolated raster</description>
     </item>
-    
     <item>
       <title>benmarwickopencontext.r</title>
       <link>https://open-archaeo.info/post/benmarwickopencontext/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/benmarwickopencontext/</guid>
       <description>Experimenting with the opencontext.org API using R</description>
     </item>
-    
     <item>
       <title>Binomial-Co-occurrence-Assessment</title>
       <link>https://open-archaeo.info/post/binomial-co-occurrence-assessment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/binomial-co-occurrence-assessment/</guid>
       <description>R script that implements a means for statistically assessing the degree of co-occurrence between classes within a dataset.</description>
     </item>
-    
     <item>
       <title>Bootstrap-Correspondence-Analysis</title>
       <link>https://open-archaeo.info/post/bootstrap-correspondence-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/bootstrap-correspondence-analysis/</guid>
       <description>R-script for conducting and evaluating bootstrapped correspondence analyses.</description>
     </item>
-    
     <item>
       <title>Brainerd-Robinson-Similarity-Coefficient-and-Sampling-Error-Assessment</title>
       <link>https://open-archaeo.info/post/brainerd-robinson-similarity-coefficient-and-sampling-error-assessment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/brainerd-robinson-similarity-coefficient-and-sampling-error-assessment/</guid>
       <description>Script for calculating Brainerd-Robinson coefficients based on tabular count or percent data. This script also estimates the probability that a given difference between two samples is the product of sampling error.</description>
     </item>
-    
     <item>
       <title>c14-date-extractor</title>
       <link>https://open-archaeo.info/post/c14-date-extractor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/c14-date-extractor/</guid>
       <description>Script for extracting c14 dates from text.</description>
     </item>
-    
     <item>
       <title>ca</title>
       <link>https://open-archaeo.info/post/ca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/ca/</guid>
       <description>R Script for Seriation Using Correspondence Analysis.</description>
     </item>
-    
     <item>
       <title>ceramic-computation</title>
       <link>https://open-archaeo.info/post/ceramic-computation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/ceramic-computation/</guid>
       <description>R scripts for digitizing, processing, analyzing, and comparing archaeological ceramic 2d profile drawings, photographs, and other data.</description>
     </item>
-    
     <item>
       <title>Ceramic-Frequency-Date-Plot</title>
       <link>https://open-archaeo.info/post/ceramic-frequency-date-plot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/ceramic-frequency-date-plot/</guid>
       <description>This R script produces a exploratory visual for assessing site date ranges originally suggested to me by Wesley Bernardini Redlands University</description>
     </item>
-    
     <item>
       <title>CeramicApportioning</title>
       <link>https://open-archaeo.info/post/ceramicapportioning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/ceramicapportioning/</guid>
       <description>A method for chronological apportioning of ceramic assemblages that considers site occupation dates, ceramic production dates, and popularity distribution curves.</description>
     </item>
-    
     <item>
       <title>CloudCal</title>
       <link>https://open-archaeo.info/post/cloudcal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/cloudcal/</guid>
       <description>This app will allow you to build &amp;amp; apply calibrations for the Tracer &amp;amp; Artax series of XRF devices</description>
     </item>
-    
     <item>
       <title>cranial-sex-estimation-code</title>
       <link>https://open-archaeo.info/post/cranial-sex-estimation-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/cranial-sex-estimation-code/</guid>
       <description>Data analysis implementation for evaluating a novel sex estimation method based on skullanalyzer data.</description>
     </item>
-    
     <item>
       <title>CSGR</title>
       <link>https://open-archaeo.info/post/csgr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/csgr/</guid>
       <description>Extracts and calculates from long bone cross sections, cortical thickness maps, and biomechanically pertinent cross-sectional geometric properties.</description>
     </item>
-    
     <item>
       <title>DACORD</title>
       <link>https://open-archaeo.info/post/dacord/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/dacord/</guid>
       <description>Computer-Assisted Drawing of Archaeological Pottery.</description>
     </item>
-    
     <item>
       <title>ElementSourcing</title>
       <link>https://open-archaeo.info/post/elementsourcing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/elementsourcing/</guid>
       <description>Source archaeological artifacts using elemental composition.</description>
     </item>
-    
     <item>
       <title>expotime</title>
       <link>https://open-archaeo.info/post/expotime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/expotime/</guid>
       <description>What is the correlation between the exposure time of your photographs and the time of the day?</description>
     </item>
-    
+    <item>
+      <title>fabryka</title>
+      <link>https://open-archaeo.info/post/fabryka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-archaeo.info/post/fabryka/</guid>
+      <description>Shiny app fabric analysis.</description>
+    </item>
     <item>
       <title>findPeaks</title>
       <link>https://open-archaeo.info/post/findpeaks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/findpeaks/</guid>
       <description>A simple algorithm to find local maxima/minima in sequential data.</description>
     </item>
-    
     <item>
       <title>Fix-exif-artist</title>
       <link>https://open-archaeo.info/post/fix-exif-artist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/fix-exif-artist/</guid>
       <description>Fix the Exif.Image.Artist tag based on user input depending from the camera model. Useful if you have a bunch of photographs from different people all mixed up.</description>
     </item>
-    
     <item>
       <title>Ford-Diagram</title>
       <link>https://open-archaeo.info/post/ford-diagram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/ford-diagram/</guid>
       <description>This R Function creates a simple Ford diagram for archaeological seriation with error bars determined based on sample size were count data are given</description>
     </item>
-    
     <item>
       <title>frontiers-palaeo-additive-modelling</title>
       <link>https://open-archaeo.info/post/frontiers-palaeo-additive-modelling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/frontiers-palaeo-additive-modelling/</guid>
       <description>Modelling and feature detection in palaeoenvironmental time series using additive models.</description>
     </item>
-    
     <item>
       <title>Geostat</title>
       <link>https://open-archaeo.info/post/geostat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/geostat/</guid>
       <description>Code for Geostatistics in ethnographic contexts.</description>
     </item>
-    
     <item>
       <title>grups</title>
       <link>https://open-archaeo.info/post/grups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/grups/</guid>
       <description>A collection of Python and R scripts that can be used to simulate the pairwise genetic distances between human individuals in a provided test pedigree.</description>
     </item>
-    
     <item>
       <title>juliandate</title>
       <link>https://open-archaeo.info/post/juliandate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/juliandate/</guid>
       <description>Simple conversions between Julian Dates and Julian/Gregorian calendar dates, supporting ancient dates.</description>
     </item>
-    
     <item>
       <title>kidstats</title>
       <link>https://open-archaeo.info/post/kidstats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/kidstats/</guid>
       <description>Shiny application that provides subadult age estimations based on dental and skeletal development and skeletal diaphyseal metrics using pre-optimized mixed cumulative probit models.</description>
     </item>
-    
     <item>
       <title>Kmeans</title>
       <link>https://open-archaeo.info/post/kmeans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/kmeans/</guid>
       <description>Script for conducting K-means cluster analysis using R. This script provides output designed to help the user select an appropriate cluster solution.</description>
     </item>
-    
     <item>
       <title>kriging</title>
       <link>https://open-archaeo.info/post/kriging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/kriging/</guid>
       <description>Codes for performing kriging for ethnographic and archaeological data.</description>
     </item>
-    
     <item>
       <title>LA_ICP_MS-Routines_FMNH</title>
       <link>https://open-archaeo.info/post/la-icp-ms-routines-fmnh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/la-icp-ms-routines-fmnh/</guid>
       <description>Routines to read and analyze LA-ICP-MS data from the Field Museum&amp;rsquo;s Elemental Analysis Facility</description>
     </item>
-    
     <item>
       <title>LISA</title>
       <link>https://open-archaeo.info/post/lisa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/lisa/</guid>
       <description>Moran&amp;rsquo;s I and Getis-Ord G* Analysis.</description>
     </item>
-    
     <item>
       <title>lithic3dslicer</title>
       <link>https://open-archaeo.info/post/lithic3dslicer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/lithic3dslicer/</guid>
       <description>.obj slicing for lithic 3d morphometrics.</description>
     </item>
-    
     <item>
       <title>long-bone-diaphyseal-CSG-Toolkit</title>
       <link>https://open-archaeo.info/post/long-bone-diaphyseal-csg-toolkit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/long-bone-diaphyseal-csg-toolkit/</guid>
       <description>A GNU Octave toolkit for analyzing diaphyseal long bone cross sectional geometry.</description>
     </item>
-    
     <item>
       <title>Mean-Ceramic-Date-and-Error-Estimation</title>
       <link>https://open-archaeo.info/post/mean-ceramic-date-and-error-estimation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/mean-ceramic-date-and-error-estimation/</guid>
       <description>Script for calculating mean ceramic dates based on tabular data. This script also estimates sampling error using a bootstrapping procedure.</description>
     </item>
-    
     <item>
       <title>missing</title>
       <link>https://open-archaeo.info/post/missing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/missing/</guid>
       <description>You have a sequence of numbered items and want to check if any are missing.</description>
     </item>
-    
     <item>
       <title>munsell-plot.R</title>
       <link>https://open-archaeo.info/post/munsell-plot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/munsell-plot/</guid>
       <description>Make a stratigraphic-style plot-schematic of sediment colour using munsell values</description>
     </item>
-    
     <item>
       <title>NAA analytical dashboard</title>
       <link>https://open-archaeo.info/post/naa-analytical-dashboard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/naa-analytical-dashboard/</guid>
       <description>Analytical Dashboard for conducting various analysis to group and assess groupings for Neutron Activation Analytical chemical compositional data</description>
     </item>
-    
     <item>
       <title>Near-Presence-Analysis</title>
       <link>https://open-archaeo.info/post/near-presence-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/near-presence-analysis/</guid>
       <description>R script for analyzing presence/absence data in irregularly distributed archaeological survey units.</description>
     </item>
-    
     <item>
       <title>neiman1995</title>
       <link>https://open-archaeo.info/post/neiman1995/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/neiman1995/</guid>
       <description>R Shiny Document - Visualizing model functions in Neimans &amp;lsquo;Stylistic variation in evolutionary perspective&amp;rsquo; with an interactive document.</description>
     </item>
-    
     <item>
       <title>neolithicR</title>
       <link>https://open-archaeo.info/post/neolithicr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/neolithicr/</guid>
       <description>Shiny app to search and filter radiocarbon dates from various source databases, based on the R package c14bazAAR.</description>
     </item>
-    
     <item>
       <title>non-metric-trait-analysis</title>
       <link>https://open-archaeo.info/post/non-metric-trait-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/non-metric-trait-analysis/</guid>
       <description>A set of GNU Octave functions for biodistance analysis based on non-metric traits.</description>
     </item>
-    
     <item>
       <title>osl_calibration.r</title>
       <link>https://open-archaeo.info/post/osl-calibration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/osl-calibration/</guid>
       <description>osl_calibration</description>
     </item>
-    
     <item>
       <title>osteometric-sorting</title>
       <link>https://open-archaeo.info/post/osteometric-sorting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/osteometric-sorting/</guid>
       <description>Tools for osteometric sorting of human remains.</description>
     </item>
-    
     <item>
       <title>p2pPerm</title>
       <link>https://open-archaeo.info/post/p2pperm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/p2pperm/</guid>
       <description>A function for retrieving metrics for resistance-resilience from rcarbon permTest objects.</description>
     </item>
-    
+    <item>
+      <title>pastclim</title>
+      <link>https://open-archaeo.info/post/pastclim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-archaeo.info/post/pastclim/</guid>
+      <description>Methods to easily extract and manipulate palaeoclimate reconstructions for ecological and anthropological analyses.</description>
+    </item>
     <item>
       <title>pdf-to-nested-xml</title>
       <link>https://open-archaeo.info/post/pdf-to-nested-xml/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/pdf-to-nested-xml/</guid>
       <description>Script to convert a folder of Dutch archaeological reports (PDFs) to XML files nested by section, chapter, heading.</description>
     </item>
-    
     <item>
       <title>PLC</title>
       <link>https://open-archaeo.info/post/plc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/plc/</guid>
       <description>Pure Locational Clustering.</description>
     </item>
-    
     <item>
       <title>PointPattern</title>
       <link>https://open-archaeo.info/post/pointpattern/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/pointpattern/</guid>
       <description>Point Pattern Analysis.</description>
     </item>
-    
     <item>
       <title>pollen_data_processing</title>
       <link>https://open-archaeo.info/post/pollen-data-processing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/pollen-data-processing/</guid>
       <description>some tools in respect to pollen data processing.</description>
     </item>
-    
     <item>
       <title>qrcode-storage</title>
       <link>https://open-archaeo.info/post/qrcode-storage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/qrcode-storage/</guid>
       <description>Scripts to create QR-Code images for storage boxes. Each box has an associated web page describing its content, and the QR-Code serves as a short-link from the physical object to the web page.</description>
     </item>
-    
     <item>
       <title>QuARI</title>
       <link>https://open-archaeo.info/post/quari/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/quari/</guid>
       <description>A database interface designed to facilitate the irregular, iterative, and non-linear workflows that are commonly employed in lithic analysis.</description>
     </item>
-    
     <item>
       <title>RACORD</title>
       <link>https://open-archaeo.info/post/racord/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/racord/</guid>
       <description>Computer-Assisted Shape Classification of Archaeological Pottery Fragments.</description>
     </item>
-    
     <item>
       <title>radiocarbon-scrapers</title>
       <link>https://open-archaeo.info/post/radiocarbon-scrapers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/radiocarbon-scrapers/</guid>
       <description>Scrapers for public radiocarbon databases</description>
     </item>
-    
     <item>
       <title>rti</title>
       <link>https://open-archaeo.info/post/rti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/rti/</guid>
       <description>Series of common tols used by most Reflectance Transformation Imaging (RTI) projects, plus some custom programs to help with the workflow from the camera to the output.</description>
     </item>
-    
     <item>
       <title>sdr33_triangulation</title>
       <link>https://open-archaeo.info/post/sdr33-triangulation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/sdr33-triangulation/</guid>
       <description>Reads an SDR33 data logger file and using the angular observations recorded therein to triangulate the position of points of interest.</description>
     </item>
-    
     <item>
       <title>sdsbrowser</title>
       <link>https://open-archaeo.info/post/sdsbrowser/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/sdsbrowser/</guid>
       <description>sdsbrowser is an R Shiny WebApp developed to make the available SDS datasets (following the Systematic and Digital Documentation of Stone Artefacts recording system) more accessible. It is designed to give you a quick overview on the spatial and temporal scope of sites previously analysed with SDS and the distribution of artefacts within these sites.</description>
     </item>
-    
     <item>
       <title>Sériation de matrice en présence/absence</title>
-      <link>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</link>
+      <link>https://open-archaeo.info/post/s%C3%A9riation-de-matrice-en-pr%C3%A9sence-absence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-archaeo.info/post/se%CC%81riation-de-matrice-en-pre%CC%81sence-absence/</guid>
+      <guid>https://open-archaeo.info/post/s%C3%A9riation-de-matrice-en-pr%C3%A9sence-absence/</guid>
       <description>Excel file containing macro commands making it possible to transform a 1/0 table (presence / absence) into a graphic matrix treated by matrix permutations; it is possible to take into account the uncertain presence of a character. The instructions for use are contained in the file.</description>
     </item>
-    
     <item>
       <title>Sex.DetERRmine</title>
       <link>https://open-archaeo.info/post/sex-deterrmine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/sex-deterrmine/</guid>
       <description>Calculate the relative coverage of X and Y chromosomes, and their associated error bars, from the depth of coverage at specified SNPs.</description>
     </item>
-    
     <item>
       <title>shiny_Tldating</title>
       <link>https://open-archaeo.info/post/shiny-tldating/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/shiny-tldating/</guid>
       <description>Shiny app for TL dating</description>
     </item>
-    
     <item>
       <title>skeletal-sex-estimation</title>
       <link>https://open-archaeo.info/post/skeletal-sex-estimation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/skeletal-sex-estimation/</guid>
       <description>A GNU Octave function for skeletal sex estimation.</description>
     </item>
-    
     <item>
       <title>skullanalyzer</title>
       <link>https://open-archaeo.info/post/skullanalyzer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/skullanalyzer/</guid>
       <description>A concrete way of extracting cranial mophometric features.</description>
     </item>
-    
     <item>
       <title>synthkat</title>
       <link>https://open-archaeo.info/post/synthkat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/synthkat/</guid>
       <description>Synthetic Categories for Archaeological Vessel Comparison.</description>
     </item>
-    
     <item>
       <title>timeperiod2daterange</title>
       <link>https://open-archaeo.info/post/timeperiod2daterange/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/timeperiod2daterange/</guid>
       <description>Converts time period entities to standardised date ranges.</description>
     </item>
-    
     <item>
       <title>tosca</title>
       <link>https://open-archaeo.info/post/tosca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/tosca/</guid>
       <description>Tool for Online Seriation and Correspondence Analysis.</description>
     </item>
-    
     <item>
       <title>tRauma</title>
       <link>https://open-archaeo.info/post/trauma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/trauma/</guid>
       <description>Interactive graphical user interface to aid in the interpretation of blunt-force rib trauma in forensic anthropology casework.</description>
     </item>
-    
     <item>
       <title>UnconstrainedClustering</title>
       <link>https://open-archaeo.info/post/unconstrainedclustering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/unconstrainedclustering/</guid>
       <description>Unconstrained Clustering.</description>
     </item>
-    
   </channel>
 </rss>

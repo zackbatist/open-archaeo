@@ -47,6 +47,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **3d_spatial_ripley_analyses**: Test spatial associations of objects in three dimensions by using the Ripley's K function.
+  * by: marchaeologist
+  * links: [GitHub](https://github.com/marchaeologist/3d_spatial_ripley_analyses)
+  * tags: [Site mapping] and [Spatial analysis]
+  
+----
+
 * **A Mobile Data-Collection Workflow for Archaeologists**: A list of tools and resource for data collection and processing in the field.
   * by: isaacullah
   * links: [Blog Post](http://isaacullah.github.io/A-mobile-field-data-collection-workflow/)
@@ -1335,6 +1342,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **R for data analysis and visualization of Archaological Data**: Data Analysis and Visualization in R for Archaologists, modified from the Data Carpentry R Workshop for Ecologists.
+  * by: carpentries-incubator, Alison Clarke, François Michonneau and Auriel Fournier
+  * links: [GitHub](https://github.com/carpentries-incubator/R-archaeology-lesson)           [Website](https://carpentries-incubator.github.io/R-archaeology-lesson/)
+  * tags: [Educational resources and practical guides]
+  
+----
+
 * **R-Scripts**: This contains a set of data about human mobility, subsistance, population, and environmental productivity derived from the Standard Cross Cultural Sample
   * by: isaacullah
   * links: [GitHub](https://github.com/isaacullah/R-Scripts)
@@ -1444,6 +1458,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: Lise Bellanger, Philippe Husi, Arthur Coulon, Bruno Desachy and Benjamin Martineau
   * links: [CRAN](https://cran.r-project.org/package=SPARTAAS)
   * tags: [Statistical analysis]
+  
+----
+
+* **Scroll Viewer**: Viewer for the Herculaneum Papyri segments.
+  * by: atiro
+  * links: [GitHub](https://github.com/atiro/scroll-viewer)
+  * tags: [Literary analysis and epigraphy] and [3D modelling]
   
 ----
 
@@ -1869,7 +1890,7 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
 
 * **archeoViz**: A packaged R 'Shiny' application for the visualisation, interactive exploration, and web communication of archaeological spatial data.
   * by: sebastien-plutniak
-  * links: [CRAN](https://cran.r-project.org/web/packages/archeoViz/index.html)   [Website](https://github.com/sebastien-plutniak/archeoviz) [DOI](https://doi.org/10.5281/zenodo.7460193)
+  * links: [GitHub](https://github.com/sebastien-plutniak/archeoviz)        [CRAN](https://cran.r-project.org/web/packages/archeoViz/index.html)   [Website](https://analytics.huma-num.fr/archeoviz/home/) [DOI](https://doi.org/10.5281/zenodo.7460193)
   * tags: [Diagrams and visualizations], [Spatial analysis] and [Site mapping]
   
 ----
@@ -2392,6 +2413,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **fabryka**: Shiny app fabric analysis.
+  * by: marchaeologist
+  * links: [GitHub](https://github.com/marchaeologist/fabryka)
+  * tags: [Site mapping] and [Spatial analysis]
+  
+----
+
 * **fastmaRching**: An R implementation of the Fast Marching Method (FMM), first developed by Sethian (1996), with the modifications of Silva and Steele (2012, 2014). Also included is a spatial wrapper function that makes it easier to model dispersal scenarios in geospatial domains, as originally envisaged for the study and simulation of prehistoric dispersals
   * by: f-silva-archaeo
   * links: [GitHub](https://github.com/f-silva-archaeo/fastmaRching)        [CRAN](https://CRAN.R-project.org/package=fastmaRching)    [DOI](https://doi.org/10.5281/zenodo.1204397)
@@ -2840,6 +2868,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **mobest**: provides types and functions for spatiotemporal interpolation of human genetic ancestry components, probabilistic similarity search and the calculation of a derived measure for mobility estimation.
+  * by: nevrome
+  * links: [GitHub](https://github.com/nevrome/mobest)           [Website](https://nevrome.de/mobest/html/master/)
+  * tags: 
+  
+----
+
 * **morphotype**: Provide a pipeline from shape data extraction to typological arrangement of pottery profiles.
   * by: kafetzakid
   * links: [GitHub](https://github.com/kafetzakid/morphotype)            [DOI](https://doi.org/10.5281/zenodo.8224882)
@@ -3089,6 +3124,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: paleolimbot
   * links: [GitHub](https://github.com/paleolimbot/paleoxrf)
   * tags: [X-Ray Fluorescence]
+  
+----
+
+* **pastclim**: Methods to easily extract and manipulate palaeoclimate reconstructions for ecological and anthropological analyses.
+  * by: EvolEcolGroup, Michela Leonardi, Emily Y. Hallet, Robert Beyer and Mario Krapp
+  * links: [GitHub](https://github.com/EvolEcolGroup/pastclim/)        [CRAN](https://cran.r-project.org/web/packages/pastclim/index.html)   [Website](https://evolecolgroup.github.io/pastclim/)
+  * tags: [Simulation] and [Palaeoclimate modelling]
   
 ----
 
@@ -3880,6 +3922,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: vegandevs
   * links: [GitHub](https://github.com/vegandevs/vegan3d)
   * tags: [Palaeobotany]
+  
+----
+
+* **vici.org**: A community driven archaeological map of classical antiquity, inspired by and modelled after Wikipedia.
+  * by: renevoorburg
+  * links: [GitHub](https://github.com/renevoorburg/vici.org)           [Website](https://vici.org)
+  * tags: [Public archaeology], [Spatial analysis] and [Datasets]
   
 ----
 

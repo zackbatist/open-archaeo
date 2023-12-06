@@ -5,33 +5,28 @@
     <link>https://open-archaeo.info/tags/instrumental-neutron-activation-analysis/</link>
     <description>Recent content in Instrumental Neutron activation analysis on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/tags/instrumental-neutron-activation-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/tags/instrumental-neutron-activation-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NAA analytical dashboard</title>
       <link>https://open-archaeo.info/post/naa-analytical-dashboard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/naa-analytical-dashboard/</guid>
       <description>Analytical Dashboard for conducting various analysis to group and assess groupings for Neutron Activation Analytical chemical compositional data</description>
     </item>
-    
     <item>
       <title>nexus</title>
       <link>https://open-archaeo.info/post/nexus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/nexus/</guid>
       <description>Sourcing Archaeological Materials by Chemical Composition.</description>
     </item>
-    
     <item>
       <title>web_geochemistry</title>
       <link>https://open-archaeo.info/post/web-geochemistry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/web-geochemistry/</guid>
       <description>Visualizing XRF and NAA geochemistry concentrations.</description>
     </item>
-    
   </channel>
 </rss>

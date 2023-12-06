@@ -5,33 +5,28 @@
     <link>https://open-archaeo.info/tags/photography/</link>
     <description>Recent content in Photography on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/tags/photography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>expotime</title>
       <link>https://open-archaeo.info/post/expotime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/expotime/</guid>
       <description>What is the correlation between the exposure time of your photographs and the time of the day?</description>
     </item>
-    
     <item>
       <title>Image enhancement process tool</title>
       <link>https://open-archaeo.info/post/image-enhancement-process-tool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/image-enhancement-process-tool/</guid>
       <description>This software implements five state of the art algorithms aimed to enhance the quality of underwater images.</description>
     </item>
-    
     <item>
       <title>signboardr</title>
       <link>https://open-archaeo.info/post/signboardr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/signboardr/</guid>
       <description>Extract text from archaeological photos containing a sign board and tag as metadata.</description>
     </item>
-    
   </channel>
 </rss>

@@ -5,42 +5,35 @@
     <link>https://open-archaeo.info/tags/metagenomic-classifers/</link>
     <description>Recent content in Metagenomic classifers on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/tags/metagenomic-classifers/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/tags/metagenomic-classifers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HOPS</title>
       <link>https://open-archaeo.info/post/hops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/hops/</guid>
       <description>A pipeline which focuses on screening MALT data for the presence of a user-specified list of target species.</description>
     </item>
-    
     <item>
       <title>MALT</title>
       <link>https://open-archaeo.info/post/malt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/malt/</guid>
       <description>A sequence alignment and analysis tool designedfor processing high-throughput sequencing data, especially in the context of metagenomics.</description>
     </item>
-    
     <item>
       <title>metabit</title>
       <link>https://open-archaeo.info/post/metabit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/metabit/</guid>
       <description>An integrative and automated metagenomic pipeline for analysing microbial profiles from high-throughput sequencing shotgun data.</description>
     </item>
-    
     <item>
       <title>SPARSE</title>
       <link>https://open-archaeo.info/post/sparse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/sparse/</guid>
       <description>Indexes &amp;gt;100,000 reference genomes in public databases in to hierarchical clusters and uses it to predict origins of metagenomic reads.</description>
     </item>
-    
   </channel>
 </rss>

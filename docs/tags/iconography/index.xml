@@ -5,42 +5,35 @@
     <link>https://open-archaeo.info/tags/iconography/</link>
     <description>Recent content in Iconography on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/tags/iconography/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/tags/iconography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>iconr</title>
       <link>https://open-archaeo.info/post/iconr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/iconr/</guid>
       <description>Set of formal methods for studying archaeological iconographic datasets (rock-art, pottery decoration, stelae, etc.) using network and spatial analysis.</description>
     </item>
-    
     <item>
       <title>rock-art-radnet</title>
       <link>https://open-archaeo.info/post/rock-art-radnet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/rock-art-radnet/</guid>
       <description>Rock art object detection model.</description>
     </item>
-    
     <item>
       <title>rock-art-ratopoviz</title>
       <link>https://open-archaeo.info/post/rock-art-ratopoviz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/rock-art-ratopoviz/</guid>
       <description>Create visualizations from laserscans.</description>
     </item>
-    
     <item>
       <title>rock-art-transfer-learning</title>
       <link>https://open-archaeo.info/post/rock-art-transfer-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/rock-art-transfer-learning/</guid>
       <description>Reconstructing rock art chronology with transfer learning</description>
     </item>
-    
   </channel>
 </rss>

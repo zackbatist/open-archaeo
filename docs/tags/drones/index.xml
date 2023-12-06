@@ -5,24 +5,21 @@
     <link>https://open-archaeo.info/tags/drones/</link>
     <description>Recent content in Drones on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/tags/drones/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/tags/drones/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DroneSurveyPlanner</title>
       <link>https://open-archaeo.info/post/dronesurveyplanner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/dronesurveyplanner/</guid>
       <description>This is a LibreOffice Calc spreadsheet designed to help you plan an aerial drone mapping survey mission.</description>
     </item>
-    
     <item>
       <title>Mask_UAV</title>
       <link>https://open-archaeo.info/post/mask-uav/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/mask-uav/</guid>
       <description>Software to annotate, train, using deep learning, and segment imagery data from UAVs or other platforms.</description>
     </item>
-    
   </channel>
 </rss>

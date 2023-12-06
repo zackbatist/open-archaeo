@@ -5,123 +5,105 @@
     <link>https://open-archaeo.info/tags/public-archaeology/</link>
     <description>Recent content in Public archaeology on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/tags/public-archaeology/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/tags/public-archaeology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A bibliography of public archaeology and archaeological heritage management in the Mediterranean</title>
       <link>https://open-archaeo.info/post/a-bibliography-of-public-archaeology-and-archaeological-heritage-management-in-the-mediterranean/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/a-bibliography-of-public-archaeology-and-archaeological-heritage-management-in-the-mediterranean/</guid>
       <description>A collection of references about public archaeology and archaeological heritage management in/from the Mediterranean.</description>
     </item>
-    
     <item>
       <title>archaeology_on_wikipedia.R</title>
       <link>https://open-archaeo.info/post/archaeology-on-wikipedia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/archaeology-on-wikipedia/</guid>
       <description>How does wikipedia see archaeology?</description>
     </item>
-    
     <item>
       <title>archstopmo</title>
       <link>https://open-archaeo.info/post/archstopmo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/archstopmo/</guid>
       <description>An Archaeology Stop Motion Movie Festival!</description>
     </item>
-    
     <item>
       <title>Day of Archaeology Archive</title>
       <link>https://open-archaeo.info/post/day-of-archaeology-archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/day-of-archaeology-archive/</guid>
       <description>Archive of content shared during the annual Day of Archaeology from 2011-2017.</description>
     </item>
-    
     <item>
       <title>dayofarchaeology</title>
       <link>https://open-archaeo.info/post/dayofarchaeology-benmarwick/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/dayofarchaeology-benmarwick/</guid>
       <description>A Distant Reading of the Day of Archaeology</description>
     </item>
-    
     <item>
       <title>dayofarchaeology</title>
       <link>https://open-archaeo.info/post/dayofarchaeology-drmattlaw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/dayofarchaeology-drmattlaw/</guid>
       <description>export of posts from dayofarchaeology.com</description>
     </item>
-    
     <item>
       <title>hsv-api</title>
       <link>https://open-archaeo.info/post/hsv-api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/hsv-api/</guid>
       <description>Historical Street View API</description>
     </item>
-    
     <item>
       <title>Mastodon-Archaeology</title>
       <link>https://open-archaeo.info/post/mastodon-archaeology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/mastodon-archaeology/</guid>
       <description>Simple web app that helps to bulk follow archaeologists on the FOSS microblogging service Mastodon.</description>
     </item>
-    
     <item>
       <title>OHM Data Index</title>
       <link>https://open-archaeo.info/post/ohm-data-index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/ohm-data-index/</guid>
       <description>The data index considers a collection of research areas that broadly stroke an idea of the level of completeness in the knowledge of a given period and timeframe.</description>
     </item>
-    
     <item>
       <title>Open History Map</title>
       <link>https://open-archaeo.info/post/open-history-map/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/open-history-map/</guid>
       <description>A web-GIS platform containing spatial historical and archaeological data.</description>
     </item>
-    
     <item>
       <title>sipontomedievale</title>
       <link>https://open-archaeo.info/post/sipontomedievale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/sipontomedievale/</guid>
       <description>This repo contains the code for an interactive website created to illustrate historical background, findings and data of the Siponto excavation site (Manfredonia, Italy)</description>
     </item>
-    
     <item>
       <title>StoneAdvisor</title>
       <link>https://open-archaeo.info/post/stoneadvisor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/stoneadvisor/</guid>
       <description>Explore and share your favourite archaeological sites and itineraries.</description>
     </item>
-    
     <item>
       <title>tweet-edits-to-archaeology-articles.R</title>
       <link>https://open-archaeo.info/post/tweet-edits-to-archaeology-articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/tweet-edits-to-archaeology-articles/</guid>
       <description>Using R with wikipedia for various things</description>
     </item>
-    
+    <item>
+      <title>vici.org</title>
+      <link>https://open-archaeo.info/post/vici-org/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-archaeo.info/post/vici-org/</guid>
+      <description>A community driven archaeological map of classical antiquity, inspired by and modelled after Wikipedia.</description>
+    </item>
   </channel>
 </rss>

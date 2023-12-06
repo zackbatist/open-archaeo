@@ -59,6 +59,7 @@ Statistical analysis|Identification and analysis of quantitative distribution pa
 |Network analysis|Process of investigating social structures through the use of networks and graph theory.|
 |Geoarchaeology|Application of geology and earth science methods.|
 |Machine learning||
+|Palaeoclimate modelling||
 |Pipelines||
 |Damage profilers||
 |Metagenomic classifers||

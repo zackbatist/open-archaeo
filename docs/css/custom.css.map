@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "custom.css",
-	"sourceRoot": "/Users/zackbatist/Dropbox/open-archaeo",
+	"sourceRoot": "/Users/zackbatist/Library/CloudStorage/Dropbox/open-archaeo",
 	"sources": [
 		"assets/css/custom.css"
 	],

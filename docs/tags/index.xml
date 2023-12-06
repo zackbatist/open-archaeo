@@ -5,627 +5,497 @@
     <link>https://open-archaeo.info/tags/</link>
     <description>Recent content in Tags on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D modelling</title>
       <link>https://open-archaeo.info/tags/3d-modelling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/3d-modelling/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>aDNA aligner</title>
       <link>https://open-archaeo.info/tags/adna-aligner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/adna-aligner/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>aDNA assembler</title>
       <link>https://open-archaeo.info/tags/adna-assembler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/adna-assembler/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>aDNA damage-aware genotypers</title>
       <link>https://open-archaeo.info/tags/adna-damage-aware-genotypers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/adna-damage-aware-genotypers/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>aDNA kinship</title>
       <link>https://open-archaeo.info/tags/adna-kinship/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/adna-kinship/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>aDNA preprocessing</title>
       <link>https://open-archaeo.info/tags/adna-preprocessing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/adna-preprocessing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>aDNA simulators</title>
       <link>https://open-archaeo.info/tags/adna-simulators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/adna-simulators/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>aDNA toolkit</title>
       <link>https://open-archaeo.info/tags/adna-toolkit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/adna-toolkit/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Aerial and satellite imagery</title>
       <link>https://open-archaeo.info/tags/aerial-and-satellite-imagery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/aerial-and-satellite-imagery/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>API interfaces and web scrapers</title>
       <link>https://open-archaeo.info/tags/api-interfaces-and-web-scrapers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/api-interfaces-and-web-scrapers/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Archaeoastronomy</title>
       <link>https://open-archaeo.info/tags/archaeoastronomy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/archaeoastronomy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Archaeogenetics</title>
       <link>https://open-archaeo.info/tags/archaeogenetics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/archaeogenetics/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Artefact morphology</title>
       <link>https://open-archaeo.info/tags/artefact-morphology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/artefact-morphology/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Augmented reality</title>
       <link>https://open-archaeo.info/tags/augmented-reality/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/augmented-reality/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Bibliography</title>
       <link>https://open-archaeo.info/tags/bibliography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/bibliography/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Biological anthropology</title>
       <link>https://open-archaeo.info/tags/biological-anthropology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/biological-anthropology/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Bits and bobs</title>
       <link>https://open-archaeo.info/tags/bits-and-bobs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/bits-and-bobs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Chronological modelling</title>
       <link>https://open-archaeo.info/tags/chronological-modelling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/chronological-modelling/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cultural evolution</title>
       <link>https://open-archaeo.info/tags/cultural-evolution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/cultural-evolution/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Damage profilers</title>
       <link>https://open-archaeo.info/tags/damage-profilers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/damage-profilers/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Data collection</title>
       <link>https://open-archaeo.info/tags/data-collection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/data-collection/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Data management</title>
       <link>https://open-archaeo.info/tags/data-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/data-management/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Datasets</title>
       <link>https://open-archaeo.info/tags/datasets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/datasets/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Dendrochronology</title>
       <link>https://open-archaeo.info/tags/dendrochronology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/dendrochronology/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Diagrams and visualizations</title>
       <link>https://open-archaeo.info/tags/diagrams-and-visualizations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/diagrams-and-visualizations/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Drivers and IO</title>
       <link>https://open-archaeo.info/tags/drivers-and-io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/drivers-and-io/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Drones</title>
       <link>https://open-archaeo.info/tags/drones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/drones/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Educational resources and practical guides</title>
       <link>https://open-archaeo.info/tags/educational-resources-and-practical-guides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/educational-resources-and-practical-guides/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ethics and professional development</title>
       <link>https://open-archaeo.info/tags/ethics-and-professional-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/ethics-and-professional-development/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Games</title>
       <link>https://open-archaeo.info/tags/games/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/games/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Geoarchaeology</title>
       <link>https://open-archaeo.info/tags/geoarchaeology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/geoarchaeology/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Geophysical survey</title>
       <link>https://open-archaeo.info/tags/geophysical-survey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/geophysical-survey/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Harris matrix</title>
       <link>https://open-archaeo.info/tags/harris-matrix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/harris-matrix/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Iconography</title>
       <link>https://open-archaeo.info/tags/iconography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/iconography/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Instrumental Neutron activation analysis</title>
       <link>https://open-archaeo.info/tags/instrumental-neutron-activation-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/instrumental-neutron-activation-analysis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>LiDAR</title>
       <link>https://open-archaeo.info/tags/lidar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/lidar/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Lists</title>
       <link>https://open-archaeo.info/tags/lists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/lists/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Literary analysis and epigraphy</title>
       <link>https://open-archaeo.info/tags/literary-analysis-and-epigraphy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/literary-analysis-and-epigraphy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Lithic analysis</title>
       <link>https://open-archaeo.info/tags/lithic-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/lithic-analysis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Low-coverage adapted population-genetics tools</title>
       <link>https://open-archaeo.info/tags/low-coverage-adapted-population-genetics-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/low-coverage-adapted-population-genetics-tools/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Low-coverage contamination estimation</title>
       <link>https://open-archaeo.info/tags/low-coverage-contamination-estimation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/low-coverage-contamination-estimation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Luminescence dating</title>
       <link>https://open-archaeo.info/tags/luminescence-dating/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/luminescence-dating/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Machine Learning</title>
       <link>https://open-archaeo.info/tags/machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/machine-learning/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Metagenomic classifers</title>
       <link>https://open-archaeo.info/tags/metagenomic-classifers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/metagenomic-classifers/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Museums</title>
       <link>https://open-archaeo.info/tags/museums/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/museums/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Network analysis</title>
       <link>https://open-archaeo.info/tags/network-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/network-analysis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Palaeobotany</title>
       <link>https://open-archaeo.info/tags/palaeobotany/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/palaeobotany/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Palaeoclimate modelling</title>
+      <link>https://open-archaeo.info/tags/palaeoclimate-modelling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-archaeo.info/tags/palaeoclimate-modelling/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Palaeoenvironment and palaeobotany</title>
       <link>https://open-archaeo.info/tags/palaeoenvironment-and-palaeobotany/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/palaeoenvironment-and-palaeobotany/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Photogrammetry</title>
       <link>https://open-archaeo.info/tags/photogrammetry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/photogrammetry/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Photography</title>
       <link>https://open-archaeo.info/tags/photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/photography/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Pipelines</title>
       <link>https://open-archaeo.info/tags/pipelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/pipelines/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Platforms and publications</title>
       <link>https://open-archaeo.info/tags/platforms-and-publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/platforms-and-publications/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Public archaeology</title>
       <link>https://open-archaeo.info/tags/public-archaeology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/public-archaeology/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Public policy and civic action</title>
       <link>https://open-archaeo.info/tags/public-policy-and-civic-action/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/public-policy-and-civic-action/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Radiocarbon dating, calibration and sequencing</title>
       <link>https://open-archaeo.info/tags/radiocarbon-dating-calibration-and-sequencing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/radiocarbon-dating-calibration-and-sequencing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Schemas and ontologies</title>
       <link>https://open-archaeo.info/tags/schemas-and-ontologies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/schemas-and-ontologies/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Seriation</title>
       <link>https://open-archaeo.info/tags/seriation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/seriation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Shape recognition</title>
       <link>https://open-archaeo.info/tags/shape-recognition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/shape-recognition/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Simulation</title>
       <link>https://open-archaeo.info/tags/simulation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/simulation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Site mapping</title>
       <link>https://open-archaeo.info/tags/site-mapping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/site-mapping/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Spatial analysis</title>
       <link>https://open-archaeo.info/tags/spatial-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/spatial-analysis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Stable isotope analysis</title>
       <link>https://open-archaeo.info/tags/stable-isotope-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/stable-isotope-analysis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Statistical analysis</title>
       <link>https://open-archaeo.info/tags/statistical-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/statistical-analysis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Templates</title>
       <link>https://open-archaeo.info/tags/templates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/templates/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Underwater archaeology</title>
       <link>https://open-archaeo.info/tags/underwater-archaeology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/underwater-archaeology/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Viewshed analysis</title>
       <link>https://open-archaeo.info/tags/viewshed-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/viewshed-analysis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Writing</title>
       <link>https://open-archaeo.info/tags/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/writing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>X-Ray Fluorescence</title>
       <link>https://open-archaeo.info/tags/x-ray-fluorescence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/x-ray-fluorescence/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Zooarchaeology</title>
       <link>https://open-archaeo.info/tags/zooarchaeology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/tags/zooarchaeology/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

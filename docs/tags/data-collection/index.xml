@@ -5,78 +5,63 @@
     <link>https://open-archaeo.info/tags/data-collection/</link>
     <description>Recent content in Data collection on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/tags/data-collection/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/tags/data-collection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>archeoViz Portal</title>
       <link>https://open-archaeo.info/post/archeoviz-portal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/archeoviz-portal/</guid>
       <description>An R Shiny application to gather and map datasets visualised using the archeoViz application</description>
     </item>
-    
     <item>
       <title>EDM</title>
       <link>https://open-archaeo.info/post/edm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/edm/</guid>
       <description>Configurable data collection program for archaeological survey and excavation.</description>
     </item>
-    
     <item>
       <title>EDMWIN</title>
       <link>https://open-archaeo.info/post/edmwin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/edmwin/</guid>
       <description>Configurable data collection program for archaeological survey and excavation.</description>
     </item>
-    
     <item>
       <title>input</title>
       <link>https://open-archaeo.info/post/input/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/input/</guid>
       <description>Makes surveying geospatial data easy by designing your survey project in QGIS with custom forms.</description>
     </item>
-    
     <item>
       <title>ODK-forms-archaeology</title>
       <link>https://open-archaeo.info/post/odk-forms-archaeology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/odk-forms-archaeology/</guid>
       <description>Forms for the Open Data Kit mobile data collection app.</description>
     </item>
-    
     <item>
       <title>QuARI</title>
       <link>https://open-archaeo.info/post/quari/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/quari/</guid>
       <description>A database interface designed to facilitate the irregular, iterative, and non-linear workflows that are commonly employed in lithic analysis.</description>
     </item>
-    
     <item>
       <title>shootpoints-web-frontend</title>
       <link>https://open-archaeo.info/post/shootpoints-web-frontend/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/shootpoints-web-frontend/</guid>
       <description>User interface to the ShootPoints Web total station surveying program.</description>
     </item>
-    
     <item>
       <title>Tachy2GIS_arch</title>
       <link>https://open-archaeo.info/post/tachy2gis-arch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/tachy2gis-arch/</guid>
       <description>QGIS plugin for documentation of archaeological features using Tachy2GIS.</description>
     </item>
-    
   </channel>
 </rss>

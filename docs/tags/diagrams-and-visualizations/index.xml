@@ -5,150 +5,119 @@
     <link>https://open-archaeo.info/tags/diagrams-and-visualizations/</link>
     <description>Recent content in Diagrams and visualizations on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/tags/diagrams-and-visualizations/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/tags/diagrams-and-visualizations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analysing Stable Isotope Data</title>
       <link>https://open-archaeo.info/post/analysing-stable-isotope-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/analysing-stable-isotope-data/</guid>
       <description>Tutorial on how to visualise, analyse and interpret stable isotope data</description>
     </item>
-    
     <item>
       <title>archeoViz</title>
       <link>https://open-archaeo.info/post/archeoviz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/archeoviz/</guid>
       <description>A packaged R &amp;lsquo;Shiny&amp;rsquo; application for the visualisation, interactive exploration, and web communication of archaeological spatial data.</description>
     </item>
-    
     <item>
       <title>Ceramic-Frequency-Date-Plot</title>
       <link>https://open-archaeo.info/post/ceramic-frequency-date-plot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/ceramic-frequency-date-plot/</guid>
       <description>This R script produces a exploratory visual for assessing site date ranges originally suggested to me by Wesley Bernardini Redlands University</description>
     </item>
-    
     <item>
       <title>Ford-Diagram</title>
       <link>https://open-archaeo.info/post/ford-diagram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/ford-diagram/</guid>
       <description>This R Function creates a simple Ford diagram for archaeological seriation with error bars determined based on sample size were count data are given</description>
     </item>
-    
     <item>
       <title>geoCore</title>
       <link>https://open-archaeo.info/post/geocore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/geocore/</guid>
       <description>Constructs a graphical representation of petrographic drilling profiles.</description>
     </item>
-    
     <item>
       <title>GlobaLID-App</title>
       <link>https://open-archaeo.info/post/globalid-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/globalid-app/</guid>
       <description>The GlobaLID web app</description>
     </item>
-    
     <item>
       <title>IsoDataVis</title>
       <link>https://open-archaeo.info/post/isodatavis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/isodatavis/</guid>
       <description>Data visualization guidelines for stable isotopes graphs, with examples</description>
     </item>
-    
     <item>
       <title>IsoMapNL</title>
       <link>https://open-archaeo.info/post/isomapnl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/isomapnl/</guid>
       <description>Data and script to generate a map of the Netherlands for isotopic analyses</description>
     </item>
-    
     <item>
       <title>isopleuros</title>
       <link>https://open-archaeo.info/post/isopleuros/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/isopleuros/</guid>
       <description>Ternary plots made simple.</description>
     </item>
-    
     <item>
       <title>Isotope-Visualisation</title>
       <link>https://open-archaeo.info/post/isotope-visualisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/isotope-visualisation/</guid>
       <description>Resources relevant to visualisation of isotopic results</description>
     </item>
-    
     <item>
       <title>khroma</title>
       <link>https://open-archaeo.info/post/khroma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/khroma/</guid>
       <description>Colour Schemes for Archaeological Data Visualization</description>
     </item>
-    
     <item>
       <title>MapofComputationalArchaeology</title>
       <link>https://open-archaeo.info/post/mapofcomputationalarchaeology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/mapofcomputationalarchaeology/</guid>
       <description>Visualizes digital archaeology as a fantasy landscape.</description>
     </item>
-    
     <item>
       <title>munsell</title>
       <link>https://open-archaeo.info/post/munsell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/munsell/</guid>
       <description>Provides easy access to, and manipulation of, the Munsell colours</description>
     </item>
-    
     <item>
       <title>munsell-plot.R</title>
       <link>https://open-archaeo.info/post/munsell-plot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/munsell-plot/</guid>
       <description>Make a stratigraphic-style plot-schematic of sediment colour using munsell values</description>
     </item>
-    
     <item>
       <title>osteoGIS</title>
       <link>https://open-archaeo.info/post/osteogis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/osteogis/</guid>
       <description>Plot data on skeletal templates quickly</description>
     </item>
-    
     <item>
       <title>Plotting Dental Inventory with ggplot2</title>
       <link>https://open-archaeo.info/post/plotting-dental-inventory-with-ggplot2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/plotting-dental-inventory-with-ggplot2/</guid>
       <description>tutorial on an intuitive way to visualise a dental inventory in a sample</description>
     </item>
-    
   </channel>
 </rss>

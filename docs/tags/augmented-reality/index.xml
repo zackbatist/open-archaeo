@@ -5,33 +5,28 @@
     <link>https://open-archaeo.info/tags/augmented-reality/</link>
     <description>Recent content in Augmented reality on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/tags/augmented-reality/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/tags/augmented-reality/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ARchaeology</title>
       <link>https://open-archaeo.info/post/archaeology-lili0824/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/archaeology-lili0824/</guid>
       <description>View the AR models on your phone.</description>
     </item>
-    
     <item>
       <title>ARFloorPlanApp</title>
       <link>https://open-archaeo.info/post/arfloorplanapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/arfloorplanapp/</guid>
       <description>Floor plan app using augmented reality.</description>
     </item>
-    
     <item>
       <title>arshm-release</title>
       <link>https://open-archaeo.info/post/arshm-release/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/arshm-release/</guid>
       <description>Experimental mobile app demoing cultural heritage documentation tools in augmented reality. Supports capturing and annotating photos in 3D space. Proof-of-concept features in the app include image anchoring and surface drawing tools.</description>
     </item>
-    
   </channel>
 </rss>

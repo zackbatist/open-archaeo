@@ -5,69 +5,63 @@
     <link>https://open-archaeo.info/tags/literary-analysis-and-epigraphy/</link>
     <description>Recent content in Literary analysis and epigraphy on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/tags/literary-analysis-and-epigraphy/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/tags/literary-analysis-and-epigraphy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Akkademia</title>
       <link>https://open-archaeo.info/post/akkademia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/akkademia/</guid>
       <description>Translating Akkadian signs to transcriptions using NLP techniques such as HMM, MEMM and BiLSTM neural networks.</description>
     </item>
-    
     <item>
       <title>BAM</title>
       <link>https://open-archaeo.info/post/bam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/bam/</guid>
       <description>A tool for the geospatial analysis, literary network visualization, and plot mapping of ancient texts.</description>
     </item>
-    
     <item>
       <title>cltk</title>
       <link>https://open-archaeo.info/post/cltk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/cltk/</guid>
       <description>A Python library offering natural language processing (NLP) for pre-modern languages.</description>
     </item>
-    
     <item>
       <title>hammurabi-markov</title>
       <link>https://open-archaeo.info/post/hammurabi-markov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/hammurabi-markov/</guid>
       <description>Simple VueJS page generating fake laws of Hammurabi.</description>
     </item>
-    
     <item>
       <title>ithaca</title>
       <link>https://open-archaeo.info/post/ithaca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/ithaca/</guid>
       <description>Restoring and attributing ancient texts using deep neural networks.</description>
     </item>
-    
     <item>
       <title>pe-dictionary</title>
       <link>https://open-archaeo.info/post/pe-dictionary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/pe-dictionary/</guid>
       <description>Proto-Elamite sign list.</description>
     </item>
-    
     <item>
       <title>pta_data</title>
       <link>https://open-archaeo.info/post/pta-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/pta-data/</guid>
       <description>An open access digital archive of antique Christian texts.</description>
     </item>
-    
+    <item>
+      <title>Scroll Viewer</title>
+      <link>https://open-archaeo.info/post/scroll-viewer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-archaeo.info/post/scroll-viewer/</guid>
+      <description>Viewer for the Herculaneum Papyri segments.</description>
+    </item>
   </channel>
 </rss>

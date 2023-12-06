@@ -5,105 +5,84 @@
     <link>https://open-archaeo.info/tags/stable-isotope-analysis/</link>
     <description>Recent content in Stable isotope analysis on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/tags/stable-isotope-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/tags/stable-isotope-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analysing Stable Isotope Data</title>
       <link>https://open-archaeo.info/post/analysing-stable-isotope-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/analysing-stable-isotope-data/</guid>
       <description>Tutorial on how to visualise, analyse and interpret stable isotope data</description>
     </item>
-    
     <item>
       <title>GlobaLID-App</title>
       <link>https://open-archaeo.info/post/globalid-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/globalid-app/</guid>
       <description>The GlobaLID web app</description>
     </item>
-    
     <item>
       <title>GlobaLID-database</title>
       <link>https://open-archaeo.info/post/globalid-database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/globalid-database/</guid>
       <description>Facilitates the reconstruction of raw material provenances with lead isotopes.</description>
     </item>
-    
     <item>
       <title>IsoDataVis</title>
       <link>https://open-archaeo.info/post/isodatavis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/isodatavis/</guid>
       <description>Data visualization guidelines for stable isotopes graphs, with examples</description>
     </item>
-    
     <item>
       <title>IsoMapNL</title>
       <link>https://open-archaeo.info/post/isomapnl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/isomapnl/</guid>
       <description>Data and script to generate a map of the Netherlands for isotopic analyses</description>
     </item>
-    
     <item>
       <title>Isotope-Visualisation</title>
       <link>https://open-archaeo.info/post/isotope-visualisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/isotope-visualisation/</guid>
       <description>Resources relevant to visualisation of isotopic results</description>
     </item>
-    
     <item>
       <title>Plotting Dental Inventory with ggplot2</title>
       <link>https://open-archaeo.info/post/plotting-dental-inventory-with-ggplot2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/plotting-dental-inventory-with-ggplot2/</guid>
       <description>tutorial on an intuitive way to visualise a dental inventory in a sample</description>
     </item>
-    
     <item>
       <title>Plum</title>
       <link>https://open-archaeo.info/post/plum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/plum/</guid>
       <description>Uses a Bayesian approach to construct age-depth models for 210Pb data.</description>
     </item>
-    
     <item>
       <title>PyPlum</title>
       <link>https://open-archaeo.info/post/pyplum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/pyplum/</guid>
       <description>Creates age-depth models using 210Pb data and autoregressive gamma process.</description>
     </item>
-    
     <item>
       <title>SCEM</title>
       <link>https://open-archaeo.info/post/scem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/scem/</guid>
       <description>Performs the Splitting-Coalescence-Estimation Method to model birth seasonality in studies of herd animals.</description>
     </item>
-    
     <item>
       <title>UThwigl</title>
       <link>https://open-archaeo.info/post/uthwigl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/uthwigl/</guid>
       <description>Compute closed- and open-system uranium-thorium (U-Th) ages of geological and archaeological samples.</description>
     </item>
-    
   </channel>
 </rss>

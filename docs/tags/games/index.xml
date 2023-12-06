@@ -5,42 +5,35 @@
     <link>https://open-archaeo.info/tags/games/</link>
     <description>Recent content in Games on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/tags/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ArchaeologyAdventure</title>
       <link>https://open-archaeo.info/post/archaeologyadventure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/archaeologyadventure/</guid>
       <description>A simple adventure game in Unity2D. Revolves around being an archaeologist exploring some ruin and digging up treasure/fossils</description>
     </item>
-    
     <item>
       <title>cca</title>
       <link>https://open-archaeo.info/post/cca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/cca/</guid>
       <description>Colossal Cave Adventure digital palaeography and epigraphy project.</description>
     </item>
-    
     <item>
       <title>civ5-prehistoric</title>
       <link>https://open-archaeo.info/post/civ5-prehistoric/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/civ5-prehistoric/</guid>
       <description>Extends the game back millions years and multiple eras into the days when &amp;ldquo;man&amp;rdquo; first descended from the trees!</description>
     </item>
-    
     <item>
       <title>gods_on_the_barge</title>
       <link>https://open-archaeo.info/post/gods-on-the-barge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/gods-on-the-barge/</guid>
       <description>Inspired by the research project of historiography of ancient Graeco-Roman religions, the main goal is to spread a selected cult successfully across the ancient Mediterranean</description>
     </item>
-    
   </channel>
 </rss>

@@ -5,96 +5,77 @@
     <link>https://open-archaeo.info/tags/low-coverage-adapted-population-genetics-tools/</link>
     <description>Recent content in Low-coverage adapted population-genetics tools on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/tags/low-coverage-adapted-population-genetics-tools/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/tags/low-coverage-adapted-population-genetics-tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Consensify</title>
       <link>https://open-archaeo.info/post/consensify/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/consensify/</guid>
       <description>Consensify method for error reduction in ancient DNA pseudohaploidisation.</description>
     </item>
-    
     <item>
       <title>DamMet</title>
       <link>https://open-archaeo.info/post/dammet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/dammet/</guid>
       <description>A full probabilistic model for mapping ancient methylomes.</description>
     </item>
-    
     <item>
       <title>DATES</title>
       <link>https://open-archaeo.info/post/dates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/dates/</guid>
       <description>Method for dating admixture in ancient DNA specimens.</description>
     </item>
-    
     <item>
       <title>hapROH</title>
       <link>https://open-archaeo.info/post/haproh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/haproh/</guid>
       <description>Software to call ROH from ancient and present-day DNA using reference haplotypes.</description>
     </item>
-    
     <item>
       <title>maximum-likelihood-relatedness-estimation</title>
       <link>https://open-archaeo.info/post/maximum-likelihood-relatedness-estimation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/maximum-likelihood-relatedness-estimation/</guid>
       <description>Infer biological relatedness from low coverage 2nd generation sequencing data.</description>
     </item>
-    
     <item>
       <title>MultiVCFAnalyzer</title>
       <link>https://open-archaeo.info/post/multivcfanalyzer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/multivcfanalyzer/</guid>
       <description>A SNP filtering and SNP alignment generation tool, designed around (but not limited to) low coverage ancient DNA data.</description>
     </item>
-    
     <item>
       <title>pathPhynder</title>
       <link>https://open-archaeo.info/post/pathphynder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/pathphynder/</guid>
       <description>A workflow for integrating ancient lineages into present-day phylogenies.</description>
     </item>
-    
     <item>
       <title>PMDtools</title>
       <link>https://open-archaeo.info/post/pmdtools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/pmdtools/</guid>
       <description>Compute postmortem damage patterns and decontaminate ancient genomes.</description>
     </item>
-    
     <item>
       <title>READ</title>
       <link>https://open-archaeo.info/post/read/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/read/</guid>
       <description>A method to infer the degree of relationship (up to second degree, i.e. nephew/niece-uncle/aunt, grandparent-grandchild or half-siblings) for a pair of low-coverage individuals.</description>
     </item>
-    
     <item>
       <title>Sex.DetERRmine</title>
       <link>https://open-archaeo.info/post/sex-deterrmine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/sex-deterrmine/</guid>
       <description>Calculate the relative coverage of X and Y chromosomes, and their associated error bars, from the depth of coverage at specified SNPs.</description>
     </item>
-    
   </channel>
 </rss>

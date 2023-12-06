@@ -5,105 +5,84 @@
     <link>https://open-archaeo.info/tags/x-ray-fluorescence/</link>
     <description>Recent content in X-Ray Fluorescence on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/tags/x-ray-fluorescence/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/tags/x-ray-fluorescence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CloudCal</title>
       <link>https://open-archaeo.info/post/cloudcal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/cloudcal/</guid>
       <description>This app will allow you to build &amp;amp; apply calibrations for the Tracer &amp;amp; Artax series of XRF devices</description>
     </item>
-    
     <item>
       <title>ElementSourcing</title>
       <link>https://open-archaeo.info/post/elementsourcing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/elementsourcing/</guid>
       <description>Source archaeological artifacts using elemental composition.</description>
     </item>
-    
     <item>
       <title>elemSource</title>
       <link>https://open-archaeo.info/post/elemsource/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/elemsource/</guid>
       <description>R Package for sourcing elements.</description>
     </item>
-    
     <item>
       <title>nexus</title>
       <link>https://open-archaeo.info/post/nexus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/nexus/</guid>
       <description>Sourcing Archaeological Materials by Chemical Composition.</description>
     </item>
-    
     <item>
       <title>paleoxrf</title>
       <link>https://open-archaeo.info/post/paleoxrf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/paleoxrf/</guid>
       <description>The goal of paleoxrf is to simplify reading data from Acadia&amp;rsquo;s paleoenvironmental X-Ray Fluorescence laboratory</description>
     </item>
-    
     <item>
       <title>pXRF</title>
       <link>https://open-archaeo.info/post/pxrf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/pxrf/</guid>
       <description>R package for processing pXRF data.</description>
     </item>
-    
     <item>
       <title>PyXRF</title>
       <link>https://open-archaeo.info/post/pyxrf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/pyxrf/</guid>
       <description>PyXRF is a python-based sophisticated fluorescence analysis package for fitting and visualizing X-ray fluorescence data</description>
     </item>
-    
     <item>
       <title>scikit-beam</title>
       <link>https://open-archaeo.info/post/scikit-beam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/scikit-beam/</guid>
       <description>Data analysis tools for X-Ray, Neutron and Electron sciences</description>
     </item>
-    
     <item>
       <title>web_geochemistry</title>
       <link>https://open-archaeo.info/post/web-geochemistry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/web-geochemistry/</guid>
       <description>Visualizing XRF and NAA geochemistry concentrations.</description>
     </item>
-    
     <item>
       <title>xraylib</title>
       <link>https://open-archaeo.info/post/xraylib/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/xraylib/</guid>
       <description>xraylib is a library containing over 40 functions to be used to retrieve data from some of the most respected databases of physical data in the field of X-ray</description>
     </item>
-    
     <item>
       <title>xrf</title>
       <link>https://open-archaeo.info/post/xrf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/xrf/</guid>
       <description>The goal of xrf is to provide tools to read, plot, and interpret X-Ray fluorescence spectra</description>
     </item>
-    
   </channel>
 </rss>

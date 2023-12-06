@@ -5,267 +5,210 @@
     <link>https://open-archaeo.info/tags/shape-recognition/</link>
     <description>Recent content in Shape recognition on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/tags/shape-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/tags/shape-recognition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ancient-artifacts</title>
       <link>https://open-archaeo.info/post/ancient-artifacts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/ancient-artifacts/</guid>
       <description>Dynamic image analysis to identify ancient artifacts in soil samples.</description>
     </item>
-    
     <item>
       <title>ArchaeolPhytoliths</title>
       <link>https://open-archaeo.info/post/archaeolphytoliths/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/archaeolphytoliths/</guid>
       <description>Automated detection and classification of multi-cell phytoliths at genera and species-level using Deep Learning algorithm.</description>
     </item>
-    
     <item>
       <title>ArchAIDE</title>
       <link>https://open-archaeo.info/post/archaide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/archaide/</guid>
       <description>Tool for the automatic recognition of archaeological pottery.</description>
     </item>
-    
     <item>
       <title>Arothron</title>
       <link>https://open-archaeo.info/post/arothron/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/arothron/</guid>
       <description>Tools of Virtual Anthropology to build virtual cavities as endocasts, to align two disarticulated models belonging to the same specimen, and functions to import and export format files into another format.</description>
     </item>
-    
     <item>
       <title>artefact-morpho.R</title>
       <link>https://open-archaeo.info/post/artefact-morpho/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/artefact-morpho/</guid>
       <description>R code for converting B&amp;amp;W jpgs of artefact silhouettes to matrices and computing basic Elliptical Fourier statistics, including PCA and MANOVA.</description>
     </item>
-    
     <item>
       <title>CeraMatch</title>
       <link>https://open-archaeo.info/post/ceramatch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/ceramatch/</guid>
       <description>Visual shape-matching of ceramics profiles.</description>
     </item>
-    
     <item>
       <title>ceramic-computation</title>
       <link>https://open-archaeo.info/post/ceramic-computation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/ceramic-computation/</guid>
       <description>R scripts for digitizing, processing, analyzing, and comparing archaeological ceramic 2d profile drawings, photographs, and other data.</description>
     </item>
-    
     <item>
       <title>charcoalhearths</title>
       <link>https://open-archaeo.info/post/charcoalhearths/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/charcoalhearths/</guid>
       <description>Work with geotifs to detect charcoal hearths</description>
     </item>
-    
     <item>
       <title>CSGR</title>
       <link>https://open-archaeo.info/post/csgr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/csgr/</guid>
       <description>Extracts and calculates from long bone cross sections, cortical thickness maps, and biomechanically pertinent cross-sectional geometric properties.</description>
     </item>
-    
     <item>
       <title>CuneiPainter</title>
       <link>https://open-archaeo.info/post/cuneipainter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/cuneipainter/</guid>
       <description>An App to recognize cuneiform characters on your Android phone.</description>
     </item>
-    
     <item>
       <title>DACORD</title>
       <link>https://open-archaeo.info/post/dacord/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/dacord/</guid>
       <description>Computer-Assisted Drawing of Archaeological Pottery.</description>
     </item>
-    
     <item>
       <title>grainsizeR</title>
       <link>https://open-archaeo.info/post/grainsizer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/grainsizer/</guid>
       <description>This package contains all the tools necessary to extract grain sizes from images, digitally sieve grain size measurements, and gather descriptive statistics on sieved data.</description>
     </item>
-    
     <item>
       <title>Iraq_mortar</title>
       <link>https://open-archaeo.info/post/iraq-mortar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/iraq-mortar/</guid>
       <description>Enables the creation of a high quality 3D model of an archaeological artefact via process known as photo-masking.</description>
     </item>
-    
     <item>
       <title>ithaca</title>
       <link>https://open-archaeo.info/post/ithaca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/ithaca/</guid>
       <description>Restoring and attributing ancient texts using deep neural networks.</description>
     </item>
-    
     <item>
       <title>morphotype</title>
       <link>https://open-archaeo.info/post/morphotype/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/morphotype/</guid>
       <description>Provide a pipeline from shape data extraction to typological arrangement of pottery profiles.</description>
     </item>
-    
     <item>
       <title>morphotypeShiny</title>
       <link>https://open-archaeo.info/post/morphotypeshiny/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/morphotypeshiny/</guid>
       <description>Shiny implementation of morphotype.</description>
     </item>
-    
     <item>
       <title>murature</title>
       <link>https://open-archaeo.info/post/murature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/murature/</guid>
       <description>This Python library was written as an help for the study of stone walls, mainly through the quantitative analysis of spatial dimensions of stones.</description>
     </item>
-    
     <item>
       <title>postAAR</title>
       <link>https://open-archaeo.info/post/postaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/postaar/</guid>
       <description>An automated process to detect buildings within large sets of postholes in multi-occupational sites, similar to the obsolete Windows-software &amp;ldquo;posthole&amp;rdquo; by Irwin Scollar.</description>
     </item>
-    
     <item>
       <title>postAAR-python</title>
       <link>https://open-archaeo.info/post/postaar-python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/postaar-python/</guid>
       <description>Python implementation of postAAR.</description>
     </item>
-    
     <item>
       <title>RACORD</title>
       <link>https://open-archaeo.info/post/racord/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/racord/</guid>
       <description>Computer-Assisted Shape Classification of Archaeological Pottery Fragments.</description>
     </item>
-    
     <item>
       <title>rock-art-radnet</title>
       <link>https://open-archaeo.info/post/rock-art-radnet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/rock-art-radnet/</guid>
       <description>Rock art object detection model.</description>
     </item>
-    
     <item>
       <title>rock-art-ratopoviz</title>
       <link>https://open-archaeo.info/post/rock-art-ratopoviz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/rock-art-ratopoviz/</guid>
       <description>Create visualizations from laserscans.</description>
     </item>
-    
     <item>
       <title>rock-art-transfer-learning</title>
       <link>https://open-archaeo.info/post/rock-art-transfer-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/rock-art-transfer-learning/</guid>
       <description>Reconstructing rock art chronology with transfer learning</description>
     </item>
-    
     <item>
       <title>SediNet</title>
       <link>https://open-archaeo.info/post/sedinet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/sedinet/</guid>
       <description>Deep learning framework for optical granulometry (estimation of sedimentological variables from sediment imagery).</description>
     </item>
-    
     <item>
       <title>segmenteverygrain</title>
       <link>https://open-archaeo.info/post/segmenteverygrain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/segmenteverygrain/</guid>
       <description>A SAM-based model for instance segmentation of images of grains.</description>
     </item>
-    
     <item>
       <title>SexEst</title>
       <link>https://open-archaeo.info/post/sexest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/sexest/</guid>
       <description>Uses machine learning models to predict the Sex of unknown skeletons based on their cranial and postcranial measurements.</description>
     </item>
-    
     <item>
       <title>shapAAR</title>
       <link>https://open-archaeo.info/post/shapaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/shapaar/</guid>
       <description>This is an R package for the extraction, analysis and classification of (not only) archaeological objects derived from scanned images. Especially it aims at the analysis of the shapes/profiles of eg. ceramic vessels or arrow heads.</description>
     </item>
-    
     <item>
       <title>signboardr</title>
       <link>https://open-archaeo.info/post/signboardr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/signboardr/</guid>
       <description>Extract text from archaeological photos containing a sign board and tag as metadata.</description>
     </item>
-    
     <item>
       <title>synthkat</title>
       <link>https://open-archaeo.info/post/synthkat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/synthkat/</guid>
       <description>Synthetic Categories for Archaeological Vessel Comparison.</description>
     </item>
-    
   </channel>
 </rss>

@@ -5,15 +5,14 @@
     <link>https://open-archaeo.info/tags/adna-aligner/</link>
     <description>Recent content in aDNA aligner on open-archaeo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://open-archaeo.info/tags/adna-aligner/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://open-archaeo.info/tags/adna-aligner/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>anfo</title>
       <link>https://open-archaeo.info/post/anfo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://open-archaeo.info/post/anfo/</guid>
       <description>The ANFO ancient DNA mapper.</description>
     </item>
-    
   </channel>
 </rss>
