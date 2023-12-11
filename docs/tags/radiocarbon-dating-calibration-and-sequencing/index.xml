@@ -134,6 +134,13 @@
       <description>Uses Bayesian methods to enforce the chronological ordering of radiocarbon and other dates.</description>
     </item>
     <item>
+      <title>currycarbon</title>
+      <link>https://open-archaeo.info/post/currycarbon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-archaeo.info/post/currycarbon/</guid>
+      <description>App to run C14 calibration on the command line. Includes and is based on a calibration module written in and for Haskell.</description>
+    </item>
+    <item>
       <title>demjanp</title>
       <link>https://open-archaeo.info/post/demjanp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
