@@ -2266,6 +2266,13 @@
   
 ----
 
+* **currycarbon**: App to run C14 calibration on the command line. Includes and is based on a calibration module written in and for Haskell.
+  * by: nevrome
+  * links: [GitHub](https://github.com/nevrome/currycarbon)
+  * tags: [Radiocarbon dating, calibration and sequencing] and [Chronological modelling]
+  
+----
+
 * **datplot**: Converting date ranges into dating 'steps' eases the visualization of changes in e.g. pottery consumption, style and other variables over time. This package provides tools to process and prepare data for visualization.
   * by: lsteinmann and Barbora Weissova
   * links: [GitHub](https://github.com/lsteinmann/datplot)
@@ -2854,7 +2861,7 @@
   
 ----
 
-* **mobest**: provides types and functions for spatiotemporal interpolation of human genetic ancestry components, probabilistic similarity search and the calculation of a derived measure for mobility estimation.
+* **mobest**: An R package that provides types and functions for spatiotemporal interpolation of human genetic ancestry components, probabilistic similarity search and the calculation of a derived measure for mobility estimation.
   * by: nevrome
   * links: [GitHub](https://github.com/nevrome/mobest)           [Website](https://nevrome.de/mobest/html/master/)
   * tags: 
@@ -3213,7 +3220,7 @@
 
 * **poseidon-framework**: Poseidon is a framework that seeks to provide standardized ways to store and share archaeogenetic, and perhaps more broadly, molecular archaeological datasets.
   * by: poseidon-framework
-  * links: [GitHub](https://github.com/poseidon-framework/poseidon-hs)           [Website](https://poseidon-framework.github.io/)
+  * links: [GitHub](https://github.com/poseidon-framework/poseidon-hs)           [Website](https://www.poseidon-adna.org)
   * tags: [Schemas and ontologies]
   
 ----

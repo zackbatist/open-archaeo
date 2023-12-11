@@ -3,7 +3,7 @@
   "description": ["Poseidon is a framework that seeks to provide standardized ways to store and share archaeogenetic, and perhaps more broadly, molecular archaeological datasets."],
   "links": {
     "GitHub": "https://github.com/poseidon-framework/poseidon-hs",
-    "Website": "https://poseidon-framework.github.io/"
+    "Website": "https://www.poseidon-adna.org"
   },
   "authors": ["poseidon-framework"],
   "categories": ["Standalone software"],
