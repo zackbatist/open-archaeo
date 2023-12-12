@@ -1,5 +1,4 @@
 ## Basic Configuration
-publishDir = "docs"
 baseurl = "https://open-archaeo.info/"
 languageCode = "en"
 
