@@ -25,8 +25,8 @@ rm(list=ls())
 # 
 # # Delete package tarball
 # unlink(pkgFile)
+# library(internetarchive)
 
-library(internetarchive)
 library(reshape)
 library("dplyr", warn.conflicts = FALSE)
 
