@@ -43,6 +43,10 @@ Thumbs.db
 .RData
 .hugo_build.lock
 
+# Hugo content files (generated from CSV in make.R)
+/content/post/*
+!/content/post/.keep
+
 # Generated files by hugo
 /public/
 /resources/_gen/
