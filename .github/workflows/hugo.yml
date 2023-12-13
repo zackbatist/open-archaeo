@@ -1,5 +1,5 @@
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
-name: Deploy Hugo site to Pages
+name: Generate and deploy Hugo site to Pages
 
 on:
   # Runs on pushes targeting the default branch
@@ -34,17 +34,23 @@ jobs:
     env:
       HUGO_VERSION: 0.121.0
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+      - name: Set up renv
+        uses: r-lib/actions/setup-renv@v2
+      - name: Make Hugo source files
+        run: Rscript -e 'source("make.R")'
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
       - name: Install Dart Sass
         run: sudo snap install dart-sass
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          submodules: recursive
-          fetch-depth: 0
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
