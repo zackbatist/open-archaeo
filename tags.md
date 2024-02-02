@@ -60,17 +60,7 @@ Statistical analysis|Identification and analysis of quantitative distribution pa
 |Geoarchaeology|Application of geology and earth science methods.|
 |Machine learning||
 |Palaeoclimate modelling||
-|Pipelines||
-|Damage profilers||
-|Metagenomic classifers||
-|aDNA simulators||
-|aDNA damage-aware genotypers||
-|Low-coverage contamination estimation||
-|Low-coverage adapted population-genetics tools||
-|aDNA preprocessing||
-|aDNA aligner||
-|aDNA assembler||
-|aDNA toolkit||
+|Ceramic analysis||
 
 
 ## Categories
