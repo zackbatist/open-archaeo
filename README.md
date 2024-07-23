@@ -85,13 +85,20 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
 * **ABM tutorials**: A collection of tutorial on agent-based modelling for archaeologists.
   * by: izaromanowska
   * links: [GitHub](https://github.com/izaromanowska/ABM_tutorials)
-  * tags: [Educational resources and practical guides]
+  * tags: [Educational resources and practical guides] and [Simulation]
   
 ----
 
 * **ABMA**: Code repository and website for Agent-Based Modeling for Archaeology.
   * by: SantaFeInstitute
-  * links: [GitHub](https://github.com/SantaFeInstitute/ABMA)           [Website](https://abmarchaeologists.github.io/ABMA_website/)
+  * links: [GitHub](https://github.com/SantaFeInstitute/ABMA)
+  * tags: [Educational resources and practical guides] and [Simulation]
+  
+----
+
+* **ABMA_tutorials**: A set of interactive tutorials to build agent-based models and how to use them in your work as archaeologist. These tutorials are both suitable for beginners and people who want to brush up their modelling skills.
+  * by: ABMArchaeologists, RonaldVisser and drocks13
+  * links: [GitHub](https://github.com/ABMArchaeologists/ABMA_tutorials)           [Website](https://abmarchaeologists.github.io/ABMA_website/)
   * tags: [Educational resources and practical guides] and [Simulation]
   
 ----
