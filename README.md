@@ -86,7 +86,14 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: SantaFeInstitute
   * links: [GitHub](https://github.com/SantaFeInstitute/ABMA)
   * tags: [Educational resources and practical guides] and [Simulation]
-  
+
+----
+
+* **ABMArchaeologists**: code repository, tutorials and website for Agent-Based Modeling for Archaeologist.
+  * by Doug Rocks-Macqueen, Laura van der Knaap, Annemarie Jutte, , Ronald Visser, Jeroen Linssen, Tom Brughmans, Iza Romanowska, Kenneth Aitchison, Karsten Lambers, 
+  * links: [GitHub](https://github.com/ABMArchaeologists)  [Website](https://abmarchaeologists.github.io/ABMA_website/)
+  * tags: [Educational resources and practical guides] and [Simulation]
+    
 ----
 
 * **ADMUR**: Tools to directly model underlying population dynamics using chronological datasets (radiocarbon and other) with a variety of models, including Continuous Piecewise Linear (CPL) model framework, and model comparison framework using BIC. Package also calibrates 14C samples, and generates Summed Probability Distributions (SPD). CPL modelling directly estimates the most likely population trajectory given a dataset, using SPD simulation analysis to generate a Goodness-of-fit test for the best selected model.
@@ -2312,6 +2319,11 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: renderpci
   * links: [GitHub](https://github.com/renderpci/dedalo)
   * tags: [Data management]
+ 
+* **dendroNetwork**: The R-package to make network analyses of dendrochronological data accessible for researchers. DendroNetwork enables researchers to easily construct a network of dendrochronological series based on the similarity and find patterns of matching tree-ring material. The detection of patterns is assisted by the easy application of community detection and subsequent (automated) visualization using Cytoscape, enabling dendrochronologists and other researchers to apply networks analyses to understand patterns of similarity between tree-ring series.
+  * by: Ronald Visser
+  * links: [GitHub](https://github.com/ropensci/dendroNetwork/)  
+  * tags: [Dendrochronology] and [Chronological modelling]
   
 ----
 
