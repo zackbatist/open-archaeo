@@ -145,6 +145,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **ARQUB**: Scripts at the ARQUB group to work with compositional data on archaeometric studies.
+  * by: jbuxeda
+  * links: [GitHub](https://github.com/jbuxeda/ARQUB)
+  * tags: [Statistical analysis]
+  
+----
+
 * **ARchaeology**: View the AR models on your phone.
   * by: lili0824
   * links: [GitHub](https://github.com/lili0824/ARchaeology)
@@ -614,6 +621,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **Curso_Intro_R_Arqueologia**: Introductory course to R for archaeologists (Spanish).
+  * by: Mcotsar
+  * links: [GitHub](https://github.com/Mcotsar/Curso_Intro_R_Arqueologia)
+  * tags: [Educational resources and practical guides]
+  
+----
+
 * **DACORD**: Computer-Assisted Drawing of Archaeological Pottery.
   * by: jwilczek-dotcom
   * links: [GitHub](https://github.com/jwilczek-dotcom/DACORD)
@@ -653,6 +667,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: Archaeology Data Service
   * links: [Blog Post](https://archaeologydataservice.ac.uk/blog/2021/03/archiving-day-of-archaeology-2011-2017/)     [DOI](https://doi.org/10.5284/1048331)
   * tags: [Public archaeology]
+  
+----
+
+* **Dendro_R**: Small repository that lists R packages used in dendrochronology or tree-ring research.
+  * by: RonaldVisser
+  * links: [GitHub](https://github.com/RonaldVisser/Dendro_R)           [Website](https://ronaldvisser.github.io/Dendro_R/)
+  * tags: [Dendrochronology] and [Lists]
   
 ----
 
@@ -992,6 +1013,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **Mycenaean Atlas Project**: The purpose of the Mycenaean Atlas is to furnish accurate lat/lon pairs for Bronze Age sites in the central and eastern Mediterranean.
+  * by: Robert Consoli
+  * links: [Website](http://helladic.info/)
+  * tags: [Lists]
+  
+----
+
 * **NAA analytical dashboard**: Analytical Dashboard for conducting various analysis to group and assess groupings for Neutron Activation Analytical chemical compositional data
   * by: mpeeples2008
   * links: [GitHub](https://github.com/mpeeples2008/A_analytical_dashboard)           [Website](http://nsls-ii.github.io/PyXRF/)
@@ -1209,6 +1237,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **RJradiocarbon**: Radiocarbon calibration of multiple 14C samples using reversible jump poisson process.
+  * by: sara-amira-alassam
+  * links: [GitHub](https://github.com/sara-amira-alassam/RJradiocarbon)
+  * tags: [Radiocarbon dating, calibration and sequencing]
+  
+----
+
 * **RLumModel**: Solving Ordinary Differential Equations to Understand Luminescence
   * by: R-Lum
   * links: [GitHub](https://github.com/R-Lum/RLumModel)
@@ -1304,6 +1339,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: cconsta1
   * links: [GitHub](https://github.com/cconsta1/SexEst)
   * tags: [Biological anthropology] and [Shape recognition]
+  
+----
+
+* **SiteSyncro**: Site-specific chronological modeling and synchronization.
+  * by: demjanp
+  * links: [GitHub](https://github.com/demjanp/SiteSyncro)           [Website](https://sitesyncro.readthedocs.io/en/latest/)
+  * tags: [Chronological modelling] and [Radiocarbon dating, calibration and sequencing]
   
 ----
 
@@ -1755,6 +1797,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **baorista**: Provides a Bayesian inferential tool for analysing time-frequencies of archaeological events associated with time spans typically obtained from relative chronological sequences (e.g. periods and phases).
+  * by: ercrema
+  * links: [GitHub](https://github.com/ercrema/baorista)
+  * tags: [Chronological modelling] and [Data management]
+  
+----
+
 * **baydem**: Bayesian tools for reconstructing past demography.
   * by: MichaelHoltonPrice and bocinsky
   * links: [GitHub](https://github.com/eehh-stanford/baydem)           [Website](https://eehh-stanford.github.io/baydem/)
@@ -1874,6 +1923,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **carbondate**: R package to analyse multiple radiocarbon determinations.
+  * by: TJHeaton and sara-amira-alassam
+  * links: [GitHub](https://github.com/TJHeaton/carbondate)        [CRAN](https://cloud.r-project.org/web/packages/carbondate/index.html)   [Website](https://tjheaton.github.io/carbondate/)
+  * tags: [Radiocarbon dating, calibration and sequencing]
+  
+----
+
 * **caribbean-14C**: A compilation of anthropogenic radiocarbon dates for the Caribbean region.
   * by: philriris
   * links: [GitHub](https://github.com/philriris/caribbean-14C)
@@ -1920,6 +1976,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: XLabCU
   * links: [GitHub](https://github.com/XLabCU/chi-field-manual)           [Website](https://xlabcu.github.io/chi-field-manual)
   * tags: [Educational resources and practical guides] and [Statistical analysis]
+  
+----
+
+* **chrongler**: Provides convenience functions that are helpful for working with archaeological or historical data, where chronological information is stored as a period.
+  * by: lsteinmann
+  * links: [GitHub](https://github.com/lsteinmann/chrongler)
+  * tags: [Chronological modelling] and [Data management]
   
 ----
 
@@ -1997,6 +2060,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: pr0m1th3as
   * links: [GitHub](https://github.com/pr0m1th3as/cranial-sex-estimation-code)
   * tags: [Biological anthropology] and [Zooarchaeology]
+  
+----
+
+* **crom**: Python library to make creation of CIDOC CRM easier by mapping classes/predicates to python objects.
+  * by: thegetty
+  * links: [GitHub](https://github.com/thegetty/crom)
+  * tags: [Schemas and ontologies]
   
 ----
 
@@ -2343,6 +2413,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **kart4arch**: Tutorial to drive step by step any practitioner interested in learning how to use Kart.
+  * by: UnitoAssyrianGovernance, andreatitolo and apalmisano82
+  * links: [GitHub](https://github.com/UnitoAssyrianGovernance/kart4arch)           [Website](https://unitoassyriangovernance.github.io/kart4arch/)
+  * tags: [Data management] and [Educational resources and practical guides]
+  
+----
+
 * **katun**: Tools for converting between Maya and Western calendars.
   * by: jgregoriods
   * links: [GitHub](https://github.com/jgregoriods/katun)           [Website](https://jgregoriods.github.io/katun/)
@@ -2417,6 +2494,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: aejolene
   * links: [GitHub](https://github.com/aejolene/maacgis)           [Website](https://aejolene.github.io/maacgis/)
   * tags: [Public policy and civic action]
+  
+----
+
+* **mafa**: Computes morphological indices of spatial entities (e.g. parcels, buildings).
+  * by: JGravier
+  * links: [GitHub](https://github.com/JGravier/mafa)           [Website](https://jgravier.github.io/mafa/)
+  * tags: [Spatial analysis]
   
 ----
 
@@ -2864,6 +2948,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
 * **quantatools**: Finding quantum in archaeological data using cosine quantogram and related statistical methods.
   * by: maciejkasinski
   * links: [GitHub](https://github.com/maciejkasinski/quantatools)            [DOI](https://doi.org/10.5281/zenodo.2566606.svg)
+  * tags: [Statistical analysis]
+  
+----
+
+* **quantum-archeo**: Set of quantitative tools for finding a common measurement unit (quantum) in archeological research.
+  * by: maciejkasinski
+  * links: [GitHub](https://github.com/maciejkasinski/quantum-archeo)
   * tags: [Statistical analysis]
   
 ----
