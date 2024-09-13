@@ -250,6 +250,13 @@
   
 ----
 
+* **ArchaeoMag**: Program for the modelling of magnetic anomalies in archaeological research.
+  * by: antonio-schettino
+  * links: [GitHub](https://github.com/antonio-schettino/ArchaeoMag)
+  * tags: [Geophysical survey]
+  
+----
+
 * **ArchaeoPhases**: Tools for the post-processing of the Markov Chain simulated by any software used for the construction of archeological chronologies.
   * by: ArchaeoStat
   * links: [GitHub](https://github.com/ArchaeoStat/ArchaeoPhases)
@@ -1349,6 +1356,13 @@
   
 ----
 
+* **SurveyeR**: Uses a Dirichlet process to probabilistically assess the phase of undated archaeological assemblages.
+  * by: acortell3
+  * links: [GitHub](https://github.com/acortell3/SurveyeR)
+  * tags: [Seriation]
+  
+----
+
 * **Sériation de matrice en présence/absence**: Excel file containing macro commands making it possible to transform a 1/0 table (presence / absence) into a graphic matrix treated by matrix permutations; it is possible to take into account the uncertain presence of a character. The instructions for use are contained in the file.
   * by: Bruno Desachy
   * links: [Website](https://abp.hypotheses.org/le-programme-bassin-parisien/les-projets/les-projets-associes-au-programme/outils-danalyse-graphique-des-donnees)
@@ -1853,6 +1867,13 @@
   
 ----
 
+* **c14Intervals**: R package for calculating probability intervals and point estimates for calibrated radiocarbon dates.
+  * by: jallison7
+  * links: [GitHub](https://github.com/jallison7/c14Intervals)
+  * tags: [Radiocarbon dating, calibration and sequencing]
+  
+----
+
 * **c14bazAAR**: R package to query different openly accessible radiocarbon date databases, allowing for basic data cleaning, calibration and merging
   * by: ISAAKiel
   * links: [GitHub](https://github.com/ropensci/c14bazAAR)
@@ -2042,6 +2063,13 @@
   
 ----
 
+* **cran-JSDNE**: JSDNE is an age estimation methods with 3D reconstructed auricular surface.
+  * by: jisunjang19
+  * links: [GitHub](https://github.com/jisunjang19/cran-JSDNE)        [CRAN](https://cran.r-project.org/web/packages/JSDNE/index.html)
+  * tags: 
+  
+----
+
 * **cranial-sex-estimation-code**: Data analysis implementation for evaluating a novel sex estimation method based on skullanalyzer data.
   * by: pr0m1th3as
   * links: [GitHub](https://github.com/pr0m1th3as/cranial-sex-estimation-code)
@@ -2165,6 +2193,13 @@
   * by: joeroe
   * links: [GitHub](https://github.com/joeroe/era)        [CRAN](https://CRAN.R-project.org/package=era)   [Website](https://era.joeroe.io/)
   * tags: [Schemas and ontologies]
+  
+----
+
+* **eratosthenes**: Provides a coherent foundation for archaeological chronology-building by incorporating, computationally, all relevant sources of information on uncertain archaeological or historical dates.
+  * by: scollinselliott
+  * links: [GitHub](https://github.com/scollinselliott/eratosthenes)
+  * tags: [Chronological modelling]
   
 ----
 
@@ -2441,6 +2476,13 @@
   
 ----
 
+* **lakhesis**: Provides an interactive platform and critical measures for seriating binary data matrices through the exploration, selection, and consensus of partially seriated sequences.
+  * by: scollinselliott
+  * links: [GitHub](https://github.com/scollinselliott/lakhesis)        [CRAN](https://cran.r-project.org/web/packages/lakhesis/index.html)
+  * tags: [Statistical analysis]
+  
+----
+
 * **leastcostpath**: Provides the functionality to calculate Least Cost Paths (LCPs) which are often, but not exclusively, used in archaeological research. This package can be used to apply multiple cost functions when approximating the difficulty of moving across a landscape, as well as taking into account traversing across slope and other costs such as landscape features. This package also provides functionality to validate the accuracy of the computed LCP relative to another path.
   * by: josephlewis
   * links: [GitHub](https://github.com/josephlewis/leastcostpath)
@@ -2606,6 +2648,13 @@
   * by: nevrome and dirkseidensticker
   * links: [GitHub](https://github.com/nevrome/neolithicR)           [Website](https://www.neolithicrc.de)
   * tags: 
+  
+----
+
+* **neonet**: NeoNet serves as a framework to study the transition from the Late Mesolithic to the Early Neolithic through spatio-temporal modeling of radiocarbon dates
+  * by: zoometh
+  * links: [GitHub](https://github.com/zoometh/neonet)
+  * tags: [Radiocarbon dating, calibration and sequencing]
   
 ----
 
@@ -3334,6 +3383,13 @@
   * by: scollinselliott
   * links: [GitHub](https://github.com/scollinselliott/synthkat)
   * tags: [Shape recognition]
+  
+----
+
+* **synthkat**: Construct flexible, synthetic categories of established ceramic and glass vessel classifications and typologies.
+  * by: scollinselliott
+  * links: [GitHub](https://github.com/scollinselliott/synthkat)
+  * tags: 
   
 ----
 
