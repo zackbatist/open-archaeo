@@ -3386,13 +3386,6 @@
   
 ----
 
-* **synthkat**: Construct flexible, synthetic categories of established ceramic and glass vessel classifications and typologies.
-  * by: scollinselliott
-  * links: [GitHub](https://github.com/scollinselliott/synthkat)
-  * tags: 
-  
-----
-
 * **tRauma**: Interactive graphical user interface to aid in the interpretation of blunt-force rib trauma in forensic anthropology casework.
   * by: ElaineYChu
   * links: [GitHub](https://github.com/ElaineYChu/tRauma)
