@@ -2266,13 +2266,6 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
-* **eratosthenes**: Provides a coherent foundation for archaeological chronology-building by incorporating, computationally, all relevant sources of information on uncertain archaeological or historical dates.
-  * by: scollinselliott
-  * links: [GitHub](https://github.com/scollinselliott/eratosthenes)        [CRAN](https://cran.r-project.org/web/packages/eratosthenes/index.html)    [DOI](https://doi.org/10.32614/CRAN.package.eratosthenes)
-  * tags: [Chronological modelling] and [Data management]
-  
-----
-
 * **ethnobotanyR**: R package for calculating quantitative ethnobotany indices.
   * by: CWWhitney
   * links: [GitHub](https://github.com/CWWhitney/ethnobotanyR)           [Website](http://htmlpreview.github.io/?https://github.com/CWWhitney/ethnobotanyR/blob/master/vignettes/ethnobotanyr_vignette.html)
