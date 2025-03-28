@@ -1706,13 +1706,6 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
-* **archaeology-machine-learning**: A collection of resources relating to the application of ML methods to archaeological data.
-  * by: lakillo
-  * links: [GitHub](https://github.com/lakillo/archaeology-machine-learning)            [DOI](https://doi.org/10.5281/zenodo.13220872)
-  * tags: [Lists] and [Machine learning]
-  
-----
-
 * **archaeology-object-data-collector-app**: archaeology-object-data-collector-app
   * by: anatolian
   * links: [GitHub](https://github.com/anatolian/archaeology-object-data-collector-app)
