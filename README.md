@@ -320,6 +320,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **ArcheOS-software-list**: A collection of open-source software and digital tools for archaeology.
+  * by: lucaarcteam
+  * links: [GitHub](https://github.com/lucaarcteam/ArcheOS-software-list)
+  * tags: [Lists]
+  
+----
+
 * **ArcheoShape**: Analysis tools for geometric models of archaeological pieces.
   * by: omendoza83
   * links: [GitHub](https://github.com/omendoza83/ArcheoShape)
@@ -394,6 +401,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: kacebe
   * links: [GitHub](https://github.com/kacebe/AtlantGIS)
   * tags: [Educational resources and practical guides]
+  
+----
+
+* **AutArch**: An AI-assisted workflow capable of creating uniform archaeological datasets from heterogeneous published resources.
+  * by: kevin-klein
+  * links: [GitHub](https://github.com/kevin-klein/AutArch)
+  * tags: [Machine learning] and [Data management]
   
 ----
 
@@ -1062,6 +1076,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **OA-Archaeology**: List of open access archaeology journals.
+  * by: AQueff
+  * links: [GitHub](https://github.com/AQueff/OA-Archaeology)
+  * tags: [Platforms and publications] and [Writing]
+  
+----
+
 * **ODATE**: An introduction to the issues, methods, and techniques of digital archaeology, integrated with working code and virtual computing environments or 'notebooks' written in Python or R.
   * by: o-date
   * links: [GitHub](https://github.com/o-date/draft)           [Website](https://o-date.github.io/)
@@ -1636,6 +1657,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **archaeological-fields-and-methods**: A curated collection of archaeological disciplines, methods, and techniques, along with key resources for learning, research, and tools.
+  * by: jonaschlegel
+  * links: [GitHub](https://github.com/jonaschlegel/archaeological-fields-and-methods)
+  * tags: [Lists]
+  
+----
+
 * **archaeological-object-sharing**: An online space for sharing data, 3d models, etc about archaeological objects to enable the comparison of these objects.
   * by: anatolian
   * links: [GitHub](https://github.com/anatolian/archaeological-object-sharing)
@@ -1674,6 +1702,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
 * **archaeology-machine-learning**: Machine learning techniques for archaeology.
   * by: lakillo
   * links: [GitHub](https://github.com/lakillo/archaeology-machine-learning)
+  * tags: [Lists] and [Machine learning]
+  
+----
+
+* **archaeology-machine-learning**: A collection of resources relating to the application of ML methods to archaeological data.
+  * by: lakillo
+  * links: [GitHub](https://github.com/lakillo/archaeology-machine-learning)            [DOI](https://doi.org/10.5281/zenodo.13220872)
   * tags: [Lists] and [Machine learning]
   
 ----
@@ -2077,6 +2112,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **course-guide**: Guide with practical exercises for the MA course Agent-based modelling for archaeologists: From concept to application and publication.
+  * by: CoDArchLab-ABM and Andros-Spica
+  * links: [GitHub](https://github.com/CoDArchLab-ABM/course-guide)           [Website](https://codarchlab-abm.github.io/course-guide/)
+  * tags: [Educational resources and practical guides] and [Simulation]
+  
+----
+
 * **cran-JSDNE**: JSDNE is an age estimation methods with 3D reconstructed auricular surface.
   * by: jisunjang19
   * links: [GitHub](https://github.com/jisunjang19/cran-JSDNE)        [CRAN](https://cran.r-project.org/web/packages/JSDNE/index.html)
@@ -2119,6 +2161,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **dateback**: A platform for the exploration and analysis of date palm archaeobotanical remains.
+  * by: Margot Besseiche
+  * links: [GitLab](https://forge.ird.fr/diade/besseiche/dateback)         [Website](https://cloudapps.france-bioinformatique.fr/dateback/)
+  * tags: [Palaeobotany]
+  
+----
+
 * **datplot**: Converting date ranges into dating 'steps' eases the visualization of changes in e.g. pottery consumption, style and other variables over time. This package provides tools to process and prepare data for visualization.
   * by: lsteinmann and Barbora Weissova
   * links: [GitHub](https://github.com/lsteinmann/datplot)
@@ -2158,6 +2207,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: ropensci and RonaldVisser
   * links: [GitHub](https://github.com/ropensci/dendroNetwork/)        [CRAN](https://cran.r-project.org/web/packages/dendroNetwork/index.html)   [Website](https://docs.ropensci.org/dendroNetwork/)
   * tags: [Dendrochronology] and [Chronological modelling]
+  
+----
+
+* **diamond**: A collection diamond open access archaeology journals.
+  * by: open-archaeo
+  * links: [GitHub](https://github.com/open-archaeo/diamond)           [Website](https://diamond.open-archaeo.info/) [DOI](https://doi.org/10.5281/zenodo.15026607)
+  * tags: [Platforms and publications] and [Writing]
   
 ----
 
@@ -2214,6 +2270,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: scollinselliott
   * links: [GitHub](https://github.com/scollinselliott/eratosthenes)
   * tags: [Chronological modelling]
+  
+----
+
+* **eratosthenes**: Provides a coherent foundation for archaeological chronology-building by incorporating, computationally, all relevant sources of information on uncertain archaeological or historical dates.
+  * by: scollinselliott
+  * links: [GitHub](https://github.com/scollinselliott/eratosthenes)        [CRAN](https://cran.r-project.org/web/packages/eratosthenes/index.html)    [DOI](https://doi.org/10.32614/CRAN.package.eratosthenes)
+  * tags: [Chronological modelling] and [Data management]
   
 ----
 
@@ -2291,6 +2354,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: Gerrit Bette and Moritz Mennenga
   * links: [GitHub](https://github.com/t-systems-on-site-services-gmbh/geoCore)           [Website](https://plugins.qgis.org/plugins/geoCore/) [DOI](https://doi.org/10.5281/zenodo.4548887)
   * tags: [Diagrams and visualizations]
+  
+----
+
+* **gia**: This course provides a basic introduction to the archaeological use of GIS, focusing on the techniques for spatial data collection, management, and visualization, as well as key analysis tools.
+  * by: BernCoDALab and MartinHinz
+  * links: [GitHub](https://github.com/BernCoDALab/gia)           [Website](https://berncodalab.github.io/gia/)
+  * tags: [Educational resources and practical guides] and [Spatial analysis]
   
 ----
 
@@ -2833,6 +2903,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   
 ----
 
+* **paleographic-networks**: Explore networks consisting of paleographic features connected by their co-occurrence on the same inscription.
+  * by: Eythan31
+  * links: [GitHub](https://github.com/Eythan31/paleographic-networks)
+  * tags: [Iconography]
+  
+----
+
 * **paleoxrf**: The goal of paleoxrf is to simplify reading data from Acadia's paleoenvironmental X-Ray Fluorescence laboratory
   * by: paleolimbot
   * links: [GitHub](https://github.com/paleolimbot/paleoxrf)
@@ -3341,6 +3418,13 @@ This readme and the [web interface](https://open-archaeo.info) are automatically
   * by: f-silva-archaeo
   * links: [GitHub](https://github.com/f-silva-archaeo/skyscapeR)
   * tags: 
+  
+----
+
+* **smada**: Course website for Statistical Methods for Archaeological Data Analysis.
+  * by: BernCoDALab and MartinHinz
+  * links: [GitHub](https://github.com/BernCoDALab/smada)           [Website](https://berncodalab.github.io/smada/)
+  * tags: [Educational resources and practical guides] and [Statistical analysis]
   
 ----
 
