@@ -1153,6 +1153,13 @@
   
 ----
 
+* **PhotoCaptionTool**: Automatically generates a photo log using photographs' exif data.
+  * by: Lugal-PCZ
+  * links: [GitHub](https://github.com/Lugal-PCZ/PhotoCaptionTool)
+  * tags: [Photography], [Data management] and [Bits and bobs]
+  
+----
+
 * **PleistoDist**: Distance matrices between islands normalised over Pleistocene time.
   * by: g33k5p34k
   * links: [GitHub](https://github.com/g33k5p34k/PleistoDist)
@@ -1356,6 +1363,13 @@
   
 ----
 
+* **ShootPoints-Web**: A set of programs for total station surveying.
+  * by: Lugal-PCZ
+  * links: [GitHub](https://github.com/Lugal-PCZ/ShootPoints-Web)      [YouTube](https://www.youtube.com/watch?v=kiFEff1Kne4)     [Website](http://shootpoints.io/)
+  * tags: [Site mapping] and [Data collection]
+  
+----
+
 * **SiteSyncro**: Site-specific chronological modeling and synchronization.
   * by: demjanp
   * links: [GitHub](https://github.com/demjanp/SiteSyncro)           [Website](https://sitesyncro.readthedocs.io/en/latest/)
@@ -1458,6 +1472,13 @@
   * by: kintigh
   * links: [Website](http://tfqa.com/)
   * tags: [Lists]
+  
+----
+
+* **Transect-Calculator**: A simple script that outputs the number of transects, direction of each transect, and locations of the first sensor, centerline, and last sensor along the baseline of a rectangular survey unit.
+  * by: Lugal-PCZ
+  * links: [GitHub](https://github.com/Lugal-PCZ/Transect-Calculator)
+  * tags: [Site mapping], [Geophysical survey] and [Bits and bobs]
   
 ----
 
@@ -1804,6 +1825,13 @@
   
 ----
 
+* **arqueologiaSVG**: Displays SVG files of archaeological sites.
+  * by: weberjavi
+  * links: [GitHub](https://github.com/weberjavi/arqueologiaSVG)
+  * tags: [Site mapping] and [Diagrams and visualizations]
+  
+----
+
 * **arshm-release**: Experimental mobile app demoing cultural heritage documentation tools in augmented reality. Supports capturing and annotating photos in 3D space. Proof-of-concept features in the app include image anchoring and surface drawing tools.
   * by: zacharyliu
   * links: [GitHub](https://github.com/zacharyliu/arshm-release)
@@ -1958,6 +1986,13 @@
   
 ----
 
+* **carbonara_poc**: A proof of concept for a potential bayesian sequential calibration software.
+  * by: MartinHinz
+  * links: [GitHub](https://github.com/MartinHinz/carbonara_poc)
+  * tags: [Chronological modelling] and [Radiocarbon dating, calibration and sequencing]
+  
+----
+
 * **carbondate**: R package to analyse multiple radiocarbon determinations.
   * by: TJHeaton and sara-amira-alassam
   * links: [GitHub](https://github.com/TJHeaton/carbondate)        [CRAN](https://cloud.r-project.org/web/packages/carbondate/index.html)   [Website](https://tjheaton.github.io/carbondate/)
@@ -2031,6 +2066,13 @@
 * **chronochrt**: Building chronological charts easily with R.
   * by: roset
   * links: [GitLab](https://gitlab.com/roset/chronochrt)      [CRAN](https://cran.r-project.org/web/packages/chronochrt/index.html)
+  * tags: [Chronological modelling]
+  
+----
+
+* **chronologr**: R package for chronological graph modelling (port of ChronoLog).
+  * by: joeroe
+  * links: [GitHub](https://github.com/joeroe/chronologr)
   * tags: [Chronological modelling]
   
 ----
@@ -3323,20 +3365,6 @@
   
 ----
 
-* **shootpoints-web-api**: Back-end and middleware for the ShootPoints Web total station surveying program.
-  * by: Lugal-PCZ
-  * links: [GitHub](https://github.com/Lugal-PCZ/shootpoints-web-api)
-  * tags: [Site mapping]
-  
-----
-
-* **shootpoints-web-frontend**: User interface to the ShootPoints Web total station surveying program.
-  * by: Lugal-PCZ
-  * links: [GitHub](https://github.com/Lugal-PCZ/shootpoints-web-frontend)
-  * tags: [Site mapping] and [Data collection]
-  
-----
-
 * **shoredate**: Offers methods to shoreline date Stone Age sites located along the Norwegian Skagerrak coast based on their present-day elevation and the trajectory of past relative sea-level change.
   * by: isakro
   * links: [GitHub](https://github.com/isakro/shoredate)        [CRAN](https://cran.r-project.org/web/packages/shoredate/index.html)
@@ -3495,6 +3523,13 @@
   * by: bbartholdy
   * links: [GitHub](https://github.com/bbartholdy/teethr)
   * tags: [Zooarchaeology]
+  
+----
+
+* **tempo**: Provides a formal representation of intervals between two points in time (periods) and the potential logical relations between them.
+  * by: joeroe
+  * links: [GitHub](https://github.com/joeroe/tempo)
+  * tags: [Chronological modelling]
   
 ----
 
