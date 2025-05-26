@@ -21,24 +21,13 @@
     },
     "Rcpp": {
       "Package": "Rcpp",
-      "Version": "1.0.11",
-      "Source": "Repository",
-      "Repository": "RSPM",
-      "Requirements": [
-        "methods",
-        "utils"
-      ],
-      "Hash": "ae6cbbe1492f4de79c45fce06f967ce8"
+      "Version": "1.0.14",
+      "Source": "Repository"
     },
     "bit": {
       "Package": "bit",
-      "Version": "4.0.5",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R"
-      ],
-      "Hash": "d242abec29412ce988848d0294b208fd"
+      "Version": "4.6.0",
+      "Source": "Repository"
     },
     "bit64": {
       "Package": "bit64",
@@ -335,27 +324,13 @@
     },
     "rlang": {
       "Package": "rlang",
-      "Version": "1.1.2",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "utils"
-      ],
-      "Hash": "50a6dbdc522936ca35afc5e2082ea91b"
+      "Version": "1.1.6",
+      "Source": "Repository"
     },
     "stringi": {
       "Package": "stringi",
-      "Version": "1.8.2",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "stats",
-        "tools",
-        "utils"
-      ],
-      "Hash": "e68c45f81639001af5f1b15cd3599bbd"
+      "Version": "1.8.7",
+      "Source": "Repository"
     },
     "stringr": {
       "Package": "stringr",
