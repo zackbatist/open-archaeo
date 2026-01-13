@@ -58,9 +58,9 @@ Statistical analysis|Identification and analysis of quantitative distribution pa
 |Stable isotope analysis|The identification of isotopic signatures relative abundance of chemical elements within organic and inorganic compounds to understand the flow of energy through a food web and to reconstruct past environmental and climatic conditions.|
 |Network analysis|Process of investigating social structures through the use of networks and graph theory.|
 |Geoarchaeology|Application of geology and earth science methods.|
-|Machine learning||
-|Palaeoclimate modelling||
-|Ceramic analysis||
+|Machine learning|Use of algorithms and statistical models that learn and adapt without following explicit instructions to analyze and draw inferences from patterns in data.|
+|Palaeoclimate modelling|Simulation of Earth's past climates predating the instrumental record.|
+|Ceramic analysis|Identification and analysis of ceramic artefacts.|
 
 
 ## Categories
