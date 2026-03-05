@@ -61,7 +61,7 @@ Statistical analysis|Identification and analysis of quantitative distribution pa
 |Machine learning|Use of algorithms and statistical models that learn and adapt without following explicit instructions to analyze and draw inferences from patterns in data.|
 |Palaeoclimate modelling|Simulation of Earth's past climates predating the instrumental record.|
 |Ceramic analysis|Identification and analysis of ceramic artefacts.|
-
+|Textile archaeology|Identification and analysis of textiles.|
 
 ## Categories
 
