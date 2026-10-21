@@ -3,11 +3,11 @@ Tags and categories used in open-archaeo. This list is subject to evolve over ti
 ## Tags
 |Tag|Scope|
 |:--|:----|
-Statistical analysis|Identification and analysis of quantitative distribution patterns.|
+|Statistical analysis|Identification and analysis of quantitative distribution patterns.|
 |Spatial analysis|Identification and analysis of patterns relating to spatial distributions or relationships.|
 |Viewshed analysis|Techniques for considering localized spatial perspectives of landscapes.|
 |Site mapping|Techniques for illustrating archaeological sites.|
-|Harrix matrix|Representation of archaeological sites as series of connected abstract entities.|
+|Harris matrix|Representation of archaeological sites as series of connected abstract entities.|
 |Chronological modelling|Identification and analysis of patterns relating to the distribution of events or timespans.|
 |Seriation|Technique for identifying chronological sequences based on the ordered properties of archaeological assemblages.|
 |Zooarchaeology|Techniques used to identify and analyze faunal remains.|
