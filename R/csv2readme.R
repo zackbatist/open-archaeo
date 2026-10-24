@@ -4,48 +4,19 @@ library(readr)
 x <- readr::read_csv("open-archaeo.csv")
 x <- arrange(x, item_name)
 
-# concatenate authors
-x$author_list1 <- ifelse(!is.na(x$author1_name) &
-                           is.na(x$author2_name) &
-                           is.na(x$author3_name) &
-                           is.na(x$author4_name) &
-                           is.na(x$author5_name),
-                         paste(x$author1_name),
-                         NA)
+# Helper to format a vector of strings in English list format: "A", "A and B", "A, B and C"
+format_and_list <- function(items) {
+  items <- items[!is.na(items) & items != ""]
+  n <- length(items)
+  if (n == 0) return("")
+  if (n == 1) return(items[1])
+  if (n == 2) return(paste(items[1], "and", items[2]))
+  paste0(paste(items[1:(n - 1)], collapse = ", "), " and ", items[n])
+}
 
-x$author_list2 <- ifelse(!is.na(x$author1_name) &
-                           !is.na(x$author2_name) &
-                           is.na(x$author3_name) &
-                           is.na(x$author4_name) &
-                           is.na(x$author5_name),
-                         paste(x$author1_name," and ",x$author2_name, sep = ""),
-                         NA)
-
-x$author_list3 <- ifelse(!is.na(x$author1_name) &
-                           !is.na(x$author2_name) &
-                           !is.na(x$author3_name) &
-                           is.na(x$author4_name) &
-                           is.na(x$author5_name),
-                         paste(x$author1_name,", ",x$author2_name," and ",x$author3_name, sep = ""),
-                         NA)
-
-x$author_list4 <- ifelse(!is.na(x$author1_name) &
-                           !is.na(x$author2_name) &
-                           !is.na(x$author3_name) &
-                           !is.na(x$author4_name) &
-                           is.na(x$author5_name),
-                         paste(x$author1_name,", ",x$author2_name,", ",x$author3_name," and ",x$author4_name, sep = ""),
-                         NA)
-
-x$author_list5 <- ifelse(!is.na(x$author1_name) &
-                           !is.na(x$author2_name) &
-                           !is.na(x$author3_name) &
-                           !is.na(x$author4_name) &
-                           !is.na(x$author5_name),
-                         paste(x$author1_name,", ",x$author2_name,", ",x$author3_name,", ",x$author4_name, " and ", x$author5_name, sep = ""),
-                         NA)
-
-x$author_list <- coalesce(x$author_list1, x$author_list2, x$author_list3, x$author_list4, x$author_list5)
+# concatenate authors dynamically
+author_cols <- grep("^author[0-9]+_name$", names(x), value = TRUE)
+x$author_list <- apply(as.data.frame(x[, author_cols]), 1, format_and_list)
 
 # concatenate links
 x$github <- paste("[GitHub](",x$github,")", sep = "")
@@ -78,69 +49,20 @@ x$website <- gsub("[Website](NA)",NA,x$website, fixed = TRUE)
 x$publication <- gsub("[Publication](NA)",NA,x$publication, fixed = TRUE)
 x$DOI <- gsub("[DOI](https://doi.org/NA)",NA,x$DOI, fixed = TRUE)
 
-
-x$link_list <- paste(x$github, x$gist, x$gitlab, x$bitbucket, x$launchpad, x$twitter, x$youtube, x$blogpost, x$cran, x$pypi, x$codeberg, x$website, x$DOI)
+x$link_list <- paste(x$github, x$gist, x$gitlab, x$bitbucket, x$launchpad, x$twitter, x$youtube, x$blogpost, x$cran, x$pypi, x$codeberg, x$website, x$publication, x$DOI)
 x$link_list <- gsub("NA","",x$link_list,fixed = TRUE)
 x$link_list <- gsub(")][[",")] | [[",x$link_list,fixed = TRUE)
 x$link_list <- trimws(x$link_list)
 
-# concatenate tags
-x$tag1 <- paste("[",x$tag1,"]", sep = "")
-x$tag2 <- paste("[",x$tag2,"]", sep = "")
-x$tag3 <- paste("[",x$tag3,"]", sep = "")
-x$tag4 <- paste("[",x$tag4,"]", sep = "")
-x$tag5 <- paste("[",x$tag5,"]", sep = "")
+# concatenate tags dynamically
+format_tag_list <- function(tags) {
+  tags <- tags[!is.na(tags) & tags != ""]
+  if (length(tags) == 0) return("")
+  format_and_list(paste0("[", tags, "]"))
+}
 
-x$tag1 <- gsub("[NA]",NA,x$tag1)
-x$tag2 <- gsub("[NA]",NA,x$tag2)
-x$tag3 <- gsub("[NA]",NA,x$tag3)
-x$tag4 <- gsub("[NA]",NA,x$tag4)
-x$tag5 <- gsub("[NA]",NA,x$tag5)
-
-
-x$tag_list1 <- ifelse(!is.na(x$tag1) &
-                        is.na(x$tag2) &
-                        is.na(x$tag3) &
-                        is.na(x$tag4) &
-                        is.na(x$tag5),
-                      paste(x$tag1),
-                      NA)
-
-x$tag_list2 <- ifelse(!is.na(x$tag1) &
-                        !is.na(x$tag2) &
-                        is.na(x$tag3) &
-                        is.na(x$tag4) &
-                        is.na(x$tag5),
-                      paste(x$tag1," and ",x$tag2, sep = ""),
-                      NA)
-
-x$tag_list3 <- ifelse(!is.na(x$tag1) &
-                        !is.na(x$tag2) &
-                        !is.na(x$tag3) &
-                        is.na(x$tag4) &
-                        is.na(x$tag5),
-                      paste(x$tag1,", ",x$tag2," and ",x$tag3, sep = ""),
-                      NA)
-
-x$tag_list4 <- ifelse(!is.na(x$tag1) &
-                        !is.na(x$tag2) &
-                        !is.na(x$tag3) &
-                        !is.na(x$tag4) &
-                        is.na(x$tag5),
-                      paste(x$tag1,", ",x$tag2,", ",x$tag3," and ",x$tag4, sep = ""),
-                      NA)
-
-x$tag_list5 <- ifelse(!is.na(x$tag1) &
-                        !is.na(x$tag2) &
-                        !is.na(x$tag3) &
-                        !is.na(x$tag4) &
-                        !is.na(x$tag5),
-                      paste(x$tag1,", ",x$tag2,", ",x$tag3,", ",x$tag4, " and ", x$tag5, sep = ""),
-                      NA)
-
-x$tag_list <- coalesce(x$tag_list1, x$tag_list2, x$tag_list3, x$tag_list4, x$tag_list5)
-
-x$tag_list[is.na(x$tag_list)] = ""
+tag_cols <- grep("^tag[0-9]+$", names(x), value = TRUE)
+x$tag_list <- apply(as.data.frame(x[, tag_cols]), 1, format_tag_list)
 
 # put it all together
 z <- glue("

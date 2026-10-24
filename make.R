@@ -35,9 +35,8 @@ open_archaeo %>%
       Website = website,
       Publication = publication
     ))),
-    authors = list(cnotna(author1_name, author2_name, author3_name, 
-                          author4_name, author5_name)),
-    tags = list(cnotna(tag1, tag2, tag3, tag4, tag5))
+    authors = list(cnotna(c_across(starts_with("author")))),
+    tags = list(cnotna(c_across(starts_with("tag"))))
   ) %>% 
   ungroup() %>%
   select(slug, item_name, description, links, authors, categories = category,
